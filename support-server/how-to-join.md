@@ -2,6 +2,10 @@
 
 Join the duckhunt support server at: [https://discord.gg/8WdXaZG](https://discord.gg/8WdXaZG)\*\*\*\*
 
+{% hint style="danger" %}
+### **IMPORTANT; Rules in the duckhunt support server:**
+{% endhint %}
+
 ### **IMPORTANT; Rules in the duckhunt support server:**
 
 **We abide by the standard discord rules. please refer to** [**http://discordapp.com/guidelines**](http://discordapp.com/guidelines) **for those.**
