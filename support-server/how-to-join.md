@@ -15,7 +15,10 @@ Additionally, the following rules apply:
 3. Avoid pinging multiple people. If you ping @Moderators, you must have a good reason to do so. 
 4. Any questionnable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
 5. Nicknames must not contain offensive languages, or special characters to appear at the top of the list. Please try to make yourself easily mentionnable if you request support.
-6. 
+6. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead
+7. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
+8. When requesting support, please try to show your research, what you tried and what you want exactly.
+
 {% hint style="warning" %}
 Remember, the mods and admins are always right. If they tell you that something is not allowed, don't complain.
 {% endhint %}
