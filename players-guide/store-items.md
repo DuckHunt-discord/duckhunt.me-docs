@@ -1,5 +1,7 @@
 # Shop items
 
+Here will be a quick paragraph on how to use the shop command.
+
 | ID | Name | Cost\(XP\) | Description |
 | :--- | :--- | :--- | :--- |
 | 1 | Bullet | 7 | Adds a bullet to your clip |
