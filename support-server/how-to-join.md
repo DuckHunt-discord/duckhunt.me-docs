@@ -28,7 +28,7 @@ Remember, the mods and admins are always right. If they tell you that something 
 We are open about how we moderate the server. A full, uncensored moderation log \(that contains every action a moderator may do on the server\), is viewable by anybody on the \#mod-log channel or on the [GetBeaned web interface](https://getbeaned.me/guilds/195260081036591104).
 
 {% hint style="info" %}
-If you were acted on by the thresholds enforcer, the following paragraph don't apply to you. Please appeal directly to Eyesofcreeper\#0001.
+If you were acted on by the thresholds enforcer, the following paragraph don't apply to you. Please appeal directly to **Eyesofcreeper\#0001**.
 {% endhint %}
 
 If you feel you have be warned/kicked/muted/banned unfairly, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry. You might have to add the mod as a "friend" if you were banned. **Please be respectful at all times.**
