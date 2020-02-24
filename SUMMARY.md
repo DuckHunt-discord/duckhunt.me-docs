@@ -23,8 +23,8 @@
 
 * [How to join \(and rules\)](support-server/how-to-join.md)
 * [Useful commands](support-server/useful-commands.md)
+* [List of roles](support-server/list-of-roles.md)
 * [How to become a mod](support-server/how-to-become-a-mod.md)
-* [What is the meeeeeeh role](support-server/what-is-the-meeeeeeh-role.md)
 
 ## Support Server Lore
 
@@ -37,5 +37,6 @@
 * [Side Characters](support-server-lore/side-characters.md)
 * [Characters we killed off](support-server-lore/characters-we-killed-off.md)
 * [A list of all the Furrys in Eye's basement](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
+* [What is the meeeeeeh role](support-server-lore/what-is-the-meeeeeeh-role.md)
 * [Server events](support-server-lore/server-events.md)
 
