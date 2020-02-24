@@ -1,9 +1,9 @@
 # Types of ducks
 
-| Duck name | characteristics |
+| Duck name | Characteristics |
 | :--- | :--- |
-| Regular duck | just your basic duck with 1 hp and normally 10XP |
-| Baby duck | you must hug the baby! shooting will lose XP |
-| Super duck | a duck with more than 1 hp, a bit random how much, gives huge amounts of XP |
-| MOAD | mother of all ducks, spawns 2 ducks when killed |
+| Regular duck | Just your basic duck with 1 hp and normally 10XP |
+| Baby duck | You must hug the baby! shooting will lose XP |
+| Super duck | A duck with more than 1 hp, a bit random how much, gives huge amounts of XP |
+| MOAD | **M**other **o**f **a**ll **d**ucks, spawns 2 ducks when killed |
 

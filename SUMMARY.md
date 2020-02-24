@@ -14,8 +14,8 @@
 * [Player commands](players-guide/player-commands.md)
 * [Shop items](players-guide/store-items.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
-* [Tips](players-guide/tips.md)
-* [FAQ](players-guide/faq.md)
+* [Tips](help/tips.md)
+* [FAQ](help/faq.md)
 
 ## Support server
 
