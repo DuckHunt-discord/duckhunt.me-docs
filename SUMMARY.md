@@ -17,11 +17,12 @@
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
 * [How to contribute to the bot](how-to-contribute-to-the-bot.md)
+* [How to report a bug](how-to-report-a-bug.md)
 
 ## Support server
 
 * [How to join \(and rules\)](support-server/how-to-join.md)
-* [How to report a bug](support-server/how-to-report-a-bug.md)
+* [Useful commands](support-server/useful-commands.md)
 * [How to become a mod](support-server/how-to-become-a-mod.md)
 * [What is the meeeeeeh role](support-server/what-is-the-meeeeeeh-role.md)
 
@@ -36,6 +37,5 @@
 * [Side Characters](support-server-lore/side-characters.md)
 * [Characters we killed off](support-server-lore/characters-we-killed-off.md)
 * [A list of all the Furrys in Eye's basement](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
-* [Useful commands](support-server-lore/useful-commands.md)
 * [Server events](support-server-lore/server-events.md)
 
