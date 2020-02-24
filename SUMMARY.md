@@ -20,7 +20,7 @@
 
 ## Support server
 
-* [How to join](support-server/how-to-join.md)
+* [How to join \(and rules\)](support-server/how-to-join.md)
 * [How to report a bug](support-server/how-to-report-a-bug.md)
 * [How to become a mod](support-server/how-to-become-a-mod.md)
 * [What is the meeeeeeh role](support-server/what-is-the-meeeeeeh-role.md)
