@@ -10,14 +10,16 @@ We abide by the **standard discord rules**. Please refer to [https://discordapp.
 
 Additionally, the following rules apply:
 
-1. Don't post an invite link, or any other advertising, except on request from a moderator.
-2. Dont spam or disturb normal conversation flow.
-3. Avoid pinging multiple people. If you ping @Moderators, you must have a good reason to do so. 
-4. Any questionnable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
-5. Nicknames must not contain offensive languages, or special characters to appear at the top of the list. Please try to make yourself easily mentionnable if you request support.
-6. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead
-7. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
-8. When requesting support, please try to show your research, what you tried and what you want exactly.
+1. When requesting support, please try to show your research, what you tried and what you want exactly.
+2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
+3. Don't post an invite link, or any other advertising, except on request from a moderator.
+4. Dont spam or disturb normal conversation flow.
+5. Avoid pinging multiple people. If you ping @Moderators, you must have a good reason to do so. 
+6. Any questionnable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
+7. Nicknames must not contain offensive language, or special characters to appear at the top of the list. Please try to make yourself easily mentionnable if you request support.
+8. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead
+
+
 
 {% hint style="warning" %}
 Remember, the mods and admins are always right. If they tell you that something is not allowed, don't complain.
