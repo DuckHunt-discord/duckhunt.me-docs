@@ -14,7 +14,7 @@ Additionally, the following rules apply:
 2. Dont spam or disturb normal conversation flow.
 3. Avoid pinging multiple people. If you ping @Moderators, you must have a good reason to do so. 
 4. Any questionnable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
-5. Nicknames must not conatin offensive languages, or special characters to appear at the top of the list. Please try to make yourself easily mentionnable if you request support.
+5. Nicknames must not contain offensive languages, or special characters to appear at the top of the list. Please try to make yourself easily mentionnable if you request support.
 6. 
 {% hint style="warning" %}
 Remember, the mods and admins are always right. If they tell you that something is not allowed, don't complain.
