@@ -2,9 +2,3 @@
 
 Suspiciously empty there
 
-Olpouin, he likes FireFox 
-
-Taoshi, he likes Wumpus
-
-
-
