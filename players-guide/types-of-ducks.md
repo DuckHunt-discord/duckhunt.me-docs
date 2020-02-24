@@ -19,5 +19,11 @@ The regular duck is the duck you'll find the most frequently. It has only one HP
 
 ![Some regular ducks in their natural habitat. The messages are randomised for them.](../.gitbook/assets/2020-02-24.21-52-28.png)
 
+### The babies
 
+Babies aren't yet grown up, and so you shouldn't kill them to preserve later supplies of ducks. Show them some love with the `!hug` command instead.
+
+Babies have special emotes, so you can recognise them easily 
+
+![Some baby ducks in a discord channel. Don&apos;t kill them!](../.gitbook/assets/2020-02-24.21-55-37.png)
 
