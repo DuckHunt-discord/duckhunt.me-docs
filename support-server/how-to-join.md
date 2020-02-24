@@ -3,9 +3,9 @@
 Join the duckhunt support server at: [https://discord.gg/8WdXaZG](https://discord.gg/8WdXaZG)\*\*\*\*
 
 {% hint style="danger" %}
-### **Discord guidelines are enforced on the server**
+### **Discord guidelines are enforced on the server.**
 
-**We abide by the standard discord rules. Please refer to** [**https://discordapp.com/guidelines**](https://discordapp.com/guidelines) **for those.**
+We abide by the **standard discord rules**. Please refer to [https://discordapp.com/guidelines](https://discordapp.com/guidelines) for those.
 {% endhint %}
 
 Additionally, the following rules apply:
