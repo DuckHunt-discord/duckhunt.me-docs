@@ -36,5 +36,12 @@ I joined the server on 14/03/2018 and became a mod on 22/07/2018. The 4 and a ha
 
 Congratulations you are now a Moderator.
 
+**TL;DR**
 
+* Be active
+* Help out in the support channels
+* If possible, help out in other ways like translating the bot
+* Don't break any rules & build up your trust on the server
+* Learn everything there is to know about DuckHunt
+* Get yourself noticed by the higher-ups in a good way
 
