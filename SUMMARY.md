@@ -35,4 +35,5 @@
 * [Side Characters](support-server-lore/side-characters.md)
 * [Characters we killed off](support-server-lore/characters-we-killed-off.md)
 * [A list of all the Furrys in Eye's basement](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
+* [How to contribute to the bot](how-to-contribute-to-the-bot.md)
 
