@@ -19,8 +19,8 @@
 * [Types of ducks](players-guide/types-of-ducks.md)
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
-* [How to contribute to the bot](how-to-contribute-to-the-bot.md)
-* [How to report a bug](how-to-report-a-bug.md)
+* [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)
+* [How to report a bug](players-guide/how-to-report-a-bug.md)
 
 ## Support server
 

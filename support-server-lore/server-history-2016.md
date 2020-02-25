@@ -8,9 +8,9 @@ description: Stuff that happened in 2016.
 
     
 
-![Old DuckHunt server icon. This was also Eyesofcreeper&apos;s original profile picture.](../.gitbook/assets/20070956.png)
+![This was the first logo of the server, and also Eyesofcreeper\#0001 profile picture](../.gitbook/assets/duck_background.png)
 
-      The very first message, "!claimserver" in general was sent by Eyes on 6/22/2016. Olpouin was one of the first people in the server. I really hope someone who speaks French can write more about this part because I literally cant understand anything. 
+      The very first message, `!claimserver` in general was sent by Eyes on 6/22/2016. Olpouin was one of the first people in the server. I really hope someone who speaks French can write more about this part because I literally cant understand anything. 
 
       Outout\#4039 claims him and eyes had discovered Discord API and the bot system in a minecraft server called "Bukkit.fr", and began to learn python. Both of them were 16 at the time. Interesting enough, Almost directly below the first message is an invite to a Minecraft server. Stone duck \(PierrePV\) can be seen talking in the server, so it's assumed he was from there or something. 
 
@@ -22,7 +22,7 @@ Hey, I figured out if you copy and paste the date from discord, it looks like th
 
 ### 09/22/2016
 
-OVH deactivated the anti DDoS.  [http://travaux.ovh.net/?do=details&id=20421](http://travaux.ovh.net/?do=details&id=20421) This caused the bot to go down. OVH was one of europes top hosters. Eyes warned the bot may be taken down occasionally, and explained it was out of his control. 
+OVH deactivated the anti DDoS. [http://travaux.ovh.net/?do=details&id=20421](http://travaux.ovh.net/?do=details&id=20421) This caused the bot to go down. OVH was one of europes top hosters. Eyes warned the bot may be taken down occasionally, and explained it was out of his control. 
 
 ### 10/29/2016
 
