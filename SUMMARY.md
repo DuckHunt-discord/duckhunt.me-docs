@@ -40,3 +40,8 @@
 * [Meeeeeeeeh role](support-server-lore/what-is-the-meeeeeeh-role.md)
 * [Server events](support-server-lore/server-events.md)
 
+## The DuckHunt API
+
+* [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
+* [Performance metrics](the-duckhunt-api/performance-metrics.md)
+
