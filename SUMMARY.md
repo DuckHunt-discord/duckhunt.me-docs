@@ -15,7 +15,7 @@
 * [Shop items](players-guide/store-items.md)
 * [Events](players-guide/events.md)
 * [Levels and experience](players-guide/levels-and-experience.md)
-* [Achievments guide](players-guide/achievments-guide.md)
+* [Achievements guide](players-guide/achievments-guide.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
