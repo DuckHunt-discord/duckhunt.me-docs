@@ -4,7 +4,7 @@ description: nice party in there lol
 
 # A list of all the Furrys in Eyes' Attic
 
-![An eye witness admits his sinister secret. ](../.gitbook/assets/20200224_221135.jpg)
+![An eyewitness admits his sinister secret. ](../.gitbook/assets/20200224_221135.jpg)
 
 The following are confirmed furrys that are belived to be held against their will inside Eyes' attic. 
 
