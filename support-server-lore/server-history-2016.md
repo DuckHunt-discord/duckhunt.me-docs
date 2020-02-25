@@ -10,7 +10,7 @@ This recollection, especially of 2016, will be of notable events. They may be in
 
 The very first message, `!claimserver` in general was sent by Eyes on 6/22/2016. Olpouin was one of the first people in the server. I really hope someone who speaks French can write more about this part because I literally cant understand anything. 
 
- Outout\#4039 claims him and eyes had discovered Discord API and the bot system in a minecraft server called "Bukkit.fr", and began to learn python. Both of them were 16 at the time. Interesting enough, Almost directly below the first message is an invite to a Minecraft server. Stone duck \(PierrePV\) can be seen talking in the server, so it's assumed he was from there or something. 
+Outout\#4039 claims him and eyes had discovered Discord API and the bot system in a minecraft server called "Bukkit.fr", and began to learn python. Both of them were 16 at the time. Interesting enough, Almost directly below the first message is an invite to a Minecraft server. Stone duck \(PierrePV\) can be seen talking in the server, so it's assumed he was from there or something. 
 
 On 8/25, Eyes played with the Donald Trump bot. The bot was shot 3 times in \#game-all-time, and was removed on 7/2/17. The bot was used 23 times. 
 
