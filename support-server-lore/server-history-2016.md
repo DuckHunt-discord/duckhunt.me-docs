@@ -44,11 +44,13 @@ Eyes announces DuckHuntV2 is available for testing in \#tests, using DuckHunt-Be
 
 Harry Potter talks in the server :0 He is happy because he can speak French
 
-Not only does Harry Potter appear, but some interesting dialogue happens. It's in English so I can read it. Tomorrow is going to be the release of DuckHuntV2, and only 1 person has any hype. 
+Not only does Harry Potter appear, but some interesting dialogue happens. It's in English so I can read it. Tomorrow is going to be the release of DuckHuntV2, and only 1 person has any hype.   
+  
+\(nobody says anything about the update the next day. I can't read French, is it postponed?\)
 
 ### 11/17/2016
 
-Some people had their bot's break because of the migration. 
+Some people had their bots break because of the migration. LOL
 
 ### 11/19/2016
 
@@ -70,7 +72,13 @@ _fucks away_
 
 {% embed url="https://discordapp.com/channels/195260081036591104/195260081036591104/260902073770573824" caption="Savage." %}
 
-\_\_
+### 12/25/2016
+
+Eyes said :smiley: probably 20 times that day. No joke. [https://discordapp.com/channels/195260081036591104/195260081036591104/262629479711637504](https://discordapp.com/channels/195260081036591104/195260081036591104/262629479711637504)
+
+### 12/31/2016 
+
+Eyes broadcasted  " ![:fireworks:](https://discordapp.com/assets/be2863685453106bcaf150626e1c188a.svg) Bonneané — Happy New Year ![:fireworks:](https://discordapp.com/assets/be2863685453106bcaf150626e1c188a.svg)"
 
 
 
