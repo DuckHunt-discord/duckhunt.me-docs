@@ -14,9 +14,9 @@ Additionally, the following rules apply:
 2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
 3. Don't post an invite link, or any other advertising, except on request from a moderator.
 4. Dont spam or disturb normal conversation flow.
-5. Avoid pinging multiple people. If you ping @Moderators, you must have a good reason to do so. 
-6. Any questionnable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
-7. Nicknames must not contain offensive language, or special characters to appear at the top of the list. Please try to make yourself easily mentionnable if you request support.
+5. Avoid pinging multiple people. If you ping @Moderators, you **MUST** have a good reason to do so. 
+6. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
+7. Nicknames must not contain offensive language, or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
 8. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead
 
 
@@ -31,7 +31,7 @@ We are open about how we moderate the server. A full, uncensored moderation log 
 If you were acted on by the thresholds enforcer, the following paragraph don't apply to you. Please appeal directly to **Eyesofcreeper\#0001**.
 {% endhint %}
 
-If you feel you have be warned/kicked/muted/banned unfairly, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry. You might have to add the mod as a "friend" if you were banned. **Please be respectful at all times.**
+If you feel you have be warned/kicked/muted/banned unfairly, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry. You might have to add the mod as a "friend" if you were banned. Alternatively, you can join the [GetBeaned support](https://discord.gg/gT5pdgP) server and DM the mod that way. **Please be respectful at all times.**
 
   
 ****If you still can't agree with the responsible moderator, you may appeal to Eyesofcreeper\#0001, by creating a 3-way DM with the responsible moderator and Eyesofcreeper\#0001. We'll try to firure out a solution together.
