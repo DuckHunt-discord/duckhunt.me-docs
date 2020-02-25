@@ -10,7 +10,7 @@
 
 ## Players guide
 
-* [How to play with DuckHunt](players-guide/how-to-play-with-duckhunt.md)
+* [How to play DuckHunt](players-guide/how-to-play-with-duckhunt.md)
 * [Player commands](players-guide/player-commands.md)
 * [Shop items](players-guide/store-items.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
