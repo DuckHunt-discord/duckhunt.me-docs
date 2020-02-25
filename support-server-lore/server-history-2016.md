@@ -4,7 +4,7 @@ description: Stuff that happened in 2016.
 
 # Server History \(2016\)
 
-      This recollection, especially of 2016, will be of notable events. They may be insignificant, but the person who is writing this only speaks English. Links to direct messages will be used, so it is best to be in the support server to use them.   the server was mostly dead for the first 4 months, only gaining traction around the time the 2nd version of DuckHunt was being released. Diagamma had deleted all of their messages on the server, and they were one of the most active users. That sucks. A lot. The majority of this information comes from \#general. 
+This recollection, especially of 2016, will be of notable events. They may be insignificant, but the person who is writing this only speaks English. Links to direct messages will be used, so it is best to be in the support server to use them.   the server was mostly dead for the first 4 months, only gaining traction around the time the 2nd version of DuckHunt was being released. Diagamma had deleted all of their messages on the server, and they were one of the most active users. That sucks. A lot. The majority of this information comes from \#general. 
 
 ![This was the first logo of the server, and also Eyesofcreeper\#0001 profile picture](../.gitbook/assets/duck_background.png)
 
