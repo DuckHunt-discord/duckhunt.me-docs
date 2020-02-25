@@ -58,13 +58,13 @@ Ya know, Olpouin used to play the shit out of the bot.
 
 ### 12/15/2016
 
-This guy literally said the N-Word, then said   
-  
-Chaosmonk12/15/2016 
+This guy literally said the N-Word, then said 
 
-shrug  
-No bot  
-_fucks away_
+> shrug  
+> No bot  
+> _fucks away_
+
+Chaosmonk _-_ 12/15/2016 
 
 ### 12/20/2016
 
