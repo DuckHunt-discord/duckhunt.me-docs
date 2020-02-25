@@ -29,20 +29,22 @@ Babies have special emotes, so you can recognise them easily. Also, they haven't
 
 ### The super ducks
 
-Super ducks look just like regular ducks. Only when you shoot them do you see a message saying "The duck survived, try again! _SUPER DUCK DETECTED_ \[Life: -1 \(current life/maxlife\)\]"
+Super ducks look just like regular ducks. Only when you shoot them do you see a message saying "The duck survived, try again! _SUPER DUCK DETECTED_"
 
-To kill super ducks faster you need AP ammo or explosive ammo, which do 2 or 3 damage respectively.
+Additionnaly, depending on the [settings](../bot-administration/edit-settings-settings-list.md) used on the server, they may also display the life they currently have when harmed.
 
-![some super ducks i spawned in a channel.](../.gitbook/assets/image%20%283%29.png)
+To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive ammo](store-items.md), which do 2 or 3 damage respectively.
+
+![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%283%29.png)
 
 ### The MOADs
 
 **MOAD** stands for **M**other **O**f **A**ll **D**ucks, they spawn 2 ducks when killed.  
 They always say "**I AM... Your mother"**
 
-the ducks that spawn can be any type of duck.
+Childrend of the MOAD **do not count towards the `ducks_per_day`** parameter. Additionnaly, they may be of any type.
 
-![Here i spawn 3 MOADs and shoot 1 to spawn 2 ducks.](../.gitbook/assets/image%20%284%29.png)
+![Some MOADs spawned. When killed, you wan see two new ducks, the children.](../.gitbook/assets/image%20%284%29.png)
 
 ![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%281%29.png)
 
