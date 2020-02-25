@@ -33,14 +33,16 @@ Super ducks look just like regular ducks. Only when you shoot them do you see a 
 
 To kill super ducks faster you need AP ammo or explosive ammo, which do 2 or 3 damage respectively.
 
-![some super ducks i spawned in a channel.](../.gitbook/assets/image.png)
+![some super ducks i spawned in a channel.](../.gitbook/assets/image%20%283%29.png)
 
 ### The MOADs
 
 **MOAD** stands for **M**other **O**f **A**ll **D**ucks, they spawn 2 ducks when killed.  
 They always say "**I AM... Your mother"**
 
-the ducks that spawn \(are always normal / can be any type\).
+the ducks that spawn can be any type of duck.
 
-![Here i spawn 3 MOADs and shoot 1 to spawn 2 ducks.](../.gitbook/assets/image%20%282%29.png)
+![Here i spawn 3 MOADs and shoot 1 to spawn 2 ducks.](../.gitbook/assets/image%20%284%29.png)
+
+![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%281%29.png)
 
