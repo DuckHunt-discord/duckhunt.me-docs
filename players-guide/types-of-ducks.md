@@ -29,9 +29,18 @@ Babies have special emotes, so you can recognise them easily. Also, they haven't
 
 ### The super ducks
 
-TODO
+Super ducks look just like regular ducks. Only when you shoot them do you see a message saying "The duck survived, try again! _SUPER DUCK DETECTED_ \[Life: -1 \(current life/maxlife\)\]"
+
+To kill super ducks faster you need AP ammo or explosive ammo, which do 2 or 3 damage respectively.
+
+![some super ducks i spawned in a channel.](../.gitbook/assets/image.png)
 
 ### The MOADs
 
-TODO Too
+**MOAD** stands for **M**other **O**f **A**ll **D**ucks, they spawn 2 ducks when killed.  
+They always say "**I AM... Your mother"**
+
+the ducks that spawn \(are always normal / can be any type\).
+
+![Here i spawn 3 MOADs and shoot 1 to spawn 2 ducks.](../.gitbook/assets/image%20%282%29.png)
 
