@@ -35,16 +35,27 @@ Additionnaly, depending on the [settings](../bot-administration/edit-settings-se
 
 To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive ammo](store-items.md), which do 2 or 3 damage respectively.
 
-![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%283%29.png)
+![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%284%29.png)
 
 ### The MOADs
 
 **MOAD** stands for **M**other **O**f **A**ll **D**ucks, they spawn 2 ducks when killed.  
 They always say "**I AM... Your mother"**
 
-Childrend of the MOAD **do not count towards the `ducks_per_day`** parameter. Additionnaly, they may be of any type.
+Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Additionnaly, they may be of any type.
 
-![Some MOADs spawned. When killed, you wan see two new ducks, the children.](../.gitbook/assets/image%20%284%29.png)
+![Some MOADs spawned. When killed, you wan see two new ducks, the children.](../.gitbook/assets/image%20%285%29.png)
 
-![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%281%29.png)
+![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%282%29.png)
+
+### The most rare ducks.
+
+Sometimes, a **MOAD** can be a super duck. The odds are __1% \* 5% = 0,05% using the standard settings. That is roughly 1 in 2000 chance.
+
+![An extremely rare instance of a super MOAD.](../.gitbook/assets/image.png)
+
+A **MOAD** could spawn 2 super ducks. The odds for that are _\(_5% \* 5%\)^2 = 0.000625% using the standard settings. Or 1 in 160 **thousand**.
+
+But the rarest has to be a **MOAD** that spawns 2 **MOAD**s, this has a chance of \(1% \* 1%\)^2 = 0.000001% , or 1 in 100 **MILLION** chance.  
+_You could get even more after this but it's more likely that you'd win the lottery at that point._
 
