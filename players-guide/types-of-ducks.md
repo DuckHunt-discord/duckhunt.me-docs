@@ -44,22 +44,35 @@ They always say "**I AM... Your mother"**
 
 Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Additionnaly, they may be of any type.
 
-![Some MOADs spawned. When killed, you wan see two new ducks, the children.](../.gitbook/assets/image%20%285%29.png)
+![Some MOADs spawned. When killed, you wan see two new ducks, the children.](../.gitbook/assets/image%20%286%29.png)
 
 ![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%282%29.png)
 
-### The most rare ducks.
+## The rarest duck spawning occurrences.
 
-{% hint style="warning" %}
-Note, the calculations might be wrong. We need to double check them.
-{% endhint %}
+### **A** MOAD that is also a super duck 
 
-Sometimes, a **MOAD** can be a super duck. The odds are __1% \* 5% = 0,05% using the standard settings. That is roughly 1 in 2000 chance.
+Sometimes, a **MOAD** can be a super duck. The chances of getting that are __1% \* 5% = 0,05%,   
+or a 1 in 2 000 chance. \(using the standard settings.\)
 
 ![An extremely rare instance of a super MOAD.](../.gitbook/assets/image.png)
 
-A **MOAD** could spawn 2 super ducks. The odds for that are _\(_5% \* 5%\)^2 = 0.000625% using the standard settings. Or 1 in 160 **thousand**.
+### A MOAD that spawns 2 super ducks
 
-But the rarest has to be a **MOAD** that spawns 2 **MOAD**s, this has a chance of \(1% \* 1%\)^2 = 0.000001% , or 1 in 100 **MILLION** chance.  
+A **MOAD** could spawn 2 super ducks.   
+The chances for a **MOAD** spawning, and then spawning 2 super ducks are __1% \* 5% \* 5% = 0.0025%,   
+or a 1 in 40 **thousand** chance. \(using the standard settings.\)
+
+### A MOAD that spawns 2 MOADs
+
+But the rarest has to be a **MOAD** that spawns 2 **MOAD**s.   
+the chance of a **MOAD** spawning, and then spawning another 2 **MOAD**s is  1% \* 1%\*  1%= 0.0001% ,   
+or a 1 in 1 **MILLION** chance. __\(using the standard settings\)  
 _You could get even more after this but it's more likely that you'd win the lottery at that point._
+
+![2 MOADs spawning from 1 MOAD \(i changed the settings to allow the screenshot\)](../.gitbook/assets/image%20%285%29.png)
+
+### Even more rare?
+
+You could go on and on, these are just some examples. If you get any rare occurrence \(like 5 babies in a row\) be sure to post them and we might add those.
 
