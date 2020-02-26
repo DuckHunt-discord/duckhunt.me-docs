@@ -50,6 +50,10 @@ Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Add
 
 ### The most rare ducks.
 
+{% hint style="warning" %}
+Note, the calculations might be wrong. We need to double check them.
+{% endhint %}
+
 Sometimes, a **MOAD** can be a super duck. The odds are __1% \* 5% = 0,05% using the standard settings. That is roughly 1 in 2000 chance.
 
 ![An extremely rare instance of a super MOAD.](../.gitbook/assets/image.png)
