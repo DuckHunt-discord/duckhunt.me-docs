@@ -94,7 +94,7 @@
         <p>WolterHon#3938</p>
         <p>(300247046856900629)</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Russian. Has an even bigger butt than Olpouin. Claims to be 69 years old.</td>
     </tr>
   </tbody>
 </table>
