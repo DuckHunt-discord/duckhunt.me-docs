@@ -86,10 +86,14 @@
         <p>(183273311503908864)</p>
       </td>
       <td style="text-align:left">French. Has a big butt. Loves Star Wars. Was one of the first people in
-        the DuckHunt server, and most likely the oldest moderator. Enjoys Minecraft..</td>
+        the DuckHunt server, and has most likely been a moderator the longest.
+        Enjoys Minecraft..</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>WolterHon#3938</p>
+        <p>(300247046856900629)</p>
+      </td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
