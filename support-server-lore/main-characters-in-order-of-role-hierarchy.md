@@ -125,4 +125,11 @@
       style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
+</table>| Bot developer | \(deleted role\) |
+| :--- | :--- |
+|  |  |
+
+| Website maintainer | \(deleted role\) |
+| :--- | :--- |
+| Heroesflorian |  |
+
