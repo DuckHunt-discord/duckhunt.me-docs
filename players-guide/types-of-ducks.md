@@ -40,7 +40,8 @@ To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive 
 ### The MOADs
 
 **MOAD** stands for **M**other **O**f **A**ll **D**ucks, they spawn 2 ducks when killed.  
-They always say "**I AM... Your mother"**
+They always say "**I AM... Your mother"**  
+_It is said that **MOAD**s always have multiple HP, like super ducks._
 
 Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Additionnaly, they may be of any type.
 
@@ -49,13 +50,6 @@ Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Add
 ![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%282%29.png)
 
 ## The rarest duck spawning occurrences.
-
-### **A** MOAD that is also a super duck 
-
-Sometimes, a **MOAD** can be a super duck. The chances of getting that are __1% \* 5% = 0,05%,   
-or a 1 in 2 000 chance. \(using the standard settings.\)
-
-![An extremely rare instance of a super MOAD.](../.gitbook/assets/image.png)
 
 ### A MOAD that spawns 2 super ducks
 
