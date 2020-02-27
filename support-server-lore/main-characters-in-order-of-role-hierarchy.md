@@ -65,13 +65,20 @@
         <p>Subtleknifewielder#1927</p>
         <p>(251996890369884161)</p>
       </td>
-      <td style="text-align:left">Arguably regarded as the moderator with the most power/highest standing,
+      <td style="text-align:left">Arguably regarded as the moderator with the most power/highest standing
+        (marked as &quot;admin&quot; of the DuckHunt bot in the coding for a while),
         although they should be acknowledge as holding equal representation. 32
         years old. American. Never sleeps.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Taoshi#0001</p>
+        <p>(135446225565515776)</p>
+      </td>
+      <td style="text-align:left">Danish. Developer of Sketch Bot#9004. Enjoys gaming and programming, despite
+        programming being boring. 19 years old. His birthday is on December 1st,
+        he just thought you should know. You should get him a pear for his birthday,
+        he likes them more then apples.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
