@@ -13,8 +13,9 @@
         <p>Eyesofcreeper#0001</p>
         <p>(138751484517941259)</p>
       </td>
-      <td style="text-align:left">Developer of DuckHunt. Created GetBeaned and 2 other bots. French. (20?)
-        years old. Will not clear his cache. Likes Minecraft. Beautiful calligraphy.</td>
+      <td style="text-align:left">Developer of DuckHunt. Created GetBeaned and 2 other bots. French. 21
+        years old. <a href="server-events/clear-your-cache-awareness.md">Will not clear his cache.</a> Likes
+        Minecraft. Beautiful calligraphy.</td>
     </tr>
   </tbody>
 </table><table>
@@ -48,8 +49,9 @@
         <p>(<em>undisclosed for privacy</em>)</p>
       </td>
       <td style="text-align:left">Considered &quot;Retired Staff.&quot; Held role power of a moderator,
-        but were stronger with the Happy&amp;Kindness-Manager role placed above.
-        French. Left the server in (!). Played Minecraft, maybe.</td>
+        but were stronger with the Happy&amp;Kindness-Manager role placed above
+        (for the color yellow to show). From BeNeLux. Left the server in early
+        2020. Played Minecraft, maybe.</td>
     </tr>
   </tbody>
 </table><table>
@@ -67,8 +69,8 @@
       </td>
       <td style="text-align:left">Arguably regarded as the moderator with the most power/highest standing
         (marked as &quot;admin&quot; of the DuckHunt bot in the coding for a while),
-        although they should be acknowledge as holding equal representation. 32
-        years old. American. Never sleeps. Never played Minecraft.</td>
+        although they should be acknowledged as holding equal representation. 32
+        years old. American. <b>Never sleeps</b>. Never played Minecraft.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -122,12 +124,12 @@
     <tr>
       <td style="text-align:left">Other guy, I forgot his name and eyes didnt put him in the bots code.</td>
       <td
-      style="text-align:left"></td>
+      style="text-align:left">Ironic Toblerone maybe ?</td>
     </tr>
   </tbody>
 </table>| Bot developer | \(deleted role\) |
 | :--- | :--- |
-|  |  |
+| Eyes | Yes, that was me |
 
 | Website maintainer | \(deleted role\) |
 | :--- | :--- |
