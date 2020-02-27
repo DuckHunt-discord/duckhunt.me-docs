@@ -41,7 +41,8 @@
 * [Characters we killed off](support-server-lore/characters-we-killed-off.md)
 * [A list of all the Furrys in Eyes' Attic](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
 * [Meeeeeeeeh role](support-server-lore/what-is-the-meeeeeeh-role.md)
-* [Server events](support-server-lore/server-events.md)
+* [Server events](support-server-lore/server-events/README.md)
+  * ["Clear Your Cache" Awareness](support-server-lore/server-events/clear-your-cache-awareness.md)
 
 ## The DuckHunt API
 
