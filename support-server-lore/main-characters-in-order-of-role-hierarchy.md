@@ -112,8 +112,17 @@
       <td style="text-align:left">Enjoys Minecraft..</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>rulebritannia</p>
+        <p>(380118196742651906)</p>
+      </td>
+      <td style="text-align:left">Probably from Britain. Never talks. Extremely small chance that he is
+        the developer of Minecraft...</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Other guy, I forgot his name and eyes didnt put him in the bots code.</td>
+      <td
+      style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
