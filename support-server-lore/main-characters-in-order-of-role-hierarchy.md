@@ -14,7 +14,7 @@
         <p>(138751484517941259)</p>
       </td>
       <td style="text-align:left">Developer of DuckHunt. Created GetBeaned and 2 other bots. French. (20?)
-        years old. Will not clear his cache.</td>
+        years old. Will not clear his cache. Likes Minecraft. Beautiful calligraphy.</td>
     </tr>
   </tbody>
 </table><table>
@@ -49,7 +49,7 @@
       </td>
       <td style="text-align:left">Considered &quot;Retired Staff.&quot; Held role power of a moderator,
         but were stronger with the Happy&amp;Kindness-Manager role placed above.
-        French. Left the server in (!).</td>
+        French. Left the server in (!). Played Minecraft, maybe.</td>
     </tr>
   </tbody>
 </table><table>
@@ -68,7 +68,7 @@
       <td style="text-align:left">Arguably regarded as the moderator with the most power/highest standing
         (marked as &quot;admin&quot; of the DuckHunt bot in the coding for a while),
         although they should be acknowledge as holding equal representation. 32
-        years old. American. Never sleeps.</td>
+        years old. American. Never sleeps. Never played Minecraft.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -78,7 +78,15 @@
       <td style="text-align:left">Danish. Developer of Sketch Bot#9004. Enjoys gaming and programming, despite
         programming being boring. 19 years old. His birthday is on December 1st,
         he just thought you should know. You should get him a pear for his birthday,
-        he likes them more then apples.</td>
+        he likes them more then apples. He likes Minecraft....</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Olpouin#6797</p>
+        <p>(183273311503908864)</p>
+      </td>
+      <td style="text-align:left">French. Has a big butt. Loves Star Wars. Was one of the first people in
+        the DuckHunt server, and most likely the oldest moderator. Enjoys Minecraft..</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
