@@ -197,14 +197,14 @@
         <p>(191602541534904321)</p>
       </td>
       <td style="text-align:left">20. French. Loves playing fighting games. Knows Olpouin&apos;s birthday.
-        Trained at minesweeper. Enjoys miencraft.</td>
+        Trained at minesweeper. Enjoys MineCraft.</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>sholan#0922</p>
         <p>(174670292994621440)</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Extremely inactive. MineCraft origins are unknown.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
