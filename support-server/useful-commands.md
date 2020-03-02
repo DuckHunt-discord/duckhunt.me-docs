@@ -22,7 +22,7 @@ TODO
 
 ### Groovy \(Music\)
 
-TODO
+Ahuman calls dibs
 
 ### Koishi \(Statistics\)
 
