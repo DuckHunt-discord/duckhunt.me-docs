@@ -71,7 +71,7 @@
       <td style="text-align:left">Arguably regarded as the moderator with the most power/highest standing
         (marked as &quot;admin&quot; of the DuckHunt bot in the coding for a while),
         although they should be acknowledged as holding equal representation. 32
-        years old. American. <b>Never sleeps</b>. Never played Minecraft.</td>
+        years old. American. <b>Never sleeps</b>. Loves Subway. Never played Minecraft.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -207,8 +207,16 @@
       <td style="text-align:left">Extremely inactive. MineCraft origins are unknown.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Ahuman#8933</p>
+        <p>(316788628476919808)</p>
+      </td>
+      <td style="text-align:left">
+        <p>Im not writing about myself. Be blunt and honest, or completely wrong.</p>
+        <p></p>
+        <p>Can confirm olpouin has a big butt (&quot;I&apos;d say 4 mouthfuls.&quot;)
+          Only played knock off MineCraft games.</p>
+      </td>
     </tr>
   </tbody>
 </table>
