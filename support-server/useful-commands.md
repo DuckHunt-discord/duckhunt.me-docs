@@ -38,7 +38,7 @@ TODO
 
 ### Other bots
 
-TODO \(GamesROB, Snail Racing, Tatsu, FriendSpotter\)
+TODO \(GamesROB, Snail Racing \(Ahuman claims this one too\), Tatsu, FriendSpotter\)
 
 
 
