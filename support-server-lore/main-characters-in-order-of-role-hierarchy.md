@@ -31,8 +31,9 @@
         <p>Diagamma#7456</p>
         <p>(94822638991454208)</p>
       </td>
-      <td style="text-align:left">Joined the server back in 2016. Left the server in (!). Joined back in
-        (!). French. Considered &quot;Retired Staff.&quot;</td>
+      <td style="text-align:left">Joined the server back in 2016. Left the server in (11/30/2017). repeatedly
+        left and rejoined. Joined back in (06/02/2019). French. Considered &quot;Retired
+        Staff.&quot;</td>
     </tr>
   </tbody>
 </table><table>
@@ -128,9 +129,8 @@
         the developer of Minecraft...</td>
     </tr>
     <tr>
-      <td style="text-align:left">Other guy, I forgot his name and eyes didnt put him in the bots code.</td>
-      <td
-      style="text-align:left">Ironic Toblerone maybe ?</td>
+      <td style="text-align:left">ironic toblerone</td>
+      <td style="text-align:left">(undisclosed)</td>
     </tr>
   </tbody>
 </table>| Bot developer | \(deleted role\) |
@@ -153,7 +153,62 @@
       <td style="text-align:left">&quot;Veteran duck hunter, definitely not French, does indeed like Minecraft&quot;</td>
     </tr>
   </tbody>
-</table>| Proficients  | Active in the support channels. Knows a lot about the bot.  |
-| :--- | :--- |
-|  |  |
-
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Proficients</th>
+      <th style="text-align:left">Active in the support channels. Knows a lot about the bot.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Subtleknifewielder Heroesflorian</p>
+        <p>Taoshi</p>
+        <p>rulebritannia</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>InigoMontoya#9392</p>
+        <p>(273798408186363905)</p>
+      </td>
+      <td style="text-align:left">When asked about their age, they seemed to of forgotten and said &quot;30ish&quot;
+        They are American. Unsure whether or not PierrePV has a bigger butt then
+        Olpouin. When asked &quot;If you had to fight an elementary school, and
+        every wave consisted with 5 2nd graders with a boss 6th grader every 5th
+        wave
+        <br />, how many waves could you survive?&quot; They replied with &quot;36&quot;
+        They do not like MineCraft.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Deathclaw#0966</p>
+        <p>(329940268457525249)</p>
+      </td>
+      <td style="text-align:left">From Egypt. In his 20s. Extremely inactive. Ahuman once <a href="https://cdn.discordapp.com/attachments/428413807862480896/483842175335923712/Screenshot_481.png">edited</a> one
+        of his DuckHunt stats as a joke. Unknown if he has ever played MineCraft
+        before.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Volcanard#4242</p>
+        <p>(191602541534904321)</p>
+      </td>
+      <td style="text-align:left">20. French. Loves playing fighting games. Knows Olpouin&apos;s birthday.
+        Trained at minesweeper. Enjoys miencraft.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>sholan#0922</p>
+        <p>(174670292994621440)</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>

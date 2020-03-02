@@ -43,6 +43,7 @@
 * [Meeeeeeeeh role](support-server-lore/what-is-the-meeeeeeh-role.md)
 * [Server events](support-server-lore/server-events/README.md)
   * ["Clear Your Cache" Awareness](support-server-lore/server-events/clear-your-cache-awareness.md)
+  * [Chain Texts](support-server-lore/server-events/chain-texts.md)
 
 ## The DuckHunt API
 
