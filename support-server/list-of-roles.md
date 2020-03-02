@@ -41,7 +41,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Partner</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who own other bots and are &apos;partnered&apos; with DuckHunt</td>
     </tr>
     <tr>
       <td style="text-align:left">Was staff</td>
@@ -78,15 +78,15 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Proficient</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who are skilled with the bot and are helpful in support channels</td>
     </tr>
     <tr>
       <td style="text-align:left">Weeaboo</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who are weebs. They watch anime.</td>
     </tr>
     <tr>
       <td style="text-align:left">Donator</td>
-      <td style="text-align:left">Our kind patreon donators.</td>
+      <td style="text-align:left">People who donated to the bot.</td>
     </tr>
     <tr>
       <td style="text-align:left">Nitro booster</td>
@@ -94,55 +94,60 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Happy&amp;Kindness-Manager</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">A role created for Wizzz. Holds a higher position above the moderators
+        role, making the role stronger.</td>
     </tr>
     <tr>
       <td style="text-align:left">Booth-1</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&quot;Booth 1 is a very special place nobody can access. There is nothing
+        [interesting] in there anyway. That was for when PMs didn&apos;t [access]
+        audio. It&apos;s an extension of my PMs, so still private x)&quot; -Eyes</td>
     </tr>
     <tr>
       <td style="text-align:left">Notify</td>
-      <td style="text-align:left">will ping you when big updates are made to the bot.</td>
+      <td style="text-align:left">Will ping you when big updates are made to the bot.</td>
     </tr>
     <tr>
       <td style="text-align:left">Self-hosting</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who host the bot on their own.</td>
     </tr>
     <tr>
       <td style="text-align:left">CanPostInServerlist</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who are allowed to advertise their server in the server list channel.
+        They have special permission from Eyes.</td>
     </tr>
     <tr>
       <td style="text-align:left">Eminigma Event Winner 2019</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who won the enigma event in 2019</td>
     </tr>
     <tr>
       <td style="text-align:left">Duckenigma Event Winner 2018</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who won the engima event in 2018</td>
     </tr>
     <tr>
       <td style="text-align:left">Meeeeeeeh</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ultra-Meeeeeeeh</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Idiots</td>
     </tr>
     <tr>
       <td style="text-align:left">Hyper-Meeeeeeeh</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Big idiots</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ultra-Meeeeeeeh</td>
+      <td style="text-align:left">Giga-idiots</td>
     </tr>
     <tr>
       <td style="text-align:left">Snowball</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who were hit with a snowball during a special event</td>
     </tr>
     <tr>
       <td style="text-align:left">Fireball</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who were hit with a fireball during a special event</td>
     </tr>
     <tr>
       <td style="text-align:left">&lt;3 paix &#xE0; toi</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">A <a href="https://cdn.discordapp.com/attachments/445074570156539915/683886001973886984/20200301_215828.jpg">friend </a>of
+        Eyes who passed away</td>
     </tr>
     <tr>
       <td style="text-align:left">Bot</td>
@@ -154,7 +159,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Emoji Man</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">People who are allowed to upload emotes.</td>
     </tr>
     <tr>
       <td style="text-align:left">GetBeaned_muted</td>
