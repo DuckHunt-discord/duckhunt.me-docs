@@ -1,3 +1,7 @@
+---
+description: Important people in the server.
+---
+
 # Main Characters \(In order of role hierarchy\)
 
 <table>
@@ -216,6 +220,85 @@
         <p></p>
         <p>Can confirm olpouin has a big butt (&quot;I&apos;d say 4 mouthfuls.&quot;)
           Only played knock off MineCraft games.</p>
+      </td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Translators</th>
+      <th style="text-align:left">People who helped translate the bot into different languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>8-Ball#1862</p>
+        <p>Aragogne#0806
+          <br />Areisp#2416
+          <br />Crumble_#8877
+          <br />Dannysaysyolo73#0812
+          <br />El Chefe#6666
+          <br />
+        </p>
+        <p>Foxy-the-edagunCZ#1026
+          <br />G-Man#3131
+          <br />
+        </p>
+        <p>Ganny#0879
+          <br />
+        </p>
+        <p>ImparuZ#4007
+          <br />
+        </p>
+        <p>KaySteR#9760
+          <br />Legolas#2139
+          <br />
+        </p>
+        <p>Lord Dr&#xE9;Byte#2222
+          <br />Max Mustermann#0815
+          <br />
+        </p>
+        <p>&#x239D;&#x29F9;&#xA9C1;C R I S T I A N&#xA9C2;&#x29F8;&#x23A0;#7926
+          <br
+          />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Nash#4302
+          <br />PixelPirate#9172
+          <br />
+        </p>
+        <p>PurplePoisonRose1987#4048
+          <br />
+        </p>
+        <p>SlimyMelon#5435
+          <br />
+        </p>
+        <p>Taoshi#0001
+          <br />
+        </p>
+        <p>Wolterhon#3938
+          <br />
+        </p>
+        <p>barnabinnyu#9928
+          <br />
+        </p>
+        <p>estudiante#6170
+          <br />
+        </p>
+        <p>gladiarray#5346
+          <br />
+        </p>
+        <p>imLuke#2795
+          <br />
+        </p>
+        <p>pun1sher#1165
+          <br />
+        </p>
+        <p>xarthur#9599
+          <br />
+        </p>
       </td>
     </tr>
   </tbody>
