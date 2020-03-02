@@ -116,7 +116,8 @@
         <p>PierrePV#3537</p>
         <p>(181846573351829504)</p>
       </td>
-      <td style="text-align:left">Enjoys Minecraft..</td>
+      <td style="text-align:left">French. 19. Does not think Olpouin has a big butt. Eats baguette and omelette
+        du fromage everyday. Enjoys Minecraft..</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -134,9 +135,25 @@
   </tbody>
 </table>| Bot developer | \(deleted role\) |
 | :--- | :--- |
-| Eyes | Yes, that was me |
+| Eyes  | "Yes, that was me." -Eyes |
 
-| Website maintainer | \(deleted role\) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Website maintainer</th>
+      <th style="text-align:left">(deleted role)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Heroesflorian#4385</p>
+        <p>(231117724317646849)</p>
+      </td>
+      <td style="text-align:left">&quot;Veteran duck hunter, definitely not French, does indeed like Minecraft&quot;</td>
+    </tr>
+  </tbody>
+</table>| Proficients  | Active in the support channels. Knows a lot about the bot.  |
 | :--- | :--- |
-| Heroesflorian |  |
+|  |  |
 
