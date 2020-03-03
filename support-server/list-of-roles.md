@@ -14,16 +14,16 @@ description: 'note: it may be incomplete'
   <tbody>
     <tr>
       <td style="text-align:left">Duckies</td>
-      <td style="text-align:left">auto given role when you join duckhunt support.</td>
+      <td style="text-align:left">Role given automatically when you join the server.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Have duckhunt</td>
-      <td style="text-align:left">you have to be the owner or bot admin in a server with duckhunt, ask a
+      <td style="text-align:left">Have DuckHunt</td>
+      <td style="text-align:left">You have to be the owner or bot admin in a server with duckhunt, ask a
         mod for the role (DON&apos;T ping please)</td>
     </tr>
     <tr>
       <td style="text-align:left">Pizza</td>
-      <td style="text-align:left">you need to work for discord pizza (use (&gt;apply )</td>
+      <td style="text-align:left">You need to work for discord pizza (use (&gt;apply )</td>
     </tr>
     <tr>
       <td style="text-align:left">Moderator</td>
@@ -70,7 +70,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Any language</td>
-      <td style="text-align:left">Translator for that specific language, like French, Dutch, Spanish, ETC.</td>
+      <td style="text-align:left">Translator for that specific language, like French, Dutch, Spanish, etc.</td>
     </tr>
     <tr>
       <td style="text-align:left">Bug Hunters</td>
@@ -118,11 +118,13 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Eminigma Event Winner 2019</td>
-      <td style="text-align:left">People who won the enigma event in 2019</td>
+      <td style="text-align:left">People who won the <a href="../support-server-lore/server-events/">enigma event in 2019</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Duckenigma Event Winner 2018</td>
-      <td style="text-align:left">People who won the engima event in 2018</td>
+      <td style="text-align:left">People who won the <a href="../support-server-lore/server-events/">engima event in 2018</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Meeeeeeeh</td>
@@ -163,7 +165,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">GetBeaned_muted</td>
-      <td style="text-align:left">If you recieve this you broke some rules .
+      <td style="text-align:left">If you receive this you broke some rules .
         <br />You can find those in <a href="how-to-join.md">How to join (and rules)</a>.</td>
     </tr>
   </tbody>
