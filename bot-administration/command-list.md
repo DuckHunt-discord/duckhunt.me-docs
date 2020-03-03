@@ -1,5 +1,7 @@
 ---
-description: Installing duckhunt on your server is easy
+description: >-
+  Installing DuckHunt on your server is very easy and can be done in a matter of
+  seconds by following the instructions.
 ---
 
 # Quickstart
