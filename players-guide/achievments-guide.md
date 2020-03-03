@@ -48,7 +48,51 @@ By default, anyone has this achievement. It goes away if your number of baby duc
 
 ![The Baby Lover icon](../.gitbook/assets/baby_lover.svg)
 
+### Murderer
 
+You need to willfully kill someone to get this.
+
+![Scary knife for the murderers](../.gitbook/assets/murderer.svg)
+
+### Number of ducks killed achievements
+
+Since there is a big number of ducks killed achivments, please refer to the following tabs. The tab title is the number of ducks killed needed.
+
+{% tabs %}
+{% tab title="1" %}
+![&quot;First Blood&quot;](../.gitbook/assets/first_blood.svg)
+{% endtab %}
+
+{% tab title="10" %}
+![](../.gitbook/assets/ducks_killed_1.svg)
+{% endtab %}
+
+{% tab title="100" %}
+![](../.gitbook/assets/ducks_killed_2.svg)
+{% endtab %}
+
+{% tab title="500" %}
+![](../.gitbook/assets/ducks_killed_3.svg)
+{% endtab %}
+
+{% tab title="1000" %}
+![](../.gitbook/assets/ducks_killed_4.svg)
+{% endtab %}
+
+{% tab title="2000" %}
+![](../.gitbook/assets/ducks_killed_5%20%281%29.svg)
+{% endtab %}
+
+{% tab title="4000" %}
+![](../.gitbook/assets/ducks_killed_6.svg)
+{% endtab %}
+{% endtabs %}
+
+### Lucky user
+
+You need to earn more than 500 total experience using a clover.
+
+![The Lucky User icon](../.gitbook/assets/lucky_user.svg)
 
 Achievements icons are provided by FlatIcons.
 
