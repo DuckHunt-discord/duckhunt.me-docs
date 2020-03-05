@@ -6,7 +6,7 @@ This wiki was created for DuckHunt\#0550, a Discord bot developed by Eyesofcreep
 
 ### Brief description of the bot:
 
-> DuckHunt is a Discord bot, best categorized as gaming/entertainment. You use commands to hunt 'ducks' through the chat. For example, a typical command would look like `dhbang`.  
+> DuckHunt is a Discord bot, best categorized as gaming/entertainment. You use commands to hunt '[ducks](players-guide/types-of-ducks.md)' through the chat. For example, a typical command would look like `dhbang`.  
 >   
 > The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of exp through hunting ducks. However, exp doubles as a measure of rank and a form of currency. Exp can be spent buying [shop items](players-guide/store-items.md). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant.   
 >   
