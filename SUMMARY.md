@@ -4,13 +4,13 @@
 
 ## Bot administration
 
-* [Quickstart](bot-administration/admin-quickstart.md)
+* [Quickstart](bot-administration/command-list.md)
 * [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
 * [Admin commands](bot-administration/admin-commands.md)
 
 ## Players guide
 
-* [How to play DuckHunt](players-guide/players-quickstart.md)
+* [How to play DuckHunt](players-guide/how-to-play-with-duckhunt.md)
 * [Player commands](players-guide/player-commands.md)
 * [Shop items](players-guide/store-items.md)
 * [Events](players-guide/events.md)
