@@ -2,11 +2,11 @@
 
 ### How do I play?
 
-The best way would be to read [our players guide](how-to-play-with-duckhunt.md).
+The best way would be to read [our players guide](players-quickstart.md).
 
 ### How do I install the bot?
 
-See the [QuickStart](../bot-administration/command-list.md)!
+See the [QuickStart](../bot-administration/admin-quickstart.md)!
 
 ### Can I see the source code?
 

@@ -2,7 +2,7 @@
 
 DuckHunt is a fun game bot where you hunt ducks that appear in a discord channel. You try to climb the ladders of the [leaderboard](players-guide/levels-and-experience.md), prank other hunters and make some fois gras in this amazing game. 
 
-This wiki was created for DuckHunt\#0550, a Discord bot developed by Eyesofcreeper\#0001. This wiki will serve as a collection of the bots information, including the bots features \(including commands and [settings](bot-administration/edit-settings-settings-list.md)\), a [guide for using the features](bot-administration/command-list.md), along with [information on the support server ](support-server/how-to-join.md)hosted on Discord. 
+This wiki was created for DuckHunt\#0550, a Discord bot developed by Eyesofcreeper\#0001. This wiki will serve as a collection of the bots information, including the bots features \(including commands and [settings](bot-administration/edit-settings-settings-list.md)\), a [guide for using the features](bot-administration/admin-quickstart.md), along with [information on the support server ](support-server/how-to-join.md)hosted on Discord. 
 
 ### Brief description of the bot:
 
