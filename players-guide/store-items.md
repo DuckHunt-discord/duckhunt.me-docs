@@ -11,9 +11,9 @@ How to use the shop command.
 | 5 | Repurchase Gun | 40 | Allows you to get your gun back without having to wait for the freetime to happen. Only useful if your gun is actually confiscated. |
 | 6 | Grease | 8 | Reduces the odds of jamming by 50% for 24h and protects from sand once. |
 | 7 | Sight | 6 | Improves accuracy for the next shot by $$(100- current\_accuracy)/3$$. |
-| 8 | Infrared Detector | 15 | Locks the trigger when there is no duck, thus saving bullets. Lasts for 24h, blocks 6 times. |
+| 8 | Infrared Detector | 15 | Locks the trigger when there is no duck, thus saving bullets. Lasts for 24h, or blocks 6 shots, whichever comes first. |
 | 9 | Silencer | 5 | Muffles the noise from your gun for 24h so ducks don’t get frightened and fly away. |
-| 10 | Four-leaf clover | 13 | Get extra XP for each duck you kill for 24h. It can be from 1 to 10 XP and is determined at purchase. |
+| 10 | Four-leaf Clover | 13 | Get extra exp for each duck you kill for 24h. It can be from 1 to 10 exp and is determined at purchase. |
 | 11 | Sunglasses | 5 | Protects from mirror induced glares for 24h. |
 | 12 | Spare clothes | 7 | Dry set of clothes. Useful when someone pours a bucket of water on you. |
 | 13 | Brush for gun | 7 | Cancels the sabotage and removes sand from your gun. |
