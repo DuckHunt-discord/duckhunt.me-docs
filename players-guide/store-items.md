@@ -4,7 +4,7 @@ How to use the shop command.
 
 | ID | Name | Cost\(XP\) | Description |
 | :--- | :--- | :--- | :--- |
-| 1 | Bullet | 7 | Adds a bullet to your clip |
+| 1 | Bullet | 7 | Adds a bullet to your magazine. |
 | 2 | Clip | 13 | Adds a clip to your backpack |
 | 3 | AP ammo | 15 | Does 2x damage to super ducks for 24h |
 | 4 | Explosive ammo | 25 | Does 3x damage to super ducks for 24h |
