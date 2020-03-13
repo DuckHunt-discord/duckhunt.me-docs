@@ -4,7 +4,7 @@ The goal of the game is to earn the most experience so as to be the top player o
 
 To earn experience, you must kill ducks. Most ducks killed will get you 10 exp \(assuming default settings\).  However, sometimes you might find other [types of ducks](types-of-ducks.md) that are worth more experience.
 
-To kill a duck, you need to shoot at it with your weapon, using the `dh!bang` command. Assuming you‘re lucky, you'll hit the duck and win experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you’ll have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
+To kill a duck, you need to shoot at it with your weapon using the `dh!bang` command. Assuming you‘re lucky, you'll hit the duck and earn experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you’ll have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
 
 {% hint style="info" %}
 The `dh!bang` command can often be reduced to simply `dhpan` or `!pan`. Many aliases are available, will you be able to find them all ?
@@ -16,7 +16,7 @@ Once you killed a few ducks, you should have enough experience to explore the [s
 
 We recommend you buy a **silencer** to avoid letting the ducks flee from you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\),  a **sight** to improve your aim \(`dhshop sight`\). 
 
-If you killed a lot of ducks, you might run out of **magazines**. In that case, buy some from the shop \(`dhshop 2`\). You should never be full on magazines \(so you can keep those you might find for free after killing ducks\), and try to be as close to zero as possible since, for freetime, your magazine count get refilled \(not your bullets tho, remember to reload\).
+If you killed a lot of ducks, you might run out of **magazines**. In that case, buy some from the shop \(`dhshop 2`\). You should never be full on magazines \(so you can keep those you might find for free after killing ducks\), and try to be as close to zero as possible since, for freetime, your magazine count gets refilled \(not your bullets tho, remember to reload\).
 
 Soon, you'll level up enough and get better weapons so you will be able to drom the silencer and sight, and use **explosive** ammo \(`dhshop explosive`\) instead.
 
