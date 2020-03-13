@@ -18,8 +18,8 @@ How to use the shop command.
 | 12 | Spare clothes | 7 | Dry set of clothes. Useful when someone pours a bucket of water on you. |
 | 13 | Brush for Gun | 7 | Cancels the sabotage and removes sand from your gun. |
 | 14 | Mirror | 7 | Dazzles a player of your choice and makes them lose 50% of their accuracy on the next shot. |
-| 15 | Handful of sand | 7 | Throw sand on the gun of another player of your choice, his jamming odds will increase by 50% for the next shot. Cancels effects from the grease. |
-| 16 | Water bucket | 10 | Throw a bucket of water on the hunter of your choice, forcing him to wait 1h for his clothes to dry before he can hunt again. |
+| 15 | Handful of Sand | 7 | Throw sand on the gun of another player of your choice, the odds of  jamming will increase by 50% for the next shot. Cancels effects from grease. |
+| 16 | Water Bucket | 10 | Throw a bucket of water on the hunter of your choice, forcing them to wait 1h for their clothes to dry before hunting again. |
 | 17 | Sabotage | 14 | Sabotage the weapon of another player. His weapon will jam and explode at his face the next time he presses the trigger. |
 | 18 | ~~Life insurance~~ | 10 | Single-use insurance policy allowing you to gain a bonus worth half your hunter level if you are the victim of a hunting accident. Lasts for one week. |
 | 20 | Decoy | 8 | Attracts a duck in the next 10 minutes after purchase. |
