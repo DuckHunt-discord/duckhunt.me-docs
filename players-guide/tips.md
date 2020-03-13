@@ -12,6 +12,12 @@ I**f the freetime timer expires, you get your gun \(if it's confiscated\) and so
 You can find clips in bushes after killing a duck sometimes. -if you have max clips it gets deleted, and that wastes 13 experience**-**!
 {% endhint %}
 
+{% hint style="info" %}
+**Remember spawn order**
+
+Ducks either get shot, or they leave, in the same order in which they spawn/
+{% endhint %}
+
 ### **Early game**
 
 In the beginning you start with a bad gun with alot of bullets per clip and abysmal accuracy. At this moment buying clips is better than buying bullets. I recommend getting a 4-leaf clover \(`dhbuy 10`\) if you have more than 20 experience points and then just shoot any duck you can.   
@@ -31,4 +37,9 @@ Avoid buying some items, most are not worth it at this point. Grease, Silencers,
 Most of the anti-sabotage items, such as the weapon cleaning, are useless and should not be brought.
 
 **Never ever buy the life insurance.** It's simply not worth it.
+
+## Extra tips
+
+You can usually tell when there's no duck by looking for the last duck spawned, and for the last message of "You killed the duck in ?? seconds"... But don't assume that the last duck killing is always for the last duck spawned-- convert the seconds to minutes, subtract from time of that message, and compare to previous message timestamps, to see which duck it might have been.  
+ If you're still not sure if there's a duck left in the channel, use dh!hug instead of dh!bang, so you don't waste a bullet.
 
