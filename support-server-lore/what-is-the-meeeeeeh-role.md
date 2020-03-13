@@ -37,5 +37,5 @@ EASY WAY TO GET MEEEH QUICK EXPLOIT \(WORKING 2020\):
   
 Congratulations! The final step is to do none of the following steps above, and instead DM Ahuman\#8933 and tell him he is an asshole. I hope you read step 0.   
   
-I just wanted to waste your time :D \(you won't get the role\)
+I just wanted to waste your time :D
 

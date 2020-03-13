@@ -2,9 +2,9 @@
 
 * [The DuckHunt bot](README.md)
 
-## Bot administration
+## Administração do BOT <a id="bot-administration"></a>
 
-* [Quickstart](bot-administration/admin-quickstart.md)
+* [Início rápido](bot-administration/admin-quickstart.md)
 * [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
 * [Admin commands](bot-administration/admin-commands.md)
 

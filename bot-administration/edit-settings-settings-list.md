@@ -15,7 +15,7 @@ For resetting a setting to its default value, use `dh!settings reset <parameter>
 | clover\_min\_exp | integer | 1 | Minimum experience bonus given by a clover |
 | delete\_commands | bool | False | Anti-flood parameter: delete commands from hunters after execution |
 | disable\_decoys\_when\_ducks\_are\_sleeping | bool | True | Make decoys ineffective when ducks are sleeping \(see sleeping\_ducks\_start and sleeping\_ducks\_stop\) |
-| duck\_frighten\_chance | integer | 5 | Probability in percent that a duck will get afraid and fly off when a hunter shoots at him |
+| duck\_frighten\_chance | integer | 5 | Probability in percent that a duck will get afraid and fly off when a hunter shoots at him. |
 | ducks\_per\_day | integer | 48 | Number of ducks that will spawn on a channel each day |
 | emoji\_used | string | :duck: | Emoji used by the bot if the emoji\_ducks setting is enabled |
 | exp\_won\_per\_duck\_killed | integer | 10 | Experience points earned by a hunter per killed duck |
@@ -33,7 +33,7 @@ For resetting a setting to its default value, use `dh!settings reset <parameter>
 | super\_ducks\_chance | integer | 5 | Probability that a duck that spawns will be a super duck |
 | baby\_ducks\_chance | integer | 2 | Probability that a duck that spawns will be a baby duck |
 | mother\_of\_all\_ducks\_chance | integer | 1 | Probability that a duck that spawns will be a mother of all ducks |
-| super\_ducks\_exp\_multiplier | float | 1.1 | To get experience earned when a hunter kills a superduck, we use the formula  $$rounded\_integer(exp\_won\_per\_duck\_killed * super\_ducks\_exp\_multiplier * duck\_life)$$  |
+| super\_ducks\_exp\_multiplier | float | 1.1 | To get experience earned when a hunter kill a superduck, we use the formula  $$rounded\_integer(exp\_won\_per\_duck\_killed * super\_ducks\_exp\_multiplier * duck\_life)$$  |
 | super\_ducks\_maxlife | integer | 7 | Maximum life of a super duck |
 | super\_ducks\_minlife | integer | 3 | Minimum life of a super duck |
 | tax\_on\_user\_give | integer | 5 | Percentage of exp that will be taken as a tax when a player uses the send\_exp command. This can be disabled by setting it to 0. |
