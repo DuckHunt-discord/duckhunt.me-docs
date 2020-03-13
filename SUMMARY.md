@@ -1,11 +1,11 @@
 # Table of contents
 
-* [The DuckHunt bot](README.md)
+* [Intro: de DuckHunt bot](README.md)
 
 ## Bot administration
 
-* [Quickstart](bot-administration/admin-quickstart.md)
-* [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
+* [Snelstart](bot-administration/admin-quickstart.md)
+* [Instellingen/ lijst van instellingen](bot-administration/edit-settings-settings-list.md)
 * [Admin commands](bot-administration/admin-commands.md)
 
 ## Players guide
