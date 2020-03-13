@@ -18,9 +18,9 @@ We recommend you buy a **silencer** to avoid letting the ducks flee from you \(`
 
 If you hunt a lot of ducks, you might run out of **magazines**. In that case, buy some from the shop \(`dhshop 2`\). However, you may find magazines as you hunt ducks, so be sure to leave some magazines empty in order to pick these up for free.  And try to be as close to zero magazines as possible since, for freetime, your magazine count gets refilled \(not your bullets tho, remember to reload\).
 
-Soon, you'll level up enough and get better weapons so you will be able to drom the silencer and sight, and use **explosive** ammo \(`dhshop explosive`\) instead.
+Soon, you'll level up enough and get better weapons so you will be able to buy the silencer and sight, and use **explosive** ammo`dhshop explosive`instead.
 
-If you read all of this, you might now be well on your way to become a Pro DuckHunter™️. Have fun with the game, and make sure you ask any question on the [support server](https://discordapp.com/invite/2BksEkV).
+If you read all of this, you might be well on your way to become a Pro DuckHunter™️. Have fun with the game, and make sure you ask any questions on the [support server](https://discordapp.com/invite/2BksEkV).
 
 If you want more information, you might want to:
 
