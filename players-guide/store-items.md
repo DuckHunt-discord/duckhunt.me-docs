@@ -6,8 +6,8 @@ How to use the shop command.
 | :--- | :--- | :--- | :--- |
 | 1 | Bullet | 7 | Adds a bullet to your magazine |
 | 2 | Magazine \(mag\) | 13 | Adds a mag to your backpack |
-| 3 | AP ammo | 15 | Does 2x damage to Super Ducks for 24h |
-| 4 | Explosive ammo | 25 | Does 3x damage to super ducks for 24h |
+| 3 | AP Ammo | 15 | Does 2x damage to Super Ducks for 24h |
+| 4 | Explosive Ammo | 25 | Does 3x damage to Super Ducks for 24h |
 | 5 | Repurchase gun | 40 | Allows you to get your gun back without having to wait for the freetime to happen. Only useful if your gun is actually confiscated. |
 | 6 | Grease | 8 | Reduces the odds of jamming by 50% for 24h and protects from sand once. |
 | 7 | Sight | 6 | Improves accuracy for the next shot by $$(100- current\_accuracy)/3$$. |
