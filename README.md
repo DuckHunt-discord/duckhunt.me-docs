@@ -2,7 +2,7 @@
 description: Vertalen kan nog incompleet zijn.
 ---
 
-# Intro: de DuckHunt bot
+# De DuckHunt bot
 
 DuckHunt is leuke spelletjesbot waarbij je op eenden moet jagen die in discord in een kanaal verschijnen. Je probeert de ladder van het [leaderboard](players-guide/levels-and-experience.md) te beklimmen, prankt andere jagers en hebt veel lol in dit leuke spel.. 
 

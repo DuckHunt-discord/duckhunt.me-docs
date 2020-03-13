@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro: de DuckHunt bot](README.md)
+* [De DuckHunt bot](README.md)
 
 ## Bot administration
 
