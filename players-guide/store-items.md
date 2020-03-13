@@ -1,6 +1,6 @@
 # Shop items
 
-Here will be a quick paragraph on how to use the shop command.
+How to use the shop command.
 
 | ID | Name | Cost\(XP\) | Description |
 | :--- | :--- | :--- | :--- |
