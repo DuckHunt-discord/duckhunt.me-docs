@@ -14,9 +14,9 @@ You may also need to reload your weapon, either because you have no more bullets
   
 Once you killed a few ducks, you should have enough experience to explore the [shop](store-items.md), using the `dhbuy` command. 
 
-We recommend you buy a **silencer** to avoid letting the ducks flee on you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\),  a **sight** to improve your aim \(`dhshop sight`\). 
+We recommend you buy a **silencer** to avoid letting the ducks flee from you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\),  a **sight** to improve your aim \(`dhshop sight`\). 
 
-If you killed many ducks, you might ran out of **magazine**s. In that case, buy some from the shop \(`dhshop 2`\). You should never be full on magazines \(so you can keep those you might find for free after killing ducks\), and try to be as close to zero as possible since, for freetime, your magazines count get reflled \(not your bullets tho, remember to reload\).
+If you killed many ducks, you might run out of **magazines**. In that case, buy some from the shop \(`dhshop 2`\). You should never be full on magazines \(so you can keep those you might find for free after killing ducks\), and try to be as close to zero as possible since, for freetime, your magazines count get reflled \(not your bullets tho, remember to reload\).
 
 Soon, you'll level up enough and get better weapons so you will be able to drom the silencer and sight, and use **explosive** ammo \(`dhshop explosive`\) instead.
 
