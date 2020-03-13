@@ -4,8 +4,8 @@ How to use the shop command.
 
 | ID | Name | Cost\(XP\) | Description |
 | :--- | :--- | :--- | :--- |
-| 1 | Bullet | 7 | Adds a bullet to your magazine. |
-| 2 | Clip | 13 | Adds a clip to your backpack |
+| 1 | Bullet | 7 | Adds a bullet to your magazine |
+| 2 | Magazine \(mag\) | 13 | Adds a mag to your backpack |
 | 3 | AP ammo | 15 | Does 2x damage to super ducks for 24h |
 | 4 | Explosive ammo | 25 | Does 3x damage to super ducks for 24h |
 | 5 | Repurchase gun | 40 | Allows you to get your gun back without having to wait for the freetime to happen. Only useful if your gun is actually confiscated. |
