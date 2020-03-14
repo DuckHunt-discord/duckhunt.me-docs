@@ -8,19 +8,19 @@ This recollection, especially of 2016, will be of notable events. They may be in
 
 ![This was the first logo of the server, and also Eyesofcreeper\#0001 profile picture](../.gitbook/assets/duck_background.png)
 
-The very first message, `!claimserver` in general was sent by Eyes on 6/22/2016. Olpouin was one of the first people in the server. I really hope someone who speaks French can write more about this part because I literally cant understand anything. 
+The very first message, `!claimserver` in general was sent by Eyes on 6/22/2016. Olpouin was one of the first people in the server. I really hope someone who speaks French can write more about this part because I literally can’t understand anything. 
 
-Outout\#4039 claims him and eyes had discovered Discord API and the bot system in a minecraft server called "Bukkit.fr", and began to learn python. Both of them were 16 at the time. Interesting enough, Almost directly below the first message is an invite to a Minecraft server. Stone duck \(PierrePV\) can be seen talking in the server, so it's assumed he was from there or something. 
+Outout\#4039 claims he and Eyes had discovered Discord API and the bot system in a minecraft server called "Bukkit.fr", and began to learn python. Both of them were 16 at the time. Interesting enough, Almost directly below the first message is an invite to a Minecraft server. Stone duck \(PierrePV\) can be seen talking in the server, so it's assumed he was from there or something. 
 
 On 8/25, Eyes played with the Donald Trump bot. The bot was shot 3 times in \#game-all-time, and was removed on 7/2/17. The bot was used 23 times. 
 
 Worse Augus\#9397 made the first racist joke in the server. He claimed the 6/6 2/2 weapon was made in china. 
 
-Hey, I figured out if you copy and paste the date from discord, it looks like that \(below\) 
+Hey, I figured out if you copy and paste the date from discord, it looks like that \(below\). 
 
 ### 09/22/2016
 
-OVH deactivated the anti DDoS. [http://travaux.ovh.net/?do=details&id=20421](http://travaux.ovh.net/?do=details&id=20421) This caused the bot to go down. OVH was one of europes top hosters. Eyes warned the bot may be taken down occasionally, and explained it was out of his control. 
+OVH deactivated the anti DDoS. [http://travaux.ovh.net/?do=details&id=20421](http://travaux.ovh.net/?do=details&id=20421) This caused the bot to go down. OVH was one of Europes top hosters. Eyes warned the bot may be taken down occasionally, and explained it was out of his control. 
 
 ### 10/29/2016
 
@@ -32,7 +32,7 @@ Eyes of creeper sent a hand reveal.
 
 ### 11/13/2016
 
-DuckHunt-Beta\#0428 says "Prout" to eye's $kill command. 
+DuckHunt-Beta\#0428 says "Prout" to Eyes’ $kill command. 
 
 ### 11/14/2016
 
