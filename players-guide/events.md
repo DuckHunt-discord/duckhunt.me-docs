@@ -35,19 +35,19 @@ There is approximately a 20% more chance for a duck to be a super duck.
 
 > The safety class was canceled. Beware of shooting other hunters!
 
-There is 5% more chance you'll shoot another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst event, don't forget to [buy a sight](store-items.md) to reduces misses.
+There is a 5% more chance you'll shoot another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst event, don't forget to [buy a sight](store-items.md) to reduces misses.
 
 ### Connection problems
 
 > Ducks cant find your computer due to connection problems, and there will be less of them until it's repaired.
 
-There is a 10% chance a duck that should have spawned get canceled.
+There is a 10% chance a duck that should have spawned gets canceled.
 
 ### A new florist in town
 
-> A florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
+> A new florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
 
-One of the best events. This adds 10 experience to the upper bound of clover experience. Normally, without this event, when you buy a clover, it'll give you from 1 to 10 experience points more for every duck killed by you. With this event, the clover experience will be rolled between 1 and 20!
+One of the best events. This adds 10 exp to the upper bound of clover exp. Normally, when you buy a clover, it'll give you from 1 to 10 exp points more for every duck killed by you. With this event, the clover experience will be rolled between 1 and 20!
 
 ### Mega-ducks
 
