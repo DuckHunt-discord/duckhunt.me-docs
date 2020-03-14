@@ -94,7 +94,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Happy&amp;Kindness-Manager</td>
-      <td style="text-align:left">A role created for Wizzz. Holds a higher position above the moderators
+      <td style="text-align:left">A role created for Wizzz. Holds a higher position above the moderator&#x2019;s
         role, making the role stronger.</td>
     </tr>
     <tr>
