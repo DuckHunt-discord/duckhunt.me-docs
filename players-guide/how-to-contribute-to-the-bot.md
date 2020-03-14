@@ -18,7 +18,7 @@ Hey, thanks for wanting to improve the wiki! There is [a specific page](../how-t
 
 ### Help on the support server
 
-You can join our support server using [this link](https://discord.gg/2BksEkV). Come and help us answers questions from beginners and confirmed people alike. If you want to get yourself familiar with the rules and commands first, [read here](../support-server/how-to-join.md). 
+You can join our support server using [this link](https://discord.gg/2BksEkV). Come and help us answer questions from beginners and confirmed people alike. If you want to get yourself familiar with the rules and commands first, [read here](../support-server/how-to-join.md). 
 
 ### Donate
 
