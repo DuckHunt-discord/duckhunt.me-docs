@@ -14,7 +14,7 @@ How to use the shop command.
 | 8 | Infrared Detector | 15 | Locks the trigger when there is no duck, thus saving bullets. Lasts for 24h, or blocks 6 shots, whichever comes first. |
 | 9 | Silencer | 5 | Muffles the noise from your gun for 24h so ducks don’t get frightened and fly away. |
 | 10 | Four-leaf Clover | 13 | Get extra exp for each duck you kill for 24h. It can be from 1 to 10 exp and is determined at purchase. |
-| 11 | Sunglasses | 5 | Protects from mirror induce-glares for 24h. |
+| 11 | Sunglasses | 5 | Protects from mirror-induced glare for 24h. |
 | 12 | Spare clothes | 7 | Dry set of clothes. Useful when someone pours a bucket of water on you. |
 | 13 | Brush for Gun | 7 | Cancels the sabotage and removes sand from your gun. |
 | 14 | Mirror | 7 | Dazzles a player of your choice and makes them lose 50% of their accuracy on the next shot. |
