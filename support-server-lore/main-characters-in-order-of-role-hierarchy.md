@@ -35,8 +35,8 @@ description: Important people in the server.
         <p>Diagamma#7456</p>
         <p>(94822638991454208)</p>
       </td>
-      <td style="text-align:left">Joined the server back in 2016. Left the server in (11/30/2017). repeatedly
-        left and rejoined. Joined back in (06/02/2019). French. Considered &quot;Retired
+      <td style="text-align:left">Joined the server back in 2016. Left the server on 11/30/2017. Repeatedly
+        left and rejoined. Joined back in 06/02/2019. French. Considered &quot;Retired
         Staff.&quot;</td>
     </tr>
   </tbody>
