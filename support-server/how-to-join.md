@@ -12,7 +12,7 @@ Additionally, the following rules apply:
 
 1. When requesting support, please try to show your research, what you tried and what you want exactly.
 2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
-3. Don't post an invite link, or any other advertisement, except on the request from a moderator.
+3. Don't post an invite link, or any other advertisement, except at the request from a moderator.
 4. Don't spam or disturb normal conversation flow.
 5. Avoid pinging multiple people. If you ping @Moderators, you **MUST** have a good reason to do so. 
 6. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
