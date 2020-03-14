@@ -1,4 +1,6 @@
-# Levels and experience
+# Levels and Experience
+
+
 
 | Level number | Minimum experience | Name | Accuracy | Reliability | Bullets | Magazines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -32,7 +34,7 @@
 | 27 | 3770 | Duck wrecker | 91 | 99 | 1 | 5 |
 | 28 | 4050 | Duck impaler | 91 | 99 | 1 | 5 |
 | 29 | 4340 | Duck eviscerator | 92 | 99 | 1 | 5 |
-| 30 | 4640 | Ducks terror | 92 | 99 | 1 | 5 |
+| 30 | 4640 | Duck terror | 92 | 99 | 1 | 5 |
 | 31 | 4950 | Duck exploder | 93 | 99 | 1 | 5 |
 | 32 | 5270 | Duck destructor | 93 | 99 | 1 | 5 |
 | 33 | 5600 | Duck blaster | 94 | 99 | 1 | 5 |
