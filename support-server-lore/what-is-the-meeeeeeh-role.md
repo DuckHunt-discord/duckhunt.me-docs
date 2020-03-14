@@ -16,7 +16,7 @@ EASY WAY TO GET MEEEH QUICK EXPLOIT \(WORKING 2020\):
 5: blend all 4 items together in your mind   
 6: forgot about the 4th item, find a screwdriver  
 7: now blend the 4 items together in your mind  
-8: DM eyes about what you imagine it would taste like, without giving him any context.   
+8: DM Eyes about what you imagine it would taste like, without giving him any context.   
 9: send subtle a pdf file of the bible   
 10: put your clothes back on   
 11: jk, keep them off  
