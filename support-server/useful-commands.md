@@ -57,11 +57,11 @@ R. Danny is mainly used for tags, to quickly send a message for an often asked q
 
 ### Discord Pizza \(Fun\)
 
-This bot allow you to order \(virtual\) pizzas 🍕, for free. Pizzas are made and delivered by real humans \(those who decide to stay get the @Pizza role\).
+This bot allows you to order \(virtual\) pizzas 🍕, for free. Pizzas are made and delivered by real humans \(those who decide to stay get the @Pizza role\).
 
 | Command | Explanation |
 | :--- | :--- |
-| `(>order <your order>` | Order a pizza. Your order can be a pizza with at most 4 ingredients. The pizza will be delivered in the channel where you ran the command. |
+| `(>order <your order>` | Order a pizza. Your order can be a pizza with up to 4 ingredients. The pizza will be delivered in the channel where you ran the command. |
 | `(>myorder` | Check your order status. |
 | `(>rules` | Check the rules that apply to pizza orders. |
 
