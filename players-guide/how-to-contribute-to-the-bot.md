@@ -14,7 +14,7 @@ You can report bugs on the [GitHub issues ](https://github.com/DuckHunt-discord/
 
 ### Improve this website
 
-Hey, thanks for wanting to improve the wiki! There is [a specific page](../how-to-edit-this-wiki.md) for this that explain the process in detail, see you there!
+Hey, thanks for wanting to improve the wiki! There is [a specific page](../how-to-edit-this-wiki.md) for this that explains the process in detail.  See you there!
 
 ### Help on the support server
 
