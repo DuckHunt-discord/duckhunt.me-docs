@@ -82,7 +82,7 @@ Ahuman calls dibs
 
 TeXiT is used to render math formulaes. Use the `$ inline LaTeX equation$` syntax for inline equations and `$$ equation $$` to place equations on their own line.
 
-There is also a few useful commands to query WolframAlpha and calculate 
+There are also a few useful commands to query WolframAlpha and calculate 
 
 <table>
   <thead>
@@ -129,7 +129,7 @@ The following commands can be used by moderators and trusted users.
 | `+snipe` | Recover the last deleted message from the channel. Useful if you had seen some spam on the channel that quickly got deleted. |
 | `+purge {arguments}` | Remove messages in bulk. See the [command documentation](https://docs.getbeaned.me/bot-documentation/using-the-purge-command-to-remove-messages) for more information. |
 | `+rename [user] <nickname>` | Rename a user with an optional nickname. If nickname is not specified, removes the nickname |
-| `+inspect [user/message/channel/...]` | Provides information about a given ID or name, and try to guess what that object is. |
+| `+inspect [user/message/channel/...]` | Provides information about a given ID or name, and tries to guess what that object is. |
 
 No commands here are meant to be used regularly by normal users.
 
