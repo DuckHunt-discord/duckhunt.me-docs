@@ -24,5 +24,5 @@ How to use the shop command.
 |  |  |  |  |
 | 20 | Decoy | 8 | Attracts a duck in the next 10 minutes after purchase. |
 | 21 | Bread | 2 | Throw pieces of bread to improve the probability of seeing ducks for 1h. Bread also makes ducks stay 20 seconds longer. Multiple pieces of bread can be bought for a cumulative effect. |
-| 23 | Mechanical duck | 40 | Play a prank on other hunters by launching a fake duck. They will not gain any exp from it and will lose their ammo. The duck will be automatically launched 10 minutes after purchase. |
+| 23 | Mechanical Duck | 40 | Play a prank on other hunters by launching a fake duck. They will not gain any exp from it and will lose their ammo. The duck will be automatically launched 10 minutes after purchase. |
 
