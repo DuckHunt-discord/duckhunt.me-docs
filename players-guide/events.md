@@ -47,7 +47,7 @@ There is a 10% chance a duck that should have spawned gets canceled.
 
 > A new florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
 
-One of the best events. This adds 10 exp to the upper bound of clover exp. Normally, when you buy a clover, it'll give you from 1 to 10 exp points more for every duck killed by you. With this event, the clover experience will be rolled between 1 and 20!
+One of the best events. This adds 10 exp to the upper bound of clover exp. Normally, when you buy a clover, it'll give you from 1 to 10 exp points more for every duck you kill. With this event, the clover experience will be rolled between 1 and 20!
 
 ### Mega-ducks
 
