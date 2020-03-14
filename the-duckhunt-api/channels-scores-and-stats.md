@@ -12,7 +12,7 @@ Get a hunter score on a channel
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint gives you statistics on a specific user. You will get the more results by using this method.
+This endpoint gives you statistics on a specific user. You’ll get more results by using this method.
 {% endapi-method-description %}
 
 {% api-method-spec %}
