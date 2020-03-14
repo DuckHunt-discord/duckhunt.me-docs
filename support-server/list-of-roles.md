@@ -18,7 +18,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Have DuckHunt</td>
-      <td style="text-align:left">You have to be the owner or bot admin in a server with duckhunt, ask a
+      <td style="text-align:left">You have to be the owner or bot admin in a server with DuckHunt, ask a
         mod for the role (DON&apos;T ping please)</td>
     </tr>
     <tr>
@@ -53,14 +53,14 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">English Support Volunteer</td>
-      <td style="text-align:left">A person who knows alot about the bot, and can help people in english.
+      <td style="text-align:left">A person who knows a lot about the bot, and can help people in english.
         <br
         />Can get pinged by people in #support_english if people need it.</td>
     </tr>
     <tr>
       <td style="text-align:left">French Support Volunteer</td>
       <td style="text-align:left">
-        <p>A person who knows alot about the bot, and can help people in french.</p>
+        <p>A person who knows a lot about the bot, and can help people in french.</p>
         <p>Can get pinged by people in #support_french if people need it.</p>
       </td>
     </tr>
