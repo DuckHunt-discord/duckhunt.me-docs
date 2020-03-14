@@ -54,7 +54,7 @@ description: Important people in the server.
         <p>(<em>undisclosed for privacy</em>)</p>
       </td>
       <td style="text-align:left">Considered &quot;Retired Staff.&quot; Held role power of a moderator,
-        but were stronger with the Happy&amp;Kindness-Manager role placed above
+        but was stronger with the Happy&amp;Kindness-Manager role placed above
         (for the color yellow to show). From BeNeLux. Left the server in early
         2020. Played Minecraft, maybe.</td>
     </tr>
@@ -178,7 +178,7 @@ description: Important people in the server.
         <p>InigoMontoya#9392</p>
         <p>(273798408186363905)</p>
       </td>
-      <td style="text-align:left">When asked about their age, they seemed to of forgotten and said &quot;30ish&quot;
+      <td style="text-align:left">When asked about their age, they seemed to have forgotten and said &quot;30ish&quot;
         They are American. Unsure whether or not PierrePV has a bigger butt then
         Olpouin. When asked &quot;If you had to fight an elementary school, and
         every wave consisted with 5 2nd graders with a boss 6th grader every 5th
