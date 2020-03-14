@@ -9,7 +9,7 @@
 | 2 | 20 | Noob | 56 | 86 | 6 | 2 |
 | 3 | 50 | Trainee | 57 | 87 | 6 | 2 |
 | 4 | 90 | Duck misser | 58 | 88 | 6 | 2 |
-| 5 | 140 | Member of the Comitee Against Ducks | 59 | 89 | 6 | 2 |
+| 5 | 140 | Member of the Committee Against Ducks | 59 | 89 | 6 | 2 |
 | 6 | 200 | Duck hater | 60 | 90 | 6 | 2 |
 | 7 | 270 | Duck pest | 65 | 93 | 4 | 3 |
 | 8 | 350 | Duck hassler | 67 | 93 | 4 | 3 |
