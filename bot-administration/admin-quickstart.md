@@ -16,7 +16,7 @@ Adding the official bot to your server is super easy! Follow the instructions:
 * **You should be asked to type `dh!add_channel`in the channel where you want the game to start.** Do that and you'll be good to go.
 
 {% hint style="warning" %}
-If you want to [configure settings](edit-settings-settings-list.md), you must do it in an **enabled channel**. However, parameters are server-wide, while scores are per-channel. If you want to edit settings in a staff channel, you can add it to the game temporarily, the run `dh!del_channel`to remove it once you edited settings.
+If you want to [configure settings](edit-settings-settings-list.md), you must do it in an **enabled channel**. However, parameters are server-wide, while scores are per-channel. If you want to edit settings in a staff channel, you can add it to the game temporarily, then run `dh!del_channel`to remove it once you edited settings.
 {% endhint %}
 
 
