@@ -26,10 +26,10 @@ The bang\_lag [setting](../bot-administration/edit-settings-settings-list.md) is
 
 ### Steroids in the lake
 
-> A medical waste company dumped steroids in the lake.   
-> Ducks have mutated, and you'll see a lot more super ducks. But, be careful, and don't drink that water.
+> A medical waste company dumped steroids into the lake.   
+> Ducks have mutated, and you'll see a lot more Super Ducks. But, be careful, and don't drink that water.
 
-There is approximately a 20% more chance for a duck to be a super duck.
+There is approximately a 20% more chance for a duck to be a Super Duck.
 
 ### Safety class canceled
 
