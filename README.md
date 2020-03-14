@@ -4,7 +4,7 @@ description: Vertalen kan nog incompleet zijn.
 
 # De DuckHunt bot
 
-DuckHunt is leuke spelletjesbot waarbij je op eenden moet jagen die in discord in een kanaal verschijnen. Je probeert de ladder van het [leaderboard](players-guide/levels-and-experience.md) te beklimmen, prankt andere jagers en hebt veel lol in dit leuke spel.. 
+DuckHunt is leuke spelletjesbot waarbij je op eenden moet jagen die in discord in een kanaal verschijnen. Je probeert de ladder van het [leaderboard](players-guide/levels-and-experience.md) te beklimmen, prankt andere jagers en maak wat eendenlever in dit geweldige spel. 
 
 Deze wiki was gemaakt voor DuckHunt\#0550, een Discord bot gemaakt door Eyesofcreeper\#0001. Deze wiki zal dienen als de collectie van informatie over de bot \(zoals commandos en [Instellingen](bot-administration/edit-settings-settings-list.md)\), een snelle [opstarthulp  ](bot-administration/admin-quickstart.md)tezamen met [informatie over de support server ](support-server/how-to-join.md)op Discord. 
 
