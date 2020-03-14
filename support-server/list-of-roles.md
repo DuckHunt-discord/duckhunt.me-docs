@@ -117,7 +117,7 @@ description: 'note: it may be incomplete'
         They have special permission from Eyes.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Eminigma Event Winner 2019</td>
+      <td style="text-align:left">Enigma Event Winner 2019</td>
       <td style="text-align:left">People who won the <a href="../support-server-lore/server-events/">enigma event in 2019</a>
       </td>
     </tr>
