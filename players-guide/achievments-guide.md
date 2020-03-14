@@ -56,7 +56,7 @@ You need to willfully kill someone to get this.
 
 ### Number of ducks killed achievements
 
-Since there is a big number of ducks killed achievments, please refer to the following tabs. The tab title is the number of ducks killed needed.
+Since there is a big number of ducks killed achievements, please refer to the following tabs. The tab title is the number of ducks killed needed.
 
 {% tabs %}
 {% tab title="1" %}
