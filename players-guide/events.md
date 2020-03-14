@@ -43,19 +43,19 @@ There is a 5% more chance you'll shoot another hunter when you miss a shot. Norm
 
 There is a 10% chance a duck that should have spawned gets canceled.
 
-### A new florist in town
+### A New Florist in Town
 
 > A new florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
 
 One of the best events. This adds 10 exp to the upper bound of clover exp. Normally, when you buy a clover, it'll give you from 1 to 10 exp points more for every duck you kill. With this event, the clover experience will be rolled between 1 and 20!
 
-### Mega-ducks
+### Mega-Ducks
 
 > Someone inflated a super duck, and now they‘re EVEN BIGGER!!
 
 Super Ducks get 3 more lives.
 
-### Windy weather
+### Windy Weather
 
 > Bullets are deflected by strong wind
 
