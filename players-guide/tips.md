@@ -29,7 +29,7 @@ A silencer is really useful in the early game, since you miss loads of shots and
 
 ### **Late game**
 
-Eventually you'll get a fancy sniper rifle with only 1 bullet per clip. at this point in the game buying bullets is better than buying clips. Also a 4-leaf clover \(`dhbuy 10`\) is necessary to get on top, and a infrared detector \(`dhbuy 8`\) is really recommended to avoid waste.   
+Eventually you'll get a fancy sniper rifle with only 1 bullet per clip. At this point in the game buying bullets is better than buying clips. Also a 4-leaf clover \(`dhbuy 10`\) is necessary to get on top, and an infrared detector \(`dhbuy 8`\) is really recommended to avoid waste.   
 You can always drop 4 or 5 bread pieces on a channel and hope it lures more ducks.   
 \(`dhbuy 21`\)
 
