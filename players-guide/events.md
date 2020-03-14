@@ -33,7 +33,7 @@ There is approximately a 20% more chance for a duck to be a super duck.
 
 ### Safety class canceled
 
-> The safety class was canceled, beware not to shoot other hunters!
+> The safety class was canceled. Beware of shooting other hunters!
 
 There is 5% more chance you'll kill another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst event, don't forget to [buy a sight](store-items.md) to reduces misses.
 
