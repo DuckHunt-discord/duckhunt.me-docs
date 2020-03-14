@@ -1,6 +1,6 @@
 # Events
 
-Events happen globally, at the same time, across all of discord. They will change gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an event will be applied \(for an hour\). If an event is to be drawn, they are chosen from the list of events with equal probability. This means that there should be approximately 2 events per day.
+Events happen globally, at the same time, and across all of discord. They will change gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an event will be applied \(for an hour\). If an event is to be drawn, they are chosen from the list of events with equal probability. This means that there should be approximately 2 events per day.
 
 {% hint style="success" %}
 To display the current event, you can use the `dh!event`command.
@@ -33,7 +33,7 @@ There is approximately a 20% more chance for a duck to be a super duck.
 
 ### Safety class canceled
 
-> The safety class was canceled, beware not to shoot others hunters!
+> The safety class was canceled, beware not to shoot other hunters!
 
 There is 5% more chance you'll kill another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst event, don't forget to [buy a sight](store-items.md) to reduces misses.
 
