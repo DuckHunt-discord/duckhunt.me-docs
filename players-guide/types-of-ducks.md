@@ -68,5 +68,5 @@ _You could get even more after this but it's more likely that you'd win the lott
 
 ### Even more rare?
 
-You could go on and on, these are just some examples. If you get any rare occurrence \(like 5 babies in a row\) be sure to post them and we might add those.
+We  could go on and on, these are just some examples. If you get any rare occurrence \(like 5 babies in a row\) be sure to post them and we might add those.
 
