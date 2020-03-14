@@ -51,15 +51,15 @@ One of the best events. This adds 10 exp to the upper bound of clover exp. Norma
 
 ### Mega-ducks
 
-> Someone inflated a super duck, and now they are EVEN BIGGER!!
+> Someone inflated a super duck, and now they‘re EVEN BIGGER!!
 
-Super ducks get 3 more lives.
+Super Ducks get 3 more lives.
 
 ### Windy weather
 
-> Bullets are deflected by some strong wind
+> Bullets are deflected by strong wind
 
-There is 8% more chance you'll miss a shot. The sight is not really useful with this event.
+There is an 8% more chance you'll miss a shot. The sight is not really useful with this event.
 
 ### Restarting
 
