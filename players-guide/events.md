@@ -6,38 +6,38 @@ Events happen globally, at the same time, and across all of discord. They will c
 To display the current event, you can use the `dh!event`command.
 {% endhint %}
 
-### Everything is calm
+### Everything is Calm
 
 > Nothing is happening right now.
 
 This means that the game is running normally.
 
-### Ducks are migrating
+### Ducks are Migrating
 
 > Prepare to see more ducks in the next hour.
 
 There is a 10% chance that 2 ducks will spawn instead of one.
 
-### Foggy weather
+### Foggy Weather
 
 > It's harder to see killed ducks. You'll need a few more seconds to know if you missed or not.
 
 The bang\_lag [setting](../bot-administration/edit-settings-settings-list.md) is up by 3 seconds. It means that you'll only get the result of your shot 3 seconds after running the bang command.
 
-### Steroids in the lake
+### Steroids in the Lake
 
 > A medical waste company dumped steroids into the lake.   
 > Ducks have mutated, and you'll see a lot more Super Ducks. But, be careful, and don't drink that water.
 
 There is approximately a 20% more chance for a duck to be a Super Duck.
 
-### Safety class canceled
+### Safety Class Canceled
 
 > The safety class was canceled. Beware of shooting other hunters!
 
 There is a 5% more chance you'll shoot another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst event, don't forget to [buy a sight](store-items.md) to reduces misses.
 
-### Connection problems
+### Connection Problems
 
 > Ducks cant find your computer due to connection problems, and there will be less of them until it's repaired.
 
