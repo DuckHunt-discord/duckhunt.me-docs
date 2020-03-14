@@ -16,7 +16,7 @@
 | 9 | 440 | Duck plucker | 69 | 93 | 4 | 3 |
 | 10 | 540 | Hunter | 71 | 94 | 4 | 3 |
 | 11 | 650 | Duck inside out turner | 73 | 94 | 4 | 3 |
-| 12 | 770 | Duck clobber | 73 | 94 | 4 | 3 |
+| 12 | 770 | Duck clobberer | 73 | 94 | 4 | 3 |
 | 13 | 900 | Duck chewer | 74 | 95 | 4 | 3 |
 | 14 | 1040 | Duck eater | 74 | 95 | 4 | 3 |
 | 15 | 1190 | Duck flattener | 75 | 95 | 4 | 3 |
