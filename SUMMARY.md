@@ -6,7 +6,7 @@
 
 * [Snelstart](bot-administration/admin-quickstart.md)
 * [Instellingen/ lijst van instellingen](bot-administration/edit-settings-settings-list.md)
-* [Admin commands](bot-administration/admin-commands.md)
+* [Admin commandos](bot-administration/admin-commands.md)
 
 ## Players guide
 
