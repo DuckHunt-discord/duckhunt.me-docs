@@ -15,17 +15,17 @@ You can find clips in bushes after killing a duck sometimes.  If you have max cl
 {% hint style="info" %}
 **Remember spawn order**
 
-Ducks either get shot, or they leave, in the same order in which they spawn/
+Ducks either get shot, or they leave, in the same order in which they spawn.
 {% endhint %}
 
 ### **Early game**
 
-In the beginning you start with a bad gun with alot of bullets per clip and abysmal accuracy. At this moment buying clips is better than buying bullets. I recommend getting a 4-leaf clover \(`dhbuy 10`\) if you have more than 20 experience points and then just shoot any duck you can.   
+In the beginning you start with a bad gun with a lot of bullets per clip and abysmal accuracy. At this moment, buying clips is better than buying bullets. I recommend getting a 4-leaf clover \(`dhbuy 10`\) if you have more than 20 exp and then just shoot any duck you can.   
 I also recommend buying a sight for the early game \(`dhbuy 7`\) to minimize missed shots and chances for accidents.  
-You could buy grease to stop jamming, but I reckon it's a waste of XP.  
-You could get a infrared detector to help save bullets and -2 XP, but i'd just use `dhhug` to see if there is a duck when I'm not sure.
+You could buy grease to stop jamming, but I reckon it's a waste of exp.  
+You could get an infrared detector to help save bullets and -2 XP, but I’d just use `dhhug` to see if there‘s a duck when I'm not sure.
 
-A silencer is really useful early game, since you miss loads of shots and these can still scare ducks.
+A silencer is really useful in the early game, since you miss loads of shots and these can still scare ducks.
 
 ### **Late game**
 
