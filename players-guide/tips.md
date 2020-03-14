@@ -4,7 +4,7 @@
 
 {% hint style="warning" %}
 **Watch the freetime!   
-I**f the freetime timer expires, you get your gun \(if it's confiscated\) and some ammo clips for free. use  \(`dhfreetime`\) to see when the freetime happens.
+I**f the freetime timer expires, you get your gun \(if it's confiscated\) and magazine refills for free. use  \(`dhfreetime`\) to see when the freetime happens.
 {% endhint %}
 
 {% hint style="warning" %}
