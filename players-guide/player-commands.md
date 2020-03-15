@@ -12,7 +12,7 @@
 | dh!shop &lt;item number&gt; \[argument\] | Command used to buy things from the shop. For more information, see the Shop Items page. You can also use the dh!shop list command to show the link to the [shop items](store-items.md) page. |
 | dh!top | See the best players on the channel. |
 | dh!send\_exp &lt;player&gt; &lt;amount&gt; | Sends some of your experience points to another player on the game. A tax can be applied to the transfer, depending on the server settings. |
-| dh!freetime | This command will display the time left to wait for the free giveback of chargers and weapons. |
+| dh!freetime | This command will display the time left to wait for the free giveback of mags and weapons. |
 | dh!settings list | Lists every possible [setting](../bot-administration/edit-settings-settings-list.md) that can be modified. |
 | dh!settings modified | See [settings](../bot-administration/edit-settings-settings-list.md) that were modified and their new value. |
 | dh!ping | Pings the bot to see if it is online. |
