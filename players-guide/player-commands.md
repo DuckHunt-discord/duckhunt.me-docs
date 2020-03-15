@@ -5,7 +5,7 @@
 | Command | Description |
 | :--- | :--- |
 | dh!bang | Command used to shoot a duck. Don’t forget that sometimes, mistakes happen and you can miss the ducks… Or worse. |
-| dh!reload | Reloads or unjams your weapon. You must have chargers left if you want to reload. They are given back for free everyday \(check dh!freetime command\), but you can also buy them in the shop. |
+| dh!reload | Reloads or unjams your weapon. You must have mags left if you want to reload. They are given back for free everyday \(check dh!freetime command\), but you can also buy them in the shop. |
 | dh!help | Sends you the help message. |
 | dh!wiki | Sends the link to this website. |
 | dh!stats \[player\] | Gets your or another player’s hunting statistics. |
