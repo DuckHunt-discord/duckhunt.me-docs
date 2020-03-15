@@ -39,7 +39,7 @@ There is a 5% more chance you'll shoot another hunter when you miss a shot. Norm
 
 ### Connection Problems
 
-> Ducks can’t find your computer due to connection problems, and there will be less of them until it's repaired.
+> Ducks can’t find your computer due to connection problems, and there will be fewer of them until it's repaired.
 
 There is a 10% chance a duck that should have spawned gets canceled.
 
