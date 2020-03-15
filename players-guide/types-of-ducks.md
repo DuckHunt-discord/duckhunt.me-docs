@@ -39,7 +39,7 @@ To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive 
 
 ### The MOADs
 
-**MOAD** stands for **M**other **O**f **A**ll **D**ucks, they spawn 2 ducks when killed.  
+**MOAD** stands for **M**other **O**f **A**ll **D**ucks, and they spawn 2 ducks when killed.  
 They always say "**I AM... Your mother"**  
 _It is said that **MOAD**s always have multiple HP, like super ducks._
 
