@@ -20,7 +20,7 @@ If you hunt a lot of ducks, you might run out of **magazines**. In that case, bu
 
 Soon, you'll level up enough and get better weapons so you will be able to drop the silencer and sight, and use **explosive** ammo`dhshop explosive`instead.
 
-If you read all of this, you might be well on your way to become a Pro DuckHunter™️. Have fun with the game, and make sure you ask any questions on the [support server](https://discordapp.com/invite/2BksEkV).
+If you read all of this, you might be well on your way to becoming a Pro DuckHunter™️. Have fun with the game, and make sure you ask any questions on the [support server](https://discordapp.com/invite/2BksEkV).
 
 If you want more information, you might want to:
 
