@@ -27,7 +27,7 @@ Here are a few links if you want to donate some $ to me for running the project.
 * [https://www.patreon.com/duckhunt](https://www.patreon.com/duckhunt)
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)
 * [https://github.com/sponsors/paris-ci](https://github.com/sponsors/paris-ci)
-* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(They provide our servers for free, please help them by buying VPS there. Support available on Discord and they truly are very good.\)
+* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(They provide our servers for free, please help them by buying VPS there. Support is available on Discord and they truly are very good.\)
 
 
 
