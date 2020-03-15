@@ -1,6 +1,6 @@
 # Admin commands
 
-Some commands are more complicated than others. In that case, they will be shown in bold and their arguments will be explained after this command list.
+Some commands are more complicated than others. In that case, they’ll be shown in bold and their arguments will be explained after this command list.
 
 | Command | Description |
 | :--- | :--- |
