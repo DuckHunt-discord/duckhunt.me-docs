@@ -22,12 +22,12 @@ You can join our support server using [this link](https://discord.gg/2BksEkV). C
 
 ### Donate
 
-Hello, here are a few links if you want to donate some $ to me for running the project. Thanks ! 
+Here are a few links if you want to donate some $ to me for running the project. Thanks ! 
 
 * [https://www.patreon.com/duckhunt](https://www.patreon.com/duckhunt)
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)
 * [https://github.com/sponsors/paris-ci](https://github.com/sponsors/paris-ci)
-* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(They provide our servers for free, please help them by buying VPS there. Support available on discord and they truly are very good.\)
+* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(They provide our servers for free, please help them by buying VPS there. Support available on Discord and they truly are very good.\)
 
 
 
