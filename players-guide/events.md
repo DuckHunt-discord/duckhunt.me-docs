@@ -1,6 +1,6 @@
 # Events
 
-Events happen globally, at the same time, and across all of discord. They will change gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an event will be applied \(lasting an hour\). If an event is to be drawn, it is chosen from the list of events with equal probability. This means that there should be approximately 2 events per day.
+Events happen globally, at the same time, and across all of Discord. They will change gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an event will be applied \(lasting an hour\). If an event is to be drawn, it is chosen from the list of events with equal probability. This means that there should be approximately 2 events per day.
 
 {% hint style="success" %}
 To display the current event, you can use the `dh!event`command.

@@ -21,7 +21,6 @@ How to use the shop command.
 | 15 | Handful of sand | 7 | Throw sand on the gun of another player of your choice, the odds of  jamming will increase by 50% for the next shot. Cancels effects from grease. |
 | 16 | Water bucket | 10 | Throw a bucket of water on the hunter of your choice, forcing them to wait 1h for their clothes to dry before hunting again. |
 | 17 | Sabotage | 14 | Sabotage the weapon of another player. Their gun will jam and explode in their face the next time they press the trigger. |
-|  |  |  |  |
 | 20 | Decoy | 8 | Attracts a duck in the next 10 minutes after purchase. |
 | 21 | Bread | 2 | Throw pieces of bread to improve the probability of seeing ducks for 1h. Bread also makes ducks stay 20 seconds longer. Multiple pieces of bread can be bought for a cumulative effect. |
 | 23 | Mechanical duck | 40 | Play a prank on other hunters by launching a fake duck. They will not gain any exp from it and will lose their ammo. The duck will be automatically launched 10 minutes after purchase. |
