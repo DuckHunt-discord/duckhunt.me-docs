@@ -5,7 +5,7 @@
 ## Players guide
 
 * [Comment jouer à DuckHunt](players-guide/how-to-play-with-duckhunt.md)
-* [Player commands](players-guide/player-commands.md)
+* [Commandes pour jouer](players-guide/player-commands.md)
 * [Shop items](players-guide/store-items.md)
 * [Events](players-guide/events.md)
 * [Levels and experience](players-guide/levels-and-experience.md)
