@@ -3,8 +3,8 @@
 ### **To get good at duckhunt you need to be able to manage your experience wisely.**
 
 {% hint style="warning" %}
-**Watch the freetime!   
-I**f the freetime timer expires, you get your gun back \(if it's confiscated\) and some ammo magazines for free. Use \(`dhfreetime`\) to see when the freetime happens.
+**Watch for freetime!**   
+When the freetime timer expires, you get your gun back \(if it's confiscated\) and your magazines are refilled for free. Use `dhfreetime`  to see when freetime happens.
 {% endhint %}
 
 {% hint style="warning" %}
