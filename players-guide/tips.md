@@ -34,7 +34,7 @@ You can always drop 4 or 5 bread pieces on a channel and hope it lures more duck
 \(`dhbuy 21`\)
 
 Avoid buying some items, most are not worth it at this point. Grease, Silencers, ...  
-Most of the anti-sabotage items, such as the weapon cleaning, are useless and should not be brought.
+Most of the anti-sabotage items, such as the weapon cleaning, are useless and should not be bought.
 
 **Never ever buy the life insurance.** It's simply not worth it.
 
