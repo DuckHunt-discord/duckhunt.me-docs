@@ -40,6 +40,6 @@ Most of the anti-sabotage items, such as the weapon cleaning, are useless and sh
 
 ## Extra tips
 
-You can usually tell when there's no duck by looking for the last duck spawned, and for the last message of "You killed the duck in ?? seconds"... But don't assume that the last duck killed is always for the last duck spawned-- convert the seconds to minutes, subtract from time of that message, and compare to previous message timestamps, to see which duck it might have been.  
+You can usually tell when there's no duck by looking for the last duck spawned, and for the last message of "You killed the duck in ?? seconds"... But don't assume that the time for the last duck killed is always for the last duck spawned-- convert the seconds to minutes, subtract from time of that message, and compare to previous message timestamps to see which duck it might have been.  
  If you're still not sure if there's a duck left in the channel, use dh!hug instead of dh!bang, so you don't waste a bullet.
 
