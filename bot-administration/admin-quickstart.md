@@ -6,7 +6,7 @@ description: >-
 
 # Quickstart
 
-First, I’d like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt on. It is fast, reliable and well-supported!
+First, I’d like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt.  It‘s fast, reliable and well-supported!
 
 Adding the official bot to your server is super easy! Follow the instructions:
 
