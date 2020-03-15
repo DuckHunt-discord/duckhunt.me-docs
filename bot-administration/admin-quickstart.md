@@ -8,7 +8,7 @@ description: >-
 
 First, I’d like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt.  It‘s fast, reliable and well-supported!
 
-Adding the official bot to your server is super easy! Follow the instructions:
+Adding the official bot to your server is super easy! Follow the instructions:  
 
 * Join [our discord server ](https://discord.gg/2BksEkV)to get support if needed. 
 * **Invite the bot to your server by clicking** [**here**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
