@@ -2,12 +2,6 @@
 
 * [The DuckHunt bot](README.md)
 
-## Bot administration
-
-* [Quickstart](bot-administration/command-list.md)
-* [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
-* [Admin commands](bot-administration/admin-commands.md)
-
 ## Players guide
 
 * [How to play DuckHunt](players-guide/how-to-play-with-duckhunt.md)
@@ -20,6 +14,12 @@
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
 * [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)
+
+## Bot administration
+
+* [Quickstart](bot-administration/command-list.md)
+* [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
+* [Admin commands](bot-administration/admin-commands.md)
 
 ## Support server
 
