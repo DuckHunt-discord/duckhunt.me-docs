@@ -2,13 +2,13 @@
 
 * [De DuckHunt bot](README.md)
 
-## Bot administration
+## Bot administratie <a id="bot-administration"></a>
 
 * [Snelstart](bot-administration/admin-quickstart.md)
 * [Instellingen/ lijst van instellingen](bot-administration/edit-settings-settings-list.md)
 * [Admin commandos](bot-administration/admin-commands.md)
 
-## Players guide
+## spelersgids <a id="players-guide"></a>
 
 * [How to play DuckHunt](players-guide/players-quickstart.md)
 * [Player commands](players-guide/player-commands.md)
@@ -28,7 +28,7 @@
 * [List of roles](support-server/list-of-roles.md)
 * [How to become a mod](support-server/how-to-become-a-mod.md)
 
-## Support Server Lore
+## Support Server Kennis \(Lore\) <a id="support-server-lore"></a>
 
 * [Server History \(2016\)](support-server-lore/server-history-2016.md)
 * [Server History \(2017\)](support-server-lore/server-history-2017.md)
@@ -45,7 +45,7 @@
   * ["Clear Your Cache" Awareness](support-server-lore/server-events/clear-your-cache-awareness.md)
   * [Chain Texts](support-server-lore/server-events/chain-texts.md)
 
-## The DuckHunt API
+## De DuckHunt API <a id="the-duckhunt-api"></a>
 
 * [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
 * [Performance metrics](the-duckhunt-api/performance-metrics.md)
