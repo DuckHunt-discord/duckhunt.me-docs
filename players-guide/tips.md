@@ -8,8 +8,8 @@ When the freetime timer expires, you get your gun back \(if it's confiscated\) a
 {% endhint %}
 
 {% hint style="warning" %}
-**Keep a slot open for new clips!**  
-You can find clips in bushes after killing a duck sometimes.  If you have max clips it gets deleted, and that wastes 13 exp!
+**Keep a slot open for new mags!**  
+You can find mags in the bushes after killing a duck sometimes.  If you have max mags it gets deleted, and that wastes 13 exp!
 {% endhint %}
 
 {% hint style="info" %}
