@@ -2,12 +2,6 @@
 
 * [De DuckHunt bot](README.md)
 
-## Bot administratie <a id="bot-administration"></a>
-
-* [Snelstart](bot-administration/admin-quickstart.md)
-* [Instellingen/ lijst van instellingen](bot-administration/edit-settings-settings-list.md)
-* [Admin commandos](bot-administration/admin-commands.md)
-
 ## spelersgids <a id="players-guide"></a>
 
 * [How to play DuckHunt](players-guide/players-quickstart.md)
@@ -20,6 +14,12 @@
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
 * [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)
+
+## Bot administratie <a id="bot-administration"></a>
+
+* [Snelstart](bot-administration/admin-quickstart.md)
+* [Instellingen/ lijst van instellingen](bot-administration/edit-settings-settings-list.md)
+* [Admin commandos](bot-administration/admin-commands.md)
 
 ## Support server
 
