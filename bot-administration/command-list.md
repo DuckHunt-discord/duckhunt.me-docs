@@ -1,23 +1,29 @@
 ---
 description: >-
-  Installing DuckHunt on your server is very easy and can be done in a matter of
-  seconds by following the instructions.
+  Installer DuckHunt sur votre serveur est très facile et peut être fait en
+  quelques secondes en suivant ces instructions.
 ---
 
-# Quickstart
+# Installer DuckHunt
 
-First, I’d like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt on. It is fast, reliable and well-supported!
+Premièrement, merci à [HostMyServers](https://www.hostmyservers.fr/) pour fournir un serveur permettant d'héberger DuckHunt. Le service est rapide et fiable.
 
-Adding the official bot to your server is super easy ! Follow the instructions:
+Ajouter le bot officiel est très facile ! Suivez les étapes suivantes
 
-* Join [our discord server ](https://discord.gg/2BksEkV)to get support if needed. 
-* **Invite the bot to your server by clicking** [**here**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
-* In the channel you want to use, type `dh!setup` and follow the instructions given to you.
-* **You should be asked to type `dh!add_channel`in the channel where you want the game to start.** Do that and you'll be good to go.
+* Rejoignez [notre serveur Discord ](https://discord.gg/2BksEkV)si vous avez besoin d'aide supplémentaire. 
+* **Invitez le bot sur votre seveur en cliquant** [**ici**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
+* Tapez `dh!setup` dans le salon textuel que vous voulez utiliser et suivez les instructions qui vont sont données.
+* **Lot bot devrait vous demander de taper `dh!add_channel`dans le salon textuel où vous voulez jouer.** Faites-le et vous pourrez commencer à jouer.
+
+{% hint style="info" %}
+Vous pouvez utiliser `dh!settings set language fr_FR` dans le salon textuel où vous avez activé le bot pour le mettre en français.
+{% endhint %}
 
 {% hint style="warning" %}
-If you want to [configure settings](edit-settings-settings-list.md), you must do it in an **enabled channel**. However, parameters are server-wide, while scores are per-channel. If you want to edit settings in a staff channel, you can add it to the game temporarily, the run `dh!del_channel`to remove it once you edited settings.
+Si vous voulez [configure settings](edit-settings-settings-list.md), vous devez le faire dans un salon textuel **où le bot est activé**. Attention, les paramètres sont les mêmes sur tout le serveur, alors que les scores sont indépendants à chaque salon texuel. Si vous voulez changer les paramètres dans un salon textuel pour les admins, vous pouvez l'ajouter temporairement, modifier les paramètres que vous voulez puis utiliser `dh!del_channel` pour désactiver ce salon.
 {% endhint %}
+
+
 
 
 
