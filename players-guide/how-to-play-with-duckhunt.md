@@ -1,31 +1,31 @@
-# How to play DuckHunt
+# Comment jouer à DuckHunt
 
-The goal of the game is to earn the most experience so as to be the top player on your channel leaderboard.
+Le but du jeu est de gagner le plus d'expérience possible pour être premier dans le classement de votre salon.
 
-To earn experience, you must kill ducks. Most ducks killed will get you \(assuming the default settings\) 10 exp. However, sometimes you might find other [types of ducks](types-of-ducks.md) that are worth more experience.
+Pour gagner des points d'expérience, vous devez tuer des canards. La plupart des canards que vous tuerez vont vous rapporter \(si les paramètres n'ont pas étés modifiés\) 10 exp. Cependant, il se peut que vous trouviez d'autres [types de canards](types-of-ducks.md) qui vous rapportent plus d'expérience.
 
-To kill a duck, you need to shoot at it with your weapon, using the `dh!bang` command. Assuming you are lucky, you'll hit the duck and win experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you will have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
+Pour tuer un canards, vous devez lui tirer dessus avec la commande `dh!bang`. Si vous êtes chanceux, vous allez toucher le canard et gagner de l'expérience. Si vous ne l'êtes pas, vous pouvez rater votre tir. Dans ce cas, pas d'inquiétude, vous pouvez réessayer en envoyant la commande à nouveau. Si votre arme se fait confisquer, vous devrez attendre jusqu'à `dh!freetime` ou [la racheter au magasin](store-items.md) avec votre expérience.
 
 {% hint style="info" %}
-The `dh!bang` command can often be reduced to simply `dhpan` or `!pan`. Many aliases are available, will you be able to find them all ?
+La commande `dh!bang` peut aussi être utilisée avec `dhpan` ou `!pan`.  Il y a beaucoup de commandes pour `dh!bang`, arriverez-vous à toutes les trouver ?
 {% endhint %}
 
-You may also need to reload your weapon, either because you have no more bullets or because it jammed. No worries, the command is just `dh!reload`.   
+Vous aurrez aussi besoin de recharger votre arme, parce que vous n'avez plus de munition ou que votre arme s'est bloquée. Ne vous inquiétez pas, il suffit de taper `dh!reload`.   
   
-Once you killed a few ducks, you should have got enough experience to explore the [shop](store-items.md), using the `dhbuy` command. 
+Une fois que vous avez tué quelques canards, vous aurez probablement assez d'expérience pour aller voir le [magasin](store-items.md), avec la commande `dhbuy`. 
 
-We recommend you buy a **silencer** to avoid letting the ducks flee on you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\),  a **sight** to improve your aim \(`dhshop sight`\). 
+Nous vous recommendons d'acheter un **silencieux** pour éviter que les canards s'enfuient quand vous tirez \(`dhshop silencer`\), un **trèfle à quatre feuilles** pour gagner beaucoup plus d'expérience à chaque canars tué \(`dhshop clover`\),  un **viseur** pour améliorer votre précision \(`dhshop sight`\). 
 
-If you killed many ducks, you might ran out of **magazine**s. In that case, buy some from the shop \(`dhshop 2`\). You should never be full on magazines \(so you can keep those you might find for free after killing ducks\), and try to be as close to zero as possible since, for freetime, your magazines count get reflled \(not your bullets tho, remember to reload\).
+Si vous avez tué beaucoup de canards, vous risquez de ne plus avoir assez de **chargeurs**. Dans ce cas, vous pouvez en racheter dans le magasin \(`dhshop 2`\). Vous ne devriez jamais avoir votre inventaire rempli de chargeurs pour vous permettre d'en récupérer gratuitement en tuant des canards. Essayez d'être aussi proche de 0 que possible puisque, lors du « freetime », votre réserve de chargeurs est remplie automatiquement \(uniquement les chargeurs, pensez donc bien à recharger votre arme de balles\).
 
-Soon, you'll level up enough and get better weapons so you will be able to drom the silencer and sight, and use **explosive** ammo \(`dhshop explosive`\) instead.
+Vous monterez assez rapidement de niveau et vous receverez des meilleures armes, vous pourrez donc arrêter d'utiliser le **silencieux** et le **viseur** pour utiliser des munitions **explosives** \(`dhshop explosive`\) à la place.
 
-If you read all of this, you might now be well on your way to become a Pro DuckHunter™️. Have fun with the game, and make sure you ask any question on the [support server](https://discordapp.com/invite/2BksEkV).
+Si vous avez lu tout cela, vous êtes sur le bon chemin pour devenir un DuckHunter™️ Pro. Amusez vous bien et n'éhistez pas à poser toutes vos questions [sur le serveur de support](https://discordapp.com/invite/2BksEkV).
 
-If you want more information, you might want to:
+Si vous voulez plus d'informations, vous pouvez :
 
-* Read the [full command list for players](player-commands.md)
-* See what [shop items are available in the shop](store-items.md)
-* See what [events are and how they'll impact your gameplay](events.md)
-* Read some [frequently asked questions](faq.md)
+* Lire [la liste complète des commandes pour les joueurs](player-commands.md)
+* Voir quels [objets vous pouvez acheter dans le magasin](store-items.md)
+* Voir ce que sont les [evènements et comment ](events.md)ils impactent votre jeu
+* Lire la [FAQ](faq.md)
 
