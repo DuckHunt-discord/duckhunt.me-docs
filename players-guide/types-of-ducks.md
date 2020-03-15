@@ -43,7 +43,7 @@ To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive 
 They always say "**I AM... Your mother"**  
 _It is said that **MOAD**s always have multiple HP, like super ducks._
 
-Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Additionnaly, they may be of any type.
+Children of the MOAD’s **do not count** towards the **`ducks_per_day`** parameter. Additionnaly, they may be of any type.
 
 ![Some MOADs spawned. When killed, you&#x2019;ll see two new ducks, the children.](../.gitbook/assets/image%20%286%29.png)
 
