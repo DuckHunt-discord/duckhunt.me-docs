@@ -15,6 +15,6 @@
 | dh!freetime | This command will display the time left to wait for the free giveback of mags and weapons. |
 | dh!settings list | Lists every possible [setting](../bot-administration/edit-settings-settings-list.md) that can be modified. |
 | dh!settings modified | See [settings](../bot-administration/edit-settings-settings-list.md) that were modified and their new value. |
-| dh!ping | Pings the bot to see if it is online. |
+| dh!ping | Pings the bot to see if it‘s online. |
 | dh!uptime | Shows the bot’s uptime. |
 
