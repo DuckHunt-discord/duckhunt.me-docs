@@ -1,8 +1,18 @@
-# How to play DuckHunt
+# Hoe speel je DuckHunt
 
-The goal of the game is to earn the most experience so as to be the top player on your channel leaderboard.
+Het doel van het spel is om de meeste ervaring op te doen om de beste speler op je kanaalranglijst te worden. 
 
-To earn experience, you must kill ducks. Most ducks killed will get you \(assuming the default settings\) 10 exp. However, sometimes you might find other [types of ducks](types-of-ducks.md) that are worth more experience.
+Om ervaring op te doen, moet je eenden doden. Voor de meeste gedode eenden krijg je \(uitgaande van de standaardinstellingen\) 10 exp. Soms vind je echter andere soorten eenden die meer ervaring waard zijn. 
+
+Om een ​​eend te doden, moet je er met je wapen op schieten met het commando `dh!bang`. Ervan uitgaande dat je geluk hebt, raak je de eend en win je ervaring. Als je dat niet bent, mis je misschien je schot. In dat geval, geen zorgen, je kunt het gewoon opnieuw proberen door de opdracht opnieuw te typen. Als je wapen in beslag wordt genomen, moet je wachten tot de freetime timer klaar is \(`dh!freetime`\) of het met je XP terug kopen in de [winkel](store-items.md). 
+
+{% hint style="info" %}
+Het commando `dh!bang` kan vaak worden verkleind tot eenvoudig `dhpan` of `!pan`. Er zijn veel aliassen beschikbaar, kun je ze allemaal vinden? 
+{% endhint %}
+
+Mogelijk moet je ook je wapen opnieuw laden, omdat je geen kogels meer hebt of omdat het wapen is vastgelopen. Geen zorgen, de oplossing is gewoon herladen! Zodra je een paar eenden hebt gedood, zou je genoeg ervaring moeten hebben om de winkel te verkennen met behulp van het dhbuy-commando. We raden je aan een geluiddemper te kopen om te voorkomen dat de eenden op je af vliegen \(`dhshop silencer`\), een klaver zodat je \(veel\) meer ervaring opdoet voor elke kill \(dhshop klaver\), een zicht om je doel te verbeteren \(dhshop zicht\). Als je veel eenden hebt gedood, heb je misschien geen tijdschriften meer. Koop in dat geval wat in de winkel \(dhshop 2\). Je moet nooit vol zijn met tijdschriften \(dus je kunt ze gratis bewaren na het doden van eenden\) en proberen zo dicht mogelijk bij nul te blijven, omdat je tijdschriften voor vrije tijd opnieuw worden gevuld \(niet je kogels, onthoud dat herladen\). Binnenkort zul je voldoende stijgen en betere wapens krijgen, zodat je de geluiddemper en het zicht kunt drommen, en in plaats daarvan explosieve munitie \(dhshop-explosief\) kunt gebruiken. Als je dit allemaal leest, ben je nu misschien goed op weg om een ​​Pro DuckHunter ™ ️ te worden. Veel plezier met het spel en stel elke vraag op de ondersteuningsserver. Als je meer informatie wilt, wil je misschien: Lees de volledige lijst met opdrachten voor spelers Bekijk welke winkelartikelen er in de winkel verkrijgbaar zijn Bekijk wat evenementen zijn en hoe ze uw gameplay beïnvloeden Lees enkele veelgestelde vragen
+
+## --------------------------------------------------------
 
 To kill a duck, you need to shoot at it with your weapon, using the `dh!bang` command. Assuming you are lucky, you'll hit the duck and win experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you will have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
 

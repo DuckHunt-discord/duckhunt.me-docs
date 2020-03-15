@@ -4,7 +4,7 @@
 
 ## spelersgids <a id="players-guide"></a>
 
-* [How to play DuckHunt](players-guide/players-quickstart.md)
+* [Hoe speel je DuckHunt](players-guide/players-quickstart.md)
 * [Player commands](players-guide/player-commands.md)
 * [Shop items](players-guide/store-items.md)
 * [Events](players-guide/events.md)
