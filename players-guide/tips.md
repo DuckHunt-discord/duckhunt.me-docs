@@ -25,7 +25,7 @@ I also recommend buying a sight for the early game `dhbuy 7` to minimize missed 
 You could buy grease to stop jamming, but I reckon it's a waste of exp.  
 You could get an infrared detector to help save bullets and -2 exp, but I’d just use `dhhug` to see if there‘s a duck when I'm not sure.
 
-A silencer is really useful in the early game, since you miss loads of shots and these can still scare ducks away.
+A silencer is really useful in the early game, since you miss loads of shots and the loud noise can still scare ducks away.
 
 ### **Late game**
 
