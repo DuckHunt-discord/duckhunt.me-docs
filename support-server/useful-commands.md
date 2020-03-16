@@ -80,7 +80,7 @@ Ahuman calls dibs
 
 ### TeXiT \(Math\)
 
-TeXiT is used to render math formulaes. Use the `$ inline LaTeX equation$` syntax for inline equations and `$$ equation $$` to place equations on their own line.
+TeXiT is used to render math formulas. Use the `$ inline LaTeX equation$` syntax for inline equations and `$$ equation $$` to place equations on their own line.
 
 There are also a few useful commands to query WolframAlpha and calculate 
 
