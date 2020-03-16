@@ -15,7 +15,7 @@ More details will be provided below the following quick-reference table.
 
 ### The regular ducks
 
-The regular duck is the duck you'll find the most frequently. It has only one HP and can be killed in one shot. By default, this duck will award you 10 exp.
+The regular duck is the duck you'll find most frequently. It has only one HP and can be killed in one shot. By default, this duck will award you 10 exp.
 
 ![Some regular ducks in their natural habitat. The messages are randomised for them.](../.gitbook/assets/2020-02-24.21-52-28.png)
 
