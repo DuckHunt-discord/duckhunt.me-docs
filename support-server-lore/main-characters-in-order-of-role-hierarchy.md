@@ -181,9 +181,9 @@ description: Important people in the server.
       <td style="text-align:left">When asked about their age, they seemed to have forgotten and said &quot;30ish&quot;
         They are American. Unsure whether or not PierrePV has a bigger butt then
         Olpouin. When asked &quot;If you had to fight an elementary school, and
-        every wave consisted with 5 2nd graders with a boss 6th grader every 5th
+        every wave consisted of five 2nd graders with a boss 6th grader every 5th
         wave
-        <br />, how many waves could you survive?&quot; They replied with &quot;36&quot;
+        <br />, how many waves could you survive?&quot; They replied with &quot;36.&#x201D;
         They do not like MineCraft.</td>
     </tr>
     <tr>
