@@ -98,7 +98,7 @@ description: 'note: it may be incomplete'
         role, making the role stronger.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Booth-1</td>
+      <td style="text-align:left">Booth 1</td>
       <td style="text-align:left">&quot;Booth 1 is a very special place nobody can access. There is nothing
         [interesting] in there anyway. That was for when PMs didn&apos;t [access]
         audio. It&apos;s an extension of my PMs, so still private x)&quot; -Eyes</td>
