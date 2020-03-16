@@ -13,7 +13,7 @@ For a list of duckhunt commands, please read
 The following is only an overview of the commands we find to be the most useful. For more information about them, feel free to run the `help`command for the respective bot.
 
 {% hint style="success" %}
-Do **not** include brackets like &lt;&gt; or \[\] in the commands. A &lt;&gt; bracket mention is a **required** argument, and \[\] brackets refer to **optional** arguments.
+Do **not** include brackets like &lt;&gt; or \[\] in the commands. A &lt;&gt; bracket mention a **required** argument, and \[\] brackets refer to **optional** arguments.
 {% endhint %}
 
 ### R. Danny \(Support\)
