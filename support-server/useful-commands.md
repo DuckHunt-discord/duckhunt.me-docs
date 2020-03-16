@@ -18,7 +18,7 @@ Do **not** include brackets like &lt;&gt; or \[\] in the commands. A &lt;&gt; br
 
 ### R. Danny \(Support\)
 
-R. Danny is mainly used for tags, to quickly send a message for an often asked question, a formula or many others.
+R. Danny is mainly used for tags to quickly send a message for an often asked question, a formula or many others.
 
 <table>
   <thead>
