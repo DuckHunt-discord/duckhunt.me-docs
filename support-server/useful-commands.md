@@ -53,7 +53,7 @@ R. Danny is mainly used for tags, to quickly send a message for an often asked q
       <td style="text-align:left">Displays the most-used tags on the server.</td>
     </tr>
   </tbody>
-</table>R. Danny also manage the \#starboard channel. To use it, react with a ⭐️ on a message you find funny. If two people react with ⭐️, the message will be kept on the starboard.
+</table>R. Danny also manages the \#starboard channel. To use it, react with a ⭐️ on a message you find funny. If two people react with ⭐️, the message will be kept on the starboard.
 
 ### Discord Pizza \(Fun\)
 
