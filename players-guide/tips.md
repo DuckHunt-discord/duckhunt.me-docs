@@ -20,8 +20,8 @@ Ducks either get shot, or they leave, in the same order in which they spawn.
 
 ### **Early game**
 
-In the beginning you start with a bad gun with a lot of bullets per mag and abysmal accuracy. At this moment, buying mags is better than buying bullets. I recommend getting a 4-leaf clover \(`dhbuy 10`\) if you have more than 20 exp and then just shoot any duck you can.   
-I also recommend buying a sight for the early game \(`dhbuy 7`\) to minimize missed shots and chances for accidents.  
+In the beginning you start with a bad gun with a lot of bullets per mag and abysmal accuracy. At this moment, buying mags is better than buying bullets. I recommend getting a 4-leaf clover `dhbuy 10`\) if you have more than 20 exp and then just shoot any duck you can.   
+I also recommend buying a sight for the early game \(`dhbuy 7` to minimize missed shots and chances for accidents.  
 You could buy grease to stop jamming, but I reckon it's a waste of exp.  
 You could get an infrared detector to help save bullets and -2 exp, but I’d just use `dhhug` to see if there‘s a duck when I'm not sure.
 
