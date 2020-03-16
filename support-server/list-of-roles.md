@@ -60,7 +60,7 @@ description: 'note: it may be incomplete'
     <tr>
       <td style="text-align:left">French Support Volunteer</td>
       <td style="text-align:left">
-        <p>A person who knows a lot about the bot, and can help people in french.</p>
+        <p>A person who knows a lot about the bot, and can help people in French.</p>
         <p>Can get pinged by people in #support_french if people need it.</p>
       </td>
     </tr>
