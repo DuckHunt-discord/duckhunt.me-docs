@@ -37,7 +37,7 @@ For resetting a setting to its default value, use `dh!settings reset <parameter>
 | super\_ducks\_maxlife | integer | 7 | Maximum life of a super duck |
 | super\_ducks\_minlife | integer | 3 | Minimum life of a super duck |
 | tax\_on\_user\_give | integer | 5 | Percentage of exp that will be taken as a tax when a player uses the send\_exp command. This can be disabled by setting it to 0. |
-| time\_before\_ducks\_leave | integer | 660 | Time in seconds before a duck leaves of boredom if he isn’t killed. |
+| time\_before\_ducks\_leave | integer | 660 | Time in seconds before a duck leaves out of boredom if he isn’t killed. |
 | tts\_ducks | bool | False | Try to speak when ducks appear. Experimental setting. |
 | user\_can\_give\_exp | bool | True | Allow users to send each other experience points with the send\_exp command. |
 | users\_can\_find\_objects | bool | True | Allow users to find objects in bushes. Some objects are trash, some objects will benefit the hunter. |
