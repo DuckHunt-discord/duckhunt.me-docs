@@ -15,7 +15,7 @@ For resetting a setting to its default value, use `dh!settings reset <parameter>
 | clover\_min\_exp | integer | 1 | Minimum experience bonus given by a clover |
 | delete\_commands | bool | False | Anti-flood parameter: delete commands from hunters after execution |
 | disable\_decoys\_when\_ducks\_are\_sleeping | bool | True | Make decoys ineffective when ducks are sleeping \(see sleeping\_ducks\_start and sleeping\_ducks\_stop\) |
-| duck\_frighten\_chance | integer | 5 | Probability in percent that a duck will get afraid and fly off when a hunter shoots at him |
+| duck\_frighten\_chance | integer | 5 | Probability in percent that a duck will be frightened and fly off when a hunter shoots at him |
 | ducks\_per\_day | integer | 48 | Number of ducks that will spawn on a channel each day |
 | emoji\_used | string | :duck: | Emoji used by the bot if the emoji\_ducks setting is enabled |
 | exp\_won\_per\_duck\_killed | integer | 10 | Experience points earned by a hunter per killed duck |
