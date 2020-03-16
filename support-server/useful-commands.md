@@ -125,7 +125,7 @@ The following commands can be used by moderators and trusted users.
 | Command | Explanation |
 | :--- | :--- |
 | `+note {users} [reason]` | Add a simple note to the user profile. Doesn't do anything by itself, this mostly serves as a reminder from staff or for very minor infractions. |
-| `+warn {users} <reason>` | Warns users on the server. While warns by themselves don't do anything, thresholds apply to warns and users may get kicked if they reach it. |
+| `+warn {users} <reason>` | Warns users on the server. While warns by themselves don't do anything, thresholds apply to warns, and users may get kicked if they reach it. |
 | `+snipe` | Recover the last deleted message from the channel. Useful if you had seen some spam on the channel that quickly got deleted. |
 | `+purge {arguments}` | Remove messages in bulk. See the [command documentation](https://docs.getbeaned.me/bot-documentation/using-the-purge-command-to-remove-messages) for more information. |
 | `+rename [user] <nickname>` | Rename a user with an optional nickname. If nickname is not specified, removes the nickname |
