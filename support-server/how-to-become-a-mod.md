@@ -16,7 +16,7 @@ Before we start, I would like to mention that some of these steps can't be done 
 So you first joined the server because you found DuckHunt somewhere and decided to check out the support server. This is your first day and you might not be talking in \#general just yet. I was mainly playing in \#game-all-time a few days before stepping into the other channels. A few days later, I decided to go into \#general to chat and \#support\_english to help people whenever they needed it. 
 
 **Translator**   
-After 1-2 weeks of chatting and supporting, I decided to look into translating the bot because I like the bot and i noticed that no one has translated the bot into Danish, so i decided to take the opportunity and was granted the translator role. I was done translating after around 2 weeks. 
+After 1-2 weeks of chatting and supporting, I decided to look into translating the bot because I like the bot and noticed that no one had translated the bot into Danish.  I decided to take the opportunity and was granted the translator role. I was done translating after around 2 weeks. 
 
 This can be done faster, but you don't have to rush it.
 
