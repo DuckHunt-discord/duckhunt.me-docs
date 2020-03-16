@@ -13,7 +13,7 @@ This guide is the story of how Taoshi\#0001 became moderator on the server. If y
 Before we start, I would like to mention that some of these steps can't be done by everyone and not all of the steps are necessary, but doing all of them will definitely boost your chances.
 
 **You just joined**   
-So you first joined the server because you found DuckHunt somewhere and decided to check out the support server. This is your first day and you might not be talking in \#general just yet. I was mainly playing in \#game-all-time a few days before stepping into the other channels. A few days later i decided to go into \#General to chat and \#support\_english to help people whenever they needed it. 
+So you first joined the server because you found DuckHunt somewhere and decided to check out the support server. This is your first day and you might not be talking in \#general just yet. I was mainly playing in \#game-all-time a few days before stepping into the other channels. A few days later, I decided to go into \#general to chat and \#support\_english to help people whenever they needed it. 
 
 **Translator**   
 After 1-2 weeks of chatting and supporting, I decided to look into translating the bot because I like the bot and i noticed that no one has translated the bot into Danish, so i decided to take the opportunity and was granted the translator role. I was done translating after around 2 weeks. 
