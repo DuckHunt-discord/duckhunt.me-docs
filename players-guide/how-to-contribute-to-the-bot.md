@@ -22,7 +22,7 @@ You can join our support server using [this link](https://discord.gg/2BksEkV). C
 
 ### Donate
 
-Here are a few links if you want to donate some $ to me for running the project. Thanks ! 
+Here are a few links if you want to donate some $ to me to keep this project running. Thanks ! 
 
 * [https://www.patreon.com/duckhunt](https://www.patreon.com/duckhunt)
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)
