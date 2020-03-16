@@ -78,7 +78,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Proficient</td>
-      <td style="text-align:left">People who are skilled with the bot and are helpful in support channels</td>
+      <td style="text-align:left">People who are skilled with the bot and are helpful in support channels.</td>
     </tr>
     <tr>
       <td style="text-align:left">Weeaboo</td>
