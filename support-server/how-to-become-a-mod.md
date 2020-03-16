@@ -21,7 +21,7 @@ After 1-2 weeks of chatting and supporting, I decided to look into translating t
 This can be done faster, but you don't have to rush it.
 
 **Proficient**   
-5 days after I was done translating. I was granted the Proficient role because i have been supporting people so much that i know almost anything there is to know about DuckHunt. To get this role you need to know a lot about DuckHunt. Proficient people are considered trusted here. 
+Five days after I was done translating, I was granted the Proficient role because I had been supporting people so much that I knew almost everything  there was to know about DuckHunt. To get this role you need to know a lot about DuckHunt. Proficient people are considered trusted here. 
 
 Reading around on this wiki and learning can definitely help you out!
 
