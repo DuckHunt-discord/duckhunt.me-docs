@@ -14,7 +14,7 @@ EASY WAY TO GET MEEEH QUICK EXPLOIT \(WORKING 2020\):
 3: find a pencil  
 4: find a Heinz Tomato Ketchup, 20 oz Bottle  
 5: blend all 4 items together in your mind   
-6: forgot about the 4th item, find a screwdriver  
+6: forget about the 4th item, find a screwdriver  
 7: now blend the 4 items together in your mind  
 8: DM Eyes about what you imagine it would taste like, without giving him any context.   
 9: send subtle a pdf file of the bible   
