@@ -17,17 +17,17 @@ EASY WAY TO GET MEEEH QUICK EXPLOIT \(WORKING 2020\):
 6: forget about the 4th item, find a screwdriver  
 7: now blend the 4 items together in your mind  
 8: DM Eyes about what you imagine it would taste like, without giving him any context.   
-9: send subtle a pdf file of the bible   
+9: send Subtle a pdf file of the bible   
 10: put your clothes back on   
 11: jk, keep them off  
-12: now imagine your grandmothers robe   
+12: now imagine your grandmother’s robe   
 13: the pink one   
 14: okay, now imagine a magnifying glass   
 15: that is a microscope, not a magnifying glass.   
 16: now, ask eyes if he would rather you think about using a microscope or a magnifying glass with a pink robe   
 17: pick whatever he didnt choose   
 18: draw a stickman wizard using either a microscope or a magnifiying glass to burn the robe.   
-19: when you are ready, continue. to step 20  
+19: when you’re ready, continue. to step 20  
 20: post the stickman wizard in general, and ask the @hyper-meeh what they think. If they like it, then they will grant you the @meeeh role   
 21: put your clothes on  
 22: when you’re ready, read the final step below   
