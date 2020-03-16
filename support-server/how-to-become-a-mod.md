@@ -26,7 +26,7 @@ Five days after I was done translating, I was granted the Proficient role becaus
 Reading around on this wiki and learning can definitely help you out!
 
 **Website Maintainer**   
-As they say: "When opportunity comes knocking, you gotta answer.” That is pretty much what happened here. After almost 2 months of being proficient and being engaged in the community as usual, the owner asked if people wanted to help translating the website. I decided to do it because it was just translating and no html knowledge required. I translated a few pages. 
+As they say: "When opportunity comes knocking, you gotta answer.” That’s pretty much what happened here. After almost two months of being Proficient, and being engaged in the community as usual, the owner asked if $$a = b$$ people wanted to help translating the website. I decided to do it because it was just translating and no html knowledge required. I translated a few pages. 
 
 **Nominated to become mod**   
 Later the same day, a poll was started in \#mod-chat about me becoming a mod \(I only figured this out after I became a mod\). I did not know about this at the time, so I went on about my business. The poll only got 1 upvote and 0 downvotes. The result was positive nontheless.
