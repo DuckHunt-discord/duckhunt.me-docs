@@ -66,7 +66,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Translator</td>
-      <td style="text-align:left">Translator for the bot ((or the wiki)).</td>
+      <td style="text-align:left">Translator for the bot (or the wiki.)</td>
     </tr>
     <tr>
       <td style="text-align:left">Any language</td>
