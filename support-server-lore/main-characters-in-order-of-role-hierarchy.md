@@ -103,7 +103,7 @@ description: Important people in the server.
       </td>
       <td style="text-align:left">
         <p>A bit new to the mod team, joined with great interest in the bot and the
-          people behind it. 19 Years and Dutch.</p>
+          people behind it. 19 years old and Dutch.</p>
         <p>Likes to brag about science while some are better than him.</p>
         <p>Built a 16 bit pc in Minecraft.</p>
       </td>
