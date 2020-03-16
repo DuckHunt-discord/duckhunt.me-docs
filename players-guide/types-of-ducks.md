@@ -21,7 +21,7 @@ The regular duck is the duck you'll find most frequently. It has only one HP and
 
 ### The babies
 
-Babies aren't grown up yet, so you shouldn't kill them to preserve later supplies of ducks. Show them some love with the `!hug` command instead.
+Babies aren't grown up yet, so you shouldn't kill them to preserve later generations of ducks. Show them some love with the `!hug` command instead.
 
 Babies have special emotes, so you can recognise them easily. Also, they haven't learned to speak yet, so they always say **COIN!**
 
