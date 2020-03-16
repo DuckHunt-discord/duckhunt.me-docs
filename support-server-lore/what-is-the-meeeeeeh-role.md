@@ -30,7 +30,7 @@ EASY WAY TO GET MEEEH QUICK EXPLOIT \(WORKING 2020\):
 19: when you are ready, continue. to step 20  
 20: post the stickman wizard in general, and ask the @hyper-meeh what they think. If they like it, then they will grant you the @meeeh role   
 21: put your clothes on  
-22: when you are ready, read the final step below   
+22: when you’re ready, read the final step below   
   
   
   
