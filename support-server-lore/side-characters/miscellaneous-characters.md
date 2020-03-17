@@ -4,13 +4,7 @@ description: People who have nothing to do with the server. List anyone.
 
 # Miscellaneous Characters
 
-## Can I become who I want to be?
+## Doug from the who's Right Podcast
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+Doug is the main host of the Who's Right podcast. He is in his 50s, and has lost a lot of weight. [This](https://podcasts.google.com/?feed=aHR0cDovL3dob3NyaWdodC5saWJzeW4uY29tL3Jzcw&episode=MmRjZjg2ZDM2ZmM3NDZhZmEzZTg0YzM1MWMwMzU0ZmE&hl=en&ved=2ahUKEwiDn8b4n6DoAhUSrZ4KHR9MCpIQjrkEegQIARAE&ep=6) was one of their popular episodes. 
 
