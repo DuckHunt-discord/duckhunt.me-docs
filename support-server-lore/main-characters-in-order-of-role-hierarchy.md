@@ -213,7 +213,7 @@ description: Important people in the server.
     <tr>
       <td style="text-align:left">
         <p>Ahuman#8933</p>
-        <p>(316788628476919808F</p>
+        <p>(316788628476919808)</p>
       </td>
       <td style="text-align:left">
         <p>Feline. Legally blind. Third eye blind. Sole creator of the exam used
