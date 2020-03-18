@@ -6,7 +6,7 @@ The best way would be to read [our players guide](players-quickstart.md).
 
 ### How do I install the bot?
 
-See the [QuickStart](../bot-administration/admin-quickstart.md)!
+See the [QuickStart](../bot-administration/admin-quickstart.md)
 
 ### Can I see the source code?
 
