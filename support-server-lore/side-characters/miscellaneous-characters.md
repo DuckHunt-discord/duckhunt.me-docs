@@ -10,7 +10,7 @@ description: People who have nothing to do with the server. List anyone.
 [  This](https://podcasts.google.com/?feed=aHR0cDovL3dob3NyaWdodC5saWJzeW4uY29tL3Jzcw&episode=MmRjZjg2ZDM2ZmM3NDZhZmEzZTg0YzM1MWMwMzU0ZmE&hl=en&ved=2ahUKEwiDn8b4n6DoAhUSrZ4KHR9MCpIQjrkEegQIARAE&ep=6) was one of his podcast's popular episodes.   
 
 
-## Susan Brady
+## Sue Brady
 
-Susan Brady was the only son born to Carol Brady of **The Brady Bunch** fame.  Nicknamed **Sue** after the song immortalized by Johnny Cash, Sue didn’t fit neatly into the Brady Bunch “square,“ and was therefore relegated to a footnote in this unrelated wiki.
+Sue Brady was the only son born to Carol Brady of **The Brady Bunch** fame.  Named **Sue** after the song immortalized by Johnny Cash, Sue didn’t fit neatly into the Brady Bunch “square,“ and was therefore relegated to a footnote in this unrelated wiki.
 
