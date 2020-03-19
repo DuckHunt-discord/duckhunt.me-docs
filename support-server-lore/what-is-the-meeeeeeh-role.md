@@ -1,5 +1,5 @@
 ---
-description: 'If you have it, you are probably stupid.'
+description: 'If you have it, you’re probably stupid.'
 ---
 
 # Meeeeeeeeh role
