@@ -1,20 +1,20 @@
-# Shop items
+# Articles du magasin
 
 Here will be a quick paragraph on how to use the shop command.
 
-| ID | Name | Cost\(XP\) | Description |
+| ID | Nom | Coût\(XP\) | Description |
 | :--- | :--- | :--- | :--- |
-| 1 | Bullet | 7 | Adds a bullet to your clip |
-| 2 | Clip | 13 | Adds a clip to your backpack |
-| 3 | AP ammo | 15 | Does 2x damage to super ducks for 24h |
-| 4 | Explosive ammo | 25 | Does 3x damage to super ducks for 24h |
-| 5 | Repurchase gun | 40 | Allows you to get your gun back without having to wait for the freetime to happen. Only useful if your gun is actually confiscated. |
-| 6 | Grease | 8 | Reduces the odds of jamming by 50% for 24h and protects from sand once. |
-| 7 | Sight | 6 | Improves accuracy for the next shot by $$(100- current\_accuracy)/3$$. |
-| 8 | Infrared | 15 | Locks the trigger when there is no duck, thus helping you to save bullets. Lasts for 24h, blocks 6 times. |
-| 9 | Silencer | 5 | Muffles the noise from your gun for 24h so ducks don’t get frightened and fly away. |
-| 10 | Four-leaf clover | 13 | Get extra XP for each duck you kill for 24h. It can be from 1 to 10 XP and is determined at purchase. |
-| 11 | Sunglasses | 5 | Protects from mirror induced glares for 24h. |
+| 1 | Balle | 7 | Ajoute une balle à votre chargeur. |
+| 2 | Chargeur | 13 | Ajoute un chargeur à votre inventaire |
+| 3 | Munition AP | 15 | Fais 2x plus de dégât aux super canards pour 24h |
+| 4 | Munition explosive | 25 | Fais 3x plus de dégât aux super canards pour 24h |
+| 5 | Racheter une arme | 40 | Permet de récupérer son arme sans avoir à attendre le freetime. Utile uniquement si votre arme a été confisquée. |
+| 6 | Graisse | 8 | Réduit les chances d'enrayement de 50% pendant 24h et protège du sable une seule fois. |
+| 7 | Lunette de visée | 6 | Améliore la précision du prochain tir de $$(100- précision\_actuelle)/3$$. |
+| 8 | Détecteur infrarouge | 15 | Empêche le tir si il n'y a pas de canards, ce qui permet d'économiser des balles. Dure 24h ou pour 6 tirs dans le vide. |
+| 9 | Silencieux | 5 | Cache le bruit de l'arme pendant 24h pour ne pas faire fuir les canards. |
+| 10 | Trègle à 4 feuilles | 13 | Donne de l'XP supplémentaire pour tout les canards tués pendant 24h. XP supplémentaire par canard choisi aléatoirement à l'achat entre 1 et 10. |
+| 11 | Lunettes de soleil | 5 | Empêche les miroirs de vous éblouir pendant 24h. |
 | 12 | Spare clothes | 7 | Dry set of clothes. Useful when someone pours a bucket of water on you. |
 | 13 | Brush for gun | 7 | Cancels the sabotage and removes sand from your gun. |
 | 14 | Mirror | 7 | Dazzles a player of your choice and makes him lose 50% of his accuracy in his next shot. |
