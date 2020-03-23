@@ -9,7 +9,7 @@ More details will be provided below the following quick-reference table.
 | Duck name | characteristics |
 | :--- | :--- |
 | Regular duck | Just your basic duck with 1 HP and awards the default 10 exp. |
-| Baby duck | You must hug the baby! Shooting it will lose exp. |
+| Baby duck | You must hug the baby! Shoot it and you’ll lose exp. |
 | Super duck | A duck with more than 1 HP, a bit random how much, usually between 2-9, gives huge amounts of exp depending on the HP. |
 | MOAD | Mother of all ducks, spawns 2 ducks when killed. |
 
