@@ -67,11 +67,33 @@ This bot allows you to order \(virtual\) pizzas 🍕, for free. Pizzas are made 
 
 If you see a deliverer, please tell him **he is welcome to stay** on the server. Tell him a moderator will be there soon to give them the pizza role.
 
-### Groovy \(Music\)
+### _Groovy \(Music\)_
 
-Ahuman calls dibs
+### Groovy\#7254 \(Originally Marv\) is a music bot that I believe to be better than rhythm.
 
-### Koishi \(Statistics\)
+**Adding songs to your queue**
+
+You can add songs to a queue by using the **play** command \(-play, -p\) or by using the **search** command \(-search, -s\)
+
+To use play, name the song you would like to add to the queue, or provide a link to it. Examples: -play simpleflip's nightmare -p website.com/video
+
+To use search, look up the song as you would on google. Groovy will then provide a list of search results from youtube. Examples: -search penguins screaming -s people screaming
+
+To add a recording from your files, use -f -f \(and select an audio file from your files. Use this as if you wanted to post an image with -f as the message\)
+
+**Managing your queue**
+
+To view songs that had been added to the queue, use -q To remove a song from the q, use -r You can use -r \# to remove a song by their position in the queue, for example: -r 5 You can remove a song by typing out part of their name or the entire name, for example: -r shimmer To skip a song, use -skip or -n To skip backwards, use -b To jump to a song, use -j Jump would be used the same as remove. To move a song, use -m Use move with the position in the queue. For example: -m 11, 2 The song you are moving would be 11, you are moving it to the 2nd position in the queue
+
+To loop the queue \(or a certain song\) use -l \(twice for the queue, a 3rd time to cancel the loop\)
+
+**managing the song**
+
+To pause a song, use -pause \(resume with -play\) To check what time you are at, use -np To fast forward, use -ff for example: -ff \(defaults to skipping 15s ahead\) -ff 20m 10s \(skips 20 minutes and 10 seconds ahead\)
+
+To rewind, use -rw for example: -rw \(defaults to rewinding 15s\) -rw 20m 10s \(rewind 20 minutes and 10 seconds behind\)
+
+To go to a certain part of the song, use -seek -seek 3m 10s \(this will bring you to the point of 3m and 10s in the song. \)Koishi \(Statistics\)
 
 | Command | Explanation |
 | :--- | :--- |
