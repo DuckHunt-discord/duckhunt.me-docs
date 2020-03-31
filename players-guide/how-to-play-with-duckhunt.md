@@ -26,6 +26,6 @@ Si vous voulez plus d'informations, vous pouvez :
 
 * Lire [la liste complète des commandes pour les joueurs](player-commands.md)
 * Voir quels [objets vous pouvez acheter dans le magasin](store-items.md)
-* Voir ce que sont les [evènements et comment ](events.md)ils impactent votre jeu
+* Voir ce que sont les [événements ](events.md)et comment ils impactent votre jeu
 * Lire la [FAQ](faq.md)
 
