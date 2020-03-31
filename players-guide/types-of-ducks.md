@@ -2,7 +2,7 @@
 description: Ducks you may encounter on your grind.
 ---
 
-# Types of ducks
+# Tipos de patos
 
 More details will be provided below the follwoing quick-refrerence table.
 

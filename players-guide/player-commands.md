@@ -1,4 +1,4 @@
-# Player commands
+# Comandos de Jogador
 
 
 

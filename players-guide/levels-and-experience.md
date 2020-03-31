@@ -1,4 +1,4 @@
-# Levels and experience
+# Níveis e experiência
 
 | Level number | Minimum experience | Name | Accuracy | Reliability | Bullets | Magazines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

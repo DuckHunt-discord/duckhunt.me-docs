@@ -1,8 +1,8 @@
-# How to play DuckHunt
+# Como jogar o DuckHunt
 
-The goal of the game is to earn the most experience so as to be the top player on your channel leaderboard.
+O Objetivo do jogo é ganhar o máximo de experiência para ser o melhor jogador na tabela de classificação do seu canal
 
-To earn experience, you must kill ducks. Most ducks killed will get you \(assuming the default settings\) 10 exp. However, sometimes you might find other [types of ducks](types-of-ducks.md) that are worth more experience.
+Para ganhar pontos de experiência, você precisa matar os patos. Muitos patos morto garantem a você\(com base nas configurações iniciais\) 10 pontos de exp. Contudo, algumas vezes voce pode encontrar outros [tipos de patos](types-of-ducks.md) que dão mais pontos de experiência.
 
 To kill a duck, you need to shoot at it with your weapon, using the `dh!bang` command. Assuming you are lucky, you'll hit the duck and win experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you will have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
 

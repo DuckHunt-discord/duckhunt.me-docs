@@ -2,7 +2,7 @@
 description: Donating is not the only way
 ---
 
-# How to contribute to the bot
+# Como contribuir com o bot
 
 ### Translating the bot
 

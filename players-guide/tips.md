@@ -1,4 +1,4 @@
-# Tips
+# Dicas
 
 ### **To get good at duckhunt you need to be able to manage your experience wisely.**
 
