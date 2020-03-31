@@ -12,7 +12,7 @@ La commande `dh!bang` peut aussi être utilisée avec `dhpan` ou `!pan`.  Il y a
 
 Vous aurrez aussi besoin de recharger votre arme, parce que vous n'avez plus de munition ou que votre arme s'est bloquée. Ne vous inquiétez pas, il suffit de taper `dh!reload`.   
   
-Une fois que vous avez tué quelques canards, vous aurez probablement assez d'expérience pour aller voir le [magasin](store-items.md), avec la commande `dhbuy`. 
+Une fois que vous avez tué quelques canards, vous aurez probablement assez d'expérience pour aller voir le [magasin](store-items.md), avec la commande `dh!shop`. 
 
 Nous vous recommendons d'acheter un **silencieux** pour éviter que les canards s'enfuient quand vous tirez \(`dhshop silencer`\), un **trèfle à quatre feuilles** pour gagner beaucoup plus d'expérience à chaque canars tué \(`dhshop clover`\),  un **viseur** pour améliorer votre précision \(`dhshop sight`\). 
 
