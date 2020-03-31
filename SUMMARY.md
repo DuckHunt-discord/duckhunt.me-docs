@@ -17,7 +17,7 @@
 
 ## Bot administration
 
-* [Installer DuckHunt](bot-administration/command-list.md)
+* [Installer DuckHunt](bot-administration/install-duckhunt.md)
 * [Changer les paramètres / Liste des paramètres](bot-administration/edit-settings-settings-list.md)
 * [Admin commands](bot-administration/admin-commands.md)
 

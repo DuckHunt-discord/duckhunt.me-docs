@@ -6,7 +6,7 @@ Il vous est conseillé de lire [notre guide](how-to-play-with-duckhunt.md).
 
 ### Comment installer le bot ?
 
-Allez voir la page [Installer DuckHunt](../bot-administration/command-list.md) !
+Allez voir la page [Installer DuckHunt](../bot-administration/install-duckhunt.md) !
 
 ### Puis-je voir le code source ?
 

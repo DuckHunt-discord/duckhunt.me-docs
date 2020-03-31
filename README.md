@@ -2,7 +2,7 @@
 
 DuckHunt est un bot de jeu amusant, grâce auquel vous pouvez chasser des canards qui apparaissent sur un salon Discord. Dans ce jeu fantastique, vous grimpez les échelons pour atteindre le haut du tableau de scores, vous piégez les autres chasseurs et faites du foie gras.
 
-Ce wiki a été créé pour DuckHunt\#0550, un bot Discord développé par Eyesofcreeper\#0001. Il rassemble toutes les informations au sujet du bot, en particulier les caractéristiques du bot \(incluant les commandes et les [paramètres](bot-administration/edit-settings-settings-list.md)\), un [guide d'utilisation](bot-administration/command-list.md), mais aussi des informations sur le [serveur Discord de support](support-server/how-to-join.md).
+Ce wiki a été créé pour DuckHunt\#0550, un bot Discord développé par Eyesofcreeper\#0001. Il rassemble toutes les informations au sujet du bot, en particulier les caractéristiques du bot \(incluant les commandes et les [paramètres](bot-administration/edit-settings-settings-list.md)\), un [guide d'utilisation](bot-administration/install-duckhunt.md), mais aussi des informations sur le [serveur Discord de support](support-server/how-to-join.md).
 
 ### Brève description du bot :
 
