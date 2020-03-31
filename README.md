@@ -1,14 +1,14 @@
-# The DuckHunt bot
+# Le bot DuckHunt
 
-DuckHunt is a fun game bot where you hunt ducks that appear in a discord channel. You try to climb the ladders of the [leaderboard](players-guide/levels-and-experience.md), prank other hunters and make some fois gras in this amazing game. 
+DuckHunt est un bot de jeu amusant, grâce auquel vous pouvez chasser des canards qui apparaissent sur un salon Discord. Dans ce jeu fantastique, vous grimpez les échelons pour atteindre le haut du tableau de scores, vous piégez les autres chasseurs et faites du foie gras.
 
-This wiki was created for DuckHunt\#0550, a Discord bot developed by Eyesofcreeper\#0001. This wiki will serve as a collection of the bots information, including the bots features \(including commands and [settings](bot-administration/edit-settings-settings-list.md)\), a [guide for using the features](bot-administration/command-list.md), along with [information on the support server ](support-server/how-to-join.md)hosted on Discord. 
+Ce wiki a été créé pour DuckHunt\#0550, un bot Discord développé par Eyesofcreeper\#0001. Il rassemble toutes les informations au sujet du bot, en particulier les caractéristiques du bot \(incluant les commandes et les [paramètres](bot-administration/edit-settings-settings-list.md)\), un [guide d'utilisation](bot-administration/command-list.md), mais aussi des informations sur le [serveur Discord d'assistance](support-server/how-to-join.md).
 
-### Brief description of the bot:
+### Brève description du bot :
 
-> DuckHunt is a Discord bot, best categorized as gaming/entertainment. You use commands to hunt '[ducks](players-guide/types-of-ducks.md)' through the chat. For example, a typical command would look like `dhbang`.  
->   
-> The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of exp through hunting ducks. However, exp doubles as a measure of rank and a form of currency. Exp can be spent buying [shop items](players-guide/store-items.md). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant.   
->   
-> The ducks you hunt are recorded in the DuckHunt hunting log, which tracks the total amount of ducks hunted on the Discord channel. This log also provides the statistics of individual hunters, including how fast a duck was hunted, how many ducks were hunted, and more.
+> DuckHunt est un bot Discord, de la catégorie Jeux/Divertissements. Vous utilisez des commandes pour chasser des "[canards](players-guide/types-of-ducks.md)" dans le salon textuel. Par exemple, une commande typique est `dhbang`. 
+>
+> L'objectif de DuckHunt est de dépasser les autres chasseurs en récoltant autant d'expérience que possible en chassant les canards. L'expérience sert aussi de monnaie d'échange : on peut la dépenser en achetant des [objets ](players-guide/store-items.md)dans la boutique. Ces objets peuvent vous donner un léger avantage pour la chasse. Parce qu'ils coûtent de l'expérience, les acheter pourrait vous faire perdre un niveau. Mais vous pouvez toujours en sortir gagnants si vous êtes vigilants.
+>
+> Les canards que vous abattez sont enregistrés dans le journal de chasse de DuckHunt, qui comptabilise le nombre total de canards chassés sur le salon Discord. Ce journal donne aussi les statistiques de chaque chasseur, incluant le temps pour tuer un canard, combien de canards le joueur a touché, et bien plus.
 

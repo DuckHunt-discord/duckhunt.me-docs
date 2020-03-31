@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The DuckHunt bot](README.md)
+* [Le bot DuckHunt](README.md)
 
 ## Players guide
 
