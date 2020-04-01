@@ -8,7 +8,7 @@
 * [Commandes pour jouer](players-guide/player-commands.md)
 * [Articles du magasin](players-guide/store-items.md)
 * [Evénements](players-guide/events.md)
-* [Levels and experience](players-guide/levels-and-experience.md)
+* [Niveaux et expérience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievments-guide.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
 * [Tips](players-guide/tips.md)

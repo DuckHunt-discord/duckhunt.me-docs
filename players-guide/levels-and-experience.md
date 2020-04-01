@@ -1,4 +1,4 @@
-# Levels and experience
+# Niveaux et expérience
 
 | Numéro du niveau | Expérience minimale | Nom | Précision | Fiabilité | Balles | Chargeurs |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
