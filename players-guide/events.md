@@ -1,49 +1,48 @@
-# Events
+# Evénements
 
-Events happen globally, at the same time, across all of discord. The will change the gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an even will be applied \(for an hour\). If an event is to be drawn, they are chosen from the list of events, with equal probability. This means that there should be approximately 2 events per day.
+Les événements ont lieu de manière globale, au même moment, dans tout Discord. La manière de jouer est modifiée, et il est encore plus drôle de chasser les canards. Chaque heure, il y a 10% de chances de déclencher un événement d'une heure. Si un événement arrive, il est choisi aléatoirement parmi la liste des événements. Ainsi, il y a en moyenne environ deux événements par jour. 
 
 {% hint style="success" %}
-To display the current event, you can use the `dh!event`command.
+Pour afficher l'événement en cours, vous pouvez utiliser la commande `dh!event` . 
 {% endhint %}
 
-### Everything is calm
+### Everything is calm \(Tout est calme\)
 
-> Nothing is happening right now.
+> Rien ne se passe en ce moment.
 
-This means that the game is running normally.
+Cela signifie que le jeu se déroule normalement.
 
-### Ducks are migrating
+### Ducks are migrating \(Les canards migrent\)
 
-> Prepare to see more ducks in the next hour.
+> Préparez-vous à voir plus de canards apparaître au cours de la prochaine heure.
 
-There is a 10% chance that 2 ducks will spawn instead of one.
+Il y a 10% de chances supplémentaires de voir apparaître deux canards au lieu d'un.
 
-### Foggy weather
+### Foggy weather \(Météo brumeuse\)
 
-> It's harder to see killed ducks. You'll need a few more seconds to know if you missed or not.
+> Il est plus dur de voir apparaître les canards tués. Vous aurez besoin de quelques secondes de plus pour savoir si vous avez manqué ou non.
 
-The bang\_lag [setting](../bot-administration/edit-settings-settings-list.md) is up by 3 seconds. It means that you'll only get the result of your shot 3 seconds after running the bang command.
+Le paramètre `bang_lag` est augmenté de 3 secondes. Cela signifie que vous ne verrez le résultat de votre tir que trois secondes après avoir envoyé la commande `dh!bang`.
 
-### Steroids in the lake
+### Steroids in the lake \(Stéroïdes dans le lac\)
 
-> A medical waste company dumped steroids in the lake.   
-> Ducks have mutated, and you'll see a lot more super ducks. But, be careful, and don't drink that water.
+> Une entreprise pharmaceutique a vidé des stocks de stéroïdes dans le lac. Les canards ont muté, et vous verrez beaucoup plus de super-canards. Faites attention, cette eau est non-potable, ne la buvez pas !
 
-There is approximately a 20% more chance for a duck to be a super duck.
+Il y a environ 20% de chances supplémentaires pour qu'un canard soit un super-canard.
 
-### Safety class canceled
+### Safety class canceled \(Cours de sécurité annulé\)
 
-> The safety class was canceled, beware not to shoot others hunters!
+> Le cours de sécurité a été annulé, faites attention à ne pas tirer sur d'autres chasseurs !
 
-There is 5% more chance you'll kill another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst event, don't forget to [buy a sight](store-items.md) to reduces misses.
+Il y a 5% de chances supplémentaires de tuer un autre chasseur quand vous manquez un tir. Normalement, cela signifie que vous avez 7% de chances de tuer quelqu'un si vous manquez votre tir. Ceci est un des pire événements, n'oubliez pas d'acheter un viseur pour réduire le nombre de manqués.
 
-### Connection problems
+### Connection problems \(Problèmes de connexion\)
 
-> Ducks cant find your computer due to connection problems, and there will be less of them until it's repaired.
+> Les canards ne peuvent pas trouver votre ordinateur à cause de problèmes de connexion. Ils apparaîtront moins nombreux jusqu'à ce que ce soit réparé.
 
-There is a 10% chance a duck that should have spawned get canceled.
+Il y a 10% de chances qu'un canard qui aurait du apparaître soit annulé.
 
-### A new florist in town
+### A new florist in town \(Un nouveau fleuriste en ville\)
 
 > A florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
 

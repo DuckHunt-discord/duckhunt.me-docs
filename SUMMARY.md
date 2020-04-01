@@ -7,7 +7,7 @@
 * [Comment jouer à DuckHunt](players-guide/how-to-play-with-duckhunt.md)
 * [Commandes pour jouer](players-guide/player-commands.md)
 * [Articles du magasin](players-guide/store-items.md)
-* [Events](players-guide/events.md)
+* [Evénements](players-guide/events.md)
 * [Levels and experience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievments-guide.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
