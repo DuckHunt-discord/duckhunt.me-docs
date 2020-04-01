@@ -44,23 +44,23 @@ Il y a 10% de chances qu'un canard qui aurait du apparaître soit annulé.
 
 ### A new florist in town \(Un nouveau fleuriste en ville\)
 
-> A florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
+> Un fleuriste a ouvert en ville, et vous pouvez désormais trouver de meilleurs trèfles à quatre feuilles. Allez donc voir !
 
-One of the best events. This adds 10 experience to the upper bound of clover experience. Normally, without this event, when you buy a clover, it'll give you from 1 to 10 experience points more for every duck killed by you. With this event, the clover experience will be rolled between 1 and 20!
+Un des meilleurs événements. Augmente la limite d'espérience donnée par les trèfles à quatre feuilles de 10. En temps normal, un trèfle vous donne de 1 à 10 exp supplémentaires par canard tué. Avec cet événement, vous pouvez gagner entre 1 et 20 points !
 
-### Mega-ducks
+### Mega-ducks \(Méga-Canards\)
 
-> Someone inflated a super duck, and now they are EVEN BIGGER!!
+> Quelqu'un a gonflé un super-canard, et maintenant ils sont ENCORE PLUS GROS !!
 
-Super ducks get 3 more lives.
+Les super-canards ont trois vies supplémentaires.
 
-### Windy weather
+### Windy weather \(Météo venteuse\)
 
-> Bullets are deflected by some strong wind
+> Les balles sont déviées par de fortes rafales de vent.
 
-There is 8% more chance you'll miss a shot. The sight is not really useful with this event.
+Il y a 8% de chances supplémentaires de manquer un tir. Le viseur n'aide pas beaucoup lors de cet événement.
 
-### Restarting
+### Restarting \(Redémarrage\)
 
-Not really an event, the bot is making every duck leave prior to the restart. No ducks are allowed to spawn anymore. This goes for approximately 15 minutes before the bot is able to shut down.
+Pas vraiment un événement, le bot laisse partir tous les canards avant le redémarrage. Les canards n'apparaissent plus, et ce pendant environ 15 minutes, avant que le bot ne s'éteigne.
 
