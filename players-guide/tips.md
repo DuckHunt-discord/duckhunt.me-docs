@@ -1,15 +1,15 @@
 # Tips
 
-### **To get good at duckhunt you need to be able to manage your experience wisely.**
+### Pour devenir un bon chasseur, vous devez être capables de gérer votre expérience.
 
 {% hint style="warning" %}
-**Watch the freetime!   
-I**f the freetime timer expires, you get your gun \(if it's confiscated\) and some ammo clips for free. use  \(`dhfreetime`\) to see when the freetime happens.
+**Attention au** _**freetime**_ **!**   
+Si vous atteignez l'heure du _freetime_, vous récupérez votre arme si elle était confisquée, et quelques chargeurs supplémentaires. Utilisez `dh!freetime` pour avoir le temps restant avant le _freetime_.
 {% endhint %}
 
 {% hint style="warning" %}
-**Keep a slot open for new clips!**  
-You can find clips in bushes after killing a duck sometimes. -if you have max clips it gets deleted, and that wastes 13 experience**-**!
+**Gardez de la place dans votre inventaire pour les chargeurs trouvés !**  
+Vous pouvez parfois trouver des munitions dans les buissons après avoir tué un canard. can find clips in bushes after killing a duck sometimes. -if you have max clips it gets deleted, and that wastes 13 experience**-**!
 {% endhint %}
 
 {% hint style="info" %}

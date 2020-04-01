@@ -4,7 +4,7 @@
 
 Les succès ne sont pas gardés à vie : vous avez besoin de certaines conditions pour les avoir. Si vous ne validez plus les conditions, le succès disparaîtra. 
 
-Par conséquent, à cause de la paire de succès _clueless / scientist_ qui ne sont pas compatibles, il est impossible d'obtenir tous les succès en même temps.
+Par conséquent, à cause du couple de succès _clueless / scientist_ qui ne sont pas compatibles, il est impossible d'obtenir tous les succès en même temps.
 
 ### Time Played I \(Temps de jeu I\)
 
