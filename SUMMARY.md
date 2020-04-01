@@ -9,7 +9,7 @@
 * [Articles du magasin](players-guide/store-items.md)
 * [Evénements](players-guide/events.md)
 * [Niveaux et expérience](players-guide/levels-and-experience.md)
-* [Achievements guide](players-guide/achievments-guide.md)
+* [Guide des succès](players-guide/achievments-guide.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
