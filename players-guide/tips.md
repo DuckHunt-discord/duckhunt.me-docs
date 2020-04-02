@@ -9,7 +9,7 @@ Si vous atteignez l'heure du _freetime_, vous récupérez votre arme si elle ét
 
 {% hint style="warning" %}
 **Gardez de la place dans votre inventaire pour les chargeurs trouvés !**  
-Vous pouvez parfois trouver des munitions dans les buissons après avoir tué un canard. can find clips in bushes after killing a duck sometimes. -if you have max clips it gets deleted, and that wastes 13 experience**-**!
+Vous pouvez parfois trouver des munitions dans les buissons après avoir tué un canard. Attention : si vous n'avez pas de place dans votre inventaire, ils sont supprimés et vous gaspillez 13 points d'expérience !
 {% endhint %}
 
 {% hint style="info" %}
