@@ -31,7 +31,7 @@ Babies have special emotes, so you can recognise them easily. Also, they haven't
 
 Super ducks look just like regular ducks. But when you shoot them, you see a message saying, "The duck survived, try again! _SUPER DUCK DETECTED_"
 
-Additionnaly, depending on the [settings](../bot-administration/edit-settings-settings-list.md) used on the server, they may also display the life they currently have when harmed.
+Additionally, depending on the [settings](../bot-administration/edit-settings-settings-list.md) used on the server, they may also display the life they currently have when harmed.
 
 To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive ammo](store-items.md), which do 2x or 3x damage respectively.
 
