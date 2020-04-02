@@ -6,7 +6,7 @@ description: Ducks you may encounter on your grind.
 
 More details will be provided below the following quick-reference table.
 
-| Duck name | characteristics |
+| Duck name | Characteristics |
 | :--- | :--- |
 | Regular duck | Just your basic duck with 1 HP and awards the default 10 exp. |
 | Baby duck | You must hug the baby! Shoot it and you’ll lose exp. |
