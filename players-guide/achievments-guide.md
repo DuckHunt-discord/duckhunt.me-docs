@@ -44,7 +44,7 @@ When you cheated, you get punished by this achievement. You need to have more th
 
 ### Baby Lover
 
-By default, anyone has this achievement. It goes away if your number of baby ducks killed goes above 5.
+By default, everyone has this achievement. It goes away if your number of baby ducks killed goes above 5.
 
 ![The Baby Lover icon](../.gitbook/assets/baby_lover.svg)
 
