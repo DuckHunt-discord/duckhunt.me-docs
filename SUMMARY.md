@@ -13,7 +13,7 @@
 * [Types de canards](players-guide/types-of-ducks.md)
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
-* [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)
+* [Comment contribuer au bot](players-guide/how-to-contribute-to-the-bot.md)
 
 ## Bot administration
 
