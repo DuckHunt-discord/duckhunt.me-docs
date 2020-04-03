@@ -22,11 +22,11 @@ Bravo ! Vous pouvez aller sur notre [serveur de support](https://discordapp.com/
 
 ### J'ai une suggestion pour le bot !
 
-Ce n'est pas vraiment une question, mais vous pouvez aller sur [GitHub](https://github.com/DuckHunt-discord/DHV3/issues) pour proposer cela !
+Ce n'est pas vraiment une question, mais vous pouvez aller sur [GitHub](https://github.com/DuckHunt-discord/DHV3/issues) pour proposer cela ! Un canal dédié existe également sur le [serveur de support](https://discordapp.com/invite/2BksEkV).
 
 ### Je t'aime !
 
-Moi aussi ! ❤️
+Moi aussi !  ❤️
 
 ### Puis-je faire un don pour soutenir le développement du bot ?
 
