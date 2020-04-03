@@ -20,7 +20,7 @@ Vous pouvez utiliser `dh!settings set language fr_FR` dans le salon textuel où 
 {% endhint %}
 
 {% hint style="warning" %}
-Si vous voulez [configure settings](edit-settings-settings-list.md), vous devez le faire dans un salon textuel **où le bot est activé**. Attention, les paramètres sont les mêmes sur tout le serveur, alors que les scores sont indépendants à chaque salon texuel. Si vous voulez changer les paramètres dans un salon textuel pour les admins, vous pouvez l'ajouter temporairement, modifier les paramètres que vous voulez puis utiliser `dh!del_channel` pour désactiver ce salon.
+Si vous voulez [configurer les paramètres](edit-settings-settings-list.md), vous devez le faire dans un salon textuel **où le bot est activé**. Attention, les paramètres sont les mêmes sur tout le serveur, alors que les scores sont indépendants à chaque salon textuel. Si vous voulez changer les paramètres dans un salon textuel pour les admins, vous pouvez l'ajouter temporairement, modifier les paramètres que vous voulez puis utiliser `dh!del_channel` pour désactiver ce salon.
 {% endhint %}
 
 
