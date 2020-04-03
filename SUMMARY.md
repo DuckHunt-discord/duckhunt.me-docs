@@ -23,7 +23,7 @@
 
 ## Support server
 
-* [How to join \(and rules\)](support-server/how-to-join.md)
+* [Comment rejoindre le serveur \(et quelques règles\)](support-server/how-to-join.md)
 * [Useful commands](support-server/useful-commands.md)
 * [List of roles](support-server/list-of-roles.md)
 * [How to become a mod](support-server/how-to-become-a-mod.md)
