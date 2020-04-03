@@ -6,7 +6,7 @@ Vous pouvez voir les paramètres ayant étés modifiés avec la commande `dh!set
 
 Pour rénitialiser un paramètre à sa valeur par défaut, vous pouvez utiliser `dh!settings reset <paramètre>`
 
-Note : Un booléen est un type de varaible pouvait être défini par `true` ou `false`. `true` correspond à "oui" ou "vrai", et `false` correspond à "non" ou "faux". Par exemple, True sur `announce_level_up` veut dire que les messages de montée de niveau seront envoyés.
+Note : Un booléen est un type de variable pouvant être défini par `true` ou `false`. `true` correspond à "oui" ou "vrai", et `false` correspond à "non" ou "faux". Par exemple, `true` sur `announce_level_up` veut dire que les messages de montée de niveau seront envoyés.
 
 <table>
   <thead>
@@ -67,7 +67,7 @@ Note : Un booléen est un type de varaible pouvait être défini par `true` ou `
       <td style="text-align:left">duck_frighten_chance</td>
       <td style="text-align:left">entier</td>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">Probabilit&#xE9; qu&#x2019;un canard s&#x2019;enfuit lors d&#x2019;un
+      <td style="text-align:left">Probabilit&#xE9; qu&#x2019;un canard s&#x2019;enfuie lors d&#x2019;un
         tir, en pourcentage.</td>
     </tr>
     <tr>
@@ -101,8 +101,8 @@ Note : Un booléen est un type de varaible pouvait être défini par `true` ou `
       <td style="text-align:left">en_EN</td>
       <td style="text-align:left">Langue utilis&#xE9;e par le bot. Utilisez le format codedulangage_CODEDUPAYS
         (<code>fr_FR </code>pour le fran&#xE7;ais de France, <code>hu_HU</code>, <code>en_US</code> pour
-        l&apos;anglais am&#xE9;ricain&#x2026;). If the language is not found, this
-        will default to English.</td>
+        l&apos;anglais am&#xE9;ricain&#x2026;). Si le langage n&apos;est pas trouv&#xE9;,
+        le serveur se mettra par d&#xE9;faut en anglais.</td>
     </tr>
     <tr>
       <td style="text-align:left">mention_in_topscores</td>
@@ -115,7 +115,7 @@ Note : Un booléen est un type de varaible pouvait être défini par `true` ou `
       <td style="text-align:left">d&#xE9;cimal</td>
       <td style="text-align:left">1</td>
       <td style="text-align:left">Changer la probabilit&#xE9; pour un chasseur de rater son tir. Plus la
-        valeur est &#xE9;vev&#xE9;e, plus la probabilit&#xE9; de rater est haute.</td>
+        valeur est &#xE9;lev&#xE9;e, plus la probabilit&#xE9; de rater est haute.</td>
     </tr>
     <tr>
       <td style="text-align:left">pm_most_messages</td>
@@ -177,7 +177,7 @@ Note : Un booléen est un type de varaible pouvait être défini par `true` ou `
       <td style="text-align:left">100</td>
       <td style="text-align:left">Probabilit&#xE9; qu&apos;un nouveau canard soit normal. (Plus la valeur
         est grande, plus il y a des chances que ce soit ce type de canard. 0 veut
-        dire qu&apos;il n&apos;appara&#xEE;tera jamais.)</td>
+        dire qu&apos;il n&#x2019;appara&#xEE;tra jamais.)</td>
     </tr>
     <tr>
       <td style="text-align:left">super_ducks_chance</td>

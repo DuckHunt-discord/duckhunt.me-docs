@@ -1,37 +1,38 @@
-# Admin commands
+# Commandes administrateurs
 
-Some commands are more complicated than others. In that case, they will be shown in bold and their arguments will be explained after this command list
+Certaines commandes sont plus compliquées que d'autres. Dans ce cas, elles sont indiquées en gras, et leurs arguments expliqués en détails après cette liste.
 
-| Command | Description |
+| Commande | Description |
 | :--- | :--- |
-| dh!setup | This is the first command you should use after inviting DuckHunt to a server. It create the server settings and have a configuration wizard to make it easier for you. |
-| dh!add\_channel | After using dh!setup, use this command on the channels you want ducks to appear in. |
-| dh!del\_channel | This disables a channel added by dh!add\_channel. |
-| dh!del\_user | This removes an user from the database. |
-| dh!del\_user\_id | This removes an user from the database. This comment is meant to be used on players that left the server. |
-| dh!add\_admin | Set another server administrator as an admin. Note that users with the Administrator permission in discord are considered Administrators too. |
-| dh!del\_admin | Deletes a server admin from the admins list. |
-| **dh!coin** | Forces a duck to spawn. |
-| dh!ducks | Shows the number of ducks that will spawn today, and the list of ducks that are on the channel. It can be considered as a cheat. |
-| dh!give\_exp &lt;player&gt; &lt;amount&gt; | Gives a player some exp points. This is a cheat, not to be confused with dh!send\_exp. |
-| **dh!settings set &lt;parameter&gt; &lt;value&gt;** | Modify server settings. You can go to the Bot Settings page to learn more about this command. |
-| dh!settings reset &lt;parameter&gt; | Resets a parameter to the default value. Use this command and not dh!settings set to reset parameters, as it won’t cause issues with bot upgrades. |
-| dh!game\_ban &lt;player&gt; | Bans a player from the game. You can’t ban admins, so please don’t try :\) |
-| dh!game\_unban &lt;player&gt; | Unbans a player from the game. They will be able to play again. |
-| dh!remove\_all\_scores\_and\_stats\_on\_this\_channel | Deletes a channel scores and stats. Please be sure you really want to do this. You cannot undo this. |
+| dh!setup | Ceci est la première commande à  utiliser après avoir invité DuckHunt dans un serveur. Elle crée les paramètres du serveur et a une aide intégrée pour vous aider. |
+| dh!add\_channel | Après avoir utilisé dh!setup, utilisez cette commande sur le salon où vous voulez voir apparaître des canards pour y ajouter le bot.  |
+| dh!del\_channel | Ceci supprime le bot d'un salon où il avait été ajouté. |
+| dh!del\_user | Retire un utilisateur de la base de données. |
+| dh!del\_user\_id | Retire un utilisateur de la base de données. Destiné aux joueurs ayant quitté le serveur. |
+| dh!add\_admin | Désigne un autre administrateur du serveur comme admin pour le bot. Les utilisateurs avec la permission Administrateur sont aussi considérés comme administrateurs. |
+| dh!del\_admin | Retire un admin de la liste des admins. |
+| **dh!coin** | Fait apparaître un canard. |
+| dh!ducks | Montre le nombre de canards qui vont apparaître, et la liste des canards sur le canal. Peut être considéré comme de la triche. |
+| dh!give\_exp &lt;player&gt; &lt;amount&gt; | Donne de l'exp à un joueur. Ceci est de la riche, à ne pas confondre avec dh!send\_exp. |
+| **dh!settings set &lt;parameter&gt; &lt;value&gt;** | Modifie les paramètres du serveur. Voir la [page ](edit-settings-settings-list.md)correspondante pour en savoir plus.  |
+| dh!settings reset &lt;parameter&gt; | Remet un paramètre à sa valeur par défaut. Utilisez cette commande plutôt que dh!settings set pour réinitialiser des paramètres, afin d'éviter les problèmes lors des mises à jour. |
+| dh!game\_ban &lt;player&gt; | Bannit un joueur du jeu. Vous ne pouvez pas bannir les admins, n’essayez pas :\) |
+| dh!game\_unban &lt;player&gt; | Débannit un joueur. il pourra jouer de nouveau. |
+| dh!remove\_all\_scores\_and\_stats\_on\_this\_channel | Supprime tous les scores et statistiques d'un canal. Soyez sûr de vraiment vouloir faire ça, cette action ne peut pas être annulée. |
 
-### The coin command
+### La commande `dh!coin`
 
-The coin command \(`dh!coin`\) will make a duck spawn in the current channel. Obviously, this can only be used in an enabled channel.
+la commande `dh!coin` fait apparaitre un canard sur le canal. Evidemment, cette commande ne peut être utilisée que sur un canal actif. 
 
-* `dh!coin` will spawn a simple, regular duck
-* `dh!coin --super-duck --life 2` will spawn a super duck with 2 life points
-* `dh!coin --moad --life 6` will spawn a MOAD with 6 life points
-* `dh!coin --baby-duck` will spawn a baby duck
+* `dh!coin` fait apparaître un canard simple, tout à fait normal.
+* `dh!coin --super-duck --life 2` fait apparaître un super-canard avec deux points de vie.
+* `dh!coin --moad --life 6` fait apparaître un
 
-### The settings related command
+   MOAD avec six points de vie.
 
-List of settings and values you might use are described in more details on the [Edit Settings](edit-settings-settings-list.md) page.
+* `dh!coin --baby-duck` fait apparaître un bébé canard.
 
+### La commande `dh!settings`
 
+La liste des paramètres et des valeurs est décrite en détail sur la page [Liste des paramètres](edit-settings-settings-list.md). 
 

@@ -19,7 +19,7 @@
 
 * [Installer DuckHunt](bot-administration/install-duckhunt.md)
 * [Changer les paramètres / Liste des paramètres](bot-administration/edit-settings-settings-list.md)
-* [Admin commands](bot-administration/admin-commands.md)
+* [Commandes administrateurs](bot-administration/admin-commands.md)
 
 ## Support server
 
