@@ -22,7 +22,6 @@ Exemple : `dh!shop 17 @Joueur#0000` va saboter l'arme de @Joueur\#0000
 | 15 | Poignée de sable | 7 | Jette du sable sur l'arme du joueur de votre choix, ce qui augmente de 50% les chances de s'enrayer de son arme au prochain tir. Annule l'effet de la graisse. |
 | 16 | Seau | 10 | Jette un seau d'eau sur le chasseur de votre choix, le forçant à attendre 1h pour sécher ses vêtements avant qu'il puisse chasser à nouveau. |
 | 17 | Sabotage | 14 | Sabote l'arme d'un autre joueur. Son arme va s'enrayer et exploser la prochaine fois qu'il essaye de tirer. |
-| 18 | ~~Life insurance~~ | 10 | Single-use insurance policy allowing you to gain a bonus worth half your hunter level if you are the victim of a hunting accident. Lasts for one week. |
 | 20 | Leurre | 8 | Attire un canard dans les 10 minutes après l'achat. |
 | 21 | Pain | 2 | Jette du pain pour améliorer la chance de voir des canards pour 1h. Plusieurs bouts de pain peuvent être achetés pour cumuler les effets. |
 | 23 | Canard mécanique | 40 | Fais une blague aux autres joueurs en envoyant un faux canard. Il ne gagneront pas d'XP et vont perdre des munitions. Le canard sera envoyé automatiquement 10 minutes après l'achat. |
