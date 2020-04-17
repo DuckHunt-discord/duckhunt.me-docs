@@ -28,7 +28,7 @@ N'oubliez pas, règle n°1 : les modérateurs et les administrateurs ont toujour
 Nous sommes ouverts au sujet de la modération du serveur. Un rapport complet, non censuré, qui contient toutes les actions effectuées par les modérateurs sur le serveur, est accessible sur le canal \#mod-log, ou via l'[interface web de  GetBeaned](https://getbeaned.me/guilds/195260081036591104).
 
 {% hint style="info" %}
-Si vous avez été sanctionné par le détecteur de seuils, alors le paragraphe suivant ne s'applique pas. Vous pouvez faire appel directement auprès de **Eyesofcreeper\#0001**.
+Si vous avez été sanctionné par le _Treshold Enforcer_, alors le paragraphe suivant ne s'applique pas. Vous pouvez faire appel directement auprès de **Eyesofcreeper\#0001**.
 {% endhint %}
 
 Si vous avez été averti / éjecté / banni / rendu muet injustement, s'il vous plaît discutez-en avec le modérateur en question. GetBeaned devrait vous avoir envoyé un message lorsque c'est arrivé, mais juste au cas où, utilisez [ce lien](https://getbeaned.me/guilds/195260081036591104) pour aller chercher votre problème dans l'interface web.  Si vous avez été banni, vous pourriez avoir à ajouter le bot en ami pour cela. Sinon, vous pouvez rejoindre le serveur de support de GetBeaned et envoyer un message au modérateur à partir de là. **Restez toujours respectueux**. 
