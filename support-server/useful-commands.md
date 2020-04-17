@@ -1,9 +1,7 @@
 # Quelques commandes utiles
 
 {% hint style="warning" %}
-**Ceci n'est pas une liste des commandes du bot.** 
-
-**This is not a command list for the DuckHunt bot.** C'est une liste de commandes qui pourraient vous être utiles sur le **serveur** de support Discord.
+**Ceci n'est pas une liste des commandes du bot.** C'est une liste de commandes qui pourraient vous être utiles sur le **serveur** de support Discord.
 {% endhint %}
 
 {% hint style="warning" %}
