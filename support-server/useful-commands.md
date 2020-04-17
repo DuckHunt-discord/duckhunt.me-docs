@@ -1,135 +1,96 @@
-# Useful commands
+# Quelques commandes utiles
 
 {% hint style="warning" %}
-**This is not a command list for the DuckHunt bot.**  
-This is a list of commands you might want to know when interacting on the DuckHunt **Support** Server.
+**Ceci n'est pas une liste des commandes du bot.** 
 
-For a list of duckhunt commands, please read
-
-* [The admin commands](../bot-administration/admin-commands.md)
-* [The player commands ](../players-guide/player-commands.md)
+**This is not a command list for the DuckHunt bot.** C'est une liste de commandes qui pourraient vous être utiles sur le **serveur** de support Discord.
 {% endhint %}
 
-The following is only an overview of the commands we find to be the most useful. For more information about them, feel free to run the `help`command for the respective bot.
+{% hint style="warning" %}
+Pour une liste des commandes de DuckHunt, allez voir les pages : 
+
+* [Les commandes administrateur](../bot-administration/admin-commands.md)
+* [Les commandes du jeu](../players-guide/player-commands.md)[ ](../players-guide/player-commands.md)
+{% endhint %}
+
+Ce qui suit est uniquement un résumé des commandes les plus utiles. Pour plus d'information sur chaque bot, vous pouvez utiliser la commande`help`  du bot concerné.
 
 {% hint style="success" %}
-Do **not** include brackets like &lt;&gt; or \[\] in the commands. A &lt;&gt; bracket mention a **required** argument, and \[\] brackets refer to **optional** arguments.
+N'incluez **pas** les crochets comme &lt;&gt; ou \[ \]. Le &lt;&gt; indique un argument **obligatoire**, le \[ \] indique un argument **optionnel**.
 {% endhint %}
 
-### R. Danny \(Support\)
+### R. Danny \(Aide\)
 
-R. Danny is mainly used for tags, to quickly send a message for an often asked question, a formula or many others.
+R. Danny est principalement utilisé pour ses tags, qui permettent d'envoyer rapidement un message et de répondre aux questions fréquentes. 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Command</th>
-      <th style="text-align:left">Explanation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>?tag &lt;tag name&gt;</code>
-      </td>
-      <td style="text-align:left">
-        <p>Displays the <code>tag name</code>in the current channel.</p>
-        <p>Useful tags include <code>wrong_channel</code>, <code>setup</code> and <code>manual</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>?tag list</code>
-      </td>
-      <td style="text-align:left">List every tag currently available.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>?tag make</code>
-      </td>
-      <td style="text-align:left">Let you create a tag. This is an interactive command.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>?tag stats</code>
-      </td>
-      <td style="text-align:left">Displays most used tags on the server.</td>
-    </tr>
-  </tbody>
-</table>R. Danny also manage the \#starboard channel. To use it, react with a ⭐️ on a message you find funny. If two people react with ⭐️, the message will be kept on the starboard.
+| Command | Explanation |
+| :--- | :--- |
+| `?tag <tag name>` | Affiche le message `tag name`dans le canal utilisé. Les tags les plus utiles sont `wrong_channel_fr`, `setup_fr` et`manual_fr` |
+| `?tag list` | Donne la liste de tous les tags. |
+| `?tag make` | Vous permet de créer un tag. Commande interactive. |
+| `?tag stats` | Affiche les tags les plus utilisés sur le serveur. |
+
+R. Danny gère aussi le salon \#starboard . Pour l'utiliser, réagisser avec l'emoji ⭐️ sur un message que vous trouvez drôle. Si deux personnes réagissent avec ⭐️, le message sera conservé dans le starboard.
 
 ### Discord Pizza \(Fun\)
 
-This bot allow you to order \(virtual\) pizzas 🍕, for free. Pizzas are made and delivered by real humans \(those who decide to stay get the @Pizza role\).
+Ce bot vous permet de commander des pizzas \(virtuelles\), gratuitement. Les pizzas sont crées et livrées par de vrais humains, ceux qui restent obtiennent le rôle @Pizza.
+
+| Commande | Explication |
+| :--- | :--- |
+| `(>order <votre commande>` | Commande une pizza. Votre commande peut être une pizza avec au plus 4 ingrédients. La pizza sera livrée dans le salon dans lequel vous avez passé la commande.with at most 4 ingredients.  |
+| `(>myorder` | Vérifie l'avancement de votre commande. |
+| `(>rules` | Vérifie les règles qui s'appliquent au bot et à la commande de pizzas. |
+
+Si vous voyez un livreur, dites-lui qu'il est le bienvenu et qu'il peut rester sur le serveur, et qu'un modérateur lui donnera le rôle @Pizza dès que possible.
+
+### Groovy \(Musique\)
+
+Ahuman a dit prem's.
+
+### Koishi \(Statistiques\)
 
 | Command | Explanation |
 | :--- | :--- |
-| `(>order <your order>` | Order a pizza. Your order can be a pizza with at most 4 ingredients. The pizza will be delivered in the channel where you ran the command. |
-| `(>myorder` | Check your order status. |
-| `(>rules` | Check the rules that apply to pizza orders. |
+| `b+histostatus` | Montre votre historique de statut heure par heure. |
+| `b+histoguild` | Montre l'historique de toute la guilde. Prend longtemps à effectuer. |
 
-If you see a deliverer, please tell him **he is welcome to stay** on the server. Tell him a moderator will be there soon to give them the pizza role.
+### TeXiT \(Maths\)
 
-### Groovy \(Music\)
+TeXiT est utilisé pour les formules mathématiques. La syntaxe `$ inline LaTeX equation$` permet de mettre les équations en ligne, et la syntaxe `$$ equation $$` place les équations sur une ligne séparée du texte.
 
-Ahuman calls dibs
+Il y a aussi quelques commandes utiles pour utiliser WolframAlpha et calculer.
 
-### Koishi \(Statistics\)
 
-| Command | Explanation |
+
+| Commande | Explication |
 | :--- | :--- |
-| `b+histostatus` | Show your status history by hour of the day. |
-| `b+histoguild` | Show status history for the whole guild. Takes a long time to run. |
+| `,wolf <commande WA>` | Pose une question à WolframAlpha et retourne la première commande. Une question peut être n'importe quoi, de `2+2` à `Combien de calories dans un burger ?` |
+| `,calc <expression>`  | Calcule quelques expressions mathématiques simples. |
 
-### TeXiT \(Math\)
+### GetBeaned \(Modération\)
 
-TeXiT is used to render math formulaes. Use the `$ inline LaTeX equation$` syntax for inline equations and `$$ equation $$` to place equations on their own line.
+GetBeaned est notre bot de modération. Les commandes suivantes sont destinées aux modérateurs.
 
-There is also a few useful commands to query WolframAlpha and calculate 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Command</th>
-      <th style="text-align:left">Explanation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>,wolf &lt;wolfram alpha query&gt;</code>
-      </td>
-      <td style="text-align:left">
-        <p>Query WolframAlpha and return the first result.</p>
-        <p>A query can be anything from <code>2+2</code> to <code>how many calories in a burger</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>,calc &lt;expression&gt;</code> 
-      </td>
-      <td style="text-align:left">Calculate some simple math.</td>
-    </tr>
-  </tbody>
-</table>### GetBeaned \(Moderation\)
-
-GetBeaned is our moderation bot. The follwing commands are to be used by moderators.
-
-| Command | Explanation |
+| Commande | Explication |
 | :--- | :--- |
-| `+ban <duration> {users} <reason>` | Ban the users provided in the command, with an optional reason. |
-| `+softban {users} <reason>` | Ban and unban the users given to remove the recent messages they sent. You may add a reason to be displayed. |
-| `+kick {users} <reason>` | Kick the users from your server. They will be able to rejoin using a new invite link. |
-| `+mute <duration> {users} <reason>` | Mute users on the server. They won't be able to speak until unmuted or until they leave and rejoin the server. |
-| `+unmute {muted_users} <reason>` | Remove the GetBeaned\_Muted role from users, to let them talk again. |
-| `+unban {banned_users} <reason>` | Unban users from your server. They'll be able to rejoin using a new invite. |
+| `+ban <durée> {utilisateur} <raison>` | Bannit le ou les utilisateurs, avec un message optionnel donnant la raison. |
+| `+softban {utilisateur} <raison>` | Bannit et débannit les utilisateurs, pour supprimer leurs messages récents. Vous pouvez ajouter une raison optionnelle. |
+| `+kick {utilisateur} <raison>` | Éjecte les utilisateur du serveur. Ils pourront rejoindre de nouveau avec un lien d’invitation. |
+| `+mute <durée> {utilisateur} <raison>` | Rend muet les utilisateurs sur le serveur. Ils ne pourront plus parler sans avoir été dé-mute ou quitté et rejoint de nouveau le serveur. |
+| `+unmute {utilisateur_muet} <raison>` | Retire le rôle GetBeaned\_Muted aux utilisateurs, pour les laisser parler de nouveau. |
+| `+unban {utilisateur_banni} <raison>` | Dé-bannit les utilisateur du serveur.  Ils pourront rejoindre de nouveau avec un lien d’invitation. |
 
-The following commands can be used by moderators and trusted users.
+Les commandes suivantes peuvent être utilisées par les modérateurs et les utilisateurs de confiance. 
 
-| Command | Explanation |
+| Commande | Explication |
 | :--- | :--- |
-| `+note {users} [reason]` | Add a simple note to the user profile. Doesn't do anything by itself, this mostly serves as a reminder from staff or for very minor infractions. |
-| `+warn {users} <reason>` | Warns users on the server. While warns by themselves don't do anything, thresholds apply to warns and users may get kicked if they reach it. |
-| `+snipe` | Recover the last deleted message from the channel. Useful if you had seen some spam on the channel that quickly got deleted. |
+| `+note {utilisateur} [raison]` | Ajoute une note au profil de l'utilisateur. N'a aucun effet, cette commande sert uniquement comme aide-mémoire pour le staff, ou bien pour les infractions vraiment mineures. |
+| `+warn {utilisateur} <raison>` | Avertit les utilisateurs du serveur. Ne fait rien en lui-même, mais il y a des seuils qui s'appliquent sur les avertissements et peuvent causer l'éjection d'un utilisateur.  |
+| `+snipe` | Récupère le dernier message supprimé d'un salon, utile si du spam sur un salon a été rapidement supprimé. |
 | `+purge {arguments}` | Remove messages in bulk. See the [command documentation](https://docs.getbeaned.me/bot-documentation/using-the-purge-command-to-remove-messages) for more information. |
-| `+rename [user] <nickname>` | Rename a user with an optional nickname. If nickname is not specified, removes the nickname |
-| `+inspect [user/message/channel/...]` | Provides information about a given ID or name, and try to guess what that object is. |
+| `+rename [utilisateur] <surnom>` | Rename a user with an optional nickname. If nickname is not specified, removes the nickname |
+| `+inspect [utilisateur/message/salon/...]` | Provides information about a given ID or name, and try to guess what that object is. |
 
 No commands here are meant to be used regularly by normal users.
 
