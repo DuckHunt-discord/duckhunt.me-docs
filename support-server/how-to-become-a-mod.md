@@ -1,14 +1,14 @@
 ---
-description: Even though you problably won't.
+description: Même si vous ne le serez probablement jamais.
 ---
 
 # Comment devenir modérateur
 
-So, I hear you want to become a Moderator here on DuckHunt? If so, then follow this guide and maybe you will become a mod. 
+Alors, comme ça vous voulez devenir modo ? Eh bien, suivez ce guide, et vous deviendrez peu-être modérateur. Peut-être. 
 
-## Taoshi's Guide To Become Moderator
+## Le guide de Taoshi pour devenir Modérateur
 
-This guide is the story of how Taoshi\#0001 became moderator on the server. If you follow this guide, there is a chance that you might also become a moderator.
+Ce guide est l'histoire de comment  Taoshi\#0001 est devenu modérateur sur DuckHunt. Si vous suivez ces étapes, il y a une chance que vous deveniez modérateur. 
 
 Before we start, I would like to mention that some of these steps can't be done by everyone and not all of the steps are necessary, but doing all of them will definitely boost your chances.
 
