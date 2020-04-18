@@ -28,7 +28,7 @@ R. Danny est principalement utilisé pour ses tags, qui permettent d'envoyer rap
 | `?tag make` | Vous permet de créer un tag. Commande interactive. |
 | `?tag stats` | Affiche les tags les plus utilisés sur le serveur. |
 
-R. Danny gère aussi le salon \#starboard . Pour l'utiliser, réagisser avec l'emoji ⭐️ sur un message que vous trouvez drôle. Si deux personnes réagissent avec ⭐️, le message sera conservé dans le starboard.
+R. Danny gère aussi le salon \#starboard . Pour l'utiliser, réagissez avec l'émoji ⭐️ sur un message que vous trouvez drôle. Si deux personnes réagissent avec ⭐️, le message sera conservé dans le starboard.
 
 ### Discord Pizza \(Fun\)
 
@@ -36,7 +36,7 @@ Ce bot vous permet de commander des pizzas \(virtuelles\), gratuitement. Les piz
 
 | Commande | Explication |
 | :--- | :--- |
-| `(>order <votre commande>` | Commande une pizza. Votre commande peut être une pizza avec au plus 4 ingrédients. La pizza sera livrée dans le salon dans lequel vous avez passé la commande.with at most 4 ingredients.  |
+| `(>order <votre commande>` | Commande une pizza. Votre commande peut être une pizza avec au plus 4 ingrédients. La pizza sera livrée dans le salon dans lequel vous avez passé la commande. |
 | `(>myorder` | Vérifie l'avancement de votre commande. |
 | `(>rules` | Vérifie les règles qui s'appliquent au bot et à la commande de pizzas. |
 
@@ -48,7 +48,7 @@ Ahuman a dit prem's.
 
 ### Koishi \(Statistiques\)
 
-| Command | Explanation |
+| Commande | Explication |
 | :--- | :--- |
 | `b+histostatus` | Montre votre historique de statut heure par heure. |
 | `b+histoguild` | Montre l'historique de toute la guilde. Prend longtemps à effectuer. |
@@ -86,15 +86,15 @@ Les commandes suivantes peuvent être utilisées par les modérateurs et les uti
 | `+note {utilisateur} [raison]` | Ajoute une note au profil de l'utilisateur. N'a aucun effet, cette commande sert uniquement comme aide-mémoire pour le staff, ou bien pour les infractions vraiment mineures. |
 | `+warn {utilisateur} <raison>` | Avertit les utilisateurs du serveur. Ne fait rien en lui-même, mais il y a des seuils qui s'appliquent sur les avertissements et peuvent causer l'éjection d'un utilisateur.  |
 | `+snipe` | Récupère le dernier message supprimé d'un salon, utile si du spam sur un salon a été rapidement supprimé. |
-| `+purge {arguments}` | Remove messages in bulk. See the [command documentation](https://docs.getbeaned.me/bot-documentation/using-the-purge-command-to-remove-messages) for more information. |
-| `+rename [utilisateur] <surnom>` | Rename a user with an optional nickname. If nickname is not specified, removes the nickname |
-| `+inspect [utilisateur/message/salon/...]` | Provides information about a given ID or name, and try to guess what that object is. |
+| `+purge {arguments}` | Supprime un groupe de messages. Voir cette [page ](https://docs.getbeaned.me/bot-documentation/list-of-commands)pour plus d'informations. |
+| `+rename [utilisateur] <surnom>` | Renomme un utilisateur. Si le surnom n'est pas spécifié, supprime le surnom. |
+| `+inspect [utilisateur/message/salon/...]` | Donne des informations sur un ID ou un nom, et essaye de deviner de quoi il s'agit. |
 
-No commands here are meant to be used regularly by normal users.
+Aucune de ces commandes ne sont destinées aux utilisateurs normaux.
 
-### Other bots
+### Autres bots
 
-TODO \(GamesROB, Snail Racing \(Ahuman claims this one too\), Tatsu, FriendSpotter\)
+à faire  : GamesROB, Snail Racing \(Ahuman claims this one too\), Tatsu, FriendSpotter
 
 
 

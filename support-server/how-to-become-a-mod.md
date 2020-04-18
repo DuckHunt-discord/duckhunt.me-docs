@@ -2,7 +2,7 @@
 description: Even though you problably won't.
 ---
 
-# How to become a mod
+# Comment devenir modérateur
 
 So, I hear you want to become a Moderator here on DuckHunt? If so, then follow this guide and maybe you will become a mod. 
 

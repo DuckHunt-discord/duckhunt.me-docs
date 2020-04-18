@@ -2,7 +2,7 @@
 
 * [Le bot DuckHunt](README.md)
 
-## Players guide
+## Guide du joueur <a id="players-guide"></a>
 
 * [Comment jouer à DuckHunt](players-guide/how-to-play-with-duckhunt.md)
 * [Commandes pour jouer](players-guide/player-commands.md)
@@ -15,20 +15,20 @@
 * [FAQ](players-guide/faq.md)
 * [Comment contribuer au bot](players-guide/how-to-contribute-to-the-bot.md)
 
-## Bot administration
+## Administration du bot <a id="bot-administration"></a>
 
 * [Installer DuckHunt](bot-administration/install-duckhunt.md)
 * [Changer les paramètres / Liste des paramètres](bot-administration/edit-settings-settings-list.md)
 * [Commandes administrateurs](bot-administration/admin-commands.md)
 
-## Support server
+## Serveur de support <a id="support-server"></a>
 
 * [Comment rejoindre le serveur \(et quelques règles\)](support-server/how-to-join.md)
 * [Quelques commandes utiles](support-server/useful-commands.md)
-* [List of roles](support-server/list-of-roles.md)
-* [How to become a mod](support-server/how-to-become-a-mod.md)
+* [Liste des rôles](support-server/list-of-roles.md)
+* [Comment devenir modérateur](support-server/how-to-become-a-mod.md)
 
-## Support Server Lore
+## Serveur de support - Lore <a id="support-server-lore"></a>
 
 * [Server History \(2016\)](support-server-lore/server-history-2016.md)
 * [Server History \(2017\)](support-server-lore/server-history-2017.md)
