@@ -1,20 +1,20 @@
-# Player commands
+# Speelcommandos
 
 
 
 | Command | Description |
 | :--- | :--- |
 | dh!bang | Command used to shoot a duck. Don’t forget that sometimes, mistakes happen and you can miss the ducks… Or worse. |
-| dh!reload | Reloads or unjams your weapon. You must have chargers left if you want to reload. They are given back for free everyday \(check dh!freetime command\), but you can also buy them in the shop. |
-| dh!help | Sends you the help message. |
-| dh!wiki | Sends the link to this website. |
-| dh!stats \[player\] | Gets your or another player hunting statistics. |
-| dh!shop &lt;item number&gt; \[argument\] | Command used to buy things from the shop. For more information, see the Shop Items page. You can also use the dh!shop list command to show the link to the [shop items](store-items.md) page. |
-| dh!top | See the best players on the channel. |
-| dh!send\_exp &lt;player&gt; &lt;amount&gt; | Sends some of your experience points to another player on the game. A tax can be applied to the transfer, depending on the server settings. |
-| dh!freetime | This command will display the time left to wait for the free giveback of chargers and weapons. |
-| dh!settings list | Lists every possible [setting](../bot-administration/edit-settings-settings-list.md) that can be modified. |
-| dh!settings modified | See [settings](../bot-administration/edit-settings-settings-list.md) that were modified and their new value. |
-| dh!ping | Pings the bot to see if it is online. |
-| dh!uptime | Shows the bot’s uptime. |
+| dh!reload | Herlaadt of deblokkeert je wapen.  Je moet magazijnen over hebben als je wilt herladen. Ze worden elke dag gratis teruggegeven \(check het`dh!freetime` command\), maar je kunt ze ook in de winkel kopen. |
+| dh!help | Stuurt je het helpbericht. |
+| dh!wiki | Stuurt de link naar deze website. |
+| dh!stats \[player\] | Haalt de jachtstatistieken van jou of een andere speler op. |
+| dh!shop &lt;item number&gt; \[argument\] | Commando dat wordt gebruikt om dingen in de winkel te kopen. Zie de pagina [winkelcatalogus](store-items.md) voor meer informatie. Je kunt ook het commando `dh!shop list` gebruiken om de link naar die pagina weer te geven. |
+| dh!top | Zie de beste spelers op het kanaal. |
+| dh!send\_exp &lt;player&gt; &lt;amount&gt; | Stuurt enkele van je ervaringspunten naar een andere speler in het spel. Afhankelijk van de serverinstellingen kan er belasting worden geheven op de overdracht. |
+| dh!freetime | Deze opdracht geeft de resterende tijd weer om te wachten op de gratis teruggave van opladers en wapens. |
+| dh!settings list | Geeft een overzicht van alle mogelijke [instellingen ](../bot-administration/edit-settings-settings-list.md)die kunnen worden gewijzigd. |
+| dh!settings modified | Zie [instellingen ](../bot-administration/edit-settings-settings-list.md)die zijn gewijzigd en hun nieuwe waarde. |
+| dh!ping | Pingt de bot om te zien of deze online is. |
+| dh!uptime | Toont de uptime van de bot. |
 

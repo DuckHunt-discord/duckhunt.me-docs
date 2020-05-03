@@ -5,8 +5,8 @@
 ## spelersgids <a id="players-guide"></a>
 
 * [Hoe speel je DuckHunt](players-guide/players-quickstart.md)
-* [Player commands](players-guide/player-commands.md)
-* [Shop items](players-guide/store-items.md)
+* [Speelcommandos](players-guide/player-commands.md)
+* [Winkelcatalogus](players-guide/store-items.md)
 * [Events](players-guide/events.md)
 * [Levels and experience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievments-guide.md)
