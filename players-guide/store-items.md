@@ -107,7 +107,7 @@ Here will be a quick paragraph on how to use the shop command.
     </tr>
     <tr>
       <td style="text-align:left">15</td>
-      <td style="text-align:left">Handful of sand</td>
+      <td style="text-align:left">Handvol met zand</td>
       <td style="text-align:left">7</td>
       <td style="text-align:left">Gooi zand op het pistool van een andere speler naar keuze, zijn kans op
         vastlopen zal met 50% toenemen voor het volgende schot. Annuleert effecten
@@ -115,7 +115,7 @@ Here will be a quick paragraph on how to use the shop command.
     </tr>
     <tr>
       <td style="text-align:left">16</td>
-      <td style="text-align:left">Water bucket</td>
+      <td style="text-align:left">Emmer water</td>
       <td style="text-align:left">10</td>
       <td style="text-align:left">Gooi een emmer water op een speler naar keuze en dwing hem 1 uur te wachten
         tot zijn kleding droog is voordat hij weer kan jagen.</td>
@@ -129,13 +129,13 @@ Here will be a quick paragraph on how to use the shop command.
     </tr>
     <tr>
       <td style="text-align:left">20</td>
-      <td style="text-align:left">Decoy</td>
+      <td style="text-align:left">Lokaas</td>
       <td style="text-align:left">8</td>
-      <td style="text-align:left">Trekt een eend binnen 10 minuten na aankoop aan.</td>
+      <td style="text-align:left">Lokt een eend binnen 10 minuten na aankoop.</td>
     </tr>
     <tr>
       <td style="text-align:left">21</td>
-      <td style="text-align:left">Bread</td>
+      <td style="text-align:left">Brood</td>
       <td style="text-align:left">2</td>
       <td style="text-align:left">Gooi stukken brood om de kans op het zien van eenden gedurende 1 uur te
         vergroten. Brood zorgt er ook voor dat eenden 20 seconden langer blijven.
@@ -143,7 +143,8 @@ Here will be a quick paragraph on how to use the shop command.
     </tr>
     <tr>
       <td style="text-align:left">23</td>
-      <td style="text-align:left">Mechanical duck</td>
+      <td style="text-align:left">Mechanis
+        <br />-che eend</td>
       <td style="text-align:left">40</td>
       <td style="text-align:left">Speel een grap uit op andere jagers door een nep-eend te lanceren. Ze
         krijgen er geen XP van en verliezen hun munitie. De eend wordt 10 minuten
