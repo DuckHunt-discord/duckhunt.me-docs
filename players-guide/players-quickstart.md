@@ -4,15 +4,18 @@ O Objetivo do jogo é ganhar o máximo de experiência para ser o melhor jogador
 
 Para ganhar pontos de experiência, você precisa matar os patos. Muitos patos morto garantem a você\(com base nas configurações iniciais\) 10 pontos de exp. Contudo, algumas vezes voce pode encontrar outros [tipos de patos](types-of-ducks.md) que dão mais pontos de experiência.
 
-To kill a duck, you need to shoot at it with your weapon, using the `dh!bang` command. Assuming you are lucky, you'll hit the duck and win experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you will have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
+Para matar um pato voce deve atirar nele com sua arma, use o comando dh!bang. Assumindo que voce está com sorte, você irá matar o pato e ganhar pontos de experiência. Se você não estiver com sorte você irá errar seu tiro. Neste caso, não se preocupe, você pode tentar novamente apenas digitando o comando novamente. Se sua arma for confiscada, você terá que aguardar o dh!freetime ou [comprá-la de volta no shop.](store-items.md) com seus pontos de experiência.
 
 {% hint style="info" %}
-The `dh!bang` command can often be reduced to simply `dhpan` or `!pan`. Many aliases are available, will you be able to find them all ?
+O comando `dh!bang` pode ser reduzido para simplesmente dh!pan ou !pan. Existem muitas formas de conseguir executar o comando, você é capaz de saber todas??
 {% endhint %}
 
-You may also need to reload your weapon, either because you have no more bullets or because it jammed. No worries, the command is just `dh!reload`.   
+Você pode precisar recarregar sua arma, ou porque você não tem mais balas ou porque emperrou.  
+Sem problemas, o comando é apenas dh!reload.
+
   
-Once you killed a few ducks, you should have got enough experience to explore the [shop](store-items.md), using the `dhbuy` command. 
+  
+Depois de matar alguns patos, você deve ter experiência suficiente para explorar a [loja](store-items.md), usando o comando dh!buy.
 
 We recommend you buy a **silencer** to avoid letting the ducks flee on you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\),  a **sight** to improve your aim \(`dhshop sight`\). 
 
