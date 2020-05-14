@@ -10,12 +10,12 @@ Alors, comme ça vous voulez devenir modo ? Eh bien, suivez ce guide, et vous de
 
 Ce guide est l'histoire de comment  Taoshi\#0001 est devenu modérateur sur DuckHunt. Si vous suivez ces étapes, il y a une chance que vous deveniez modérateur. 
 
-Before we start, I would like to mention that some of these steps can't be done by everyone and not all of the steps are necessary, but doing all of them will definitely boost your chances.
+Avant de commencer, je voudrais signaler que certaines de ces étapes ne peuvent pas être réalisées par tout le monde, et que toutes ne sont pas nécessaires, mais toutes les faire va certainement augmenter vos chances.
 
-**You just joined**   
-So you first joined the server because you found DuckHunt somewhere and decided to check out the support server. This is your first day and you might not be talking in General just yet. I was mainly playing in \#game-all-time a few days before stepping into the other channels. A few days later i decided to go into \#General to chat and \#support\_english to help people whenever they needed it. 
+**Vous venez juste d'arriver**   
+Vous avez rejoint le serveur parce que vous avez trouvé DuckHunt quelque part, et vous avez décidé d'aller voir le serveur de support. C'est votre premier jour, et vous ne parlez peut-être pas encore dans le Général. Je passais la majeure partie de mon temps à jouer dans \#game-all-time les premiers jours, avant d'aller voir dans les autres salons : \#general pour discuter et les salons d'aide pour essayer d'aider ceux qui en avaient besoin. 
 
-**Translator**   
+**Traducteur**  
 After 1-2 weeks of chatting and supporting, I decided to look into translating the bot because I like the bot and i noticed that no one has translated the bot into Danish, so i decided to take the opportunity and was granted the translator role. I was done translating after around 2 weeks. 
 
 This can be done faster, but you don't have to rush it.
