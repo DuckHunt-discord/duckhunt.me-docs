@@ -14,7 +14,7 @@ Bien sûr ! Vous pouvez le trouver sur [GitHub](https://github.com/DuckHunt-disc
 
 ### Je veux héberger moi même DuckHunt / Je veux ma propre copie de DuckHunt. Comment fais-je cela ?
 
-Cela n'est absolument pas recommandé. Le bot officiel est le meilleur choix dans 99,9% des cas. Notez qu'aucune aide ne sera donné pour les versions hérgées par vous même, en plus de devoir mettre à jour le bot de façon régulière. Si vous voulez quand même essayer, des instructions sont disponibles sur le [repo GitHub](https://github.com/DuckHunt-discord/DHV3/issues).
+Cela n'est absolument pas recommandé. Le bot officiel est le meilleur choix dans 99,9 % des cas. Notez qu'aucune aide ne sera donné pour les versions hébergées par vous-même, en plus de devoir mettre à jour le bot de façon régulière. Si vous voulez quand même essayer, des instructions sont disponibles sur le [repo GitHub](https://github.com/DuckHunt-discord/DHV3/issues).
 
 ### J'ai trouvé un bug ! Que dois-je faire ?
 

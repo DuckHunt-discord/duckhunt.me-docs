@@ -2,9 +2,9 @@
 
 Pour définir un paramètre, utilisez `dh!settings set <paramètre> <valeur>`
 
-Vous pouvez voir les paramètres ayant étés modifiés avec la commande `dh!settings modified`
+Vous pouvez voir les paramètres ayant été modifiés avec la commande `dh!settings modified`
 
-Pour rénitialiser un paramètre à sa valeur par défaut, vous pouvez utiliser `dh!settings reset <paramètre>`
+Pour réinitialiser un paramètre à sa valeur par défaut, vous pouvez utiliser `dh!settings reset <paramètre>`
 
 Note : Un booléen est un type de variable pouvant être défini par `true` ou `false`. `true` correspond à "oui" ou "vrai", et `false` correspond à "non" ou "faux". Par exemple, `true` sur `announce_level_up` veut dire que les messages de montée de niveau seront envoyés.
 

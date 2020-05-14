@@ -23,7 +23,7 @@ Le canard standard est le type de canard rencontré le plus fréquemment. Il n'a
 
 Les poussins n'ont pas fini leur croissance, par conséquent vous ne devriez pas les tuer, afin de ne pas mettre en danger le stock futur de canards. Montrez-leur plutôt votre amour avec la commande `dh!hug`. 
 
-Les poussins ont des émoji spéciaux, vous pouvez donc les reconnaître facilement. Par ailleurs, ils ne savent pas encore parler, ils ne disent donc que **COIN !**
+Les poussins ont des émojis spéciaux, vous pouvez donc les reconnaître facilement. Par ailleurs, ils ne savent pas encore parler, ils ne disent donc que **COIN !**
 
 ![Quelques poussins dans un canal Discord. Ne leur faites pas de mal !](../.gitbook/assets/2020-02-24.21-55-37.png)
 

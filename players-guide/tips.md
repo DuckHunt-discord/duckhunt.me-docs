@@ -20,14 +20,14 @@ Les canards se font tirer dessus, ou bien partent, dans l'ordre dans lequel ils 
 
 ### **Les débuts**
 
-Au début du jeu vous commencez avec une arme de mauvaise qualité, avec beaucoup de balles par chargeurs, et une précision... mauvaise. Très mauvaise. A ce moment, il est plus rentable d'acheter des chargeurs que des balles. Je recommande d'acheter un trèfle à quatre feuilles \(`dh!buy` 10 ou `dh!buy clover`\) si vous avez plus de 20 points d’expérience, et de tuer autant de canards que possible. L'achat d'un viseur est aussi recommandé \(`dh!buy 7`\) pour minimiser les risques d'accidents.  
+Au début du jeu vous commencez avec une arme de mauvaise qualité, avec beaucoup de balles par chargeurs, et une précision... mauvaise. Très mauvaise. À ce moment, il est plus rentable d'acheter des chargeurs que des balles. Je recommande d'acheter un trèfle à quatre feuilles \(`dh!buy` 10 ou `dh!buy clover`\) si vous avez plus de 20 points d’expérience, et de tuer autant de canards que possible. L'achat d'un viseur est aussi recommandé \(`dh!buy 7`\) pour minimiser les risques d'accidents.  
 Vous pouvez utiliser de la graisse pour limiter l'enrayement de votre arme, mais je pense que c'est un gaspillage d'XP. Vous pouvez aussi acheter un détecteur infrarouge pour éviter de gaspiller les balles et perdre 2 XP pour un tir dans le vide, mais à votre place, j'utiliserais juste `dh!hug` pour vérifier s'il y a des canards.
 
 Un silencieux est très utile en début de jeu, puisque vous manquez beaucoup de tirs qui peuvent effrayer les canards.
 
 ### En fin de jeu
 
-Au bout d'un moment, vous obtenez un super fusil de sniper avec une seule balle par chargeur. A partir de là, il est plus avantageux d'acheter les balles que les chargeurs. Un trèfle à quatre feuilles  \(`dhbuy 10`\) est nécessaire pour en arriver à ce point, et un détecteur infrarouge \(`dhbuy 8`\) est vraiment recommandé pour éviter le gaspillage.
+Au bout d'un moment, vous obtenez un super fusil de sniper avec une seule balle par chargeur. À partir de là, il est plus avantageux d'acheter les balles que les chargeurs. Un trèfle à quatre feuilles  \(`dhbuy 10`\) est nécessaire pour en arriver à ce point, et un détecteur infrarouge \(`dhbuy 8`\) est vraiment recommandé pour éviter le gaspillage.
 
 Vous pouvez toujours laisser quelques morceaux de pain dans un canal, et espérer attirer plus de canards. \(`dhbuy 21`\)
 

@@ -6,7 +6,7 @@
 | :--- | :--- |
 | dh!bang | Commande pour tirer sur un canard. N'oubliez pas que des erreurs peuvent arriver, vous pouvez louper le canard... Ou pire. |
 | dh!reload | Recharge ou décoince votre arme. Vous devez avoir des chargeurs si vous voulez recharger. Votre inventaire est rempli gratuitement tous les jours \(voir la commande dh!freetime\) ou vous pouvez en acheter dans le magasin. |
-| dh!help | Vous envoie le message d'aide |
+| dh!help | Vous envoi le message d'aide |
 | dh!wiki | Envoie le lien vers ce site |
 | dh!stats \[joueur\] | Avoir les statistiques de chasse de vous ou un autre joueur. |
 | dh!shop &lt;objet&gt; \[détails\] | Commande utilisée pour acheter des objets dans le magasin. Pour plus d'informations, voir la page "Objets du magasin". Vous pouvez aussi utiliser dh!shop list pour afficher la page [Objets du magasin](store-items.md). |

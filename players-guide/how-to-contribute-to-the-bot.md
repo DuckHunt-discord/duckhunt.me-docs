@@ -27,7 +27,7 @@ Salut, voilà quelques liens si vous voulez me donner quelques $ pour continuer 
 * [https://www.patreon.com/duckhunt](https://www.patreon.com/duckhunt)
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)
 * [https://github.com/sponsors/paris-ci](https://github.com/sponsors/paris-ci)
-* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(Ils nous fournissent des serveurs gratuiement, aidez-les en achetant des VPS chez eux. Ils ont un serveur d'aide sur Discord et sont vraiment très bons.\)
+* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(Ils nous fournissent des serveurs gratuitement, aidez-les en achetant des VPS chez eux. Ils ont un serveur d'aide sur Discord et sont vraiment très bons.\)
 
 
 

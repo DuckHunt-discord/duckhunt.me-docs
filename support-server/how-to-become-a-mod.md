@@ -8,7 +8,7 @@ Alors, comme ça vous voulez devenir modo ? Eh bien, suivez ce guide, et vous de
 
 ## Le guide de Taoshi pour devenir Modérateur
 
-Ce guide est l'histoire de comment  Taoshi\#0001 est devenu modérateur sur DuckHunt. Si vous suivez ces étapes, il y a une chance que vous deveniez modérateur. 
+Ce guide est l'histoire de comment Taoshi\#0001 est devenu modérateur sur DuckHunt. Si vous suivez ces étapes, il y a une chance que vous deveniez modérateur. 
 
 Avant de commencer, je voudrais signaler que certaines de ces étapes ne peuvent pas être réalisées par tout le monde, et que toutes ne sont pas nécessaires, mais toutes les faire va certainement augmenter vos chances.
 

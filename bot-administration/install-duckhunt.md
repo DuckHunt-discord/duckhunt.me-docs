@@ -11,7 +11,7 @@ Premièrement, merci à [HostMyServers](https://www.hostmyservers.fr/) pour four
 Ajouter le bot officiel est très facile ! Suivez les étapes suivantes
 
 * Rejoignez [notre serveur Discord ](https://discord.gg/2BksEkV)si vous avez besoin d'aide supplémentaire. 
-* **Invitez le bot sur votre seveur en cliquant** [**ici**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
+* **Invitez le bot sur votre serveur en cliquant** [**ici**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
 * Tapez `dh!setup` dans le salon textuel que vous voulez utiliser et suivez les instructions qui vont sont données.
 * **Lot bot devrait vous demander de taper `dh!add_channel`dans le salon textuel où vous voulez jouer.** Faites-le et vous pourrez commencer à jouer.
 
