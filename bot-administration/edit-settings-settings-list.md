@@ -259,3 +259,4 @@ Note : Un booléen est un type de variable pouvant être défini par `true` ou `
     </tr>
   </tbody>
 </table>
+

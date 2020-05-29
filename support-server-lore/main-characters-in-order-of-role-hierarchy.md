@@ -22,7 +22,9 @@ description: Important people in the server.
         Minecraft. Beautiful calligraphy.</td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Admin</th>
@@ -40,7 +42,9 @@ description: Important people in the server.
         Staff.&quot;</td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Happy&amp;Kindness-Manager</th>
@@ -59,7 +63,9 @@ description: Important people in the server.
         2020. Played Minecraft, maybe.</td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Moderators</th>
@@ -137,7 +143,9 @@ description: Important people in the server.
       <td style="text-align:left">(undisclosed)</td>
     </tr>
   </tbody>
-</table>| Bot developer | \(deleted role\) |
+</table>
+
+| Bot developer | \(deleted role\) |
 | :--- | :--- |
 | Eyes  | "Yes, that was me." -Eyes |
 
@@ -157,7 +165,9 @@ description: Important people in the server.
       <td style="text-align:left">&quot;Veteran duck hunter, definitely not French, does indeed like Minecraft&quot;</td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Proficients</th>
@@ -223,7 +233,9 @@ description: Important people in the server.
       </td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Translators</th>
@@ -303,3 +315,4 @@ description: Important people in the server.
     </tr>
   </tbody>
 </table>
+

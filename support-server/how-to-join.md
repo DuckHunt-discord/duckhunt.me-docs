@@ -17,7 +17,8 @@ De plus, les règles suivantes s'appliquent :
 5. Évitez de notifier plusieurs personnes. Pour notifier les @Moderators, vous **DEVEZ** avoir une bonne raison.  
 6. Tout contenu dérangeant \(NSFW, même seulement suggéré\) n'est pas autorisé. Tout ce qui est posté doit être sans danger pour les plus de 13 ans. 
 7. Les surnoms ne doivent pas être insultants ni contenir de caractères spéciaux pour vous faire apparaître en haut de la liste. Si vous demandez de l'aide, assurez-vous de pouvoir être mentionné facilement. 
-8. N'envoyez pas trop de memes dans les salons généraux. Il y a \#glorieux-memes-de-france pour ça. 
+8. N'envoyez pas trop de mêmes dans les salons généraux. Il y a \#glorieux-memes-de-france pour ça.
+9. N'envoyez pas de messages privées aux membres du serveur sans accord préalable de leur part. Ca inclus le staff, ne venez pas demander de l'aide en MP si cela nous vous a pas été demandé précédemment.
 
 
 
