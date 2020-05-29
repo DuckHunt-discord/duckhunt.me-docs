@@ -26,7 +26,7 @@ De plus, les règles suivantes s'appliquent :
 N'oubliez pas, règle n°1 : les modérateurs et les administrateurs ont toujours raison. S'ils vous disent que quelque chose est interdit, ne vous plaignez pas.
 {% endhint %}
 
-Nous sommes ouverts au sujet de la modération du serveur. Un rapport complet, non censuré, qui contient toutes les actions effectuées par les modérateurs sur le serveur, est accessible sur le canal \#mod-log, ou via l'[interface web de  GetBeaned](https://getbeaned.me/guilds/195260081036591104).
+Nous sommes ouverts au sujet de la modération du serveur. Un rapport complet, non censuré, qui contient toutes les actions effectuées par les modérateurs sur le serveur, est accessible sur le canal \#mod-log, ou via l'[interface web de GetBeaned](https://getbeaned.me/guilds/195260081036591104).
 
 {% hint style="info" %}
 Si vous avez été sanctionné par le _Treshold Enforcer_, alors le paragraphe suivant ne s'applique pas. Vous pouvez faire appel directement auprès de **Eyesofcreeper\#0001**.
