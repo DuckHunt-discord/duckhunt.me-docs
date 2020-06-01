@@ -6,7 +6,7 @@ description: Les dons ne sont pas la seule manière d'aider.
 
 ### Traduire le bot
 
-Des traductions sont déjà disponibles dans beaucoup de langues. Cependant, si vous sentez que l'une d'elles peut être améliorée, ou simplement terminée, contactez Eyesofcreeper\#0001 sur [Discord](https://discordapp.com/invite/2BksEkV).  N'oubliez pas de mentionner dans quelle langue vous voulez traduire. Nous utilisons LingoHub pour traduire le bot, et le wiki peut aussi être traduit avec GitBook \(voire [Comment éditer ce wiki](../how-to-edit-this-wiki.md)\).
+Des traductions sont déjà disponibles dans beaucoup de langues. Cependant, si vous sentez que l'une d'elles peut être améliorée, ou simplement terminée, contactez Eyesofcreeper\#0001 sur [Discord](https://discordapp.com/invite/2BksEkV).  N'oubliez pas de mentionner dans quelle langue vous voulez traduire. Nous utilisons LingoHub pour traduire le bot, et le wiki peut aussi être traduit avec GitBook \(voir le lien ci-dessous\).
 
 ### Signaler des bugs
 
@@ -14,15 +14,21 @@ Vous pouvez signaler des bugs sur la page [GitHub](https://github.com/DuckHunt-d
 
 ### Améliorer ce site
 
-Merci à ceux qui veulent améliorer ce wiki ! Il y a une [page ](../how-to-edit-this-wiki.md)dédiée à cela, qui explique le processus en détail, allez voir ! 
+Merci à ceux qui veulent améliorer ce wiki !  
+Il y a une page dédiée à cela, qui explique le processus en détail, allez voir ! 
+
+{% page-ref page="../how-to-edit-this-wiki.md" %}
 
 ### Aider sur le serveur de support
 
-Vous pouvez rejoindre le serveur en utilisant ce lien. Venez nous aider à répondre aux questions des débutants comme des joueurs confirmés. Si vous voulez d'abord vous familiariser avec les commandes, allez voir [ici](../support-server/how-to-join.md).
+Vous pouvez rejoindre le serveur en utilisant ce lien. Venez nous aider à répondre aux questions des débutants comme des joueurs confirmés. Si vous voulez d'abord vous familiariser avec les commandes, allez voir ci-dessous.
+
+{% page-ref page="../support-server/how-to-join.md" %}
 
 ### Dons
 
-Salut, voilà quelques liens si vous voulez me donner quelques $ pour continuer le projet ! Merci beaucoup !
+Salut, voilà quelques liens si vous voulez me donner quelques $ pour continuer le projet !  
+Merci beaucoup !
 
 * [https://www.patreon.com/duckhunt](https://www.patreon.com/duckhunt)
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)

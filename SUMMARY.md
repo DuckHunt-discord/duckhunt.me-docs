@@ -40,7 +40,7 @@
   * [Miscellaneous Characters](support-server-lore/side-characters/miscellaneous-characters.md)
 * [Characters we killed off](support-server-lore/characters-we-killed-off.md)
 * [A list of all the Furrys in Eyes' Attic](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
-* [Meeeeeeeeh role](support-server-lore/what-is-the-meeeeeeh-role.md)
+* [Role meeeeeeeeh](support-server-lore/what-is-the-meeeeeeh-role.md)
 * [Server events](support-server-lore/server-events/README.md)
   * ["Clear Your Cache" Awareness](support-server-lore/server-events/clear-your-cache-awareness.md)
   * [Chain Texts](support-server-lore/server-events/chain-texts.md)
@@ -49,5 +49,5 @@
 
 * [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
 * [Performance metrics](the-duckhunt-api/performance-metrics.md)
-* [How to edit this wiki](how-to-edit-this-wiki.md)
+* [Comment éditer ce wiki](how-to-edit-this-wiki.md)
 

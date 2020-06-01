@@ -1,41 +1,41 @@
 ---
-description: 'If you have it, you are probably stupid.'
+description: 'Si vous l''avez, vous êtes probablement stupide.'
 ---
 
-# Meeeeeeeeh role
+# Role meeeeeeeeh
 
-If you make Eyes facepalm, he gives you the meeeeeeh role. There are roughly 20+ people in the server with the role.   
+Si faites une facepalm des yeux, vous aurez le role meeeeeeh. Il y a environ 20 personnes ou plus sur le serveur avec ce rôle.   
   
-EASY WAY TO GET MEEEH QUICK EXPLOIT \(WORKING 2020\):  
+OBTENEZ RAPIDEMENT ET FACILEMENT LE RÔLE MEEEH \(MARCHE EN 2020\):  
   
-0: carefully read all the instructions before acting   
-1: get naked  
-2: find a potato   
-3: find a pencil  
-4: find a Heinz Tomato Ketchup, 20 oz Bottle  
-5: blend all 4 items together in your mind   
-6: forgot about the 4th item, find a screwdriver  
-7: now blend the 4 items together in your mind  
-8: DM eyes about what you imagine it would taste like, without giving him any context.   
-9: send subtle a pdf file of the bible   
-10: put your clothes back on   
-11: jk, keep them off  
-12: now imagine your grandmothers robe   
-13: the pink one   
-14: okay, now imagine a magnifying glass   
-15: that is a microscope, not a magnifying glass.   
-16: now, ask eyes if he would rather you think about using a microscope or a magnifying glass with a pink robe   
-17: pick whatever he didnt choose   
-18: draw a stickman wizard using either a microscope or a magnifiying glass to burn the robe.   
-19: when you are ready, continue. to step 20  
-20: post the stickman wizard in general, and ask the @hyper-meeh what they think. If they like it, then they will grant you the @meeeh role   
-21: put your clothes on  
-22: when you are ready, read the final step below   
-  
-  
+0: Lisez attentivement toutes les instructions avant d'agir.   
+1: Déshabillez-vous,  
+2: Trouvez une patate,  
+3: Trouvez un stylo,  
+4: Trouvez une bouteille de Ketchup à la tomate Heinz en 600ml,  
+5: Mélangez les 4 éléments ensemble dans votre esprit,  
+6: _Mince... J'avais oublié le 4ème élément..._ Trouvez un tournevis !  
+7: Maintenant, mélangez les 4 éléments ensemble dans votre esprit,  
+8: Imaginez avec vos yeux le gout que ça aurait, sans leur donner aucun contexte,   
+9: Envoyez subtilement un pdf de la bible,  
+10: Remetez vos habits,   
+11: Je rigole ! Enlevez les !  
+12: Maintenant imaginez la robe de votre grand-mère.   
+13: Pas celle là ! La rose !  
+14: Ok, maintenant, imaginez une magnifique loupe.  
+15: Pas ça, c'est un microscope, pas une magnifique loupe.   
+16: Maintenant, demandez à vos yeux si vous préferez utiliser un microscope ou une magnifique loupe avec une robe rose.   
+17: Prennez ce qu'il n'a pas choisi,   
+18: Dessinez un sorcier stickman à l'aide d'un microscope ou d'une loupe pour brûler la robe.  
+19: Quand vous êtes prêts, passez à l'étape 20.  
+20: Postez le magicien stickman dans le channel general \(du serveur discord\), et demandez à @hyper-meeh ce qu'il en pense. Si il l'aime, il te donnera le grade @meeeh.   
+21: Remet tes habits.  
+22: Quand tu es prêt, lis l'étape finale en dessous.   
   
   
-Congratulations! The final step is to do none of the following steps above, and instead DM Ahuman\#8933 and tell him he is an asshole. I hope you read step 0.   
   
-I just wanted to waste your time :D
+  
+Félicitation! La dernière étape consiste à ne faire aucune des étapes ci-dessus, mais envoyez un message privé à Ahuman\#8933 et à lui dire qu'il est un connard. J'espère que vous lisez l'étape 0.
+
+Je voulais juste te faire perdre ton temps :D
 
