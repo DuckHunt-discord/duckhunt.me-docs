@@ -16,14 +16,12 @@ Avant de commencer, je voudrais signaler que certaines de ces étapes ne peuvent
 Vous avez rejoint le serveur parce que vous avez trouvé DuckHunt quelque part, et vous avez décidé d'aller voir le serveur de support. C'est votre premier jour, et vous ne parlez peut-être pas encore dans le Général. Je passais la majeure partie de mon temps à jouer dans \#game-all-time les premiers jours, avant d'aller voir dans les autres salons : \#general pour discuter et les salons d'aide pour essayer d'aider ceux qui en avaient besoin. 
 
 **Traducteur**  
-After 1-2 weeks of chatting and supporting, I decided to look into translating the bot because I like the bot and i noticed that no one has translated the bot into Danish, so i decided to take the opportunity and was granted the translator role. I was done translating after around 2 weeks. 
-
-This can be done faster, but you don't have to rush it.
+Après 1 à 2 semaines où j'ai discuté et aidé les membres du serveur, j'ai décidé de commencer à traduire le bot, parce que j'aime bien le bot et que personne ne l'avait traduit en danois. C'est ainsi que j'ai obtenu le rôle de traducteur. La traduction était finie en deux semaines. Cette étape peut être plus rapide, mais inutile de vous précipiter !
 
 **Proficient**   
-5 days after I was done translating. I was granted the Proficient role because i have been supporting people so much that i know almost anything there is to know about DuckHunt. To get this role you need to know a lot about DuckHunt. Proficient people are considered trusted here. 
+5 jours après avoir fini ma traduction, j'ai reçu le rôle Proficient pour avoir aidé suffisamment de gens pour savoir presque tout ce qu'il y avait à savoir sur le bot. Pour avoir ce rôle, vous devez vraiment bien vous y connaitre. Les Proficients sont des personnes de confiance sur le serveur. 
 
-Reading around on this wiki and learning can definitely help you out!
+Lire ce wiki peut grandement vous aider !
 
 **Website Maintainer**   
 As they say: "When opportunity comes knocking, you gotta answer". That is pretty much what happened here. After almost 2 months of being proficient and being engaged in the community as usual, the owner asked if people wanted to help translating the website. I decided to do it because it was just translating and no html knowledge required. I translated a few pages. 
