@@ -14,7 +14,7 @@ Exemple : `dh!shop 17 @Joueur#0000` va saboter l'arme de @Joueur\#0000
 | 7 | Lunette de visée | 6 | Améliore la précision du prochain tir de $$(100- précision\_actuelle)/3$$. |
 | 8 | Détecteur infrarouge | 15 | Empêche le tir si il n'y a pas de canards, ce qui permet d'économiser des balles. Dure 24h ou pour 6 tirs dans le vide. |
 | 9 | Silencieux | 5 | Cache le bruit de l'arme pendant 24h pour ne pas faire fuir les canards. |
-| 10 | Trègle à 4 feuilles | 13 | Donne de l'XP supplémentaire pour tout les canards tués pendant 24h. XP supplémentaire par canard choisi aléatoirement à l'achat entre 1 et 10. |
+| 10 | Trèfle à 4 feuilles | 13 | Donne de l'XP supplémentaire pour tout les canards tués pendant 24h. XP supplémentaire par canard choisi aléatoirement à l'achat entre 1 et 10. |
 | 11 | Lunettes de soleil | 5 | Empêche les miroirs de vous éblouir pendant 24h. |
 | 12 | Nouveaux vêtements | 7 | Des vêtemens secs. Utile si quelqu'un vous jette un seau d'eau dessus. |
 | 13 | Brosse pour arme | 7 | Annule les sabotages et enlève le sable de l'arme. |
