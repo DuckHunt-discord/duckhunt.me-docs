@@ -24,5 +24,5 @@ Exemple : `dh!shop 17 @Joueur#0000` va saboter l'arme de @Joueur\#0000
 | 17 | Sabotage | 14 | Sabote l'arme d'un autre joueur. Son arme va s'enrayer et exploser la prochaine fois qu'il essaye de tirer. |
 | 20 | Leurre | 8 | Attire un canard dans les 10 minutes après l'achat. |
 | 21 | Pain | 2 | Jette du pain pour améliorer la chance de voir des canards pour 1h. Plusieurs bouts de pain peuvent être achetés pour cumuler les effets. |
-| 23 | Canard mécanique | 40 | Fais une blague aux autres joueurs en envoyant un faux canard. Il ne gagneront pas d'XP et vont perdre des munitions. Le canard sera envoyé automatiquement 10 minutes après l'achat. |
+| 23 | Canard mécanique | 40 | Fais une blague aux autres joueurs en envoyant un faux canard. Il ne gagneront pas d'XP et vont perdre des munitions. Le canard sera envoyé automatiquement 90 secondes après l'achat. |
 
