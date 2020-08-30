@@ -1,6 +1,7 @@
 # Shop items
 
-How to use the shop command.
+How to use the shop command :   
+dh!shop &lt;item&gt; \[target\] with &lt;item&gt; the ID or the Alias of the object you want and \[target\] the target when needed \(mainly the sabotage items\).
 
 | ID | Name | Alias | Cost\(XP\) | Description |
 | :--- | :--- | :--- | :--- | :--- |
