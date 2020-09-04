@@ -70,7 +70,5 @@ _Vous pourriez en obtenir encore plus ensuite, mais à ce niveau vous avez plus 
 
 ### Encore plus rare ?
 
-Vous pourriez continuer encore et encore, ce ne sont que quelques exemples. Si vous obtenez des combinaisons rares, par exemple cinq poussins d'un coup, n'oubliez pas de les poster, et nous 
-
-You could go on and on, these are just some examples. If you get any rare occurrence \(like 5 babies in a row\) be sure to post them and we might add those.
+Vous pourriez continuer encore et encore, ce ne sont que quelques exemples. Si vous obtenez des combinaisons rares, par exemple cinq poussins d'un coup, n'oubliez pas de les poster, et nous les ajouterons ici !
 
