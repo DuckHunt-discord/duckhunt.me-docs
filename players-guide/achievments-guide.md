@@ -2,7 +2,7 @@
 
 ## Succès
 
-Les succès ne sont pas gardés à vie : vous avez besoin de certaines conditions pour les avoir. Si vous ne validez plus les conditions, le succès disparaîtra. 
+Les succès ne sont pas gardés à vie : pour les conserver, les conditions doivent rester remplies. Si vous ne validez plus les conditions, le succès disparaîtra. 
 
 Par conséquent, à cause du couple de succès _clueless / scientist_ qui ne sont pas compatibles, il est impossible d'obtenir tous les succès en même temps.
 
@@ -92,7 +92,7 @@ Puisqu'il y a un grand nombre de succès de ce type, ils sont rassemblés dans l
 
 Avoir gagné plus de 500 exp grâce à des trèfles.
 
-![L&apos;ic&#xF4;ne du Lucky User.](../.gitbook/assets/lucky_user.svg)
+![&quot;Lucky User&quot; \(Chanceux\)](../.gitbook/assets/lucky_user.svg)
 
 Les icônes sont fournies par FlatIcons.
 

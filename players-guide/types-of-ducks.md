@@ -9,8 +9,8 @@ Plus de détails sont fournis dans la grille de référence rapide.
 | Nom du canard | Caractéristiques |
 | :--- | :--- |
 | Canard | Un simple canard avec une unique vie, donne par défaut 10 exp de récompense. |
-| Poussin | Vous devez faire un câlin aux poussins ! Le tuer vous fait perdre de l'expérience. |
-| Super Canard | Un canard à plusieurs vies, impossible de prédire combien, en général entre 2 et 9. Donne de grosses quantités d'exp en fonction de sa vie.  |
+| Bébé Canard | Vous devez faire un câlin aux bébés ! Le tuer vous fait perdre de l'expérience. |
+| Super Canard | Un canard à plusieurs vies, en général entre 2 et 9. Donne de grosses quantités d'exp en fonction de sa vie.  |
 | MOAD | "Mother of all ducks" \(Mère de tous les canards\), fait apparaître deux canards lorsqu'il est tué. |
 
 ### Les canards standards
@@ -25,7 +25,7 @@ Les poussins n'ont pas fini leur croissance, par conséquent vous ne devriez pas
 
 Les poussins ont des émojis spéciaux, vous pouvez donc les reconnaître facilement. Par ailleurs, ils ne savent pas encore parler, ils ne disent donc que **COIN !**
 
-![Quelques poussins dans un canal Discord. Ne leur faites pas de mal !](../.gitbook/assets/2020-02-24.21-55-37.png)
+![Quelques poussins dans un salon Discord. Ne leur faites pas de mal !](../.gitbook/assets/2020-02-24.21-55-37.png)
 
 ### Les Super-Canards
 

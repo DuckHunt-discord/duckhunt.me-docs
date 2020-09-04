@@ -10,7 +10,7 @@ Vous pouvez aussi utiliser l'alias de l'objet, par exemple `dh!shop bullet` est 
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Bullet | Balle | 7 | Ajoute une balle à votre chargeur. |
 | 2 | Magazine | Chargeur | 13 | Ajoute un chargeur à votre inventaire |
-| 3 |  | Munition AP | 15 | Fais 2x plus de dégât aux super canards pour 24h |
+| 3 | Apammo | Munition AP | 15 | Fais 2x plus de dégât aux super canards pour 24h |
 | 4 | Explosive | Munition explosive | 25 | Fais 3x plus de dégât aux super canards pour 24h |
 | 5 | Gun | Racheter une arme | 40 | Permet de récupérer son arme sans avoir à attendre le freetime. Utile uniquement si votre arme a été confisquée. |
 | 6 | Grease | Graisse | 8 | Réduit les chances d'enrayement de 50% pendant 24h et protège du sable une seule fois. |
@@ -20,7 +20,7 @@ Vous pouvez aussi utiliser l'alias de l'objet, par exemple `dh!shop bullet` est 
 | 10 | Clover | Trèfle à 4 feuilles | 13 | Donne de l'XP supplémentaire pour tout les canards tués pendant 24h. XP supplémentaire par canard choisi aléatoirement à l'achat entre 1 et 10. |
 | 11 | Sunglasses | Lunettes de soleil | 5 | Empêche les miroirs de vous éblouir pendant 24h. |
 | 12 | Clothes | Nouveaux vêtements | 7 | Des vêtemens secs. Utile si quelqu'un vous jette un seau d'eau dessus. |
-| 13 |  | Brosse pour arme | 7 | Annule les sabotages et enlève le sable de l'arme. |
+| 13 | Clean | Brosse pour arme | 7 | Annule les sabotages et enlève le sable de l'arme. |
 | 14 | Miror | Miroir | 7 | Ébloui le joueur de votre choix et faites lui perdre 50% de précision à son prochain tour. |
 | 15 | Sand | Poignée de sable | 7 | Jette du sable sur l'arme du joueur de votre choix, ce qui augmente de 50% les chances de s'enrayer de son arme au prochain tir. Annule l'effet de la graisse. |
 | 16 | Bucket | Seau | 10 | Jette un seau d'eau sur le chasseur de votre choix, le forçant à attendre 1h pour sécher ses vêtements avant qu'il puisse chasser à nouveau. |

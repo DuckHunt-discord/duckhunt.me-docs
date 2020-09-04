@@ -1,6 +1,6 @@
 # Evénements
 
-Les événements ont lieu de manière globale, au même moment, dans tout Discord. La manière de jouer est modifiée, et il est encore plus drôle de chasser les canards. Chaque heure, il y a 10% de chances de déclencher un événement d'une heure. Si un événement arrive, il est choisi aléatoirement parmi la liste des événements. Ainsi, il y a en moyenne environ deux événements par jour. 
+Les événements ont lieu de manière globale, au même moment, dans tout Discord. Le jeu est légèrement modifié, ce qui le rend encore plus génial. Chaque heure, il y a 10% de chances de déclencher un événement d'une heure. Si un événement arrive, il est choisi aléatoirement parmi la liste des événements. Ainsi, il y a en moyenne environ deux événements par jour. 
 
 {% hint style="success" %}
 Pour afficher l'événement en cours, vous pouvez utiliser la commande `dh!event` . 
@@ -26,7 +26,7 @@ Le paramètre `bang_lag` est augmenté de 3 secondes. Cela signifie que vous ne 
 
 ### Steroids in the lake \(Stéroïdes dans le lac\)
 
-> Une entreprise pharmaceutique a vidé des stocks de stéroïdes dans le lac. Les canards ont muté, et vous verrez beaucoup plus de super-canards. Faites attention, cette eau est non-potable, ne la buvez pas !
+> Une entreprise pharmaceutique a vidé des stocks de stéroïdes dans le lac. Les canards ont muté, et vous verrez beaucoup plus de super-canards. Faites attention, cette eau n'est pas potable, ne la buvez pas !
 
 Il y a environ 20 % de chances supplémentaires pour qu'un canard soit un super-canard.
 
@@ -34,7 +34,7 @@ Il y a environ 20 % de chances supplémentaires pour qu'un canard soit un supe
 
 > Le cours de sécurité a été annulé, faites attention à ne pas tirer sur d'autres chasseurs !
 
-Il y a 5 % de chances supplémentaires de tuer un autre chasseur quand vous manquez un tir. Normalement, cela signifie que vous avez 7 % de chances de tuer quelqu'un si vous manquez votre tir. Ceci est un des pires événements, n'oubliez pas d'acheter un viseur pour réduire le nombre de manqués.
+Il y a 5 % de chances supplémentaires de tuer un autre chasseur quand vous manquez un tir. Selon les paramètres standard, cela signifie que vous avez 7 % de chances de tuer quelqu'un si vous manquez votre tir. Ceci est un des pires événements, n'oubliez pas d'acheter un viseur pour réduire le nombre de manqués.
 
 ### Connection problems \(Problèmes de connexion\)
 
