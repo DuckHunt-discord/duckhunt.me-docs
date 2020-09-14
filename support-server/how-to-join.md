@@ -21,6 +21,7 @@ Additionally, the following rules apply:
 9. Do NOT DM members of the server **without prior approval**. That includes the staff, and it also prohibits asking for support in staff DMs, if we didn't ask you to do so first.
 10. Please do not try to act as the DuckHunt bot in the game channels, either by renaming yourself like it or by posting fake ducks. Leave that fun part to Eyes, and use mechanical ducks.
 11. You are allowed to ping without reason a member of the staff if he role-pinged you before \(exception made for `@I click everywhere ping me pls` role pings\). This allowance last for 24 hours after the staff ping, and may only be used once per person. Don't abuse it.
+12. The ping me please role, even if a joke, is not to be used willy nilly. please use full sentences and the ping or full sentences and then the ping in the message after, not just the ping or "hi @ ping me pls".
 
 
 
