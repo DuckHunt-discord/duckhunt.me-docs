@@ -53,7 +53,7 @@ Note : Un booléen est un type de variable pouvant être défini par `true` ou `
     <tr>
       <td style="text-align:left">delete_commands</td>
       <td style="text-align:left">bool&#xE9;en</td>
-      <td style="text-align:left">True</td>
+      <td style="text-align:left">False</td>
       <td style="text-align:left">Param&#xE8;tre anti-spam : supprimer les messages contenant les commandes</td>
     </tr>
     <tr>
