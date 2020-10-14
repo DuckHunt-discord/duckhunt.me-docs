@@ -1,62 +1,20 @@
+---
+description: Ahuman took it upon himself to relay Eyes an important message..
+---
+
 # "Clear Your Cache" Awareness
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
-{% api-method-summary %}
-Get Cakes
-{% endapi-method-summary %}
-
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
-
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
-
-```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
-```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
-
-```
-{    "message": "Ain't no cake like that."}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+Eyes and Ahuman shared 23 mutual servers. When Ahuman noticed that the number had changed to 22, He discovered Eyes' grave sin.   
+  
 
 
+![Eyes went on a rant.](../../.gitbook/assets/20201014_114218.jpg)
+
+Eyes had left the Discord server for Mario Royale, a browser game. Ahuman realized that since he left the server he will no longer get important pings regarding game updates, and he won't know when to clear his cache \(which is required to do when the game has an update\). Knowing this, Ahuman took it upon himself to make sure Eyes was aware of the important updates.   
+  
+This was, if anything, a parody of Myynd\#6484, who would DM Ahuman about random things, sometimes updates for roblox games or when exploits were found in roblox games. One time he told Ahuman that his PC was 13 Celsius. Without that information, Ahuman could have assumed his PC was much warmer....  
+
+## Escalation. 
+
+Eventually, along with him sending annoucments perosnally, Ahuman would have other people send Eyes notifications as to when he should clear his cache. In the Mario Royale server, an @everyone ping would be deployed along with an image telling you to "clear your cache." Ahuman would have people send Eyes the image. The people Ahuman asked to do his dirty work ranged from mods and proficients to random people who just happen to be in the server. Eventually, Ahuman had the developer of Mario Royale message Eyes personally to remind him to clear his cache. 
 
