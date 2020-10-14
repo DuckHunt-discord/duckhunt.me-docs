@@ -152,3 +152,4 @@ Here will be a quick paragraph on how to use the shop command.
     </tr>
   </tbody>
 </table>
+

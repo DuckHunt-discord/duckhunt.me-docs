@@ -249,3 +249,4 @@ Om een instelling te resetten, gebruik `dh!settings reset <parameter>`
     </tr>
   </tbody>
 </table>
+
