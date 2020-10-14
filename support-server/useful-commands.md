@@ -53,7 +53,9 @@ R. Danny is mainly used for tags, to quickly send a message for an often asked q
       <td style="text-align:left">Displays most used tags on the server.</td>
     </tr>
   </tbody>
-</table>R. Danny also manage the \#starboard channel. To use it, react with a ⭐️ on a message you find funny. If two people react with ⭐️, the message will be kept on the starboard.
+</table>
+
+R. Danny also manage the \#starboard channel. To use it, react with a ⭐️ on a message you find funny. If two people react with ⭐️, the message will be kept on the starboard.
 
 ### Discord Pizza \(Fun\)
 
@@ -107,7 +109,9 @@ There is also a few useful commands to query WolframAlpha and calculate
       <td style="text-align:left">Calculate some simple math.</td>
     </tr>
   </tbody>
-</table>### GetBeaned \(Moderation\)
+</table>
+
+### GetBeaned \(Moderation\)
 
 GetBeaned is our moderation bot. The follwing commands are to be used by moderators.
 
