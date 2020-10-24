@@ -11,9 +11,9 @@ We abide by the **standard discord rules**. Please refer to [https://discordapp.
 Additionally, the following rules apply:
 
 1. When requesting support, please try to show your research, what you tried and what you want exactly.
-2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer. 2B\) Support channels include, Support\_english; Support\_french; Support\_international; Bug\_report, Suggestions and Official\_tags.
+2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer. 2B\) Support channels include, Support\_english; Support\_french; Support\_international; Bug\_report, Suggestions and Official\_tags. 2C\) Swearing at staff or volunteers is reason to warn/kick/ban. DON'T swear AT people in support. _expletives are allowed but use them SPARINGLY or NOT AT ALL_
 3. Don't post an invite link, or any other advertisement, except at the request of a moderator.
-4. Don't spam or disturb normal conversation flow.
+4. Don't spam or disturb normal conversation flow. 4B\)don't try to randomly insult people. if someone tells you to not do it, then don't. If you are the victim of this you can call moderators over and let them decide.
 5. Avoid pinging multiple people. If you ping @Moderators, you **MUST** have a good reason to do so. 
 6. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13-year-olds.
 7. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
