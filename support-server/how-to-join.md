@@ -8,20 +8,29 @@ Join the DuckHunt support server at: [https://discord.gg/8WdXaZG](https://discor
 We abide by the **standard discord rules**. Please refer to [https://discordapp.com/guidelines](https://discordapp.com/guidelines) for those.
 {% endhint %}
 
-Additionally, the following rules apply:
+{% hint style="danger" %}
+### **down below are some server specific rules and some rules that we repeated from the guideluines for clarity sake;** 
 
-1. When requesting support, please try to show your research, what you tried and what you want exactly.
-2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer. 2B\) Support channels include, Support\_english; Support\_french; Support\_international; Bug\_report, Suggestions and Official\_tags. 2C\) Swearing at staff or volunteers is reason to warn/kick/ban. DON'T swear AT people in support. _expletives are allowed but use them SPARINGLY or NOT AT ALL_
-3. Don't post an invite link, or any other advertisement, except at the request of a moderator.
-4. Don't spam or disturb normal conversation flow. 4B\)don't try to randomly insult people. if someone tells you to not do it, then don't. If you are the victim of this you can call moderators over and let them decide.
-5. Avoid pinging multiple people. If you ping @Moderators, you **MUST** have a good reason to do so. 
-6. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13-year-olds.
-7. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
-8. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead.
-9. Do NOT DM members of the server **without prior approval**. That includes the staff, and it also prohibits asking for support in staff DMs, if we didn't ask you to do so first.
-10. Please do not try to act as the DuckHunt bot in the game channels, either by renaming yourself like it or by posting fake ducks. Leave that fun part to Eyes, and use mechanical ducks.
-11. You are allowed to ping without reason a member of the staff if he role-pinged you before \(exception made for `@I click everywhere ping me pls` role pings\). This allowance last for 24 hours after the staff ping, and may only be used once per person. Don't abuse it.
-12. The ping me please role, even if a joke, is not to be used willy nilly. please use full sentences and the ping or full sentences and then the ping in the message after, not just the ping or "hi @ ping me pls".
+## Here's the most important rule.
+
+**Law 1 of the Dutch constitution;** _**All peoples in this discord shall be treated equally in equal circumstances. Discrimination on the grounds of religion, belief, political opinion, race or sex or on any other grounds whatsoever shall not be permitted.**_
+{% endhint %}
+
+### **Additionally, the following rules apply:**
+
+1. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13-year-olds.
+2. Don't post an invite link, or any other advertisement, except at the request of a moderator
+3. Don't spam or disturb normal conversation flow.
+4. Avoid pinging multiple people. If you ping @moderators, you MUST have a good reason to do so.
+5. Do not be rude to, or insult, people.
+6. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
+7. Please do not try to act as the DuckHunt bot in the game channels, either by renaming yourself like it or by posting fake ducks. Leave that fun part to Eyes, and use mechanical ducks.
+8. Do **NOT DM** members of the server without prior approval. That includes the staff, and it also prohibits asking for support in staff DMs, if we didn't ask you to do so first.
+9. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
+10. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead.
+11. When requesting support, please try to show your research, what you tried and what you want exactly.
+12. The `ping me please` role, even if a joke, is not to be used willy nilly. please use full sentences and the ping or full sentences and then the ping in the message after, not just the ping or "hi `@ping me pls`".
+13.  You are allowed to ping a member of the staff if they role-pinged you before \(exception made for `@I click everywhere ping me pls` role pings\). This allowance last for **24 hours** after the staff ping, and may only be used once per person. **Don't** abuse it.
 
 
 
