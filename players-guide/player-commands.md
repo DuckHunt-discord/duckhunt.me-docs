@@ -4,7 +4,7 @@
 
 | Command | Description |
 | :--- | :--- |
-| dh!bang | Command used to shoot a duck. Don’t forget that sometimes, mistakes happen and you can miss the ducks… Or worse. |
+| dh!bang | Commando wat gebruikt wordt om een eend te schieten. Vergeet niet dat soms het fout kan gaan en je een eend kunt missen.... Of erger. |
 | dh!reload | Herlaadt of deblokkeert je wapen.  Je moet magazijnen over hebben als je wilt herladen. Ze worden elke dag gratis teruggegeven \(check het`dh!freetime` command\), maar je kunt ze ook in de winkel kopen. |
 | dh!help | Stuurt je het helpbericht. |
 | dh!wiki | Stuurt de link naar deze website. |
