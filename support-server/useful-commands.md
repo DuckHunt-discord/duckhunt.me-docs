@@ -79,7 +79,7 @@ You can add songs to a queue by using the **play** command \(-play, -p\) or by u
 
 To use play, name the song you would like to add to the queue, or provide a link to it. Examples: -play simpleflip's nightmare -p website.com/video
 
-To use search, look up the song as you would on google. Groovy will then provide a list of search results from youtube. Examples: -search penguins screaming -s people screaming
+To use search, look up the song as you would on google. Groovy will then provide a list of search results from youtube. Examples: -search people screaming -s people screaming
 
 To add a recording from your files, use -f -f \(and select an audio file from your files. Use this as if you wanted to post an image with -f as the message\)
 
