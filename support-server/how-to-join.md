@@ -9,7 +9,7 @@ We abide by the **standard discord rules**. Please refer to [https://discordapp.
 {% endhint %}
 
 {% hint style="danger" %}
-### **down below are some server specific rules and some rules that we repeated from the guideluines for clarity sake;** 
+### **down below are some server specific rules and some rules that we repeated from the guidelines for clarity sake;** 
 
 ## Here's the most important rule.
 
