@@ -95,7 +95,9 @@ To pause a song, use -pause \(resume with -play\) To check what time you are at,
 
 To rewind, use -rw for example: -rw \(defaults to rewinding 15s\) -rw 20m 10s \(rewind 20 minutes and 10 seconds behind\)
 
-To go to a certain part of the song, use -seek -seek 3m 10s \(this will bring you to the point of 3m and 10s in the song. \)Koishi \(Statistics\)
+To go to a certain part of the song, use -seek -seek 3m 10s \(this will bring you to the point of 3m and 10s in the song.\)
+
+Koishi \(Statistics\)
 
 | Command | Explanation |
 | :--- | :--- |
