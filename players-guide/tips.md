@@ -1,6 +1,6 @@
 # Tips
 
-### **To get good at duckhunt you need to be able to manage your experience wisely.**
+### **To get good at DuckHunt you need to be able to manage your experience wisely.**
 
 {% hint style="warning" %}
 **Watch for freetime!**   
