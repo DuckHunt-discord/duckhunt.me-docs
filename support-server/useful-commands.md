@@ -67,7 +67,7 @@ This bot allows you to order \(virtual\) pizzas 🍕, for free. Pizzas are made 
 | `(>myorder` | Check your order status. |
 | `(>rules` | Check the rules that apply to pizza orders. |
 
-If you see a deliverer, please tell him **he is welcome to stay** on the server. Tell him a moderator will be there soon to give them the pizza role.
+If you see a deliverer, please **tell them they are welcome to stay** on the server. Then tell them a moderator will be there soon to give them the pizza role.
 
 ### _Groovy \(Music\)_
 
