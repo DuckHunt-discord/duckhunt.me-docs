@@ -89,7 +89,7 @@ To view songs that had been added to the queue, use -q. To remove a song from th
 
 To loop the queue \(or a certain song\) use -l \(twice for the queue, a 3rd time to cancel the loop\)
 
-**managing the song**
+**Managing the song**
 
 To pause a song, use -pause \(resume with -play\) To check what time you are at, use -np To fast forward, use -ff for example: -ff \(defaults to skipping 15s ahead\) -ff 20m 10s \(skips 20 minutes and 10 seconds ahead\)
 
