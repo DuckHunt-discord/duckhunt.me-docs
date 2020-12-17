@@ -85,7 +85,7 @@ To add a recording from your files, use -f -f \(and select an audio file from yo
 
 **Managing your queue**
 
-To view songs that had been added to the queue, use -q To remove a song from the q, use -r You can use -r \# to remove a song by their position in the queue, for example: -r 5 You can remove a song by typing out part of their name or the entire name, for example: -r shimmer To skip a song, use -skip or -n To skip backwards, use -b To jump to a song, use -j Jump would be used the same as remove. To move a song, use -m Use move with the position in the queue. For example: -m 11, 2 The song you are moving would be 11, you are moving it to the 2nd position in the queue
+To view songs that had been added to the queue, use -q. To remove a song from the q, use -r. You can use -r \# to remove a song by their position in the queue, for example: -r 5. You can remove a song by typing out part of their name or the entire name, for example: -r shimmer. To skip a song, use -skip or -n. To skip backwards, use -b. To jump to a song, use -j. Jump would be used the same as remove. To move a song, use -m. Use move with the position in the queue. For example: -m 11, 2. The song you are moving would be 11, you are moving it to the 2nd position in the queue. 
 
 To loop the queue \(or a certain song\) use -l \(twice for the queue, a 3rd time to cancel the loop\)
 
@@ -95,9 +95,9 @@ To pause a song, use -pause \(resume with -play\) To check what time you are at,
 
 To rewind, use -rw for example: -rw \(defaults to rewinding 15s\) -rw 20m 10s \(rewind 20 minutes and 10 seconds behind\)
 
-To go to a certain part of the song, use -seek -seek 3m 10s \(this will bring you to the point of 3m and 10s in the song.\)
+To go to a certain part of the song, use -seek e.g. -seek 3m 10s \(this will bring you to the point of 3m and 10s in the song.\)
 
-Koishi \(Statistics\)
+### **Koishi \(Statistics\)**
 
 | Command | Explanation |
 | :--- | :--- |
