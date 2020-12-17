@@ -246,9 +246,8 @@ That's about it! Here is a few tips below :\)
 
 -If you are trying to grind, use `!s race 5` to make the race start asap   
 -Whenever you see someone typing, it would be nice to use `!s race 10`, as this gives them a chance to join the race if they want to. I do this, because I am **nice**   
--When betting, its statistically impossible to lose 9 times in a row. I like to bet a small amount, and when i lose i double it. that way when i do win the bet, i will get all my rupees back. after winning, i go back to the small amount   
-_what?_   
+-When betting, it’s statistically impossible to lose 9 times in a row. I like to bet a small amount, and when i lose, I double it. That way when I do win the bet, I‘ll get all my rupees back. after winning, I go back to the small amount   
+_What?_  
 Ex: `!s bet rupee 20` \(lose, -20\)  
-`!s bet rupee 40` \(lose, -60\) `!s bet rupee 80` \(lose, -140\) `!s bet rupee 160` \(win, +20\) repeat if you are daring, try tripling your rupees instead of doubling. This provides more risk, but a higher return.  
--I still lost 9 times in a row.
+`!s bet rupee 40` \(lose, -60\) `!s bet rupee 80` \(lose, -140\) `!s bet rupee 160` \(win, +20\) repeat if you are daring, try tripling your rupees instead of doubling. This provides more risk, but a higher return.
 
