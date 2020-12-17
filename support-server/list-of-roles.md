@@ -27,7 +27,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Moderator</td>
-      <td style="text-align:left">People who are trusted by eyes and who enforce rules on the server.
+      <td style="text-align:left">People who are trusted by Eyes and who enforce rules on the server.
         <br
         />Please check <a href="how-to-become-a-mod.md">How to become a mod</a>.</td>
     </tr>
@@ -45,7 +45,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">Was staff</td>
-      <td style="text-align:left">Used to be staff, but is now demoted or has resigned.</td>
+      <td style="text-align:left">Used to be staff, but are now demoted or resigned.</td>
     </tr>
     <tr>
       <td style="text-align:left">Wiki Writezard</td>
