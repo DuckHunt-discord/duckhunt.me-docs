@@ -22,6 +22,7 @@ dh!shop &lt;item&gt; \[target\] with &lt;item&gt; the ID or the Alias of the obj
 | 15 | Handful of sand | Sand | 7 | Throw sand on the gun of another player of your choice, the odds of  jamming will increase by 50% for the next shot. Cancels effects from grease. |
 | 16 | Water bucket | Bucket | 10 | Throw a bucket of water on the hunter of your choice, forcing them to wait 1h for their clothes to dry before hunting again. |
 | 17 | Sabotage | Sabotage | 14 | Sabotage the weapon of another player. Their gun will jam and explode in their face the next time they press the trigger. |
+| 18 | Life Insurance | Insurance | 10 | Buy life insurance for a week. If you get killed by another player, you will earn half the level of the killer in exp. |
 | 20 | Decoy | Decoy | 8 | Attracts a duck in the next 10 minutes after purchase. |
 | 21 | Bread | Bread | 2 | Throw pieces of bread to improve the probability of seeing ducks for 1h. Bread also makes ducks stay 20 seconds longer. Multiple pieces of bread can be bought for a cumulative effect. |
 | 23 | Mechanical duck | Mechanical | 40 | Play a prank on other hunters by launching a fake duck. They will not gain any exp from it and will lose their ammo. The duck will be automatically launched 90 seconds after purchase. |
