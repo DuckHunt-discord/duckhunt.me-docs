@@ -225,14 +225,7 @@ description: Important people in the server.
         <p>Ahuman#8933</p>
         <p>(316788628476919808)</p>
       </td>
-      <td style="text-align:left">
-        <p>Feline. Legally blind. Third eye blind. Sole creator of the exam used
-          by Secret Service agencies around the world to screen applicants. 99.99%
-          accuracy. 24. Plays MeinKraft, a Kraftwerk tribute version of Minecraft.</p>
-        <p></p>
-        <p>Can confirm olpouin has a big butt (&quot;I&apos;d say 4 mouthfuls.&quot;)
-          Only played knock off MineCraft games.</p>
-      </td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
