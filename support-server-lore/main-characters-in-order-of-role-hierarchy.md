@@ -142,6 +142,14 @@ description: Important people in the server.
       <td style="text-align:left">ironic toblerone</td>
       <td style="text-align:left">(undisclosed)</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Calgeka#5963 (465207298890006529)</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
