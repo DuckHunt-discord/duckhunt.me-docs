@@ -147,6 +147,15 @@ description: Important people in the server.
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">0/0#0001 (661660243033456652)</td>
+      <td style="text-align:left">Canadian. Bot developer. Plays TTD. Likes Tim Tarts and bacon (that&#x2019;s
+        Canadian bacon to you non-Canadians)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
