@@ -144,12 +144,14 @@ description: Important people in the server.
     </tr>
     <tr>
       <td style="text-align:left">Calgeka#5963 (465207298890006529)</td>
-      <td style="text-align:left">Work in progress</td>
+      <td style="text-align:left">French! One of our favorite artists at DH. Roleplaying games are best
+        for Calgeka. Is capable of jumping an entire block in Minecraft, but &#x201C;building
+        is stupid.&#x201D;</td>
     </tr>
     <tr>
       <td style="text-align:left">0/0#0001 (661660243033456652)</td>
       <td style="text-align:left">Canadian. Bot developer. Plays TTD. Likes Tim Tarts and bacon. Used to
-        play Minecraft.</td>
+        play Minecraft, but is too busy with new projects.</td>
     </tr>
     <tr>
       <td style="text-align:left">Sys#9661 (642434814968070148)</td>
