@@ -156,14 +156,6 @@ description: Important people in the server.
       <td style="text-align:left">Texan. Forever Rolling that Boulder. Never heard of Minecraft, but likes
         Kraftwerk. Recently lost his mind.</td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
 
