@@ -149,7 +149,7 @@ description: Important people in the server.
     <tr>
       <td style="text-align:left">0/0#0001 (661660243033456652)</td>
       <td style="text-align:left">Canadian. Bot developer. Plays TTD. Likes Tim Tarts and bacon. Used to
-        play Minecraft.</td>
+        play Minecraft, but is too busy developing projects.</td>
     </tr>
     <tr>
       <td style="text-align:left">Sys#9661 (642434814968070148)</td>
