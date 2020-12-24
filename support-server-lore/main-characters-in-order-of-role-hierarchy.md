@@ -156,7 +156,8 @@ description: Important people in the server.
     <tr>
       <td style="text-align:left">Sys#9661 (642434814968070148)</td>
       <td style="text-align:left">Texan. Forever Rolling that Boulder. Never heard of Minecraft, but likes
-        Kraftwerk. Recently lost his mind.</td>
+        Kraftwerk. Recently lost his mind. Uses two spaces between sentences, making
+        it easy to track who creates these.</td>
     </tr>
   </tbody>
 </table>
