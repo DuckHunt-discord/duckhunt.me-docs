@@ -144,12 +144,17 @@ description: Important people in the server.
     </tr>
     <tr>
       <td style="text-align:left">Calgeka#5963 (465207298890006529)</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Work in progress</td>
     </tr>
     <tr>
       <td style="text-align:left">0/0#0001 (661660243033456652)</td>
-      <td style="text-align:left">Canadian. Bot developer. Plays TTD. Likes Tim Tarts and bacon (that&#x2019;s
-        Canadian bacon to you non-Canadians)</td>
+      <td style="text-align:left">Canadian. Bot developer. Plays TTD. Likes Tim Tarts and bacon. Used to
+        play Minecraft.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sys#9661 (642434814968070148)</td>
+      <td style="text-align:left">Texan. Forever Rolling that Boulder. Never heard of Minecraft, but likes
+        Kraftwerk. Recently lost his mind.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
