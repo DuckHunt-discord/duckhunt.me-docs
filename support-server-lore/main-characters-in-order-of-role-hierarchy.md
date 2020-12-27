@@ -203,7 +203,7 @@ description: Important people in the server.
         <p>(273798408186363905)</p>
       </td>
       <td style="text-align:left">When asked about their age, they seemed to have forgotten and said &quot;30ish&quot;
-        They are American. Unsure whether or not PierrePV has a bigger butt then
+        They are American. Unsure whether or not PierrePV has a bigger butt than
         Olpouin. When asked &quot;If you had to fight an elementary school, and
         every wave consisted of five 2nd graders with a boss 6th grader every 5th
         wave
