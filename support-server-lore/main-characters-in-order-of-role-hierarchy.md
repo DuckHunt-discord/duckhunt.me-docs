@@ -107,12 +107,9 @@ description: Important people in the server.
         <p>steefgozercool#6710</p>
         <p>(394264447151243286)</p>
       </td>
-      <td style="text-align:left">
-        <p>A bit new to the mod team, joined with great interest in the bot and the
-          people behind it. 19 years old and Dutch.</p>
-        <p>Likes to brag about science while some are better than him.</p>
-        <p>Built a 16 bit pc in Minecraft.</p>
-      </td>
+      <td style="text-align:left">Joined with great interest in the bot and the people behind it. 19 years
+        old and Dutch. Likes to brag about science while some are better than him.
+        Built a 16 bit pc in Minecraft; would have done better with 15 bit.</td>
     </tr>
     <tr>
       <td style="text-align:left">
