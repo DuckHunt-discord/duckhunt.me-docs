@@ -1,34 +1,35 @@
-# Admin commands
+# Admin commandos
 
-Some commands are more complicated than others. In that case, they'll be shown in bold and their arguments will be explained after this command list.
+Sommige commandos zijn meer complex dan anderen. Als dat zo is zullen deze in dikgedrukte letters staan. Er staan onder de lijst uitgebreid uitleg over deze commandos.
 
-Command                                        | Description
-:--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-dh!setup                                       | This is the first command you should use after inviting DuckHunt to a server. It creates the server settings and has a configuration wizard to make it easier for you.
-dh!add_channel                                 | After using dh!setup, use this command on the channels you want ducks to appear in.
-dh!del_channel                                 | This disables a channel added by dh!add_channel.
-dh!del_user                                    | This removes a user from the database.
-dh!del_user_id                                 | This removes a user from the database. This comment is meant to be used on players that left the server.
-dh!add_admin                                   | Set another server administrator as an admin. Note that users with the Administrator permission in discord are considered Administrators too.
-dh!del_admin                                   | Deletes a server admin from the admin list.
-**dh!coin**                                    | Forces a duck to spawn.
-dh!ducks                                       | Shows the number of ducks that will spawn today, and the list of ducks that are on the channel. It can be considered as a cheat.
-dh!give_exp <player> <amount>                  | Gives a player some exp points. This is a cheat, not to be confused with dh!send_exp.
-**dh!settings set <parameter> <value>**        | Modify server settings. You can go to the Bot Settings page to learn more about this command.
-dh!settings reset <parameter>                  | Resets a parameter to the default value. Use this command and not dh!settings set to reset parameters, as it won't cause issues with bot upgrades.
-dh!game_ban <player>                           | Bans a player from the game. You can't ban admins, so please don't try :)
-dh!game_unban <player>                         | Unbans a player from the game. They will be able to play again.
-dh!remove_all_scores_and_stats_on_this_channel | Deletes a channel's scores and stats. Please be sure you really want to do this. You cannot undo this.
+| Commando | uitleg |
+| :--- | :--- |
+| dh!setup | Dit is het eerste commando dat je moet gebruiken nadat je DuckHunt op een server hebt uitgenodigd. Het creëert de serverinstellingen en heeft een configuratiewizard om het jou gemakkelijker te maken. |
+| dh!add\_channel | Gebruik dit na `dh!setup`dit commando op de kanalen waarin jij eenden wilt laten verschijnen.. |
+| dh!del\_channel | Dit schakelt een kanaal uit dat is toegevoegd door `dh!add_channel`. |
+| dh!del\_user | Dit verwijdert een gebruiker uit de database. |
+| dh!del\_user\_id | zie `dh!del_user`, maar dan voor gebruikers die de server verlaten hebben |
+| dh!add\_admin | Stel een ander persoon in als beheerder. Notitie: gebruikers met de admin machtiging ook als beheerders worden beschouwd. |
+| dh!del\_admin | Verwijdert een serverbeheerder uit de beheerderslijst. |
+| **dh!coin** | Forceert een eend om te spawnen. |
+| dh!ducks | Toont het aantal eenden dat vandaag zal spawnen en de lijst met eenden op het kanaal. Het kan worden beschouwd als valsspelen. |
+| dh!give\_exp &lt;player&gt; &lt;amount&gt; | Geeft een speler wat exp-punten. Dit is een cheat, niet te verwarren met `dh!send_exp.` |
+| **dh!settings set &lt;parameter&gt; &lt;value&gt;** | Wijzig serverinstellingen. Je kunt naar de pagina [instellingen ](edit-settings-settings-list.md)gaan voor meer informatie. |
+| dh!settings reset &lt;parameter&gt; | Reset een instelling naar de standaardwaarde. Gebruik dit commando, niet `dh!settings`, om parameters opnieuw in te stellen, anders kan dat problemen veroorzaken met bot-updates. |
+| dh!game\_ban &lt;player&gt; | Ban een speler uit het spel. Je kunt beheerders niet bannen, dus probeer het niet :\) |
+| dh!game\_unban &lt;player&gt; | un-ban een speler uit het spel. Ze zullen weer kunnen spelen. |
+| dh!remove\_all\_scores\_and\_stats\_on\_this\_channel | Verwijdert de kanaalscores en statistieken van het kanaal. **Zorg ervoor dat je dit echt wilt doen!** Je kunt dit **niet** ongedaan maken. |
 
-## The coin command
+### Het "coin" commando
 
-The coin command (`dh!coin`) will make a duck spawn in the current channel. Obviously, this can only be used in an enabled channel.
+Het coin commando \(`dh!coin`\) spawnt een eend in het huidige kanaal. Dit kan alleen gedaan worden in kanalen die toegevoegd zijn med `dh!add_channel`. 
 
-- `dh!coin` will spawn a simple, regular duck
-- `dh!coin --super-duck --life 2` will spawn a super duck with 2 life points
-- `dh!coin --moad --life 6` will spawn a MOAD with 6 life points
-- `dh!coin --baby-duck` will spawn a baby duck
+* `dh!coin` spawnt een simpele, normale eend.
+* `dh!coin --super-duck --life 2` spawnt een supereend met 2 levens.
+* `dh!coin --moad --life 6` spawnt een [MOAD](../players-guide/types-of-ducks.md) met 6 levens.
+* `dh!coin --baby-duck` spawnt een baby eend.
 
-## The settings related command
+### Het instellings gerelateerde commando
 
-List of settings and values you might use are described in more details on the [Edit Settings](edit-settings-settings-list.md) page.
+De lijst van instellingen en waarden ervan kun je vinden op de pagina [lijst van instellingen](edit-settings-settings-list.md).
+

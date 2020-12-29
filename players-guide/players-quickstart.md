@@ -1,28 +1,31 @@
-# How to play DuckHunt
+# Hoe speel je DuckHunt
 
-The goal of the game is to earn the most experience so as to be the top player on your channel leaderboard.
+Het doel van het spel is om de meeste ervaring op te doen om de beste speler op je kanaalranglijst te worden. 
 
-To earn experience, you must kill ducks. Most ducks killed will get you 10 exp (assuming default settings). However, sometimes you might find other [types of ducks](types-of-ducks.md) that are worth more experience.
+Om ervaring op te doen, moet je eenden doden. Voor de meeste gedode eenden krijg je \(uitgaande van de standaardinstellingen\) 10 exp. Soms vind je echter andere soorten eenden die meer ervaring waard zijn. 
 
-To kill a duck, you need to shoot at it with your weapon using the `dh!bang` command. Assuming you're lucky, you'll hit the duck and earn experience. If you aren't you might miss your shot. In that case, no worries, you can just retry by typing the command again. If your weapon gets confiscated, you'll have to wait until `dhfreetime` or [buy it back from the shop](store-items.md) with your experience.
+Om een ​​eend te doden, moet je er met je wapen op schieten met het commando `dh!bang`. Ervan uitgaande dat je geluk hebt, raak je de eend en win je ervaring. Als je dat niet bent, mis je misschien je schot. In dat geval, geen zorgen, je kunt het gewoon opnieuw proberen door de opdracht opnieuw te typen. Als je wapen in beslag wordt genomen, moet je wachten tot de freetime timer klaar is \(`dh!freetime`\) of het met je XP terug kopen in de [winkel](store-items.md). 
 
-{% hint style="info" %} The `dh!bang` command can often be reduced to simply `dhpan` or `!pan`. Many aliases are available, will you be able to find them all ? {% endhint %}
+{% hint style="info" %}
+Het commando `dh!bang` kan vaak worden verkleind tot eenvoudig `dhpan` of `!pan`. Er zijn veel aliassen beschikbaar, kun je ze allemaal vinden? 
+{% endhint %}
 
-You may also need to reload your weapon, either because you have no more bullets or because it jammed. No worries, the command is just `dh!reload`.
+Mogelijk moet je ook je wapen opnieuw laden, omdat je geen kogels meer hebt of omdat het wapen is vastgelopen. Het commando hiervoor is `dh!reload`. 
 
-Once you killed a few ducks, you should have enough experience to explore the [shop](store-items.md), using the `dhbuy` command.
+Zodra je een paar eenden hebt gedood, zou je genoeg ervaring moeten hebben om de winkel te verkennen met behulp van het `dhbuy` commando. 
 
-We recommend you buy a **silencer** to avoid letting the ducks flee from you (`dhshop silencer`), a **clover** so you earn (way) more experience for every kill (`dhshop clover`), and a **sight** to improve your aim (`dhshop sight`).
+We raden je aan een **geluiddemper** te kopen om te voorkomen dat de eenden van je wegvliegen \(`dhshop silencer`\), een **klavertje 4** zodat je \(veel\) meer XP krijgt voor elke eend \(`dh!shop clover`\), een **vizier** om je doel te verbeteren \(`dh!shop sight`\). 
 
-If you hunt a lot of ducks, you might run out of **magazines**. In that case, buy some from the shop (`dhshop 2`). However, you may find magazines as you hunt ducks, so be sure to leave some magazines empty in order to pick these up for free. And try to be as close to zero magazines as possible since, for freetime, your magazine count gets refilled (not your bullets tho, remember to reload).
+Als je veel eenden hebt gedood, heb je misschien geen magazijnen meer. Koop in dat geval wat in de winkel \(`dh!shop 2`\). Je moet nooit vol zijn met magazijnen \(je kunt ze soms gratis krijgen na het doden van eenden\) en proberen zo dicht mogelijk bij nul te blijven als de freetime timer klaar is, omdat je magazijnen vopnieuw worden gevuld. 
 
-Soon, you'll level up enough and get better weapons so you will be able to drop the silencer and sight, and use **explosive** ammo`dhshop explosive`instead.
+Binnenkort zul je voldoende stijgen en betere wapens krijgen, zodat je de geluiddemper en het zicht kunt drommen, en in plaats daarvan **explosieve munitie** \(`dh!shop explosive`\) kunt gebruiken. 
 
-If you read all of this, you might be well on your way to becoming a Pro DuckHunter™️. Have fun with the game, and make sure you ask any questions on the [support server](https://discordapp.com/invite/2BksEkV).
+Als je dit allemaal leest, ben je nu misschien goed op weg om een ​​Pro DuckHunter™ ️ te worden. Veel plezier met het spel en stel elke vraag die je hebt op de [supportserver](https://discordapp.com/invite/2BksEkV). 
 
-If you want more information, you might want to:
+Als je meer informatie wilt, wil je misschien: 
 
-- Read the [full command list for players](player-commands.md)
-- See what [shop items are available in the shop](store-items.md)
-- See what [events are and how they'll impact your gameplay](events.md)
-- Read some [frequently asked questions](faq.md)
+* De volledige lijst van[ commandos voor spelers](player-commands.md) lezen
+* Kijken wat er in de [winkel](store-items.md) allemaal te verkrijgen is
+* Kijken welk [evenement ](events.md)er aan de hand is, en wat dit doet
+* De [FAQ ](faq.md)lezen
+

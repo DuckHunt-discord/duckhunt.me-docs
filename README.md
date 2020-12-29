@@ -1,15 +1,18 @@
-# The DuckHunt bot
+---
+description: Vertalen kan nog incompleet zijn.
+---
 
-DuckHunt is a fun game bot where you hunt ducks that appear in a Discord channel. You try to climb the ladder of the [leaderboard](players-guide/levels-and-experience.md), prank other hunters and make some foie gras in this amazing game.
+# De DuckHunt bot
 
-This wiki was created for DuckHunt#0550, a Discord bot developed by Eyesofcreeper#0001\. This wiki will serve as a collection of the bot's information, including the bot's features, commands and [settings](bot-administration/edit-settings-settings-list.md), a guide for using the features, along with [information on the support server](support-server/how-to-join.md) hosted on Discord.
+DuckHunt is leuke spelletjesbot waarbij je op eenden moet jagen die in discord in een kanaal verschijnen. Je probeert de ladder van het [leaderboard](players-guide/levels-and-experience.md) te beklimmen, prankt andere jagers en maak wat "foie gras" in dit geweldige spel. 
 
-## Brief description of the bot:
+Deze wiki was gemaakt voor DuckHunt\#0550, een Discord bot gemaakt door Eyesofcreeper\#0001. Deze wiki zal dienen als de collectie van informatie over de bot \(zoals commandos en [Instellingen](bot-administration/edit-settings-settings-list.md)\), een snelle [opstarthulp  ](bot-administration/admin-quickstart.md)tezamen met [informatie over de support server ](support-server/how-to-join.md)op Discord. 
 
-> DuckHunt is a Discord bot, best categorized as gaming/entertainment. You use commands to hunt '[ducks](players-guide/types-of-ducks.md)' through the chat. For example, a typical command would look like `dh!bang`.
+### Korte beschrijving over de bot:
 
-> The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of experience (exp) through hunting ducks. However, exp doubles as a measure of rank, and as a form of currency. Exp can be spent buying [shop items](players-guide/store-items.md). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant.
+> DuckHunt is een Discord bot, best gecategorizeerd als gaming/entertainment. Je gebruikt commandos om '[eenden](players-guide/types-of-ducks.md)' te jagen in de chat. Bijvoorbeeld,,  een typisch commando ziet eruit als `dhbang`.  
+>   
+> Het doel in DuckHunt is om iedere jager te verslaan door veel exp te krijgen met het jagen van eenden. Exp werkt ook als een maatstaaf voor je level en als een vorm van geld. exp can besteed worden in de[ winkel](players-guide/store-items.md). dingen uit de winkel zijn items die je een klein voordeel kunnen bieden in het jagen, of die andere jagers kan pranken. Omdat ze exp kosten kun je levels omlaag gaan door spullen te kopen, maar als je er goed me omgaat kun je winst maken.
+>
+> De eenden die je jaagt worden bijgehouden in de "DuckHunt hunting log" \(jacht logboek\), wat bijhoudt hoebeel eenden er in het kanaal zijn geschoten. Dit logboek geeft ook de statistieken van de jagers in het kanaal; zoals hun snelste schot op een eend, aantal eenden gedood, en meer.
 
-> The ducks you hunt are recorded in the DuckHunt hunting log, which tracks the total amount of ducks hunted on the Discord channel. This log also provides the statistics of individual hunters, including how fast a duck was hunted, how many ducks were hunted, and more.
-
-If you want to invite the bot to your server, go to the [Quickstart](bot-administration/admin-quickstart.md) page to get the bot invite link and setup instructions.
