@@ -20,7 +20,7 @@ Some commands are more complicated than others. In that case, they will be shown
 | dh!game\_unban &lt;player&gt; | Unbans a player from the game. They will be able to play again. |
 | dh!remove\_all\_scores\_and\_stats\_on\_this\_channel | Deletes a channel scores and stats. Please be sure you really want to do this. You cannot undo this. |
 
-### The coin command
+## The coin command
 
 The coin command \(`dh!coin`\) will make a duck spawn in the current channel. Obviously, this can only be used in an enabled channel.
 
@@ -29,9 +29,7 @@ The coin command \(`dh!coin`\) will make a duck spawn in the current channel. Ob
 * `dh!coin --moad --life 6` will spawn a MOAD with 6 life points
 * `dh!coin --baby-duck` will spawn a baby duck
 
-### The settings related command
+## The settings related command
 
 List of settings and values you might use are described in more details on the [Edit Settings](edit-settings-settings-list.md) page.
-
-
 

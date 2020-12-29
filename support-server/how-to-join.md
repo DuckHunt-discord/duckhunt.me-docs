@@ -3,7 +3,7 @@
 Join the DuckHunt support server at: [https://discord.gg/8WdXaZG](https://discord.gg/8WdXaZG)\*\*\*\*
 
 {% hint style="danger" %}
-### **Discord guidelines are enforced on the server.**
+## **Discord guidelines are enforced on the server.**
 
 We abide by the **standard discord rules**. Please refer to [https://discordapp.com/guidelines](https://discordapp.com/guidelines) for those.
 {% endhint %}
@@ -19,8 +19,6 @@ Additionally, the following rules apply:
 7. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
 8. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead
 
-
-
 {% hint style="warning" %}
 Remember, the mods and admins are always right. If they tell you that something is not allowed, don't complain.
 {% endhint %}
@@ -33,6 +31,5 @@ If you were acted on by the thresholds enforcer, the following paragraph does no
 
 If you feel you have been warned/kicked/muted/banned unfairly, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry. You might have to add the mod as a "friend" if you were banned. Alternatively, you can join the [GetBeaned support](https://discord.gg/gT5pdgP) server and DM the mod that way. **Please be respectful at all times.**
 
-  
-****If you still can't agree with the responsible moderator, you may appeal to Eyesofcreeper\#0001, by creating a 3-way DM with the responsible moderator and Eyesofcreeper\#0001. We'll try to figure out a solution together.
+_\*\*_If you still can't agree with the responsible moderator, you may appeal to Eyesofcreeper\#0001, by creating a 3-way DM with the responsible moderator and Eyesofcreeper\#0001. We'll try to figure out a solution together.
 

@@ -147,7 +147,7 @@ description: Important people in the server.
 
 | Bot developer | \(deleted role\) |
 | :--- | :--- |
-| Eyes  | "Yes, that was me." -Eyes |
+| Eyes | "Yes, that was me." -Eyes |
 
 <table>
   <thead>
@@ -227,7 +227,6 @@ description: Important people in the server.
       </td>
       <td style="text-align:left">
         <p>Im not writing about myself. Be blunt and honest, or completely wrong.</p>
-        <p></p>
         <p>Can confirm olpouin has a big butt (&quot;I&apos;d say 4 mouthfuls.&quot;)
           Only played knock off MineCraft games.</p>
       </td>

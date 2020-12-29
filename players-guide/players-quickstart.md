@@ -13,11 +13,9 @@ O comando `dh!bang` pode ser reduzido para simplesmente dh!pan ou !pan. Existem 
 Você pode precisar recarregar sua arma, ou porque você não tem mais balas ou porque emperrou.  
 Sem problemas, o comando é apenas dh!reload.
 
-  
-  
 Depois de matar alguns patos, você deve ter experiência suficiente para explorar a [loja](store-items.md), usando o comando dh!buy.
 
-We recommend you buy a **silencer** to avoid letting the ducks flee on you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\),  a **sight** to improve your aim \(`dhshop sight`\). 
+We recommend you buy a **silencer** to avoid letting the ducks flee on you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\), a **sight** to improve your aim \(`dhshop sight`\).
 
 If you killed many ducks, you might ran out of **magazine**s. In that case, buy some from the shop \(`dhshop 2`\). You should never be full on magazines \(so you can keep those you might find for free after killing ducks\), and try to be as close to zero as possible since, for freetime, your magazines count get reflled \(not your bullets tho, remember to reload\).
 

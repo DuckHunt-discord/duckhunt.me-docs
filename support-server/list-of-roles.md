@@ -148,7 +148,7 @@ description: 'note: it may be incomplete'
     </tr>
     <tr>
       <td style="text-align:left">&lt;3 paix &#xE0; toi</td>
-      <td style="text-align:left">A <a href=" https://cdn.discordapp.com/attachments/446074570156539915/683886001973886984/20200301_215828.jpg">friend </a>of
+      <td style="text-align:left">A <a href="https://github.com/DuckHunt-discord/duckhunt.me-docs/tree/ef5f80dfe06a29b1b125b03e18f416a391cb0481/attachments/446074570156539915/683886001973886984/20200301_215828.jpg">friend</a> of
         Eyes who passed away</td>
     </tr>
     <tr>

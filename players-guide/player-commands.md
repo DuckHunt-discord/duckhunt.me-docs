@@ -1,7 +1,5 @@
 # Comandos de Jogador
 
-
-
 | Command | Description |
 | :--- | :--- |
 | dh!bang | Command used to shoot a duck. Don’t forget that sometimes, mistakes happen and you can miss the ducks… Or worse. |

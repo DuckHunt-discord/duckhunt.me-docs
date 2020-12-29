@@ -16,7 +16,7 @@ The following is only an overview of the commands we find to be the most useful.
 Do **not** include brackets like &lt;&gt; or \[\] in the commands. A &lt;&gt; bracket mention a **required** argument, and \[\] brackets refer to **optional** arguments.
 {% endhint %}
 
-### R. Danny \(Support\)
+## R. Danny \(Support\)
 
 R. Danny is mainly used for tags, to quickly send a message for an often asked question, a formula or many others.
 
@@ -57,7 +57,7 @@ R. Danny is mainly used for tags, to quickly send a message for an often asked q
 
 R. Danny also manage the \#starboard channel. To use it, react with a ⭐️ on a message you find funny. If two people react with ⭐️, the message will be kept on the starboard.
 
-### Discord Pizza \(Fun\)
+## Discord Pizza \(Fun\)
 
 This bot allow you to order \(virtual\) pizzas 🍕, for free. Pizzas are made and delivered by real humans \(those who decide to stay get the @Pizza role\).
 
@@ -69,22 +69,22 @@ This bot allow you to order \(virtual\) pizzas 🍕, for free. Pizzas are made a
 
 If you see a deliverer, please tell him **he is welcome to stay** on the server. Tell him a moderator will be there soon to give them the pizza role.
 
-### Groovy \(Music\)
+## Groovy \(Music\)
 
 Ahuman calls dibs
 
-### Koishi \(Statistics\)
+## Koishi \(Statistics\)
 
 | Command | Explanation |
 | :--- | :--- |
 | `b+histostatus` | Show your status history by hour of the day. |
 | `b+histoguild` | Show status history for the whole guild. Takes a long time to run. |
 
-### TeXiT \(Math\)
+## TeXiT \(Math\)
 
 TeXiT is used to render math formulaes. Use the `$ inline LaTeX equation$` syntax for inline equations and `$$ equation $$` to place equations on their own line.
 
-There is also a few useful commands to query WolframAlpha and calculate 
+There is also a few useful commands to query WolframAlpha and calculate
 
 <table>
   <thead>
@@ -104,14 +104,14 @@ There is also a few useful commands to query WolframAlpha and calculate
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>,calc &lt;expression&gt;</code> 
+      <td style="text-align:left"><code>,calc &lt;expression&gt;</code>
       </td>
       <td style="text-align:left">Calculate some simple math.</td>
     </tr>
   </tbody>
 </table>
 
-### GetBeaned \(Moderation\)
+## GetBeaned \(Moderation\)
 
 GetBeaned is our moderation bot. The follwing commands are to be used by moderators.
 
@@ -137,9 +137,7 @@ The following commands can be used by moderators and trusted users.
 
 No commands here are meant to be used regularly by normal users.
 
-### Other bots
+## Other bots
 
 TODO \(GamesROB, Snail Racing \(Ahuman claims this one too\), Tatsu, FriendSpotter\)
-
-
 
