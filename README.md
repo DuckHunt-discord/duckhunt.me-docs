@@ -10,10 +10,10 @@ This is the documentation for the version 4 of the popular DuckHunt bot. To see 
 
 If you just discovered DuckHunt, this wiki is a precious source of information where you can learn more about the bot you are about to use. You'll be able to find
 
-* A quickstart for players where you'll learn the basics of the game
-* Another quickstart for server administrators where you'll learn how to launch the game on your own discord server
-* Information about the different ducks \(just like a Pokédex\)
-* A list of levels, and an achievements guide
+* A [quickstart for players](players-guide/players-quickstart.md) where you'll learn the basics of the game
+* Another [quickstart for server administrators](bot-administration/admin-quickstart.md) where you'll learn how to launch the game on your own discord server
+* Information about [the different ducks](players-guide/types-of-ducks.md) \(just like a Pokédex\)
+* A [list of levels](players-guide/levels-and-experience.md), and an [achievements guide](players-guide/achievements-guide.md)
 * The DuckHunt world lore, to understand why we hunt ducks
 * The technical documentation on the DuckHunt API
 * Copy/pastable information to put in your channels for confused players
