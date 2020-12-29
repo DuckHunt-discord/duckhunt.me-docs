@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 
 **This is not a command list for the DuckHunt bot.**  
- This is a list of commands you might want to know when interacting on the DuckHunt **Support** Server.
+This is a list of commands you might want to know when interacting on the DuckHunt **Support** Server.
 
 For a list of duckhunt commands, please read
 
@@ -130,12 +130,12 @@ To start a race, use `!s start` _or_ `!s race`
 The bot will default to start the race in 15s.
 
 -You can change the time it takes for the race to began by specifying how long you want in the start command Ex: `!s race 10s`  
- -You can only use 5-30. Anything below 5 or above 30 will automatically be put on the max or min Ex: !s race 100 \(The bot will set the time for 30s instead\)
+-You can only use 5-30. Anything below 5 or above 30 will automatically be put on the max or min Ex: !s race 100 \(The bot will set the time for 30s instead\)
 
 Within this time, people are allowed to join the race using `!s enter`
 
 -You cannot enter a race when it already began. You cannot enter a race you started. You can only join after !s `race`/`start` is used, and before the race begins.  
- -An infinite amount of people can join a race, but the rewards for the win do not increase.
+-An infinite amount of people can join a race, but the rewards for the win do not increase.
 
 -If nobody joins your race, then you will automatically go against an A.I.
 
@@ -144,16 +144,16 @@ Within this time, people are allowed to join the race using `!s enter`
 ```
 
 The chance at winning a race is random \(does not depend on level\)  
- -In the event of a tie, the topmost player automatically wins.
+-In the event of a tie, the topmost player automatically wins.
 
 Whenever you win a race, you will gain 5 exp and a prize A prize is an item. To open your prize, use `!s open`  
- -You may open all of your prizes by using `!s openall`. Please note that this will give you the **rupee value** of all of the prizes, not each individual one.  
- --A **rupee** is Snail Racing currency. Rupees will be mentioned later.  
- -You cannot steal someone's prize. To check all of your prizes, use `!s items`
+-You may open all of your prizes by using `!s openall`. Please note that this will give you the **rupee value** of all of the prizes, not each individual one.  
+--A **rupee** is Snail Racing currency. Rupees will be mentioned later.  
+-You cannot steal someone's prize. To check all of your prizes, use `!s items`
 
 Whenever you level up, you will receive a set amount of rupees for the level you achieved  
- -To check your level, use `!s level`  
- -To check the levelboard, use `!s levelboard`
+-To check your level, use `!s level`  
+-To check the levelboard, use `!s levelboard`
 
 ```text
 **Why is it called a levelboard?**
@@ -168,21 +168,21 @@ The leaderboard is item specific. This is used to see who has the most of what i
 ```
 
 There are a few things you can do with your items:  
- -You can accumulate them and see them in your inventory  
- -You can `!s give` items Ex: `!s give rupee 400 (user)`  
- -You can `!s buy` items \(with rupees\) Ex: `!s buy freshcrap 100`  
- -You can `!s sell` items \(for rupees\) Ex: `!s sell freshcrap 100`  
- --You can also use `!s sellall` to get rid of all your items \(for rupees\)  
- -You can also gamble with your items.
+-You can accumulate them and see them in your inventory  
+-You can `!s give` items Ex: `!s give rupee 400 (user)`  
+-You can `!s buy` items \(with rupees\) Ex: `!s buy freshcrap 100`  
+-You can `!s sell` items \(for rupees\) Ex: `!s sell freshcrap 100`  
+--You can also use `!s sellall` to get rid of all your items \(for rupees\)  
+-You can also gamble with your items.
 
 **Gambling** You can bet your items by using `!s bet` Ex: `!s bet rupee 200` Ex: `!s bet crap`  
- -The chance at winning a bet is 50/50. Bets are **not** dependent on races.  
- --One time I lost 9 times in a row \(lost 1 million~ rupees\)
+-The chance at winning a bet is 50/50. Bets are **not** dependent on races.  
+--One time I lost 9 times in a row \(lost 1 million~ rupees\)
 
 Say you bet 200 rupees:  
- -If you win, you will gain 200 rupees  
- -if you lose, you will lose 200 rupees  
- --You cannot go into negatives. You cannot bet more than you own.
+-If you win, you will gain 200 rupees  
+-if you lose, you will lose 200 rupees  
+--You cannot go into negatives. You cannot bet more than you own.
 
 To check your gambling statistics, use `!s stats`
 
@@ -195,9 +195,9 @@ Use !s help -The bot will DM you a list of commands. If you need help on using t
 That's about it! Here is a few tips below :\)
 
 -If you are trying to grind, use `!s race 5` to make the race start asap  
- -Whenever you see someone typing, it would be nice to use `!s race 10`, as this gives them a chance to join the race if they want to. I do this, because I am **nice**  
- -When betting, it's statistically impossible to lose 9 times in a row. I like to bet a small amount, and when i lose, I double it. That way when I do win the bet, I'll get all my rupees back. after winning, I go back to the small amount  
- _What?_  
- Ex: `!s bet rupee 20` \(lose, -20\)  
- `!s bet rupee 40` \(lose, -60\) `!s bet rupee 80` \(lose, -140\) `!s bet rupee 160` \(win, +20\) repeat if you are daring, try tripling your rupees instead of doubling. This provides more risk, but a higher return.
+-Whenever you see someone typing, it would be nice to use `!s race 10`, as this gives them a chance to join the race if they want to. I do this, because I am **nice**  
+-When betting, it's statistically impossible to lose 9 times in a row. I like to bet a small amount, and when i lose, I double it. That way when I do win the bet, I'll get all my rupees back. after winning, I go back to the small amount  
+_What?_  
+Ex: `!s bet rupee 20` \(lose, -20\)  
+`!s bet rupee 40` \(lose, -60\) `!s bet rupee 80` \(lose, -140\) `!s bet rupee 160` \(win, +20\) repeat if you are daring, try tripling your rupees instead of doubling. This provides more risk, but a higher return.
 

@@ -80,7 +80,7 @@ Since there is a big number of ducks killed achievements, please refer to the fo
 {% endtab %}
 
 {% tab title="2000" %}
-![](../.gitbook/assets/ducks_killed_5%20%281%29.svg)
+![](../.gitbook/assets/ducks_killed_5%20%282%29%20%285%29.svg)
 {% endtab %}
 
 {% tab title="4000" %}
