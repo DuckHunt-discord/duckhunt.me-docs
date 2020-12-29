@@ -6,7 +6,7 @@ description: Donating is not the only way
 
 ### Translating the bot
 
-Translations are already avaliable in a lot of languages. However, if you feel one can be upgraded, made better or just finished, feel free to contact Eyesofcreeper\#0001 on the [discord server](https://discordapp.com/invite/2BksEkV). Don't forget to tell me what language you want to translate the bot to. We use LingoHub to translate the bot, and the wiki can also be translated on GitBook \(see how to [Edit the wiki](../the-duckhunt-api/how-to-edit-this-wiki.md)\)
+Translations are already available in a lot of languages. However, if you feel one can be upgraded, made better or just finished, feel free to contact Eyesofcreeper\#0001 on the [discord server](https://discordapp.com/invite/2BksEkV). Don't forget to tell me what language you want to translate the bot to. We use LingoHub to translate the bot, and the wiki can also be translated on GitBook \(see how to [Edit the wiki](../the-duckhunt-api/how-to-edit-this-wiki.md)\)
 
 ### Report bugs
 
