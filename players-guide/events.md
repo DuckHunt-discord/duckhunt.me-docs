@@ -35,7 +35,7 @@ There is approximately a 20% more chance for a duck to be a Super Duck.
 
 > The safety class was canceled. Beware of shooting other hunters!
 
-There is a 5% more chance you'll shoot another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst events, so don't forget to [buy a sight]() to reduce misses.
+There is a 5% more chance you'll shoot another hunter when you miss a shot. Normally, this globally means 7% chance of killing on miss. This is one of the worst events, so don't forget to [buy a sight](https://duckhunt.me/commands?command=shop%20sight) to reduce misses.
 
 ## Connection Problems
 
@@ -60,6 +60,13 @@ Super Ducks get 3 more lives.
 > Bullets are deflected by strong wind
 
 There is an 8% more chance you'll miss a shot. The sight is not really useful with this event.
+
+## UN Treaty
+
+> AP and Explosive ammo are disabled. Super ducks are worth more exp, since they are getting rare.
+
+Also of note, armored ducks won't resist during this event.
+
 
 ## Restarting
 
