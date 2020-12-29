@@ -1,21 +1,21 @@
----
-description: >-
-  Installing DuckHunt on your server is very easy and can be done in a matter of
-  seconds by following the instructions.
----
-
 # Administrators quickstart
 
-First, I'd like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt. It's fast, reliable and well-supported!
+First, I'd like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt. It's
+fast, reliable and well-supported!
 
 Adding the official bot to your server is super easy! Follow these instructions:
 
-* Join [our discord server](https://discord.gg/2BksEkV) to get support if needed.
-* **Invite the bot to your server by clicking** [**here**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
-* In the channel you want to use, type `dh!setup` and follow the instructions given to you.
-* **You should be asked to type `dh!add_channel`in the channel where you want the game to start.** Do that and you'll be good to go.
+1. Join [our discord server](https://discord.gg/2BksEkV) to get support if needed.
+2. Invite the bot to your server by
+   clicking [here](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)
+   .
+3. Choose/create a channel where you want ducks to spawn
+4. Subscribe that channel to #announcements (on the DuckHunt server) to get messages about the bot status or breaking
+   changes for players.
+5. Type `dh!settings enabled True` to start the game.
 
-{% hint style="warning" %}
-If you want to [configure settings](edit-settings-settings-list.md), you must do it in an **enabled channel**. However, parameters are server-wide, while scores are per-channel. If you want to edit settings in a staff channel, you can add it to the game temporarily, then run`dh!del_channel`to remove it once you've edited the settings.
-{% endhint %}
+## Configuration
 
+Most commands are only available once the channel is enabled (see n°5 above). It includes settings commands. Once you've
+done the above, you'll be able to configure the perfect settings. For this,
+just [head to the next page](edit-settings-settings-list.md).
