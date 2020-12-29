@@ -1,8 +1,10 @@
 # Events
 
-Events happen globally, at the same time, and across all of Discord. They will change gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an event will be applied (lasting an hour). If an event is to be drawn, it is chosen from the list of events with equal probability. This means that there should be approximately 2 events per day.
+Events happen globally, at the same time, and across all of Discord. They will change gameplay and make hunting ducks more fun. Every hour, there is a 10% chance an event will be applied \(lasting an hour\). If an event is to be drawn, it is chosen from the list of events with equal probability. This means that there should be approximately 2 events per day.
 
-{% hint style="success" %} To display the current event, you can use the `dh!event`command. {% endhint %}
+{% hint style="success" %}
+To display the current event, you can use the `dh!event`command.
+{% endhint %}
 
 ## Everything is Calm
 
@@ -20,12 +22,12 @@ There is a 10% chance that 2 ducks will spawn instead of one.
 
 > It's harder to see killed ducks. You'll need a few more seconds to know if you missed or not.
 
-The bang_lag [setting](../bot-administration/edit-settings-settings-list.md) is up by 3 seconds. It means that you'll only get the result of your shot 3 seconds after running the bang command.
+The bang\_lag [setting](../bot-administration/edit-settings-settings-list.md) is up by 3 seconds. It means that you'll only get the result of your shot 3 seconds after running the bang command.
 
 ## Steroids in the Lake
 
-> A medical waste company dumped steroids into the lake.<br>
-> Ducks have mutated, and you'll see a lot more Super Ducks. But, be careful, and don't drink that water.
+> A medical waste company dumped steroids into the lake.  
+>  Ducks have mutated, and you'll see a lot more Super Ducks. But, be careful, and don't drink that water.
 
 There is approximately a 20% more chance for a duck to be a Super Duck.
 
@@ -62,3 +64,4 @@ There is an 8% more chance you'll miss a shot. The sight is not really useful wi
 ## Restarting
 
 Not really an event, the bot is making every duck leave prior to the restart. No ducks are allowed to spawn anymore. This goes for approximately 15 minutes before the bot is able to shut down.
+
