@@ -35,7 +35,7 @@ Additionally, depending on the [settings](../bot-administration/edit-settings-se
 
 To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive ammo](store-items.md), which do 2x or 3x damage respectively.
 
-![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%284%29.png)
+![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%284%29%20%281%29.png)
 
 ## The MOADs
 
