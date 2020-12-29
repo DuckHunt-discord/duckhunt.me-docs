@@ -1,2 +1,1 @@
-# Server History \(2020\)
-
+# Server History (2020)

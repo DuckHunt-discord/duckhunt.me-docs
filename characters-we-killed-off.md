@@ -3,4 +3,3 @@ description: 'People who were banned, but the way they got banned was funny and 
 ---
 
 # Characters we killed off
-

@@ -1,2 +1,1 @@
-# Main Characters \(In order of role hierarchy\)
-
+# Main Characters (In order of role hierarchy)
