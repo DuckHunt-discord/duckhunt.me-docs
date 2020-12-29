@@ -90,7 +90,7 @@ Adjust these values as needed.
 
 When a super duck spawn, it gets a certain amount of health. Two settings control how many lives a super duck can get.
 
-* [`super_ducks_min_life`](https://duckhunt.me/commands?command=settings%20super_ducks_in_life) the minimum hp a super duck can have
+* [`super_ducks_min_life`](https://duckhunt.me/commands?command=settings%20super_ducks_min_life) the minimum hp a super duck can have
 
 * [`super_ducks_max_life`](https://duckhunt.me/commands?command=settings%20super_ducks_max_life) the maximum hp a super duck can have
 
