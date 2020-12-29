@@ -3,7 +3,7 @@
 ### Pour devenir un bon chasseur, vous devez être capables de gérer votre expérience.
 
 {% hint style="warning" %}
-**Attention au** _**freetime**_ **!**   
+**Attention au** _**freetime**_ **!**  
 Si vous atteignez l'heure du _freetime_, vous récupérez votre arme si elle était confisquée, et quelques chargeurs supplémentaires. Utilisez `dh!freetime` pour avoir le temps restant avant le _freetime_.
 {% endhint %}
 
@@ -15,7 +15,7 @@ Vous pouvez parfois trouver des munitions dans les buissons après avoir tué un
 {% hint style="info" %}
 **N'oubliez pas l'ordre d'apparition**
 
-Les canards se font tirer dessus, ou bien partent, dans l'ordre dans lequel ils sont arrivés. 
+Les canards se font tirer dessus, ou bien partent, dans l'ordre dans lequel ils sont arrivés.
 {% endhint %}
 
 ### **Les débuts**
@@ -27,7 +27,7 @@ Un silencieux est très utile en début de jeu, puisque vous manquez beaucoup de
 
 ### En fin de jeu
 
-Au bout d'un moment, vous obtenez un super fusil de sniper avec une seule balle par chargeur. À partir de là, il est plus avantageux d'acheter les balles que les chargeurs. Un trèfle à quatre feuilles  \(`dhbuy 10`\) est nécessaire pour en arriver à ce point, et un détecteur infrarouge \(`dhbuy 8`\) est vraiment recommandé pour éviter le gaspillage.
+Au bout d'un moment, vous obtenez un super fusil de sniper avec une seule balle par chargeur. À partir de là, il est plus avantageux d'acheter les balles que les chargeurs. Un trèfle à quatre feuilles \(`dhbuy 10`\) est nécessaire pour en arriver à ce point, et un détecteur infrarouge \(`dhbuy 8`\) est vraiment recommandé pour éviter le gaspillage.
 
 Vous pouvez toujours laisser quelques morceaux de pain dans un canal, et espérer attirer plus de canards. \(`dhbuy 21`\)
 
@@ -38,6 +38,6 @@ La plupart des objets anti-sabotage, par exemple le nettoyage d'arme, sont inuti
 
 ## Quelques conseils
 
-Vous pouvez en général savoir s'il y a des canards en regardant le dernier canard apparu, le dernier message "vous avez tué le canard en \*\*\* secondes"... Mais ne supposez pas que le dernier canard arrivé est aussi le dernier tué, comparez le nombre de secondes et la date du message du canard, pour savoir quel canard est mort.   
+Vous pouvez en général savoir s'il y a des canards en regardant le dernier canard apparu, le dernier message "vous avez tué le canard en \*\*\* secondes"... Mais ne supposez pas que le dernier canard arrivé est aussi le dernier tué, comparez le nombre de secondes et la date du message du canard, pour savoir quel canard est mort.  
 Si vous n'arrivez pas à en être sur, utilisez `dh!hug` au lieu de `d!bang` pour ne pas gaspiller de balles.
 

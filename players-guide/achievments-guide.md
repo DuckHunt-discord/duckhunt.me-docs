@@ -2,7 +2,7 @@
 
 ## Succès
 
-Les succès ne sont pas gardés à vie : pour les conserver, les conditions doivent rester remplies. Si vous ne validez plus les conditions, le succès disparaîtra. 
+Les succès ne sont pas gardés à vie : pour les conserver, les conditions doivent rester remplies. Si vous ne validez plus les conditions, le succès disparaîtra.
 
 Par conséquent, à cause du couple de succès _clueless / scientist_ qui ne sont pas compatibles, il est impossible d'obtenir tous les succès en même temps.
 
@@ -14,7 +14,7 @@ Avoir joué pendant 7 jours différents.
 
 ### Time Played II \(Temps de jeu II\)
 
-Pour celle-là, il faut avoir joué pendant 30 jours différents. 
+Pour celle-là, il faut avoir joué pendant 30 jours différents.
 
 ![Ic&#xF4;ne de Time Played II](../.gitbook/assets/time_played_2.svg)
 
@@ -38,7 +38,7 @@ Avoir plus de 11 111 exp.
 
 ### Cheater \(Tricheur\)
 
-Avoir plus de 1 000 000 exp. Quand vous trichez, vous êtes punis par ce succès. 
+Avoir plus de 1 000 000 exp. Quand vous trichez, vous êtes punis par ce succès.
 
 ![L&apos;ic&#xF4;ne du Cheater](../.gitbook/assets/cheater.svg)
 

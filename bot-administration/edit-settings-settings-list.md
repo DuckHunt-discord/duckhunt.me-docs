@@ -100,7 +100,7 @@ Note : Un booléen est un type de variable pouvant être défini par `true` ou `
       <td style="text-align:left">texte</td>
       <td style="text-align:left">en_EN</td>
       <td style="text-align:left">Langue utilis&#xE9;e par le bot. Utilisez le format codedulangage_CODEDUPAYS
-        (<code>fr_FR </code>pour le fran&#xE7;ais de France, <code>hu_HU</code>, <code>en_US</code> pour
+        (<code>fr_FR</code> pour le fran&#xE7;ais de France, <code>hu_HU</code>, <code>en_US</code> pour
         l&apos;anglais am&#xE9;ricain&#x2026;). Si le langage n&apos;est pas trouv&#xE9;,
         le serveur se mettra par d&#xE9;faut en anglais.</td>
     </tr>

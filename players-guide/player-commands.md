@@ -1,7 +1,5 @@
 # Commandes pour jouer
 
-
-
 | Commande | Description |
 | :--- | :--- |
 | dh!bang | Commande pour tirer sur un canard. N'oubliez pas que des erreurs peuvent arriver, vous pouvez louper le canard... Ou pire. |

@@ -7,14 +7,14 @@ Pour gagner des points d'expérience, vous devez tuer des canards. La plupart de
 Pour tuer un canard, vous devez lui tirer dessus avec la commande `dh!bang`. Si vous êtes chanceux, vous allez toucher le canard et gagner de l'expérience. Si vous ne l'êtes pas, vous pouvez rater votre tir. Dans ce cas, pas d'inquiétude, vous pouvez réessayer en envoyant la commande à nouveau. Si votre arme se fait confisquer, vous devrez attendre jusqu'à `dh!freetime` ou [la racheter au magasin](store-items.md) avec votre expérience.
 
 {% hint style="info" %}
-La commande `dh!bang` peut aussi être utilisée avec `dhpan` ou `!pan`.  Il y a beaucoup de commandes pour `dh!bang`, arriverez-vous à toutes les trouver ?
+La commande `dh!bang` peut aussi être utilisée avec `dhpan` ou `!pan`. Il y a beaucoup de commandes pour `dh!bang`, arriverez-vous à toutes les trouver ?
 {% endhint %}
 
-Vous aurez aussi besoin de recharger votre arme, parce que vous n'avez plus de munition ou que votre arme s'est bloquée. Ne vous inquiétez pas, il suffit de taper `dh!reload`.   
-  
-Une fois que vous avez tué quelques canards, vous aurez probablement assez d'expérience pour aller voir le [magasin](store-items.md), avec la commande `dh!shop`. 
+Vous aurez aussi besoin de recharger votre arme, parce que vous n'avez plus de munition ou que votre arme s'est bloquée. Ne vous inquiétez pas, il suffit de taper `dh!reload`.
 
-Il est recommandé d'acheter un **silencieux** pour éviter que les canards s'enfuient quand vous tirez \(`dhshop silencer`\), un **trèfle à quatre feuilles** pour gagner beaucoup plus d'expérience à chaque canard tué \(`dhshop clover`\),  et un **viseur** pour améliorer votre précision \(`dhshop sight`\). 
+Une fois que vous avez tué quelques canards, vous aurez probablement assez d'expérience pour aller voir le [magasin](store-items.md), avec la commande `dh!shop`.
+
+Il est recommandé d'acheter un **silencieux** pour éviter que les canards s'enfuient quand vous tirez \(`dhshop silencer`\), un **trèfle à quatre feuilles** pour gagner beaucoup plus d'expérience à chaque canard tué \(`dhshop clover`\), et un **viseur** pour améliorer votre précision \(`dhshop sight`\).
 
 Si vous avez tué beaucoup de canards, vous risquez de ne plus avoir assez de **chargeurs**. Dans ce cas, vous pouvez en racheter dans le magasin \(`dhshop 2`\). Vous ne devriez jamais avoir votre inventaire rempli de chargeurs, puisque vous avez une chance d'en trouver gratuitement en tuant des canards. Essayez d'être aussi proche de 0 que possible puisque, lors du « freetime », votre réserve de chargeurs est remplie automatiquement \(uniquement les chargeurs, pensez donc bien à recharger votre arme de balles\).
 

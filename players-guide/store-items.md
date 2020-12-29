@@ -4,8 +4,6 @@ Vous pouvez acheter un article avec la commande `dh!shop <objet> [détails]`, av
 Exemple : `dh!shop 17 @Joueur#0000` va saboter l'arme de @Joueur\#0000.  
 Vous pouvez aussi utiliser l'alias de l'objet, par exemple `dh!shop bullet` est équivalent à `dh!shop 1`.
 
-
-
 | ID | Alias | Nom | Coût\(XP\) | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Bullet | Balle | 7 | Ajoute une balle à votre chargeur. |

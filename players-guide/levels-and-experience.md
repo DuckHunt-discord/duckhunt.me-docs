@@ -6,7 +6,7 @@
 | 1 | -4 | Touriste | 55 | 85 | 6 | 2 |
 | 2 | 20 | Noob | 56 | 86 | 6 | 2 |
 | 3 | 50 | Stagiaire | 57 | 87 | 6 | 2 |
-| 4 | 90 | Rateur de canards  | 58 | 88 | 6 | 2 |
+| 4 | 90 | Rateur de canards | 58 | 88 | 6 | 2 |
 | 5 | 140 | Membre du Comité Contre les Canards | 59 | 89 | 6 | 2 |
 | 6 | 200 | Détesteur de canards | 60 | 90 | 6 | 2 |
 | 7 | 270 | Emmerdeur de canards | 65 | 93 | 4 | 3 |

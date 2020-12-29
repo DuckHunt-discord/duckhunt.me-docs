@@ -1,4 +1,4 @@
-# Sobre o bot DuckHunt
+# Le bot DuckHunt
 
 DuckHunt é um jogo divertido, feito em um BOT, que vai fazer de você um caçador de patos em qualquer canal do Discord. Avance níveis de experiência, sabote outros caçadores e guarde algum tempo para mais tarde estar neste jogo incrível.
 

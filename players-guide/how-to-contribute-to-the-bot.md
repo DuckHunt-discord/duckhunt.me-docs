@@ -4,28 +4,28 @@ description: Les dons ne sont pas la seule manière d'aider.
 
 # Comment contribuer au bot
 
-### Traduire le bot
+## Traduire le bot
 
-Des traductions sont déjà disponibles dans beaucoup de langues. Cependant, si vous sentez que l'une d'elles peut être améliorée, ou simplement terminée, contactez Eyesofcreeper\#0001 sur [Discord](https://discordapp.com/invite/2BksEkV).  N'oubliez pas de mentionner dans quelle langue vous voulez traduire. Nous utilisons LingoHub pour traduire le bot, et le wiki peut aussi être traduit avec GitBook \(voir le lien ci-dessous\).
+Des traductions sont déjà disponibles dans beaucoup de langues. Cependant, si vous sentez que l'une d'elles peut être améliorée, ou simplement terminée, contactez Eyesofcreeper\#0001 sur [Discord](https://discordapp.com/invite/2BksEkV). N'oubliez pas de mentionner dans quelle langue vous voulez traduire. Nous utilisons LingoHub pour traduire le bot, et le wiki peut aussi être traduit avec GitBook \(voir le lien ci-dessous\).
 
-### Signaler des bugs
+## Signaler des bugs
 
 Vous pouvez signaler des bugs sur la page [GitHub](https://github.com/DuckHunt-discord/DHV3/issues). Vous pouvez aussi utiliser le salon \#bug-report sur notre serveur [Discord ](https://discordapp.com/invite/2BksEkV)pour plus de facilités.
 
-### Améliorer ce site
+## Améliorer ce site
 
 Merci à ceux qui veulent améliorer ce wiki !  
-Il y a une page dédiée à cela, qui explique le processus en détail, allez voir ! 
+Il y a une page dédiée à cela, qui explique le processus en détail, allez voir !
 
 {% page-ref page="../how-to-edit-this-wiki.md" %}
 
-### Aider sur le serveur de support
+## Aider sur le serveur de support
 
 Vous pouvez rejoindre le serveur en utilisant ce lien. Venez nous aider à répondre aux questions des débutants comme des joueurs confirmés. Si vous voulez d'abord vous familiariser avec les commandes, allez voir ci-dessous.
 
 {% page-ref page="../support-server/how-to-join.md" %}
 
-### Dons
+## Dons
 
 Salut, voilà quelques liens si vous voulez me donner quelques $ pour continuer le projet !  
 Merci beaucoup !
@@ -34,6 +34,4 @@ Merci beaucoup !
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)
 * [https://github.com/sponsors/paris-ci](https://github.com/sponsors/paris-ci)
 * [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(Ils nous fournissent des serveurs gratuitement, aidez-les en achetant des VPS chez eux. Ils ont un serveur d'aide sur Discord et sont vraiment très bons.\)
-
-
 
