@@ -14,7 +14,7 @@ You may also need to reload your weapon, either because you have no more bullets
 
 Once you killed a few ducks, you should have enough experience to explore the [shop](), using the `dhbuy` command.
 
-We recommend you buy a **silencer** to avoid letting the ducks flee from you \(`dhshop silencer`\), a **clover** so you earn \(way\) more experience for every kill \(`dhshop clover`\), and a **sight** to improve your aim \(`dhshop sight`\).
+We recommend you buy a **silencer** to avoid letting the ducks flee from you \(`dhshop silencer`\), a **clover,** so you earn \(way\) more experience for every kill \(`dhshop clover`\), and a **sight** to improve your aim \(`dhshop sight`\).
 
 If you hunt a lot of ducks, you might run out of **magazines**. In that case, buy some from the shop \(`dhshop 2`\). However, you may find magazines as you hunt ducks, so be sure to leave some magazines empty in order to pick these up for free. And try to be as close to zero magazines as possible since, for freetime, your magazine count gets refilled \(not your bullets tho, remember to reload\).
 
@@ -24,8 +24,8 @@ If you read all of this, you might be well on your way to becoming a Pro DuckHun
 
 If you want more information, you might want to:
 
-* Read the [full command list for players]()
-* See what [shop items are available in the shop]()
+* Read the [full command list for players](https://duckhunt.me/commands)
+* See what [shop items are available in the shop](https://duckhunt.me/commands?command=shop)
 * See what [events are and how they'll impact your gameplay](events.md)
 * Read some [frequently asked questions](faq.md)
 
