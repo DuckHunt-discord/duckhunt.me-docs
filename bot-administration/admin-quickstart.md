@@ -4,7 +4,7 @@ description: >-
   seconds by following the instructions.
 ---
 
-# Quickstart
+# Administrators quickstart
 
 First, I'd like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt. It's fast, reliable and well-supported!
 

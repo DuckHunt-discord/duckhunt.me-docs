@@ -1,5 +1,9 @@
 # Edit settings / Settings list
 
+This needs to be re-done completely for V4.
+
+
+
 To set a setting, use `dh!settings set <parameter> <value>`
 
 You can view modified settings by using `dh!settings modified`
