@@ -3,7 +3,7 @@
 | Role | Info |
 | :--- | :--- |
 | Duckies | Role given automatically when you join the server. |
-| Have DuckHunt | You have to be the owner or bot admin in a server with DuckHunt, ask a mod for the role \(DON'T ping please\) |
+| Have DuckHunt | You have to be the owner or bot admin in a server with DuckHunt, ask a mod for the role (DON'T ping please) |
 | Pizza | You need to work for discord pizza \(and you can't get it anymore\) |
 | Moderator | People who are trusted by Eyes and who enforce rules on the server. Please check [How to become a mod](how-to-become-a-mod.md). 
 | Eyes bots | Eyes' personally coded bots.
