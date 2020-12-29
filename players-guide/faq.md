@@ -1,34 +1,34 @@
 # FAQ
 
-### Comment jouer ?
+## How do I play?
 
-Il vous est conseillé de lire [notre guide](how-to-play-with-duckhunt.md).
+The best way would be to read [our players guide](players-quickstart.md).
 
-### Comment installer le bot ?
+## How do I install the bot?
 
-Allez voir la page [Installer DuckHunt](../bot-administration/install-duckhunt.md) !
+See the [QuickStart](../bot-administration/admin-quickstart.md)!
 
-### Puis-je voir le code source ?
+## Can I see the source code?
 
-Bien sûr ! Vous pouvez le trouver sur [GitHub](https://github.com/DuckHunt-discord/DHV3/issues).
+Sure you can! Head to [GitHub](https://github.com/DuckHunt-discord/DHV3/issues) for it!
 
-### Je veux héberger moi même DuckHunt / Je veux ma propre copie de DuckHunt. Comment fais-je cela ?
+## I want to self-host DuckHunt/I want my own copy of DuckHunt. How do I do it?
 
-Cela n'est absolument pas recommandé. Le bot officiel est le meilleur choix dans 99,9 % des cas. Notez qu'aucune aide ne sera donné pour les versions hébergées par vous-même, en plus de devoir mettre à jour le bot de façon régulière. Si vous voulez quand même essayer, des instructions sont disponibles sur le [repo GitHub](https://github.com/DuckHunt-discord/DHV3/issues).
+This is clearly not recommended. The official bot is the best choice in 99.9% of the cases. Note that no support will be given for self hosted versions, and you have to update the bot in a timely fashion. However, if you still want to try it, instructions are given on the [GitHub repo](https://github.com/DuckHunt-discord/DHV3/issues).
 
-### J'ai trouvé un bug ! Que dois-je faire ?
+## I found a bug! Where should I go?
 
-Bravo ! Vous pouvez aller sur notre [serveur de support](https://discordapp.com/invite/2BksEkV) pour le signaler dans le salon `#bug-report` ou le signaler avec une [issue sur GitHub](https://github.com/DuckHunt-discord/DHV3/issues).
+Congratulations! You can go to [our support server](https://discordapp.com/invite/2BksEkV) to report it, or open an [issue on GitHub](https://github.com/DuckHunt-discord/DHV3/issues).
 
-### J'ai une suggestion pour le bot !
+## I have a feature request/suggestion!
 
-Ce n'est pas vraiment une question, mais vous pouvez aller sur [GitHub](https://github.com/DuckHunt-discord/DHV3/issues) pour proposer cela ! Un canal dédié existe également sur le [serveur de support](https://discordapp.com/invite/2BksEkV).
+That's not really a question, but you can go to [GitHub](https://github.com/DuckHunt-discord/DHV3/issues) to suggest things!
 
-### Je t'aime !
+## I love you!
 
-Moi aussi !  ❤️
+Me too ! ❤️
 
-### Puis-je faire un don pour soutenir le développement du bot ?
+## Can I donate to support the development of the bot ?
 
-Allez voir sur [cette page](how-to-contribute-to-the-bot.md) !
+See [this page](how-to-contribute-to-the-bot.md)!
 

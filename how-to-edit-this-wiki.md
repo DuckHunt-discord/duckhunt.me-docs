@@ -1,10 +1,8 @@
 ---
-description: Merci de nous aider.
+description: Thanks for helping.
 ---
 
-# Comment éditer ce wiki
+# How to edit this wiki
 
-Le panel d'édition est situé [ici](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/). Vous avez besoin d'un compte GitBook pour y accéder. Une fois que vous êtes inscrit, rejoignez le [serveur](https://discordapp.com/invite/2BksEkV) support et demandez une invitation au projet. Les éditions sont attribuées à votre compte gitbook et publiées sur GitHub pour plus de transparence.
-
-
+The edition panel is located [here](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/), and you'll need a GitBook account to access it. Once you've registered, please join the support [server](https://discordapp.com/invite/2BksEkV) and ask for an invite to the project. Editions are attributed to your gitbook account and published on GitHub for transparency.
 

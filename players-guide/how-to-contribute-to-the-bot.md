@@ -1,39 +1,31 @@
 ---
-description: Les dons ne sont pas la seule manière d'aider.
+description: Donating is not the only way
 ---
 
-# Comment contribuer au bot
+# Como contribuir com o bot
 
-### Traduire le bot
+## Translating the bot
 
-Des traductions sont déjà disponibles dans beaucoup de langues. Cependant, si vous sentez que l'une d'elles peut être améliorée, ou simplement terminée, contactez Eyesofcreeper\#0001 sur [Discord](https://discordapp.com/invite/2BksEkV).  N'oubliez pas de mentionner dans quelle langue vous voulez traduire. Nous utilisons LingoHub pour traduire le bot, et le wiki peut aussi être traduit avec GitBook \(voir le lien ci-dessous\).
+Translations are already avaliable in a lot of languages. However, if you feel one can be upgraded, made better or just finished, feel free to contact Eyesofcreeper\#0001 on the [discord server](https://discordapp.com/invite/2BksEkV). Don't forget to tell me what language you want to translate the bot to. We use LingoHub to translate the bot, and the wiki can also be translated on GitBook \(see how to [Edit the wiki](../how-to-edit-this-wiki.md)\)
 
-### Signaler des bugs
+## Report bugs
 
-Vous pouvez signaler des bugs sur la page [GitHub](https://github.com/DuckHunt-discord/DHV3/issues). Vous pouvez aussi utiliser le salon \#bug-report sur notre serveur [Discord ](https://discordapp.com/invite/2BksEkV)pour plus de facilités.
+You can report bugs on the [GitHub issues ](https://github.com/DuckHunt-discord/DHV3/issues)page. You might also want to visit \#bug-report on our [discord server](https://discordapp.com/invite/2BksEkV) for a more informal reporting process.
 
-### Améliorer ce site
+## Improve this website
 
-Merci à ceux qui veulent améliorer ce wiki !  
-Il y a une page dédiée à cela, qui explique le processus en détail, allez voir ! 
+Hey, thanks for wanting to improve the wiki! There is [a specific page](../how-to-edit-this-wiki.md) for this that explain the process in detail, see you there!
 
-{% page-ref page="../how-to-edit-this-wiki.md" %}
+## Help on the support server
 
-### Aider sur le serveur de support
+You can join our support server using [this link](https://discord.gg/2BksEkV). Come and help us answers questions from beginners and confirmed people alike. If you want to get yourself familiar with the rules and commands first, [read here](../support-server/how-to-join.md).
 
-Vous pouvez rejoindre le serveur en utilisant ce lien. Venez nous aider à répondre aux questions des débutants comme des joueurs confirmés. Si vous voulez d'abord vous familiariser avec les commandes, allez voir ci-dessous.
+## Donate
 
-{% page-ref page="../support-server/how-to-join.md" %}
-
-### Dons
-
-Salut, voilà quelques liens si vous voulez me donner quelques $ pour continuer le projet !  
-Merci beaucoup !
+Hello, here are a few links if you want to donate some $ to me for running the project. Thanks !
 
 * [https://www.patreon.com/duckhunt](https://www.patreon.com/duckhunt)
 * [https://ko-fi.com/duckhunt](https://ko-fi.com/duckhunt)
 * [https://github.com/sponsors/paris-ci](https://github.com/sponsors/paris-ci)
-* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(Ils nous fournissent des serveurs gratuitement, aidez-les en achetant des VPS chez eux. Ils ont un serveur d'aide sur Discord et sont vraiment très bons.\)
-
-
+* [https://www.hostmyservers.fr/](https://www.hostmyservers.fr/) \(They provide our servers for free, please help them by buying VPS there. Support available on discord and they truly are very good.\)
 

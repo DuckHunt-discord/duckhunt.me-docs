@@ -1,66 +1,66 @@
-# Guide des succès
+# Guia de conquistas
 
-## Succès
+## Achievements
 
-Les succès ne sont pas gardés à vie : pour les conserver, les conditions doivent rester remplies. Si vous ne validez plus les conditions, le succès disparaîtra. 
+Achievements are stateless, meaning that you don't keep them for life but you rather have to meet a condition to get them. If you no longer meet the condition, then your achievement will disappear.
 
-Par conséquent, à cause du couple de succès _clueless / scientist_ qui ne sont pas compatibles, il est impossible d'obtenir tous les succès en même temps.
+Therefore, because of the clueless/scientist achievement pair, it is **not possible** to get all the achievements at the same time.
 
-### Time Played I \(Temps de jeu I\)
+### Time Played I
 
-Avoir joué pendant 7 jours différents.
+You need to have played on 7 different days
 
-![Ic&#xF4;ne de Time Played I](../.gitbook/assets/time_played_1.svg)
+![Icon for Time Played I](../.gitbook/assets/time_played_1.svg)
 
-### Time Played II \(Temps de jeu II\)
+### Time Played II
 
-Pour celle-là, il faut avoir joué pendant 30 jours différents. 
+For this one, you need to have played on 30 different days.
 
-![Ic&#xF4;ne de Time Played II](../.gitbook/assets/time_played_2.svg)
+![Icon for Time Played II](../.gitbook/assets/time_played_2.svg)
 
-### Clueless \(Incapable\)
+### Clueless
 
-Avoir moins de -15 exp.
+Your current experience amount must be lower than -15 exp.
 
-![Ic&#xF4;ne de Clueless](../.gitbook/assets/clueless.svg)
+![Icon for Clueless](../.gitbook/assets/clueless.svg)
 
-### Scientist \(Scientifique\)
+### Scientist
 
-Avoir plus de 2090 exp.
+Your experience amount must be above 2090.
 
-![Ic&#xF4;ne de Scientist ](../.gitbook/assets/scientist.svg)
+![Scientist Icon](../.gitbook/assets/scientist.svg)
 
-### Max Level \(Niveau max\)
+### Max Level
 
-Avoir plus de 11 111 exp.
+Your experience amount must be above 11 111.
 
 ![The Max Level Icon](../.gitbook/assets/max_level.svg)
 
-### Cheater \(Tricheur\)
+### Cheater
 
-Avoir plus de 1 000 000 exp. Quand vous trichez, vous êtes punis par ce succès. 
+When you cheated, you get punished by this achievement. You need to have more than 1 000 000 experience points for it.
 
-![L&apos;ic&#xF4;ne du Cheater](../.gitbook/assets/cheater.svg)
+![The cheater icon](../.gitbook/assets/cheater.svg)
 
-### Baby Lover \(Amoureux des poussins\)
+### Baby Lover
 
-Par défaut, tout le monde a ce succès. Il disparaît si vous tuez plus de 5 bébés canards.
+By default, anyone has this achievement. It goes away if your number of baby ducks killed goes above 5.
 
-![The Baby Lover](../.gitbook/assets/baby_lover.svg)
+![The Baby Lover icon](../.gitbook/assets/baby_lover.svg)
 
-### Murderer \(Meurtrier\)
+### Murderer
 
-Tuer quelqu'un volontairement.
+You need to willfully kill someone to get this.
 
-![Le couteau flippant du Murderer.](../.gitbook/assets/murderer.svg)
+![Scary knife for the murderers](../.gitbook/assets/murderer.svg)
 
-### Succès liés au nombre de canards tués
+### Number of ducks killed achievements
 
-Puisqu'il y a un grand nombre de succès de ce type, ils sont rassemblés dans les onglets suivants, dont le titre correspond au nombre de canards tués.
+Since there is a big number of ducks killed achivments, please refer to the following tabs. The tab title is the number of ducks killed needed.
 
 {% tabs %}
 {% tab title="1" %}
-![&quot;First Blood&quot; \(Premier sang\)](../.gitbook/assets/first_blood.svg)
+![&quot;First Blood&quot;](../.gitbook/assets/first_blood.svg)
 {% endtab %}
 
 {% tab title="10" %}
@@ -88,11 +88,11 @@ Puisqu'il y a un grand nombre de succès de ce type, ils sont rassemblés dans l
 {% endtab %}
 {% endtabs %}
 
-### Lucky user \(Chanceux\)
+### Lucky user
 
-Avoir gagné plus de 500 exp grâce à des trèfles.
+You need to earn more than 500 total experience using a clover.
 
-![&quot;Lucky User&quot; \(Chanceux\)](../.gitbook/assets/lucky_user.svg)
+![The Lucky User icon](../.gitbook/assets/lucky_user.svg)
 
-Les icônes sont fournies par FlatIcons.
+Achievements icons are provided by FlatIcons.
 

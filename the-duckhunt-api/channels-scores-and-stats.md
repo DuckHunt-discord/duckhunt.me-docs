@@ -149,7 +149,7 @@ Player statistics successfully retrieved.
 Could not find a user or a channel matching the parameters provided.
 {% endapi-method-response-example-description %}
 
-```
+```text
 Player or channel not found!
 ```
 {% endapi-method-response-example %}
@@ -277,7 +277,7 @@ This is the list of the players. It is ordered by the exp amount in the current 
 The channel ID given is not stored in the database.
 {% endapi-method-response-example-description %}
 
-```
+```text
 Channel not found!
 ```
 {% endapi-method-response-example %}
