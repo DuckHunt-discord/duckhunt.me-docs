@@ -1,4 +1,4 @@
-# Achievements and trophys
+# Achievements and trophies
 
 Achievements are a way for you to prove how great of a hunter you are to the world (or at least, your channel).
 
