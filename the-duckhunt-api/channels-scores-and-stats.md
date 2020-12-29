@@ -6,13 +6,13 @@ You'll need to request an API key from Eyesofcreeper\#0001 to use the following 
 It should be passed as a query parameter: `api-agent`
 {% endhint %}
 
-{% api-method method="get" host="<https://duckhunt.api-d.com>" path="/web/duckstats.php" %}
+{% api-method method="get" host="https://duckhunt.api-d.com" path="/web/duckstats.php" %}
 {% api-method-summary %}
 Get a hunter score on a channel
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint gives you statistics on a specific user. You'll get more results by using this method.
+This endpoint gives you statistics on a specific user. You will get the more results by using this method.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -149,7 +149,7 @@ Player statistics successfully retrieved.
 Could not find a user or a channel matching the parameters provided.
 {% endapi-method-response-example-description %}
 
-```text
+```
 Player or channel not found!
 ```
 {% endapi-method-response-example %}
@@ -157,7 +157,7 @@ Player or channel not found!
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="<https://duckhunt.api-d.com>" path="/web/duckstats.php" %}
+{% api-method method="get" host="https://duckhunt.api-d.com" path="/web/duckstats.php" %}
 {% api-method-summary %}
 Get scores for a channel
 {% endapi-method-summary %}
@@ -277,7 +277,7 @@ This is the list of the players. It is ordered by the exp amount in the current 
 The channel ID given is not stored in the database.
 {% endapi-method-response-example-description %}
 
-```text
+```
 Channel not found!
 ```
 {% endapi-method-response-example %}
