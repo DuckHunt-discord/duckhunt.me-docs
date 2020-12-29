@@ -8,7 +8,8 @@ description: nice party in there lol
 
 The following are confirmed furrys that are believed to be held against their will inside Eyes' attic:
 
-Olpouin, he likes FireFox<br>
-Taoshi, he likes Wumpus<br>
-Subtle, I think he likes nekos<br>
-Ahuman, he likes Cat Mario
+Olpouin, he likes FireFox  
+ Taoshi, he likes Wumpus  
+ Subtle, I think he likes nekos  
+ Ahuman, he likes Cat Mario
+

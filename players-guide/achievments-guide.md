@@ -58,19 +58,35 @@ You need to willfully kill someone to get this.
 
 Since there is a big number of ducks killed achievements, please refer to the following tabs. The tab title is the number of ducks killed needed.
 
-{% tabs %} {% tab title="1" %} !["First Blood"](../.gitbook/assets/first_blood.svg) {% endtab %}
+{% tabs %}
+{% tab title="1" %}
+![&quot;First Blood&quot;](../.gitbook/assets/first_blood.svg)
+{% endtab %}
 
-{% tab title="10" %} ![](../.gitbook/assets/ducks_killed_1.svg) {% endtab %}
+{% tab title="10" %}
+![](../.gitbook/assets/ducks_killed_1.svg)
+{% endtab %}
 
-{% tab title="100" %} ![](../.gitbook/assets/ducks_killed_2.svg) {% endtab %}
+{% tab title="100" %}
+![](../.gitbook/assets/ducks_killed_2.svg)
+{% endtab %}
 
-{% tab title="500" %} ![](../.gitbook/assets/ducks_killed_3.svg) {% endtab %}
+{% tab title="500" %}
+![](../.gitbook/assets/ducks_killed_3.svg)
+{% endtab %}
 
-{% tab title="1000" %} ![](../.gitbook/assets/ducks_killed_4.svg) {% endtab %}
+{% tab title="1000" %}
+![](../.gitbook/assets/ducks_killed_4.svg)
+{% endtab %}
 
-{% tab title="2000" %} ![](../.gitbook/assets/ducks_killed_5%20%281%29.svg) {% endtab %}
+{% tab title="2000" %}
+![](../.gitbook/assets/ducks_killed_5%20%281%29.svg)
+{% endtab %}
 
-{% tab title="4000" %} ![](../.gitbook/assets/ducks_killed_6.svg) {% endtab %} {% endtabs %}
+{% tab title="4000" %}
+![](../.gitbook/assets/ducks_killed_6.svg)
+{% endtab %}
+{% endtabs %}
 
 ### Lucky user
 
@@ -79,3 +95,4 @@ You need to earn more than 500 total experience using a clover.
 ![The Lucky User icon](../.gitbook/assets/lucky_user.svg)
 
 Achievements icons are provided by FlatIcons.
+

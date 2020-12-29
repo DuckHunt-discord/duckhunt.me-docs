@@ -31,3 +31,4 @@ Me too ! ❤️
 ## Can I donate to support the development of the bot ?
 
 See [this page](how-to-contribute-to-the-bot.md)!
+

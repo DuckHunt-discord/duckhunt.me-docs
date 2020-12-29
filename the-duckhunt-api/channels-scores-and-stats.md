@@ -1,18 +1,38 @@
 # Channels scores and stats
 
-{% hint style="info" %} You'll need to request an API key from Eyesofcreeper#0001 to use the following endpoints.
+{% hint style="info" %}
+You'll need to request an API key from Eyesofcreeper\#0001 to use the following endpoints.
 
-It should be passed as a query parameter: `api-agent` {% endhint %}
+It should be passed as a query parameter: `api-agent`
+{% endhint %}
 
-{% api-method method="get" host="<https://duckhunt.api-d.com>" path="/web/duckstats.php" %} {% api-method-summary %} Get a hunter score on a channel {% endapi-method-summary %}
+{% api-method method="get" host="<https://duckhunt.api-d.com>" path="/web/duckstats.php" %}
+{% api-method-summary %}
+Get a hunter score on a channel
+{% endapi-method-summary %}
 
-{% api-method-description %} This endpoint gives you statistics on a specific user. You'll get more results by using this method. {% endapi-method-description %}
+{% api-method-description %}
+This endpoint gives you statistics on a specific user. You'll get more results by using this method.
+{% endapi-method-description %}
 
-{% api-method-spec %} {% api-method-request %} {% api-method-query-parameters %} {% api-method-parameter name="cid" type="integer" required=true %} The channel ID where you want the user stats {% endapi-method-parameter %}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-query-parameters %}
+{% api-method-parameter name="cid" type="integer" required=true %}
+The channel ID where you want the user stats
+{% endapi-method-parameter %}
 
-{% api-method-parameter name="pid" type="integer" required=true %} The Player ID of whom you want the stats of. {% endapi-method-parameter %} {% endapi-method-query-parameters %} {% endapi-method-request %}
+{% api-method-parameter name="pid" type="integer" required=true %}
+The Player ID of whom you want the stats of.
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+{% endapi-method-request %}
 
-{% api-method-response %} {% api-method-response-example httpCode=200 %} {% api-method-response-example-description %} Player statistics successfully retrieved. {% endapi-method-response-example-description %}
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+Player statistics successfully retrieved.
+{% endapi-method-response-example-description %}
 
 ```javascript
 {
@@ -122,24 +142,44 @@ It should be passed as a query parameter: `api-agent` {% endhint %}
     }
 }
 ```
-
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=404 %} {% api-method-response-example-description %} Could not find a user or a channel matching the parameters provided. {% endapi-method-response-example-description %}
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Could not find a user or a channel matching the parameters provided.
+{% endapi-method-response-example-description %}
 
-```
+```text
 Player or channel not found!
 ```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
-{% endapi-method-response-example %} {% endapi-method-response %} {% endapi-method-spec %} {% endapi-method %}
+{% api-method method="get" host="<https://duckhunt.api-d.com>" path="/web/duckstats.php" %}
+{% api-method-summary %}
+Get scores for a channel
+{% endapi-method-summary %}
 
-{% api-method method="get" host="<https://duckhunt.api-d.com>" path="/web/duckstats.php" %} {% api-method-summary %} Get scores for a channel {% endapi-method-summary %}
+{% api-method-description %}
+Get the whole scoreboard for a channel
+{% endapi-method-description %}
 
-{% api-method-description %} Get the whole scoreboard for a channel {% endapi-method-description %}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-query-parameters %}
+{% api-method-parameter name="cid" type="integer" required=true %}
+The channel ID you want the top scores for
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+{% endapi-method-request %}
 
-{% api-method-spec %} {% api-method-request %} {% api-method-query-parameters %} {% api-method-parameter name="cid" type="integer" required=true %} The channel ID you want the top scores for {% endapi-method-parameter %} {% endapi-method-query-parameters %} {% endapi-method-request %}
-
-{% api-method-response %} {% api-method-response-example httpCode=200 %} {% api-method-response-example-description %} This is the list of the players. It is ordered by the exp amount in the current implementation, but it might change in the future. {% endapi-method-response-example-description %}
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+This is the list of the players. It is ordered by the exp amount in the current implementation, but it might change in the future.
+{% endapi-method-response-example-description %}
 
 ```javascript
 {
@@ -230,13 +270,18 @@ Player or channel not found!
     "total_players_killed": 2345
 }
 ```
-
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=404 %} {% api-method-response-example-description %} The channel ID given is not stored in the database. {% endapi-method-response-example-description %}
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+The channel ID given is not stored in the database.
+{% endapi-method-response-example-description %}
 
-```
+```text
 Channel not found!
 ```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
-{% endapi-method-response-example %} {% endapi-method-response %} {% endapi-method-spec %} {% endapi-method %}
