@@ -2,7 +2,7 @@
 
 ## Achievements
 
-Achievements are stateless, meaning that you don't keep them for life but you rather have to meet a condition to get them. If you no longer meet the condition, then your achievement will disappear. 
+Achievements are stateless, meaning that you don't keep them for life but you rather have to meet a condition to get them. If you no longer meet the condition, then your achievement will disappear.
 
 Therefore, because of the clueless/scientist achievement pair, it is **not possible** to get all the achievements at the same time.
 
@@ -14,7 +14,7 @@ You need to have played on 7 different days
 
 ### Time Played II
 
-For this one, you need to have played on 30 different days. 
+For this one, you need to have played on 30 different days.
 
 ![Icon for Time Played II](../.gitbook/assets/time_played_2.svg)
 
@@ -80,7 +80,7 @@ Since there is a big number of ducks killed achivments, please refer to the foll
 {% endtab %}
 
 {% tab title="2000" %}
-![](../.gitbook/assets/ducks_killed_5%20%282%29.svg)
+![](../.gitbook/assets/ducks_killed_5.svg)
 {% endtab %}
 
 {% tab title="4000" %}

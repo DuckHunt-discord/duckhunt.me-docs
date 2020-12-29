@@ -35,7 +35,7 @@ Additionnaly, depending on the [settings](../bot-administration/edit-settings-se
 
 To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive ammo](store-items.md), which do 2 or 3 damage respectively.
 
-![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%284%29%20%281%29.png)
+![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%284%29.png)
 
 ### The MOADs
 
@@ -53,16 +53,16 @@ Children of the MOAD **do not count towards the `ducks_per_day`** parameter. Add
 
 ### A MOAD that spawns 2 super ducks
 
-A **MOAD** could spawn 2 super ducks.   
-The chances for a **MOAD** spawning, and then spawning 2 super ducks are __1% \* 5% \* 5% = 0.0025%,   
+A **MOAD** could spawn 2 super ducks.  
+The chances for a **MOAD** spawning, and then spawning 2 super ducks are \_\_1% \* 5% \* 5% = 0.0025%,  
 or a 1 in 40 **thousand** chance. \(using the standard settings.\)
 
 ### A MOAD that spawns 2 MOADs
 
-But the rarest has to be a **MOAD** that spawns 2 **MOAD**s.   
-the chance of a **MOAD** spawning, and then spawning another 2 **MOAD**s is  1% \* 1%\*  1%= 0.0001% ,   
-or a 1 in 1 **MILLION** chance. __\(using the standard settings\)  
-_You could get even more after this but it's more likely that you'd win the lottery at that point._
+But the rarest has to be a **MOAD** that spawns 2 **MOAD**s.  
+the chance of a **MOAD** spawning, and then spawning another 2 **MOAD**s is 1% \* 1%\* 1%= 0.0001% ,  
+or a 1 in 1 **MILLION** chance. _\_\(using the standard settings\)  
+\_You could get even more after this but it's more likely that you'd win the lottery at that point._
 
 ![2 MOADs spawning from 1 MOAD \(i changed the settings to allow the screenshot\)](../.gitbook/assets/image%20%285%29.png)
 
