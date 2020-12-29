@@ -1,14 +1,16 @@
-# Sobre o bot DuckHunt
+# The DuckHunt bot
 
-DuckHunt é um jogo divertido, feito em um BOT, que vai fazer de você um caçador de patos em qualquer canal do Discord. Avance níveis de experiência, sabote outros caçadores e guarde algum tempo para mais tarde estar neste jogo incrível. 
+DuckHunt is a fun game bot where you hunt ducks that appear in a Discord channel. You try to climb the ladder of the [leaderboard](players-guide/levels-and-experience.md), prank other hunters and make some foie gras in this amazing game.
 
-A wiki foi criada para o DuckHunt\#0550, um BOT do Discord desenvolvido pelo Eyesofcreeper\#0001. Aqui, você tem acesso a uma coleção de informações sobre o BOT, incluindo seus recursos \(comandos e configurações\) e como usá-los, além de informações sobre o servidor de suporte hospedado no Discord. 
+This wiki was created for DuckHunt\#0550, a Discord bot developed by Eyesofcreeper\#0001. This wiki will serve as a collection of the bot's information, including the bot's features, commands and [settings](bot-administration/edit-settings-settings-list.md), a guide for using the features, along with [information on the support server](support-server/how-to-join.md) hosted on Discord.
 
-### Uma breve descrição do BOT:
+## Brief description of the bot:
 
-> DuckHunt é um BOT para Discord, melhor categorizado como um BOT de jogos/entretenimento. Nele, você usa comandos para caçar 'patos' através do chat. Por exemplo, um comando típico dessa caça seria`!bang`.  
->   
-> O objetivo do DuckHunt é superar os demais caçadores do canal, acumulando XP através da caça de patos. Ainda assim, XP é usada como uma medida de ranqueamento e também como uma forma de moeda. Os caçadores podem usar seus pontos de XP para comprar itens. Os itens na loja são usados para adquirir vantagens para o momento da caça. Como esses itens custam pontos de XP, ao comprá-los você gasta os pontos que também são somados para colocá-lo em algum lugar do ranking de caçadores. Ainda assim, suas compras serão de alto custo-benefício se você estiver vigilante para aproveitá-las durante a caça.   
->   
-> Os patos que você caçar são gravados nos registros de caça do DuckHunt, que contabiliza o total de patos mortos num canal do Discord. Esses registros também são usados para calcular os dados e estatísticas individuais de cada caçador, incluindo o quão rápido um pato foi morto, quantos patos foram caçados por ele e mais.
+> DuckHunt is a Discord bot, best categorized as gaming/entertainment. You use commands to hunt '[ducks](players-guide/types-of-ducks.md)' through the chat. For example, a typical command would look like `dh!bang`.
+>
+> The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of experience \(exp\) through hunting ducks. However, exp doubles as a measure of rank, and as a form of currency. Exp can be spent buying [shop items](players-guide/store-items.md). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant.
+>
+> The ducks you hunt are recorded in the DuckHunt hunting log, which tracks the total amount of ducks hunted on the Discord channel. This log also provides the statistics of individual hunters, including how fast a duck was hunted, how many ducks were hunted, and more.
+
+If you want to invite the bot to your server, go to the [Quickstart](bot-administration/admin-quickstart.md) page to get the bot invite link and setup instructions.
 

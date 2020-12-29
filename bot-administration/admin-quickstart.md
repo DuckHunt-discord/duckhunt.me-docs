@@ -1,23 +1,21 @@
 ---
 description: >-
-  Instalar o DuckHunt no seu servidor é uma atividade fácil e pode ser feita em
-  questão de segundos com essas instruções.
+  Installing DuckHunt on your server is very easy and can be done in a matter of
+  seconds by following the instructions.
 ---
 
-# Início rápido
+# Quickstart
 
-Primeiramente, eu gostaria de agradecer ao [HostMyServers](https://www.hostmyservers.fr/) por oferecer um servidor para a hospedagem do DuckHunt. Nosso servidor é rápido, confiável e conta com um bom suporte! Valeu! 
+First, I'd like to thank [HostMyServers](https://www.hostmyservers.fr/) for providing me a server to host DuckHunt. It's fast, reliable and well-supported!
 
-Adicionar o BOT oficial do DuckHunt no seu servidor também será fácil e rápido. Basta seguir essas instruções: 
+Adding the official bot to your server is super easy! Follow these instructions:
 
-* Junte-se ao [servidor do discord ](https://discord.gg/2BksEkV)para pedir suporte se necessário; 
-* **Convite o BOT para o seu server clicando** [**aqui**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**;**
-* No canal de sua preferência, digite`dh!setup` e siga as instruções descritas pelo BOT;
-* **O BOT pedirá para você enviar o comando `dh!add_channel`no canal em que você pretende caçar os seus patos.** Use o comando no canal desejado e então estará pronto pra começar! 
+* Join [our discord server](https://discord.gg/2BksEkV) to get support if needed.
+* **Invite the bot to your server by clicking** [**here**](https://discordapp.com/api/oauth2/authorize?client_id=187636051135823872&permissions=70646849&scope=bot)**.**
+* In the channel you want to use, type `dh!setup` and follow the instructions given to you.
+* **You should be asked to type `dh!add_channel`in the channel where you want the game to start.** Do that and you'll be good to go.
 
 {% hint style="warning" %}
-Se você pretende [configurar settings](edit-settings-settings-list.md), you must do it in an **enabled channel**. However, parameters are server-wide, while scores are per-channel. If you want to edit settings in a staff channel, you can add it to the game temporarily, the run `dh!del_channel`to remove it once you edited settings.
+If you want to [configure settings](edit-settings-settings-list.md), you must do it in an **enabled channel**. However, parameters are server-wide, while scores are per-channel. If you want to edit settings in a staff channel, you can add it to the game temporarily, then run`dh!del_channel`to remove it once you've edited the settings.
 {% endhint %}
-
-
 

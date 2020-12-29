@@ -1,23 +1,23 @@
 # Table of contents
 
-* [Sobre o bot DuckHunt](README.md)
+* [The DuckHunt bot](README.md)
 
 ## Players guide
 
-* [Como jogar o DuckHunt](players-guide/players-quickstart.md)
-* [Comandos de Jogador](players-guide/player-commands.md)
-* [Itens do Shop](players-guide/store-items.md)
-* [Eventos](players-guide/events.md)
-* [Níveis e experiência](players-guide/levels-and-experience.md)
-* [Guia de conquistas](players-guide/achievments-guide.md)
-* [Tipos de patos](players-guide/types-of-ducks.md)
-* [Dicas](players-guide/tips.md)
+* [How to play DuckHunt](players-guide/players-quickstart.md)
+* [Player commands](players-guide/player-commands.md)
+* [Shop items](players-guide/store-items.md)
+* [Events](players-guide/events.md)
+* [Levels and experience](players-guide/levels-and-experience.md)
+* [Achievements guide](players-guide/achievments-guide.md)
+* [Types of ducks](players-guide/types-of-ducks.md)
+* [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
-* [Como contribuir com o bot](players-guide/how-to-contribute-to-the-bot.md)
+* [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)
 
-## Administração do BOT <a id="bot-administration"></a>
+## Bot administration
 
-* [Início rápido](bot-administration/admin-quickstart.md)
+* [Quickstart](bot-administration/admin-quickstart.md)
 * [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
 * [Admin commands](bot-administration/admin-commands.md)
 
@@ -49,8 +49,5 @@
 
 * [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
 * [Performance metrics](the-duckhunt-api/performance-metrics.md)
-
----
-
-* [How to edit this wiki](how-to-edit-this-wiki.md)
+* [How to edit this wiki](the-duckhunt-api/how-to-edit-this-wiki.md)
 

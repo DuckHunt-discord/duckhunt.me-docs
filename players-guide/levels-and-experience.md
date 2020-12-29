@@ -1,4 +1,4 @@
-# Níveis e experiência
+# Levels and experience
 
 | Level number | Minimum experience | Name | Accuracy | Reliability | Bullets | Magazines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -7,14 +7,14 @@
 | 2 | 20 | Noob | 56 | 86 | 6 | 2 |
 | 3 | 50 | Trainee | 57 | 87 | 6 | 2 |
 | 4 | 90 | Duck misser | 58 | 88 | 6 | 2 |
-| 5 | 140 | Member of the Comitee Against Ducks | 59 | 89 | 6 | 2 |
+| 5 | 140 | Member of the Committee Against Ducks | 59 | 89 | 6 | 2 |
 | 6 | 200 | Duck hater | 60 | 90 | 6 | 2 |
 | 7 | 270 | Duck pest | 65 | 93 | 4 | 3 |
 | 8 | 350 | Duck hassler | 67 | 93 | 4 | 3 |
 | 9 | 440 | Duck plucker | 69 | 93 | 4 | 3 |
 | 10 | 540 | Hunter | 71 | 94 | 4 | 3 |
 | 11 | 650 | Duck inside out turner | 73 | 94 | 4 | 3 |
-| 12 | 770 | Duck clobber | 73 | 94 | 4 | 3 |
+| 12 | 770 | Duck clobberer | 73 | 94 | 4 | 3 |
 | 13 | 900 | Duck chewer | 74 | 95 | 4 | 3 |
 | 14 | 1040 | Duck eater | 74 | 95 | 4 | 3 |
 | 15 | 1190 | Duck flattener | 75 | 95 | 4 | 3 |
@@ -32,7 +32,7 @@
 | 27 | 3770 | Duck wrecker | 91 | 99 | 1 | 5 |
 | 28 | 4050 | Duck impaler | 91 | 99 | 1 | 5 |
 | 29 | 4340 | Duck eviscerator | 92 | 99 | 1 | 5 |
-| 30 | 4640 | Ducks terror | 92 | 99 | 1 | 5 |
+| 30 | 4640 | Duck terror | 92 | 99 | 1 | 5 |
 | 31 | 4950 | Duck exploder | 93 | 99 | 1 | 5 |
 | 32 | 5270 | Duck destructor | 93 | 99 | 1 | 5 |
 | 33 | 5600 | Duck blaster | 94 | 99 | 1 | 5 |
