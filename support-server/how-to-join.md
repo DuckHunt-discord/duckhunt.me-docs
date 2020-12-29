@@ -1,35 +1,38 @@
-# How to join \(and rules\)
+# Comment rejoindre le serveur \(et quelques règles\)
 
-Join the DuckHunt support server at: [https://discord.gg/8WdXaZG](https://discord.gg/8WdXaZG)\*\*\*\*
+Rejoignez le serveur DuckHunt à l'adresse : [https://discord.gg/8WdXaZG](https://discord.gg/8WdXaZG)\*\*\*\*
 
 {% hint style="danger" %}
-## **Discord guidelines are enforced on the server.**
+### **Les règles de Discord sont appliquées sur ce serveur.**
 
-We abide by the **standard discord rules**. Please refer to [https://discordapp.com/guidelines](https://discordapp.com/guidelines) for those.
+Nous suivons les  **règles standard de Discord** . Vous pouvez les trouver à l'adresse :  [https://discordapp.com/guidelines](https://discordapp.com/guidelines) 
 {% endhint %}
 
-Additionally, the following rules apply:
+De plus, les règles suivantes s'appliquent : 
 
-1. When requesting support, please try to show your research, what you tried and what you want exactly.
-2. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
-3. Don't post an invite link, or any other advertisement, except on the request from a moderator.
-4. Don't spam or disturb normal conversation flow.
-5. Avoid pinging multiple people. If you ping @Moderators, you **MUST** have a good reason to do so. 
-6. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 years olds.
-7. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
-8. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead
+1. Quand vous demandez de l'aide, essayez de montrer que vous avez cherché, ce que vous avez essayé, et de dire ce que vous voulez exactement. 
+2. N'utilisez pas les salons d'assistance pour bavarder. Posez votre question, et attendez la réponse.
+3. Ne postez ni invitation, ni publicité sans la demande d'un modérateur. 
+4. Ne spammez pas et ne dérangez pas les conversations normales.
+5. Évitez de notifier plusieurs personnes. Pour notifier les @Moderators, vous **DEVEZ** avoir une bonne raison.  
+6. Tout contenu dérangeant \(NSFW, même seulement suggéré\) n'est pas autorisé. Tout ce qui est posté doit être sans danger pour les plus de 13 ans. 
+7. Les surnoms ne doivent pas être insultants ni contenir de caractères spéciaux pour vous faire apparaître en haut de la liste. Si vous demandez de l'aide, assurez-vous de pouvoir être mentionné facilement. 
+8. N'envoyez pas trop de mêmes dans les salons généraux. Il y a \#glorieux-memes-de-france pour ça.
+9. N'envoyez pas de messages privées aux membres du serveur sans accord préalable de leur part. Ca inclus le staff, ne venez pas demander de l'aide en MP si cela nous vous a pas été demandé précédemment.
+
+
 
 {% hint style="warning" %}
-Remember, the mods and admins are always right. If they tell you that something is not allowed, don't complain.
+N'oubliez pas, règle n°1 : les modérateurs et les administrateurs ont toujours raison. S'ils vous disent que quelque chose est interdit, ne vous plaignez pas.
 {% endhint %}
 
-We are open about how we moderate the server. A full, uncensored moderation log \(that contains every action a moderator may do on the server\), is viewable by anybody on the \#mod-log channel or on the [GetBeaned web interface](https://getbeaned.me/guilds/195260081036591104).
+Nous sommes ouverts au sujet de la modération du serveur. Un rapport complet, non censuré, qui contient toutes les actions effectuées par les modérateurs sur le serveur, est accessible sur le canal \#mod-log, ou via l'[interface web de GetBeaned](https://getbeaned.me/guilds/195260081036591104).
 
 {% hint style="info" %}
-If you were acted on by the thresholds enforcer, the following paragraph does not apply to you. Please appeal directly to **Eyesofcreeper\#0001**.
+Si vous avez été sanctionné par le _Treshold Enforcer_, alors le paragraphe suivant ne s'applique pas. Vous pouvez faire appel directement auprès de **Eyesofcreeper\#0001**.
 {% endhint %}
 
-If you feel you have been warned/kicked/muted/banned unfairly, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry. You might have to add the mod as a "friend" if you were banned. Alternatively, you can join the [GetBeaned support](https://discord.gg/gT5pdgP) server and DM the mod that way. **Please be respectful at all times.**
+Si vous avez été averti / éjecté / banni / rendu muet injustement, s'il vous plaît discutez-en avec le modérateur en question. GetBeaned devrait vous avoir envoyé un message lorsque c'est arrivé, mais juste au cas où, utilisez [ce lien](https://getbeaned.me/guilds/195260081036591104) pour aller chercher votre problème dans l'interface web.  Si vous avez été banni, vous pourriez avoir à ajouter le bot en ami pour cela. Sinon, vous pouvez rejoindre le serveur de support de GetBeaned et envoyer un message au modérateur à partir de là. **Restez toujours respectueux**. 
 
-_\*\*_If you still can't agree with the responsible moderator, you may appeal to Eyesofcreeper\#0001, by creating a 3-way DM with the responsible moderator and Eyesofcreeper\#0001. We'll try to figure out a solution together.
+Si vous n'êtes toujours pas d'accord, vous pouvez demander à Eyesofcreeper\#0001, en créant un message privé à trois avec le modérateur concerné. Nous essayerons de trouver une solution ensemble. 
 

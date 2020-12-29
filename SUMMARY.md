@@ -1,34 +1,34 @@
 # Table of contents
 
-* [Sobre o bot DuckHunt](README.md)
+* [Le bot DuckHunt](README.md)
 
-## Players guide
+## Guide du joueur <a id="players-guide"></a>
 
-* [Como jogar o DuckHunt](players-guide/players-quickstart.md)
-* [Comandos de Jogador](players-guide/player-commands.md)
-* [Itens do Shop](players-guide/store-items.md)
-* [Eventos](players-guide/events.md)
-* [Níveis e experiência](players-guide/levels-and-experience.md)
-* [Guia de conquistas](players-guide/achievments-guide.md)
-* [Tipos de patos](players-guide/types-of-ducks.md)
-* [Dicas](players-guide/tips.md)
+* [Comment jouer à DuckHunt](players-guide/how-to-play-with-duckhunt.md)
+* [Commandes pour jouer](players-guide/player-commands.md)
+* [Articles du magasin](players-guide/store-items.md)
+* [Evénements](players-guide/events.md)
+* [Niveaux et expérience](players-guide/levels-and-experience.md)
+* [Guide des succès](players-guide/achievments-guide.md)
+* [Types de canards](players-guide/types-of-ducks.md)
+* [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
-* [Como contribuir com o bot](players-guide/how-to-contribute-to-the-bot.md)
+* [Comment contribuer au bot](players-guide/how-to-contribute-to-the-bot.md)
 
-## Administração do BOT <a id="bot-administration"></a>
+## Administration du bot <a id="bot-administration"></a>
 
-* [Início rápido](bot-administration/admin-quickstart.md)
-* [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
-* [Admin commands](bot-administration/admin-commands.md)
+* [Installer DuckHunt](bot-administration/install-duckhunt.md)
+* [Changer les paramètres / Liste des paramètres](bot-administration/edit-settings-settings-list.md)
+* [Commandes administrateurs](bot-administration/admin-commands.md)
 
-## Support server
+## Serveur de support <a id="support-server"></a>
 
-* [How to join \(and rules\)](support-server/how-to-join.md)
-* [Useful commands](support-server/useful-commands.md)
-* [List of roles](support-server/list-of-roles.md)
-* [How to become a mod](support-server/how-to-become-a-mod.md)
+* [Comment rejoindre le serveur \(et quelques règles\)](support-server/how-to-join.md)
+* [Quelques commandes utiles](support-server/useful-commands.md)
+* [Liste des rôles](support-server/list-of-roles.md)
+* [Comment devenir modérateur](support-server/how-to-become-a-mod.md)
 
-## Support Server Lore
+## Serveur de support - Lore <a id="support-server-lore"></a>
 
 * [Server History \(2016\)](support-server-lore/server-history-2016.md)
 * [Server History \(2017\)](support-server-lore/server-history-2017.md)
@@ -40,7 +40,7 @@
   * [Miscellaneous Characters](support-server-lore/side-characters/miscellaneous-characters.md)
 * [Characters we killed off](support-server-lore/characters-we-killed-off.md)
 * [A list of all the Furrys in Eyes' Attic](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
-* [Meeeeeeeeh role](support-server-lore/what-is-the-meeeeeeh-role.md)
+* [Role meeeeeeeeh](support-server-lore/what-is-the-meeeeeeh-role.md)
 * [Server events](support-server-lore/server-events/README.md)
   * ["Clear Your Cache" Awareness](support-server-lore/server-events/clear-your-cache-awareness.md)
   * [Chain Texts](support-server-lore/server-events/chain-texts.md)
@@ -52,5 +52,5 @@
 
 ---
 
-* [How to edit this wiki](how-to-edit-this-wiki.md)
+* [Comment éditer ce wiki](how-to-edit-this-wiki.md)
 

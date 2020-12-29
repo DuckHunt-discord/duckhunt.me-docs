@@ -1,18 +1,20 @@
-# Comandos de Jogador
+# Commandes pour jouer
 
-| Command | Description |
+
+
+| Commande | Description |
 | :--- | :--- |
-| dh!bang | Command used to shoot a duck. Don’t forget that sometimes, mistakes happen and you can miss the ducks… Or worse. |
-| dh!reload | Reloads or unjams your weapon. You must have chargers left if you want to reload. They are given back for free everyday \(check dh!freetime command\), but you can also buy them in the shop. |
-| dh!help | Sends you the help message. |
-| dh!wiki | Sends the link to this website. |
-| dh!stats \[player\] | Gets your or another player hunting statistics. |
-| dh!shop &lt;item number&gt; \[argument\] | Command used to buy things from the shop. For more information, see the Shop Items page. You can also use the dh!shop list command to show the link to the [shop items](store-items.md) page. |
-| dh!top | See the best players on the channel. |
-| dh!send\_exp &lt;player&gt; &lt;amount&gt; | Sends some of your experience points to another player on the game. A tax can be applied to the transfer, depending on the server settings. |
-| dh!freetime | This command will display the time left to wait for the free giveback of chargers and weapons. |
-| dh!settings list | Lists every possible [setting](../bot-administration/edit-settings-settings-list.md) that can be modified. |
-| dh!settings modified | See [settings](../bot-administration/edit-settings-settings-list.md) that were modified and their new value. |
-| dh!ping | Pings the bot to see if it is online. |
-| dh!uptime | Shows the bot’s uptime. |
+| dh!bang | Commande pour tirer sur un canard. N'oubliez pas que des erreurs peuvent arriver, vous pouvez louper le canard... Ou pire. |
+| dh!reload | Recharge ou décoince votre arme. Vous devez avoir des chargeurs si vous voulez recharger. Votre inventaire est rempli gratuitement tous les jours \(voir la commande `dh!freetime`\), et vous pouvez aussi en acheter dans la boutique. |
+| dh!help | Vous envoie le message d'aide. |
+| dh!wiki | Envoie le lien vers ce site. |
+| dh!stats \[joueur\] | Donne vos statistiques de chasse ou celles d'un autre joueur. |
+| dh!shop &lt;objet&gt; \[détails\] | Commande utilisée pour acheter des objets dans le magasin. Pour plus d'informations, voir la page "[Articles du magasin](store-items.md)". Vous pouvez aussi utiliser `dh!shop list` pour afficher cette page depuis Discord. |
+| dh!top | Voir les meilleurs joueurs du salon. |
+| dh!send\_exp &lt;joueur&gt; &lt;quantité&gt; | Envoyer vos points d'expérience à un autre joueur. Une taxe peut être appliquée au transfert, en fonction des paramètres du serveur. |
+| dh!freetime | Affiche le temps restant à attendre pour que vos chargeurs et votre arme vous soient redonnés. |
+| dh!settings list | Affiche tout les [paramètres](../bot-administration/edit-settings-settings-list.md) qui peuvent être modifiés. |
+| dh!settings modified | Voir les [paramètres](../bot-administration/edit-settings-settings-list.md) qui ont étés modifiés et leur nouvelle valeur. |
+| dh!ping | Voir si le bot est en ligne. |
+| dh!uptime | Affiche depuis combien de temps le bot est connecté. |
 

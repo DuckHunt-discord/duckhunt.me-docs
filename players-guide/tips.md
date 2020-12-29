@@ -1,45 +1,43 @@
-# Dicas
+# Tips
 
-### **To get good at duckhunt you need to be able to manage your experience wisely.**
+### Pour devenir un bon chasseur, vous devez être capables de gérer votre expérience.
 
 {% hint style="warning" %}
-**Watch the freetime!  
-I**f the freetime timer expires, you get your gun \(if it's confiscated\) and some ammo clips for free. use \(`dhfreetime`\) to see when the freetime happens.
+**Attention au** _**freetime**_ **!**   
+Si vous atteignez l'heure du _freetime_, vous récupérez votre arme si elle était confisquée, et quelques chargeurs supplémentaires. Utilisez `dh!freetime` pour avoir le temps restant avant le _freetime_.
 {% endhint %}
 
 {% hint style="warning" %}
-**Keep a slot open for new clips!**  
-You can find clips in bushes after killing a duck sometimes. -if you have max clips it gets deleted, and that wastes 13 experience**-**!
+**Gardez de la place dans votre inventaire pour les chargeurs trouvés !**  
+Vous pouvez parfois trouver des munitions dans les buissons après avoir tué un canard. Attention : si vous n'avez pas de place dans votre inventaire, ils sont supprimés et vous gaspillez 13 points d'expérience !
 {% endhint %}
 
 {% hint style="info" %}
-**Remember spawn order**
+**N'oubliez pas l'ordre d'apparition**
 
-Ducks either get shot, or they leave, in the same order in which they spawn/
+Les canards se font tirer dessus, ou bien partent, dans l'ordre dans lequel ils sont arrivés. 
 {% endhint %}
 
-### **Early game**
+### **Les débuts**
 
-In the beginning you start with a bad gun with alot of bullets per clip and abysmal accuracy. At this moment buying clips is better than buying bullets. I recommend getting a 4-leaf clover \(`dhbuy 10`\) if you have more than 20 experience points and then just shoot any duck you can.  
-I also recommend buying a sight for the early game \(`dhbuy 7`\) to minimize missed shots and chances for accidents.  
-You could buy grease to stop jamming, but I reckon it's a waste of XP.  
-You could get a infrared detector to help save bullets and -2 XP, but i'd just use `dhhug` to see if there is a duck when I'm not sure.
+Au début du jeu vous commencez avec une arme de mauvaise qualité, avec beaucoup de balles par chargeurs, et une précision... mauvaise. Très mauvaise. À ce moment, il est plus rentable d'acheter des chargeurs que des balles. Je recommande d'acheter un trèfle à quatre feuilles \(`dh!buy` 10 ou `dh!buy clover`\) si vous avez plus de 20 points d’expérience, et de tuer autant de canards que possible. L'achat d'un viseur est aussi recommandé \(`dh!buy 7`\) pour minimiser les risques d'accidents.  
+Vous pouvez utiliser de la graisse pour limiter l'enrayement de votre arme, mais je pense que c'est un gaspillage d'XP. Vous pouvez aussi acheter un détecteur infrarouge pour éviter de gaspiller les balles et perdre 2 XP pour un tir dans le vide, mais à votre place, j'utiliserais juste `dh!hug` pour vérifier s'il y a des canards.
 
-A silencer is really useful early game, since you miss loads of shots and these can still scare ducks.
+Un silencieux est très utile en début de jeu, puisque vous manquez beaucoup de tirs qui peuvent effrayer les canards.
 
-### **Late game**
+### En fin de jeu
 
-Eventually you'll get a fancy sniper rifle with only 1 bullet per clip. at this point in the game buying bullets is better than buying clips. Also a 4-leaf clover \(`dhbuy 10`\) is necessary to get on top, and a infrared detector \(`dhbuy 8`\) is really recommended to avoid waste.  
-You can always drop 4 or 5 bread pieces on a channel and hope it lures more ducks.  
-\(`dhbuy 21`\)
+Au bout d'un moment, vous obtenez un super fusil de sniper avec une seule balle par chargeur. À partir de là, il est plus avantageux d'acheter les balles que les chargeurs. Un trèfle à quatre feuilles  \(`dhbuy 10`\) est nécessaire pour en arriver à ce point, et un détecteur infrarouge \(`dhbuy 8`\) est vraiment recommandé pour éviter le gaspillage.
 
-Avoid buying some items, most are not worth it at this point. Grease, Silencers, ...  
-Most of the anti-sabotage items, such as the weapon cleaning, are useless and should not be brought.
+Vous pouvez toujours laisser quelques morceaux de pain dans un canal, et espérer attirer plus de canards. \(`dhbuy 21`\)
 
-**Never ever buy the life insurance.** It's simply not worth it.
+Certains objets ne sont tout simplement pas utiles à ce stade, évitez de les acheter \(Graisse, silencieux...\).  
+La plupart des objets anti-sabotage, par exemple le nettoyage d'arme, sont inutiles et ne devraient pas du tout être achetés.
 
-## Extra tips
+**N'achetez jamais l'assurance-vie**. Elle n'en vaut vraiment pas la peine.
 
-You can usually tell when there's no duck by looking for the last duck spawned, and for the last message of "You killed the duck in ?? seconds"... But don't assume that the last duck killing is always for the last duck spawned-- convert the seconds to minutes, subtract from time of that message, and compare to previous message timestamps, to see which duck it might have been.  
-If you're still not sure if there's a duck left in the channel, use dh!hug instead of dh!bang, so you don't waste a bullet.
+## Quelques conseils
+
+Vous pouvez en général savoir s'il y a des canards en regardant le dernier canard apparu, le dernier message "vous avez tué le canard en \*\*\* secondes"... Mais ne supposez pas que le dernier canard arrivé est aussi le dernier tué, comparez le nombre de secondes et la date du message du canard, pour savoir quel canard est mort.   
+Si vous n'arrivez pas à en être sur, utilisez `dh!hug` au lieu de `d!bang` pour ne pas gaspiller de balles.
 
