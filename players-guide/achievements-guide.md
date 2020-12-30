@@ -21,30 +21,33 @@ typing [`dh!bang <mention>`](https://duckhunt.me/commands?command=bang)
 
 > Spend more than 2000 experience.
 
-**How to obtain:** Spend experience in the [shop](https://duckhunt.me/commands?command=shop)
-. [Homing bullets](https://duckhunt.me/commands?command=shop%20homing) is the most expensive item you can find in there,
+**How to obtain:** Spend experience in the [shop](https://duckhunt.me/commands?command=shop).
+[Homing bullets](https://duckhunt.me/commands?command=shop%20homing) is the most expensive item you can find in there,
 but also very useless.
 
 ### A hunter joined the chat
 
 > Play for more than a week.
 
-**How to obtain:** Type a hunting command ([bang](https://duckhunt.me/commands?command=bang)
-, [reload](https://duckhunt.me/commands?command=reload)) on 7 different days.
+**How to obtain:** Type a hunting command 
+([bang](https://duckhunt.me/commands?command=bang), [reload](https://duckhunt.me/commands?command=reload)) on 7
+different days.
 
 ### We are starting to know each other
 
 > Play for more than a month.
 
-**How to obtain:** Type a hunting command ([bang](https://duckhunt.me/commands?command=bang)
-, [reload](https://duckhunt.me/commands?command=reload)) on 30 different days.
+**How to obtain:** Type a hunting command
+([bang](https://duckhunt.me/commands?command=bang), [reload](https://duckhunt.me/commands?command=reload)) on 30
+different days.
 
 ### Wanna be friends ?
 
 > Play for more than a year.
 
-**How to obtain:** Type a hunting command ([bang](https://duckhunt.me/commands?command=bang)
-, [reload](https://duckhunt.me/commands?command=reload)) on 365 different days.
+**How to obtain:** Type a hunting command 
+([bang](https://duckhunt.me/commands?command=bang), [reload](https://duckhunt.me/commands?command=reload)) on 365 
+different days.
 
 ### I don't want your damn bullets!
 
