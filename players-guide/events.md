@@ -5,7 +5,7 @@ more fun. Every hour, there is a 10% chance an event will be applied \(lasting a
 is chosen from the list of events with equal probability. This means that there should be approximately 2 events per
 day.
 
-{% hint style="success" %} To display the current event, you can use the `dh!event`command. {% endhint %}
+{% hint style="success" %} To display the current event, you can use the `dh!event` command. {% endhint %}
 
 ## Everything is Calm
 
