@@ -31,15 +31,15 @@ The chance that a super duck will appear is doubled.
 > The safety class was canceled. Beware of shooting other hunters!
 
 You are twice as likely to kill another hunter. This is one of the worst events, so don't forget
-to [buy a sight](https://duckhunt.me/commands?command=shop%20sight) to reduce misses, and/or
-a [licence to kill](https://duckhunt.me/commands?command=shop%20licence) to reduce penalties.
+to [buy a sight](https://duckhunt.me/commands/shop/sight) to reduce misses, and/or
+a [licence to kill](https://duckhunt.me/commands/shop/licence) to reduce penalties.
 
 ## Connection Problems
 
 > Ducks can't find your computer due to connection problems, and there will be fewer of them until it's repaired.
 
 There is a 10% chance a duck that should have spawned gets canceled. Ducks that don't spawn still count towards
-the [ducks per day](https://duckhunt.me/commands?command=settings%20ducks_per_day) [setting](../bot-administration/edit-settings-settings-list.md)
+the [ducks per day](https://duckhunt.me/commands/settings/ducks_per_day) [setting](../bot-administration/edit-settings-settings-list.md)
 
 ## A New Florist in Town
 
@@ -60,7 +60,7 @@ Super Ducks get 4 more lives.
 > Bullets are deflected by strong wind
 
 Hunters accuracy is reduced to 3/4 their current accuracy, with a minimum of 60%. If you can, use
-a [sight](https://duckhunt.me/commands?command=shop%20sight).
+a [sight](https://duckhunt.me/commands/shop/sight).
 
 ## UN Treaty
 

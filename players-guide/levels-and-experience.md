@@ -6,7 +6,7 @@ other one is the prestige system.
 Your current level change based on how much experience you currently have : buying something in the shop might make you
 level down, while killing ducks will make you level up.
 
-However, the prestige system is only activated when [you decide](https://duckhunt.me/commands?command=prestige), and you
+However, the prestige system is only activated when [you decide](https://duckhunt.me/commands/prestige), and you
 can't lose a prestige level. Activating prestige will restart the game for you, in exchange for a bonus that will help
 you progress faster in your next run.
 
@@ -74,7 +74,7 @@ it in mud for a week.
 ## Prestige levels
 
 To level up with prestige, you'll need to have at least 11111 experience points, and
-type [`dh!prestige confirm`](https://duckhunt.me/commands?command=prestige%20confirm). There is no going back.
+type [`dh!prestige confirm`](https://duckhunt.me/commands/prestige/confirm). There is no going back.
 
 When prestiging, you'll keep some of your achievements, and 10% of your experience above 11111. **The rest of your data
 will be deleted**.
@@ -92,18 +92,18 @@ The first time you prestige, you'll get **Unbreakable sunglasses**. You won't ne
 
 ### Level 2
 
-You'll be able to choose the color of your [coat](https://duckhunt.me/commands?command=shop%20coat).
+You'll be able to choose the color of your [coat](https://duckhunt.me/commands/shop/coat).
 
 ### Level 3
 
-Get access to the [`dh!prestige daily`](https://duckhunt.me/commands?command=prestige%20daily) command. This will give
+Get access to the [`dh!prestige daily`](https://duckhunt.me/commands/prestige/daily) command. This will give
 you free experience every day you play.
 
 The experience awarded by the command is random, but will get higher the higher your prestige level goes.
 
 ### Level 4
 
-You'll get access to [icelandic water](https://duckhunt.me/commands?command=shop%20bucket), that will wet your target
+You'll get access to [icelandic water](https://duckhunt.me/commands/shop/bucket), that will wet your target
 for longer.
 
 ### Level 5
@@ -117,7 +117,7 @@ Your silencers are now **military grade**. They last twice as long, for the same
 ### Level 7
 
 You get to be part of the super secret DuckHunt secret service. by joining, you'll get a complimentary, permanent,
-[licence to kill](https://duckhunt.me/commands?command=shop%20licence)
+[licence to kill](https://duckhunt.me/commands/shop/licence)
 
 ### Level 8
 
@@ -126,6 +126,6 @@ Your ammo packs get bigger, allowing you to load twice as many bullets in your g
 ### Level 9 and above
 
 Higher levels increase the amount of experience you can get from
-the [`dh!prestige daily`](https://duckhunt.me/commands?command=prestige%20daily) command. If you have a great idea for a
+the [`dh!prestige daily`](https://duckhunt.me/commands/prestige/daily) command. If you have a great idea for a
 new prestige powerup, please tell us on [the support server](https://discordapp.com/invite/2BksEkV)
 

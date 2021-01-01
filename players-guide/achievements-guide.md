@@ -15,14 +15,14 @@ This guide will help you unlock all the achievements on your channel. Beware, th
 > Kill another hunter.
 
 **How to obtain:** You can kill a hunter willingly by
-typing [`dh!bang <mention>`](https://duckhunt.me/commands?command=bang)
+typing [`dh!bang <mention>`](https://duckhunt.me/commands/bang)
 
 ### Big spender
 
 > Spend more than 2000 experience.
 
-**How to obtain:** Spend experience in the [shop](https://duckhunt.me/commands?command=shop).
-[Homing bullets](https://duckhunt.me/commands?command=shop%20homing) is the most expensive item you can find in there,
+**How to obtain:** Spend experience in the [shop](https://duckhunt.me/commands/shop).
+[Homing bullets](https://duckhunt.me/commands/shop/homing) is the most expensive item you can find in there,
 but also very useless.
 
 ### A hunter joined the chat
@@ -30,7 +30,7 @@ but also very useless.
 > Play for more than a week.
 
 **How to obtain:** Type a hunting command 
-([bang](https://duckhunt.me/commands?command=bang), [reload](https://duckhunt.me/commands?command=reload)) on 7
+([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)) on 7
 different days.
 
 ### We are starting to know each other
@@ -38,7 +38,7 @@ different days.
 > Play for more than a month.
 
 **How to obtain:** Type a hunting command
-([bang](https://duckhunt.me/commands?command=bang), [reload](https://duckhunt.me/commands?command=reload)) on 30
+([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)) on 30
 different days.
 
 ### Wanna be friends ?
@@ -46,7 +46,7 @@ different days.
 > Play for more than a year.
 
 **How to obtain:** Type a hunting command 
-([bang](https://duckhunt.me/commands?command=bang), [reload](https://duckhunt.me/commands?command=reload)) on 365 
+([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)) on 365 
 different days.
 
 ### I don't want your damn bullets!
@@ -74,13 +74,13 @@ find a bullet in the bushes.
 > Eat some brains and come back to life.
 
 **How to obtain:** Get someone to kill you (accidentally or not),
-and [revive](https://duckhunt.me/commands?command=revive) yourself
+and [revive](https://duckhunt.me/commands/revive) yourself
 
 ### Sentry gun
 
 > Use more than 1000 bullets.
 
-**How to obtain:** You can either play for a while, or just spam the [bang](https://duckhunt.me/commands?command=bang)
+**How to obtain:** You can either play for a while, or just spam the [bang](https://duckhunt.me/commands/bang)
 command, since wasted bullets count.
 
 ### You monster
@@ -93,7 +93,7 @@ command, since wasted bullets count.
 
 > Give at least 30 exp to an hunter that lost his gun.
 
-**How to obtain:** Use the [send_exp](https://duckhunt.me/commands?command=send_exp) command to send some of your
+**How to obtain:** Use the [send_exp](https://duckhunt.me/commands/send_exp) command to send some of your
 experience to another hunter that lost his gun. The amount is counted before taxes, so `dh!send_exp <@user> 30` should
 work just fine.
 
@@ -101,7 +101,7 @@ work just fine.
 
 > Shoot at your own mechanical duck.
 
-**How to obtain:** Buy a [mechanical duck](https://duckhunt.me/commands?command=shop%20mechanical), and kill it.
+**How to obtain:** Buy a [mechanical duck](https://duckhunt.me/commands/shop/mechanical), and kill it.
 
 ### An ounce of prevention is worth a pound of cure
 
