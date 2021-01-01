@@ -6,8 +6,6 @@ description: Ahuman took it upon himself to relay Eyes an important message..
 
 Eyes and Ahuman shared 23 mutual servers. When Ahuman noticed that the number had changed to 22, He discovered Eyes' grave sin.
 
-![Eyes went on a rant.](../../.gitbook/assets/20201014_114218.jpg)
-
 Eyes had left the Discord server for Mario Royale, a browser game. Ahuman realized that since he left the server he will no longer get important pings regarding game updates, and he won't know when to clear his cache \(which is required to do when the game has an update\). Knowing this, Ahuman took it upon himself to make sure Eyes was aware of the important updates.
 
 This was, if anything, a parody of Myynd\#6484, who would DM Ahuman about random things, sometimes updates for roblox games or when exploits were found in roblox games. One time he told Ahuman that his PC was 13 Celsius. Without that information, Ahuman could have assumed his PC was much warmer....

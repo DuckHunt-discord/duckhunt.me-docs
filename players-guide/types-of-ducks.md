@@ -17,15 +17,11 @@ More details will be provided below the following quick-reference table.
 
 The regular duck is the duck you'll find most frequently. It has only one HP and can be killed in one shot. By default, this duck will award you 10 exp.
 
-![Some regular ducks in their natural habitat. The messages are randomised for them.](../.gitbook/assets/2020-02-24.21-52-28.png)
-
 ## The babies
 
 Babies aren't grown up yet, so you shouldn't kill them in order to preserve later generations of ducks. Show them some love with the `!hug` command instead.
 
 Babies have special emotes, so you can recognise them easily. Also, they haven't learned to speak yet, so they always say **COIN!**
-
-![Some baby ducks in a discord channel. Don&apos;t kill them!](../.gitbook/assets/2020-02-24.21-55-37.png)
 
 ## The super ducks
 
@@ -35,8 +31,6 @@ Additionally, depending on the [settings](../bot-administration/edit-settings-se
 
 To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive ammo](store-items.md), which do 2x or 3x damage respectively.
 
-![Some super ducks. They look like regulars when they spawn, but it takes multiple shots to kill them.](../.gitbook/assets/image%20%284%29%20%281%29.png)
-
 ## The MOADs
 
 **MOAD** stands for **M**other **O**f **A**ll **D**ucks, and they spawn 2 ducks when killed.  
@@ -44,10 +38,6 @@ To kill super ducks faster you can use [AP \(Armor Piercing\) ammo or explosive 
  _It is said that **MOAD**s always have multiple HP, like super ducks._
 
 Children of MOAD's **do not count towards the `ducks_per_day`** parameter, additionally, they may be of any type.
-
-![Some MOADs spawned. When killed, you&#x2019;ll see two new ducks, the children.](../.gitbook/assets/image%20%286%29.png)
-
-![Here a MOAD spawned a super duck, which is pretty rare.](../.gitbook/assets/image%20%282%29.png)
 
 ## The rarest duck spawning occurrences.
 
@@ -63,8 +53,6 @@ But the rarest has to be a **MOAD** that spawns 2 **MOAD**s.
  the chance of a **MOAD** spawning, and then spawning another 2 **MOAD**s is 1% _1%_ 1%= 0.0001% ,  
  or a 1 in 1 **MILLION** chance. _\_\(using the standard settings\)_  
  _\_You could get even more after this but it's more likely that you'd win the lottery at that point._
-
-![2 MOADs spawning from 1 MOAD \(i changed the settings to allow the screenshot\)](../.gitbook/assets/image%20%285%29.png)
 
 ### Even more rare?
 
