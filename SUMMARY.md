@@ -27,6 +27,7 @@
 
 ## Support Server Lore
 
+* [Why do we hunt ducks ?](support-server-lore/why-do-we-hunt-ducks.md)
 * [Main Characters \(In order of role hierarchy\)](support-server-lore/main-characters-in-order-of-role-hierarchy.md)
 * [A list of all the Furrys in Eyes' Attic](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
 
