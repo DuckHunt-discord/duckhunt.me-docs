@@ -4,6 +4,8 @@ Many ducks can spawn on your channel, and it's your responsibility to recognise 
 
 ## Normal ducks
 
+![The normal duck](../.gitbook/assets/normal_duck_calgeka.png)
+
 This duck is the "basic" duck, the one that you'll encounter the most. Killing him is easy : just type `dh!bang`, and it should die immediately \(if you can shoot, and if you don't miss your shot\).
 
 ### Golden
@@ -20,11 +22,15 @@ This duck is just like a normal duck, but if you leave it alone for too long, in
 
 ### Ghost
 
-This duck does _not_ send a spawn message. You must be vigilent if you kill one : the duck you intended to kill isn't dead yet.
+![Can you see it ? It&apos;s the ghost duck !](../.gitbook/assets/ghost_duck2_calgeka.png)
+
+This duck does _not_ send a spawn message. You must be vigilant if you kill one : the duck you intended to kill isn't dead yet.
 
 The best way to find them is by hugging the air, since this won't waste bullets.
 
 ### Prof \(Pr. Duck.\)
+
+![Big brain time, with the Pr. Duck.](../.gitbook/assets/prof_duck_calgeka.png)
 
 The professor requires you to do some math to kill it. Answer the question in the spawn message. To kill it, use the `dh!pan <number>` command. For example, if you see a prof spawning with
 
@@ -34,11 +40,15 @@ You must use `dh!pan 107` to kill it. Wrong answers **WILL** waste your bullet.
 
 ### Baby
 
+![Piou ? He&apos;s so cute !](../.gitbook/assets/baby_duck_calgeka.png)
+
 Do **not** shoot at this duck, doing so would cost you a normal duck worth of experience \(10 exp\), and your bullet\(s\)!
 
 Instead, you must [`dh!hug`](https://duckhunt.me/commands/hug) the duck to make it leave. Hugging ducks don't waste bullets.
 
 ### Mechanical
+
+![BZAAAAK, I&apos;m the mechanical duck!](../.gitbook/assets/mechanical_duck_calgeka.png)
 
 Technically, a mechanical duck is not a duck, and shouldn't be shot at. They can sometimes spawn from the wild, but they are most often [bought by other hunters in the shop](https://duckhunt.me/commands/shop/mechanical).
 
@@ -48,11 +58,15 @@ If another duck spawns after a mechanical duck, the mechanical will leave silent
 
 ## Super ducks
 
+![I am strong](../.gitbook/assets/super_duck_calgeka.png)
+
 Super ducks are ducks with multiple lives. Killing them may require multiple shots, or at least [Armor Piercing](https://duckhunt.me/commands/shop/ap) or [explosive](https://duckhunt.me/commands/shop/explosive) ammo.
 
 However, with such a big number of lives, killing them will [get you more experience](https://duckhunt.me/docs/bot-administration/edit-settings-settings-list#experience-related-settings) than usual.
 
 ### Armored
+
+![Bullets can&apos;t penetrate my armor... Or can they ?](../.gitbook/assets/armored_duck_calgeka.png)
 
 This duck will resist 1 dmg on almost \(90%\) every shot. To kill him, you should have at least some [AP](https://duckhunt.me/commands/shop/ap) ammo equipped.
 
@@ -61,6 +75,8 @@ During the [UN Treaty event](https://duckhunt.me/docs/players-guide/events#un-tr
 You can see on your personal Hunter Page \(`dh!me`\) the amont of shots an armored duck resisted.
 
 ### MOAD \(Mother Of All Ducks\)
+
+![You&apos;ll never kill my children](../.gitbook/assets/mother_of_all_ducks_calgeka.png)
 
 Mothers are normal Super ducks that will spawn two new, random ducks once killed. The spawned ducks doesn't count towards the [ducks\_per\_day setting](http://127.0.0.1:8000/commands/settings/ducks_per_day), and may be of any type.
 
