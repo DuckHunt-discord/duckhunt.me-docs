@@ -20,23 +20,10 @@ Sure you can! Head to [GitHub](https://github.com/DuckHunt-discord) for it!
 
 The projet is separated in a few repositories :
 
-* The [documentation](https://github.com/DuckHunt-discord/duckhunt.me-docs) you are currently reading \(edits links for
-
-  specific pages are also available on the sidebar\). Written in markdown, very easy to edit for beginners and experts
-
-  alike.
-
-* The [bot](https://github.com/DuckHunt-discord/DHV4) itself, with all the [commands](https://duckhunt.me/commands), and
-
-  the [API](../the-duckhunt-api/channels-scores-and-stats.md). Written in Python, using the discord.py library.
-
-* The [website](https://github.com/DuckHunt-discord/DHV4_Web), used to format and display this documentation, but also
-
-  to render statistics pages. Written using Django, HTML&CSS, Jinja2, and a touch of JS.
-
-* The [docker config](https://github.com/DuckHunt-discord/DuckHunt_Docker), tying all of this together, and allowing for
-
-  an easy deployment of the bot.
+* The [documentation](https://github.com/DuckHunt-discord/duckhunt.me-docs) you are currently reading \(edits links for specific pages are also available on the sidebar\). Written in markdown, very easy to edit for beginners and experts alike.
+* The [bot](https://github.com/DuckHunt-discord/DHV4) itself, with all the [commands](https://duckhunt.me/commands), and the [API](../the-duckhunt-api/channels-scores-and-stats.md). Written in Python, using the discord.py library.
+* The [website](https://github.com/DuckHunt-discord/DHV4_Web), used to format and display this documentation, but also to render statistics pages. Written using Django, HTML&CSS, Jinja2, and a touch of JS.
+* The [docker config](https://github.com/DuckHunt-discord/DuckHunt_Docker), tying all of this together, and allowing for an easy deployment of the bot.
 
 ## I want to self-host DuckHunt/I want my own copy of DuckHunt. How do I do it?
 

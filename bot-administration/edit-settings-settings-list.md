@@ -81,9 +81,7 @@ We recommend the following values :
 
 * `dh!settings super_ducks_min_life 3` \(Don't set it lower than 2\)
 * `dh!settings super_ducks_max_life 9` \(Set it to 7 if your gameplay is not competitive\)
-* `dh!settings show_duck_lives False` \(Setting it to `True` would allow people to wait until the last possible moment
-
-  before shooting\)
+* `dh!settings show_duck_lives False` \(Setting it to `True` would allow people to wait until the last possible moment before shooting\)
 
 ### Night
 
