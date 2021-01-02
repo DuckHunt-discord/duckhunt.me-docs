@@ -89,5 +89,25 @@ Some new commands like [me](https://duckhunt.me/commands/me), [shooting\_stats](
 
 If you want to integrate your own bot with DuckHunt, it's easier than ever. You can go ahead and read the [DuckHunt API page](the-duckhunt-api/channels-scores-and-stats.md). 
 
+### Settings overhaul
 
+{% hint style="success" %}
+On V4, settings are **no longer defined per server**. Most of them can now be edited on a per-channel basis ! Good news if there are two or more Duckhunt channels in your server.
+{% endhint %}
+
+Many settings have been changed to facilitate a channel setup. Included are [settings presets](https://duckhunt.me/commands/settings/templates) used to configure a server very quickly.
+
+Don't worry, your settings from V3 have been migrated, just like the scores of players on your channels.
+
+#### Players settings
+
+Players can also set some preferences globally, like their preferred [language](https://duckhunt.me/commands/settings/my_language) or if they wish to be [pinged](https://duckhunt.me/commands/settings/ping) \(or not\) by messages sent to them by the bot.
+
+### Improved translations
+
+Translations have been improved, with native time formats and more. You can also see the available languages directly from Discord
+
+![The translators command list all the languages you can get on the bot](.gitbook/assets/translators.png)
+
+Of course, you can still [contribute to translations](players-guide/how-to-contribute-to-the-bot.md#translating-the-bot) if you desire.
 
