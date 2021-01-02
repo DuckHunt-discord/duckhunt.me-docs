@@ -35,7 +35,3 @@
 
 * [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
 
----
-
-* [How to edit this wiki](how-to-edit-this-wiki.md)
-

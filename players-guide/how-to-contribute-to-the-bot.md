@@ -8,7 +8,7 @@ description: Donating is not the only way
 
 Translations are already available in a [lot of languages](https://duckhunt.me/commands/translators). However, if you feel one can be upgraded, made better or just finished, feel free to contact Eyesofcreeper\#0001 on the [discord server](https://discordapp.com/invite/2BksEkV).
 
-Don't forget to tell me what language you want to translate the bot to. We use LingoHub to translate the bot, so I'll also need you email address to send you an invite.
+Don't forget to tell me what language you want to translate the bot to. We use [LingoHub](https://translate.lingohub.com/duckhunt/dashboard/dhv4/) to translate the bot, so I'll also need your email address to send you an invite.
 
 Translators are credited in the [`dh!translators`](https://duckhunt.me/commands/translators) command, and get an exclusive [trophy](achievements-guide.md).
 
@@ -18,7 +18,11 @@ You can report bugs on the [GitHub issues](https://github.com/DuckHunt-discord/D
 
 ## Improve this documentation
 
-Hey, thanks for wanting to improve the docs! There is [a specific page](../how-to-edit-this-wiki.md) for this that explains the process in detail. See you there!
+Hey, thanks for wanting to improve the docs! 
+
+There is a [GitHub repository](https://github.com/DuckHunt-discord/duckhunt.me-docs), but if you aren't at ease with git, you can request access to [GitBook](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/) on the support server to be able to edit the wiki on a word-like interface.
+
+If you do submit a pull request, don't forget to include your discord id so that we can credit you appropriately.
 
 ## Help on the support server
 
