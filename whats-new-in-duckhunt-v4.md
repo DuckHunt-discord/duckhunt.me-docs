@@ -55,7 +55,7 @@ Prestige is a way for you to restart the DuckHunt adventure, resetting your acco
 
 Learn more [here](players-guide/levels-and-experience.md#prestige-levels).
 
-### Inline help and statistics, and topscores
+### Inline help, statistics, and topscores
 
 If you don't like to open a website to see your statistics and the commands list, DuckHunt V4 has got you covered : the [`dh!help`](https://duckhunt.me/commands/)command sends you the list of commands, directly in discord ! 
 
