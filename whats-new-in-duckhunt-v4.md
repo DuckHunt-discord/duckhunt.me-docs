@@ -28,7 +28,7 @@ Another type of duck is the Duck Boss. The Duck Boss appears on the \#geneticall
 ## Design
 
 {% hint style="info" %}
-For the new design to work, DuckHunt will need the `manage_webhooks` permission on his channel. If you still see older-looking ducks, ask an admin to add the correct permission, and then to run the `dh!settings use_webhooks True`command.
+For the new design to work, DuckHunt will need the `manage_webhooks` permission on his channel. If you still see older-looking ducks, ask an admin to add the correct permission, and then to run the `dh!settings use_webhooks True` command.
 {% endhint %}
 
 Ducks are better designed with the power of webhooks: every duck now gets a custom avatar \(made by Calgeka - /kalʒɛka/\#5963\)
