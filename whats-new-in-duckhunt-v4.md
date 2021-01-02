@@ -31,7 +31,7 @@ Another type of duck is the Duck Boss. The Duck Boss appears on the \#geneticall
 For the new design to work, DuckHunt will need the `manage_webhooks` permission on his channel. If you still see older-looking ducks, ask an admin to add the correct permission, and then to run the `dh!settings use_webhooks True`command.
 {% endhint %}
 
-Ducks are better designed with the power of webhooks: every duck now gets a custom avatar \(made by Calgeka\)
+Ducks are better designed with the power of webhooks: every duck now gets a custom avatar \(made by Calgeka - /kalʒɛka/\#5963\)
 
 ![Look at all the different avatars, names, and messages. From top to bottom : Normal, MOAD, Super, Armored](.gitbook/assets/webhooks-example.png)
 
@@ -57,7 +57,7 @@ Learn more [here](players-guide/levels-and-experience.md#prestige-levels).
 
 ## Inline help, statistics, and topscores
 
-If you don't like to open a website to see your statistics and the commands list, DuckHunt V4 has got you covered : the [`dh!help`](https://duckhunt.me/commands/)command sends you the list of commands, directly in discord !
+If you don't like to open a website to see your statistics and the commands list, DuckHunt V4 has got you covered : the [`dh!help`](https://duckhunt.me/commands/) command sends you the list of commands, directly in discord !
 
 ![You can see your current level too !](.gitbook/assets/inline-information-about-a-hunter.png)
 

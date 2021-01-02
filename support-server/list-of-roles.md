@@ -30,7 +30,7 @@ This is a list of most of the roles you can find on the DuckHunt Server
 | Ultra-Meeeeeeeh | Giga-idiots |
 | Snowball | People who were hit with a snowball during a special event |
 | Fireball | People who were hit with a fireball during a special event |
-| Paix à toi | A [friend](https://cdn.discordapp.com/attachments/446074570156539915/683886001973886984/20200301_215828.jpg) of Eyes who passed away |
+| Paix à toi | A friend of Eyes who passed away |
 | Emoji Man | People who are allowed to upload emotes. |
 | GetBeaned\_muted | If you receive this you broke some rules. You can find those in [How to join \(and rules\)](how-to-join.md). |
 

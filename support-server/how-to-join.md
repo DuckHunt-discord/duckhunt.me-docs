@@ -32,7 +32,7 @@ We are open about how we moderate the server. A full, uncensored moderation log 
 If you were acted on by the "thresholds enforcer", the following paragraph does not apply to you. Please appeal directly to **Eyesofcreeper\#0001**.
 {% endhint %}
 
-If you feel you have been warned/kicked/muted/banned unfairly, or if you show remore towards your actions, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry.
+If you feel you have been warned/kicked/muted/banned unfairly, or if you show remorse towards your actions, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry.
 
 You might have to add the mod as a "friend" if you were banned. Alternatively, you can join the [GetBeaned support](https://discord.gg/gT5pdgP) server and DM the mod that way. Don't forget to **be respectful at all times**, even in DMs.
 
