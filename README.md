@@ -22,7 +22,7 @@ If you just discovered DuckHunt, this wiki is a precious source of information w
 
 This wiki host general information about the game, it is _not_ tailored to your specific channel! For this reason, the prefix \(`dh!`\) used on those pages is a **general prefix**, working on every server. That said, you can usually use a shorter prefix, by default `!`. To find out what prefix is used on your server, you can have a look at the channels settings page.
 
-Unless specified otherwise, we assume that your server uses the default settings. If you run with heavily customised settings, except things to change.
+Unless specified otherwise, we assume that your server uses the default settings. If you run with heavily customised settings, expect things to change.
 
 ## Credits
 

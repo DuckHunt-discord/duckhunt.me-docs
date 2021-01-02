@@ -49,7 +49,7 @@ Global usage of the shop items have been simplified, and some new items like the
 
 ## A prestige system
 
-A new prestige system will keep the game fun and different, allowing you to get access to exclusive bonuses. 
+A new prestige system will keep the game fun and different, allowing you to get access to exclusive bonuses.
 
 Prestige is a way for you to restart the DuckHunt adventure, resetting your account \(experience, statistics, ...\) In exchange for the reset, you'll get new items to help you progress faster.
 
@@ -57,7 +57,7 @@ Learn more [here](players-guide/levels-and-experience.md#prestige-levels).
 
 ## Inline help, statistics, and topscores
 
-If you don't like to open a website to see your statistics and the commands list, DuckHunt V4 has got you covered : the [`dh!help`](https://duckhunt.me/commands/)command sends you the list of commands, directly in discord ! 
+If you don't like to open a website to see your statistics and the commands list, DuckHunt V4 has got you covered : the [`dh!help`](https://duckhunt.me/commands/)command sends you the list of commands, directly in discord !
 
 ![You can see your current level too !](.gitbook/assets/inline-information-about-a-hunter.png)
 
@@ -87,7 +87,7 @@ Some new commands like [me](https://duckhunt.me/commands/me), [shooting\_stats](
 
 ## A complete API for developers
 
-If you want to integrate your own bot with DuckHunt, it's easier than ever. You can go ahead and read the [DuckHunt API page](the-duckhunt-api/channels-scores-and-stats.md). 
+If you want to integrate your own bot with DuckHunt, it's easier than ever. You can go ahead and read the [DuckHunt API page](the-duckhunt-api/channels-scores-and-stats.md).
 
 ## Settings overhaul
 
