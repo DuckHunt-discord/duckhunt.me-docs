@@ -16,6 +16,8 @@ This duck is worth 1.5x more experience \(15 exp\). Make sure you shoot at it fi
 
 ### Plastic
 
+![The duck above me is jealous](../.gitbook/assets/plastic_duck_calgeka.png)
+
 This duck will only give you half the experience of a normal duck \(5 exp\). On higher levels, it may not be worth it to shoot this duck.
 
 ### Kamikaze
