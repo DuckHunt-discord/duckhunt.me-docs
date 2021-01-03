@@ -1,6 +1,6 @@
 # Types of ducks
 
-Many ducks can spawn on your channel, and it's your responsibility to recognise them and act appropriately.
+Many ducks can spawn on your channel, and it's your responsibility to recognize them and act appropriately.
 
 ## Normal ducks
 
@@ -10,6 +10,8 @@ This duck is the "basic" duck, the one that you'll encounter the most. Killing h
 
 ### Golden
 
+![If I had one dollar for every time someone complained about how rich Jeff Bezos is... I still wouldn&#x2019;t be as rich as Jeff Bezos](../.gitbook/assets/golden_duck_calgeka%20%281%29.png)
+
 This duck is worth 1.5x more experience \(15 exp\). Make sure you shoot at it first.
 
 ### Plastic
@@ -17,6 +19,8 @@ This duck is worth 1.5x more experience \(15 exp\). Make sure you shoot at it fi
 This duck will only give you half the experience of a normal duck \(5 exp\). On higher levels, it may not be worth it to shoot this duck.
 
 ### Kamikaze
+
+![This is not an italian flag](../.gitbook/assets/kamikaze_duck_calgeka.png)
 
 This duck is just like a normal duck, but if you leave it alone for too long, instead of just wander away, it'll KILL all the ducks alive on the channel. Don't wait until it despawns !
 
@@ -55,6 +59,12 @@ Technically, a mechanical duck is not a duck, and shouldn't be shot at. They can
 {% hint style="info" %}
 If another duck spawns after a mechanical duck, the mechanical will leave silently. You do not have to wait for it to leave.
 {% endhint %}
+
+### Night duck
+
+![&#x1F4A4;](../.gitbook/assets/night_duck_calgeka.png)
+
+Only appears during the [night](https://duckhunt.me/commands/settings/night_time). Ducks that sleep are free meat : you can't miss them, but some ducks are still awake... Good night ! 
 
 ## Super ducks
 
