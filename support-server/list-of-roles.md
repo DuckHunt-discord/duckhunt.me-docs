@@ -2,6 +2,8 @@
 
 This is a list of most of the roles you can find on the DuckHunt Server
 
+![Join us, we are shooting at ducks](../.gitbook/assets/duckhunt_animated.gif)
+
 | Role | Info |
 | :--- | :--- |
 | Duckies | Role given automatically when you join the server. |
