@@ -96,5 +96,7 @@ If a baby spawns after you've killed a MOAD, check your [achievements](achieveme
 
 ## Boss duck
 
+![Array\(16\).join\(&quot;duck&quot; -1\) + &quot; Batman!&quot;](../.gitbook/assets/boss_calgeka.png)
+
 The boss is a unique duck that will only spawn on the Official DuckHunt Support server. When killed, instead of experience, you'll get a lootbox \(box of foie gras\) delivered to your inventory. [Use](https://duckhunt.me/commands/inventory/use) it on \([almost](https://duckhunt.me/commands/settings/allow_global_items)\) any channel.
 
