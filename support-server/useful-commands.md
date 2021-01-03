@@ -17,7 +17,7 @@ R. Danny is mainly used for tags to quickly send a message for an often asked qu
 
 | Command | Explanation |
 | :--- | :--- |
-| `?tag <tag name>` | Displays the `tag name`in the current channel. Useful tags include `wrong_channel`, `setup` and `manual`  |
+| `?tag <tag name>` | Displays the `tag name`in the current channel. Useful tags include `wrong_channel`, `setup` and `manual` |
 | `?tag list` | Lists every tag currently available. |
 | `?tag make` | Lets you create a tag. This is an interactive command. |
 
@@ -55,6 +55,4 @@ The following commands can be used by moderators and trusted users.
 | `+inspect [user/message/channel/...]` | Provides information about a given ID or name, and tries to guess what that object is. |
 
 No commands here are meant to be used regularly by normal users.
-
-
 

@@ -53,7 +53,7 @@ Super Ducks get 4 more lives.
 
 > Bullets are deflected by strong wind
 
-Hunters accuracy is reduced to 3/4 their current accuracy, with a minimum of 60%. If you can, use a [sight](https://duckhunt.me/commands/shop/sight).
+Hunters’ accuracy is reduced to 3/4 their current accuracy, with a minimum of 60%. If you can, use a [sight](https://duckhunt.me/commands/shop/sight).
 
 ## UN Treaty
 
