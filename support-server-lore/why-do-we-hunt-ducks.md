@@ -11,6 +11,8 @@ Meanwhile, the other ducks kept on creeping on us, but fortunately our country i
 *  \#🦆game・monthly・reset and
 *  \#🦆game・all・time.
 
+![One of the damn soldiers we have to face everyday.](../.gitbook/assets/soldier_duck_globloxmen.png)
+
 \#🦆game・monthly・reset was once the subject of a failed experiment, that we still can't stop: every month, the shooters seem to lose all their memories, and can't shoot anymore. \(your level resets\) 
 
 \#🦆game・all・time is the other place where ducks appear. Keep an eye out for them!
