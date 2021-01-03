@@ -10,7 +10,7 @@ This duck is the "basic" duck, the one that you'll encounter the most. Killing h
 
 ### Golden
 
-![If I had one dollar for every time someone complained about how rich Jeff Bezos is... I still wouldn&#x2019;t be as rich as Jeff Bezos](../.gitbook/assets/golden_duck_calgeka%20%281%29.png)
+![If I had one dollar for every time someone complained about how rich Jeff Bezos is... I still wouldn&#x2019;t be as rich as Jeff Bezos.](../.gitbook/assets/golden_duck_calgeka.png)
 
 This duck is worth 1.5x more experience \(15 exp\). Make sure you shoot at it first.
 
