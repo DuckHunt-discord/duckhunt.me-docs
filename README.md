@@ -14,15 +14,15 @@ If you just discovered DuckHunt, this wiki is a precious source of information w
 * Another [quickstart for server administrators](bot-administration/admin-quickstart.md) where you'll learn how to launch the game on your own discord server
 * Information about [the different ducks](players-guide/types-of-ducks.md) \(just like a Pokédex\)
 * A [list of levels](players-guide/levels-and-experience.md), and an [achievements guide](players-guide/achievements-guide.md)
-* The DuckHunt world lore, to understand why we hunt ducks
-* The technical documentation on the DuckHunt API
+* The[ DuckHunt world lore](support-server-lore/why-do-we-hunt-ducks.md), to understand why we hunt ducks
+* The [technical documentation](the-duckhunt-api/channels-scores-and-stats.md) on the DuckHunt API
 * Copy/pastable information to put in your channels for confused players
 
 ## How to read this wiki
 
 This wiki host general information about the game, it is _not_ tailored to your specific channel! For this reason, the prefix \(`dh!`\) used on those pages is a **general prefix**, working on every server. That said, you can usually use a shorter prefix, by default `!`. To find out what prefix is used on your server, you can have a look at the channels settings page.
 
-Unless specified otherwise, we assume that your server uses the default settings. If you run with heavily customised settings, expect things to change.
+Unless specified otherwise, we assume that your server uses the default settings. If you run with heavily customized settings, expect things to change.
 
 ## Credits
 
