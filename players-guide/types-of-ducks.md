@@ -90,7 +90,7 @@ You can see on your personal Hunter Page \(`dh!me`\) the amont of shots an armor
 
 ![You&apos;ll never kill my children](../.gitbook/assets/mother_of_all_ducks_calgeka.png)
 
-Mothers are normal Super ducks that will spawn two new, random ducks once killed. The spawned ducks doesn't count towards the [ducks\_per\_day setting](http://127.0.0.1:8000/commands/settings/ducks_per_day), and may be of any type.
+Mothers are normal Super ducks that will spawn two new, random ducks once killed. The spawned ducks doesn't count towards the [ducks\_per\_day setting](https://duckhunt.me/commands/settings/ducks_per_day), and may be of any type.
 
 If a baby spawns after you've killed a MOAD, check your [achievements](achievements-guide.md) ! You'll have unlocked `You monster`.
 
