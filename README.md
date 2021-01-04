@@ -6,7 +6,7 @@
 
 ## What is this all about ?
 
-This is the documentation for the version 4 of the popular DuckHunt bot. To see what's new, you can head towards the changelog.
+This is the documentation for the version 4 of the popular DuckHunt bot. To see what's new, you can head towards the [changelog](whats-new-in-duckhunt-v4.md).
 
 If you just discovered DuckHunt, this wiki is a precious source of information where you can learn more about the bot you are about to use. You'll be able to find
 
