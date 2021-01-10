@@ -1,6 +1,6 @@
 # Tips
 
-On there, you'll find tips on how to best use and hunt ducks, based on interviews of the best DuckHunters, and on discussion with the maker : Eyesofcreeper\#0001.
+On there, you'll find tips on how to best use and hunt ducks, based on interviews of the best DuckHunters, and of discussions with the maker : Eyesofcreeper\#0001.
 
 ## Overall
 
@@ -37,6 +37,12 @@ The achievements are mostly kept between [prestige](levels-and-experience.md) ru
 ### Buy the four-leaf clover
 
 Buy a [4-leaf clover](https://duckhunt.me/commands/shop/clover) as soon as you can, if you will hunt duck in the next day. The clover will give you a bonus ranging from one to ten experience points **for every duck you kill**. It's usually worth it if you kill more than two ducks in the next day.
+
+### Kill the bosses
+
+In the support server, there will usually be one boss that spawns every day. If you react with the 🔫 emoji to shoot it, you'll receive a "box of foie gras" in your inventory.
+
+You can then open the box to get some items on ANY CHANNEL using the bot.
 
 ## Early game
 
