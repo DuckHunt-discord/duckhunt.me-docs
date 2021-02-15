@@ -13,6 +13,7 @@ This is a list of most of the roles you can find on the DuckHunt Server
 | Eyes bots | Eyes' personally coded bots. |
 | Owner | Eyes is the only owner. |
 | Wiki Writezard | People with access to this wiki, to edit and correct it. |
+| Contributor | People who helped tremendously with the development of DuckHunt. |
 | English Support Volunteer | A person who knows a lot about the bot, and can help people in English. Can get pinged by people in \#support\_english if people need it. |
 | French Support Volunteer | A person who knows a lot about the bot, and can help people in French. Can get pinged by people in \#support\_french if people need it. |
 | Translator | Translator for the bot \(or the wiki.\) |
@@ -25,14 +26,19 @@ This is a list of most of the roles you can find on the DuckHunt Server
 | Notify | Will ping you when big updates are made to the bot. |
 | Self-hosting | People who host the bot on their own. |
 | CanPostInServerlist | People who are allowed to advertise their server in the server list channel. They have special permission from Eyes. |
-| Eminigma Event Winner 2019 | People who won the Enigma event in 2019 |
-| Duckenigma Event Winner 2018 | People who won the Engima event in 2018 |
+| Quizz Event Player 2020 | People who participated in the Quizz event in 2020. |
+| Quizz Event Winner 2020 | People who scored over 50 points in the Quizz event in 2020. |
+| Coroned Event Player 2020 | People who participated in the Coroned event in 2020. |
+| Coroned Event Winner 2020 | People who won the Coroned event in 2020. |
+| Eminigma Event Winner 2019 | People who won the Enigma event in 2019. |
+| Duckenigma Event Winner 2018 | People who won the Engima event in 2018. |
 | Meeeeeeeh | Idiots |
 | Hyper-Meeeeeeeh | Big idiots |
 | Ultra-Meeeeeeeh | Giga-idiots |
 | Snowball | People who were hit with a snowball during a special event. |
 | Fireball | People who were hit with a fireball during a special event. |
 | Paix à toi | A friend of Eyes who passed away. |
+| The MenzAgitat \(le vrai !\) | The original creator of the IRC version of DuckHunt. |
 | Emoji Man | People who are allowed to upload emotes. |
 | GetBeaned\_muted | If you receive this you broke some rules. You can find those in [How to join \(and rules\)](how-to-join.md). |
 
