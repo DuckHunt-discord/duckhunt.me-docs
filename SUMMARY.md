@@ -10,6 +10,7 @@
 * [Levels and experience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievements-guide.md)
 * [Types of ducks](players-guide/types-of-ducks.md)
+* [Coat colors](players-guide/coat-colors.md)
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
 * [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)

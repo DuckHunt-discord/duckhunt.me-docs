@@ -1,35 +1,19 @@
 # Channels scores and stats
 
-If someone wants to do a dashboard or something to control DuckHunt, there are a few API routes already. They all return
-JSON or HTTP404/403/500.
+If someone wants to do a dashboard or something to control DuckHunt, there are a few API routes already. They all return JSON or HTTP404/403/500.
 
-### **Routes**
+## **Routes**
 
-- `/api/channels`
-  \[Global Authentication required\] Returns some information about all channels enabled on the bot.
+* `/api/channels` \[Global Authentication required\] Returns some information about all channels enabled on the bot.
+* `/api/channels/{channel_id}` \[Authentication required\] Returns information about the channel, like the ducks currently spawned.
+* `/api/channels/{channel_id}/settings` \[Authentication required\] Returns channel settings
+* `/api/channels/{channel_id}/top` \[No authentication required\] Returns the top scores \(all players on the channel and some info about players\)
+* `/api/channels/{channel_id}/player/{player_id}` \[No authentication required\] Returns _all_ the data for a specific user
+* `/api/help/commands` \[No authentication required\] Returns all the commands registered with the bot.
+* `/api/status` \[No authentication required\] Returns the status of every shard the bot currently has connected to the gateway.
+* `/api/stats` \[No authentication required\] Get some global statistics about the bot.
 
-- `/api/channels/{channel_id}`
-  \[Authentication required\] Returns information about the channel, like the ducks currently spawned.
-
-- `/api/channels/{channel_id}/settings`
-  \[Authentication required\] Returns channel settings
-
-- `/api/channels/{channel_id}/top`
-  \[No authentication required\] Returns the top scores (all players on the channel and some info about players)
-
-- `/api/channels/{channel_id}/player/{player_id}`
-  \[No authentication required\] Returns _all_ the data for a specific user
-
-- `/api/help/commands`
-  \[No authentication required\] Returns all the commands registered with the bot.
-
-- `/api/status`
-  \[No authentication required\] Returns the status of every shard the bot currently has connected to the gateway.
-
-- `/api/stats`
-  \[No authentication required\] Get some global statistics about the bot.
-
-### **Authentication**
+## **Authentication**
 
 If you have one, pass the API key on the `Authorization` HTTP header.
 
@@ -38,13 +22,13 @@ Two types of keys exist :
 * Channel specific keys, available with `dh!settings api_key`. They only work for a specific channel data.
 * Global keys, that allow UNLIMITED access to every channel data. They are available on request with me.
 
-API keys (local or global) are uuid4, and look like this : `d84af260-c806-4066-8387-1d5144b7fa72`
+API keys \(local or global\) are uuid4, and look like this : `d84af260-c806-4066-8387-1d5144b7fa72`
 
-### Examples
+## Examples
 
-#### `/api/channels/`
+### `/api/channels/`
 
-```json
+```javascript
 [
   {
     "channel_name": "abcdef",
@@ -60,11 +44,11 @@ API keys (local or global) are uuid4, and look like this : `d84af260-c806-4066-8
 
 Of course, you get a list entry for every channel the bot sees.
 
-#### `/api/channels/{channel_id}`
+### `/api/channels/{channel_id}`
 
 Without authentication:
 
-```json
+```javascript
 {
   "id": 1234,
   "name": "hunting-ducks",
@@ -74,7 +58,7 @@ Without authentication:
 
 When authenticated:
 
-```json
+```javascript
 {
   "id": 734880436789969000,
   "name": "testing",
@@ -153,13 +137,13 @@ When authenticated:
 }
 ```
 
-#### `/api/channels/{channel_id}/settings`
+### `/api/channels/{channel_id}/settings`
 
 TODO
 
-#### `/api/channels/{channel_id}/top`
+### `/api/channels/{channel_id}/top`
 
-```json
+```javascript
 [
   {
     "user_id": "432975131032158210",
@@ -221,9 +205,9 @@ TODO
 ]
 ```
 
-#### `/api/channels/{channel_id}/player/{user_id}`
+### `/api/channels/{channel_id}/player/{user_id}`
 
-```json
+```javascript
 {
   "user_id": "432975131032158210",
   "user_name": "No one",
@@ -274,10 +258,9 @@ TODO
 }
 ```
 
-#### `/api/help/commands`
+### `/api/help/commands`
 
-```json
-
+```javascript
 {
   "ping": {
     "name": "ping",
@@ -402,12 +385,11 @@ TODO
     "access_name": "BOT_MODERATOR"
   }
 }
-
 ```
 
-#### `/api/status`
+### `/api/status`
 
-```json
+```javascript
 {
   "bot_latency": 2.75,
   "shards_status": [
@@ -427,9 +409,9 @@ TODO
 }
 ```
 
-#### `/api/stats`
+### `/api/stats`
 
-```json
+```javascript
 {
     "members_count": 1454404,
     "guilds_count": 14776,
@@ -447,3 +429,4 @@ TODO
 ```
 
 Uptime here is the time the bot started, as a unix timestamp.
+

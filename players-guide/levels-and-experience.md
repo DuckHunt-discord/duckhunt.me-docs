@@ -90,7 +90,7 @@ The experience awarded by the command is random, but will get higher the higher 
 
 ### Level 4
 
-You'll get access to [icelandic water](https://duckhunt.me/commands/shop/bucket), that will wet your target for longer.
+You'll get access to Icelandic[ water](https://duckhunt.me/commands/shop/bucket), that will wet your target for longer.
 
 ### Level 5
 
@@ -102,7 +102,7 @@ Your silencers are now **military grade**. They last twice as long, for the same
 
 ### Level 7
 
-You get to be part of the super secret DuckHunt secret service. by joining, you'll get a complimentary, permanent, [licence to kill](https://duckhunt.me/commands/shop/licence)
+You get to be part of the super secret DuckHunt Secret Service. By joining, you'll get a complimentary, permanent, license[ to kill](https://duckhunt.me/commands/shop/licence)
 
 ### Level 8
 
@@ -110,5 +110,5 @@ Your ammo packs get bigger, allowing you to load twice as many bullets in your g
 
 ### Level 9 and above
 
-Higher levels increase the amount of experience you can get from the [`dh!prestige daily`](https://duckhunt.me/commands/prestige/daily) command. If you have a great idea for a new prestige powerup, please tell us on [the support server](https://discordapp.com/invite/2BksEkV)
+Higher levels increase the amount of experience you can get from the [`dh!prestige daily`](https://duckhunt.me/commands/prestige/daily) command. If you have a great idea for a new prestige power up, please tell us on [the support server](https://discordapp.com/invite/2BksEkV)
 
