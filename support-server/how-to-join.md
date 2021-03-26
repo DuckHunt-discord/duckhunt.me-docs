@@ -17,7 +17,7 @@ We abide by the standard discord rules. Please refer to [https://discordapp.com/
 5. Do not be rude to, or insult people.
 6. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
 7. Do not pretend to be the DuckHunt bot in the game channels, either by renaming yourself like it, or by posting fake ducks. Leave that fun part to Eyes, and use mechanical ducks.
-8. Do **NOT DM** members of the server without their prior approval. That includes the staff, and it also prohibits asking for support in staff DMs if we didn't ask you to do so first.
+8. **DO NOT** DM members of the server without their prior approval. That includes the staff, and it also prohibits asking for support in staff DMs if we didn't ask you to do so first.
 9. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
 10. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead.
 11. When requesting support, please try to show your research, what you tried and what you want exactly.
