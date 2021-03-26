@@ -70,6 +70,12 @@ This guide will help you unlock all the achievements on your channel. Beware, th
 
 **How to obtain:** You can either play for a while, or just spam the [bang](https://duckhunt.me/commands/bang) command, since wasted bullets count.
 
+### Homing kills \(you\)
+
+> Use the homing projectiles.
+
+**How to obtain:** Get 150 exp and buy [homing projectiles](https://duckhunt.me/commands/shop/homing_bullets), then shoot at a duck.
+
 ### You monster
 
 > Kill a MOAD that spawns a baby duck.
