@@ -1,6 +1,6 @@
 # How to join \(and rules\)
 
-Join the DuckHunt support server at: [https://discord.gg/8WdXaZG](https://discord.gg/8WdXaZG).
+Join the DuckHunt support server at: [https://duckhunt.me/support](https://duckhunt.me/support).
 
 {% hint style="danger" %}
 **Discord guidelines are enforced on the server**

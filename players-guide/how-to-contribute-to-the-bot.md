@@ -26,7 +26,7 @@ If you do submit a pull request, don't forget to include your discord id so that
 
 ## Help on the support server
 
-You can join our support server using [this link](https://discord.gg/2BksEkV). Come and help us answer questions from beginners and confirmed people alike. If you want to get yourself familiar with the rules and commands first, [read here](../support-server/how-to-join.md).
+You can join our support server using [this link](https://duckhunt.me/support). Come and help us answer questions from beginners and confirmed people alike. If you want to get yourself familiar with the rules and commands first, [read here](../support-server/how-to-join.md).
 
 You can give yourself the [Support Volunteer roles](../support-server/list-of-roles.md) if you can be pinged to answer questions.
 

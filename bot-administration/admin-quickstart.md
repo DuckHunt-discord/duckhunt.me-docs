@@ -4,7 +4,7 @@ First, I'd like to thank [HostMyServers](https://www.hostmyservers.fr/) for prov
 
 Adding the official bot to your server is super easy! Follow these instructions:
 
-1. Join [our discord server](https://discord.gg/2BksEkV) to get support if needed.
+1. Join [our discord server](https://duckhunt.me/support) to get support if needed.
 2. Invite the bot to your server by clicking [here](https://duckhunt.me/invite).
 3. Choose/create a channel where you want ducks to spawn
 4. Subscribe that channel to \#announcements \(on the DuckHunt server\) to get messages about the bot status or breaking changes for players.

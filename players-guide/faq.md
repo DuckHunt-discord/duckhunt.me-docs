@@ -37,7 +37,7 @@ Congratulations! You can go to [our support server](https://discordapp.com/invit
 
 ## I have a feature request/suggestion!
 
-That's not really a question, but you can go to [GitHub](https://github.com/DuckHunt-discord/DHV4/issues) to suggest things! You can also use the \#🙋suggestions channel on the [support server](https://discord.com/invite/2BksEkV).
+That's not really a question, but you can go to [GitHub](https://github.com/DuckHunt-discord/DHV4/issues) to suggest things! You can also use the \#🙋suggestions channel on the [support server](https://duckhunt.me/support).
 
 ## I love you!
 
