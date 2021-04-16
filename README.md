@@ -1,8 +1,8 @@
-# The DuckHunt bot
+# Le bot DuckHunt
 
-## What is DuckHunt?
+## DuckHunt, qu'est-ce que c'est ?
 
-[DuckHunt](https://duckhunt.me) is an entertaining Discord bot. You use commands to hunt [ducks](players-guide/types-of-ducks.md) through the chat. For example, a typical command would look like `dh!bang` . The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of experience \(exp\) through hunting ducks. However, exp doubles as a measure of rank, and as a form of currency. Experience can be spent [in the shop](https://duckhunt.me/commands/shop). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant. The ducks you hunt are recorded in the DuckHunt hunting log \(this website\), which tracks the total amount of ducks hunted on your Discord channel. This log also provides the statistics of individual hunters, including how fast and how many ducks were hunted, and more.
+[DuckHunt](https://duckhunt.me) est un bot discord très amusant. You use commands to hunt [ducks](players-guide/types-of-ducks.md) through the chat. For example, a typical command would look like `dh!bang` . The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of experience \(exp\) through hunting ducks. However, exp doubles as a measure of rank, and as a form of currency. Experience can be spent [in the shop](https://duckhunt.me/commands/shop). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant. The ducks you hunt are recorded in the DuckHunt hunting log \(this website\), which tracks the total amount of ducks hunted on your Discord channel. This log also provides the statistics of individual hunters, including how fast and how many ducks were hunted, and more.
 
 ## What is this all about?
 

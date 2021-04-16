@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The DuckHunt bot](README.md)
+* [Le bot DuckHunt](README.md)
 * [What's new in DuckHunt V4 ?](whats-new-in-duckhunt-v4.md)
 
 ## Players guide
