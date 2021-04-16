@@ -18,7 +18,7 @@ You can report bugs on the [GitHub issues](https://github.com/DuckHunt-discord/D
 
 ## Improve this documentation
 
-Hey, thanks for wanting to improve the docs! 
+Hey, thanks for wanting to improve the docs!
 
 There is a [GitHub repository](https://github.com/DuckHunt-discord/duckhunt.me-docs), but if you aren't at ease with git, you can request access to [GitBook](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/) on the support server to be able to edit the wiki on a word-like interface.
 

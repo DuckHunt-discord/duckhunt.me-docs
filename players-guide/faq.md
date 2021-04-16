@@ -51,7 +51,3 @@ See [this page](how-to-contribute-to-the-bot.md)! Thanks 😁.
 
 Yes there is ! Steefgozercool\#6710 made an Excel spreadsheet where you can simulate any combination of settings and plays to see what happens to scores. Click [here](https://cdn.discordapp.com/attachments/262720111591292928/794993119304613958/Duckhunt_experience_calculator_DHV4_beta_NEW.xlsx) to download it.
 
-
-
-
-
