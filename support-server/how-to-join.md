@@ -1,4 +1,4 @@
-# How to join \(and rules\)
+# Comment rejoindre \(et les règles\)
 
 Rejoignez le serveur de support de DuckHunt à l'adresse suivante : [https://duckhunt.me/support](https://duckhunt.me/support).
 
@@ -34,9 +34,9 @@ Si vous avez fait l'objet d'une action de la part de l'"exécuteur des seuils", 
 
 Si vous estimez que vous avez été averti/kické/muté/banni injustement, ou si vous avez des remords à l'égard de vos actions, veuillez en discuter avec le modérateur qui a pris cette mesure. GetBeaned devrait vous avoir envoyé un DM lorsque cela s'est produit, mais juste au cas où, utilisez [ce lien](https://getbeaned.me/guilds/195260081036591104) pour aller sur l'interface web et rechercher votre cas.
 
-You might have to add the mod as a "friend" if you were banned. Alternatively, you can join the [GetBeaned support](https://discord.gg/gT5pdgP) server and DM the mod that way. Don't forget to **be respectful at all times**, even in DMs.
+Vous devrez peut-être ajouter le mod en tant qu'"ami" si vous avez été banni. Vous pouvez également rejoindre le serveur de [support GetBeaned](https://discord.com/invite/gT5pdgP) et envoyer des MP au modérateur de cette façon. N'oubliez pas **d'être respectueux à tout moment**, même dans les DM.
 
-If you still can't agree with or if you can't reach the responsible moderator, you may appeal to Eyesofcreeper\#0001, by creating a 3-way DM with the responsible moderator and Eyesofcreeper\#0001.
+Si vous n'êtes toujours pas d'accord ou si vous ne pouvez pas joindre le modérateur responsable, vous pouvez faire appel à Eyesofcreeper\#0001, en créant un MP à trois avec le modérateur responsable et Eyesofcreeper\#0001.
 
-We'll try to figure out a solution together.
+Nous allons essayer de trouver une solution ensemble.
 
