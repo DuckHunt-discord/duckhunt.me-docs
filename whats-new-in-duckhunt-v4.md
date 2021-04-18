@@ -1,18 +1,18 @@
-# What's new in DuckHunt V4 ?
+# Quelles sont les nouveautés de Duckhunt V4 ?
 
-DuckHunt V4 is a complete rewrite of the DuckHunt bot. As such, you can expect many changes, like new ducks, new events, better leveling, and more.
+DuckHunt V4 est une réécriture complète du bot DuckHunt. En tant que tel, vous pouvez vous attendre à de nombreux changements, comme de nouveaux canards, de nouveaux événements, un meilleur leveling, et plus encore.
 
-## New ducks
+## Nouveau canards
 
-On V3 there used to be only a few types of ducks :
+Sur V3, il n'y avait que quelques types de canards :
 
-* The [MOAD](players-guide/types-of-ducks.md#moad-mother-of-all-ducks)
-* The [Super Duck](players-guide/types-of-ducks.md#super-ducks)
-* The [Mechanical Duck](players-guide/types-of-ducks.md#mechanical)
-* The [Normal Duck](players-guide/types-of-ducks.md#normal-ducks)
-* The [Baby Duck](players-guide/types-of-ducks.md#baby)
+* La [MOAD](players-guide/types-of-ducks.md#moad-mother-of-all-ducks)
+* Le [Super Canard](players-guide/types-of-ducks.md#super-ducks)
+* Le [Canard méchanique](players-guide/types-of-ducks.md#mechanical)
+* Le [Canard normal](players-guide/types-of-ducks.md#normal-ducks)
+* Le [Bébé canard](players-guide/types-of-ducks.md#baby)
 
-On V4, these ducks have been kept, and new ones have appeared :
+Sur la V4, ces canards ont été conservés, et de nouveaux sont apparus :
 
 * The [Armored Duck](players-guide/types-of-ducks.md#armored) \(resists shots\)
 * The [Pr. Duck](players-guide/types-of-ducks.md#prof-pr-duck) \(needs maths\)

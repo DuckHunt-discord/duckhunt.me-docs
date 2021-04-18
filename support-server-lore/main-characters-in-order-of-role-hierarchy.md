@@ -1,8 +1,8 @@
 ---
-description: Important people in the server.
+description: Des personnes importantes dans le serveur.
 ---
 
-# Main Characters \(In order of role hierarchy\)
+# Personnages principaux \(Dans l'ordre de la hiérarchie des rôles\)
 
-Will need to be re-done to mention the `dh!translators` command.
+Devra être refaite pour mentionner la commande `dh!translators`.
 

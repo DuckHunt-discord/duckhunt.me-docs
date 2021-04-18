@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Le bot DuckHunt](README.md)
-* [What's new in DuckHunt V4 ?](whats-new-in-duckhunt-v4.md)
+* [Quelles sont les nouveautés de Duckhunt V4 ?](whats-new-in-duckhunt-v4.md)
 
 ## Players guide
 
@@ -30,7 +30,7 @@
 ## Support Server Lore
 
 * [Why do we hunt ducks ?](support-server-lore/why-do-we-hunt-ducks.md)
-* [Main Characters \(In order of role hierarchy\)](support-server-lore/main-characters-in-order-of-role-hierarchy.md)
+* [Personnages principaux \(Dans l'ordre de la hiérarchie des rôles\)](support-server-lore/main-characters-in-order-of-role-hierarchy.md)
 * [A list of all the Furrys in Eyes' Attic](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
 
 ## The DuckHunt API

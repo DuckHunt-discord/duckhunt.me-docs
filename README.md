@@ -2,31 +2,31 @@
 
 ## DuckHunt, qu'est-ce que c'est ?
 
-[DuckHunt](https://duckhunt.me) est un bot discord très amusant. You use commands to hunt [ducks](players-guide/types-of-ducks.md) through the chat. For example, a typical command would look like `dh!bang` . The goal of DuckHunt is to outrank other duck hunters by amassing a large amount of experience \(exp\) through hunting ducks. However, exp doubles as a measure of rank, and as a form of currency. Experience can be spent [in the shop](https://duckhunt.me/commands/shop). Shop items are items that can give you a slight advantage while hunting. Because shop items cost exp, buying them may cause you to drop in rank. You will always get a higher return on your investment in shop items if you are vigilant. The ducks you hunt are recorded in the DuckHunt hunting log \(this website\), which tracks the total amount of ducks hunted on your Discord channel. This log also provides the statistics of individual hunters, including how fast and how many ducks were hunted, and more.
+[DuckHunt](https://duckhunt.me/) est un bot discord très amusant. Vous utilisez des commandes pour chasser des [canards](players-guide/types-of-ducks.md) à travers le chat. Par exemple, une commande typique ressemble à `dh!bang` . Le but de DuckHunt est de dépasser les autres chasseurs en accumulant une grande quantité d'expérience \(exp\) en chassant des canards. Cependant, l'expérience sert à la fois de mesure du rang et d'une forme de monnaie. L'expérience peut être dépensée dans la [boutique](https://duckhunt.me/commands/shop). Les objets de la boutique sont des objets qui peuvent vous donner un léger avantage pendant la chasse. Comme les objets de la boutique coûtent de l'expérience, leur achat peut vous faire perdre du rang.Cependant, vous obtiendrez toujours un bénéfice sur votre investissement dans les objets de la boutique si vous êtes vigilant. Les canards que vous chassez sont enregistrés dans le journal de chasse de DuckHunt \(ce site Web\), qui indique le nombre total de canards chassés sur votre canal Discord. Ce journal fournit également les statistiques des chasseurs individuels, y compris la vitesse et le nombre de canards chassés, et plus encore.
 
-## What is this all about?
+## **De quoi s'agit-il ?**
 
-This is the documentation for the version 4 of the popular DuckHunt bot. To see what's new, you can head towards the [changelog](whats-new-in-duckhunt-v4.md).
+Voici la documentation de la version 4 du célèbre robot DuckHunt. Pour voir ce qu'il y a de nouveau, vous pouvez vous diriger vers le [changelog](whats-new-in-duckhunt-v4.md). 
 
-If you just discovered DuckHunt, this wiki is a precious source of information where you can learn more about the bot you are about to use. You'll be able to find
+Si vous venez de découvrir DuckHunt, ce wiki est une source précieuse d'informations où vous pourrez en apprendre davantage sur le bot que vous vous apprêtez à utiliser. Vous pourrez y trouver
 
-* A [quickstart for players](players-guide/players-quickstart.md) where you'll learn the basics of the game
-* Another [quickstart for server administrators](bot-administration/admin-quickstart.md) where you'll learn how to launch the game on your own discord server
-* Information about [the different ducks](players-guide/types-of-ducks.md) \(just like a Pokédex\)
-* A [list of levels](players-guide/levels-and-experience.md), and an [achievements guide](players-guide/achievements-guide.md)
-* The[ DuckHunt world lore](support-server-lore/why-do-we-hunt-ducks.md), to understand why we hunt ducks
-* The [technical documentation](the-duckhunt-api/channels-scores-and-stats.md) on the DuckHunt API
-* Copy/pastable information to put in your channels for confused players
+* Un [guide](players-guide/players-quickstart.md) pour les joueurs où vous apprendrez les bases du jeu.
+* Un autre [guide pour les administrateurs de serveurs](bot-administration/admin-quickstart.md) où vous apprendrez comment lancer le jeu sur votre propre serveur discord.
+* Informations sur les [différents canards](players-guide/types-of-ducks.md) \(comme un Pokédex\)
+* Une [liste des niveaux](players-guide/levels-and-experience.md), et un [guide des réalisations](players-guide/achievements-guide.md)
+* [L'histoire du monde de DuckHunt](support-server-lore/why-do-we-hunt-ducks.md), pour comprendre pourquoi nous chassons les canards.
+* La [documentation technique](the-duckhunt-api/channels-scores-and-stats.md) sur l'API de DuckHunt
+* De l'information Copy/Paste à mettre dans vos canaux pour les joueurs confus
 
-## How to read this wiki
+## Comment lire ce wiki ?
 
-This wiki host general information about the game, it is _not_ tailored to your specific channel! For this reason, the prefix \(`dh!`\) used on those pages is a **general prefix**, working on every server. That said, you can usually use a shorter prefix, by default `!`. To find out what prefix is used on your server, you can have a look at the channels settings page.
+Ce wiki héberge des informations générales sur le jeu, il n'est pas adapté à votre cannal spécifique ! Pour cette raison, le préfixe \( `dh!` \) utilisé sur ces pages est un **préfixe général**, fonctionnant sur tous les serveurs. Cela dit, vous pouvez généralement utiliser un préfixe plus court, par défaut `!` Pour savoir quel est le préfixe utilisé sur votre serveur, vous pouvez consulter la page des paramètres des canaux. 
 
-Unless specified otherwise, we assume that your server uses the default settings. If you run with heavily customized settings, expect things to change.
+Sauf indication contraire, nous supposons que votre serveur utilise les paramètres par défaut. Si vous utilisez des paramètres fortement personnalisés, attendez-vous à ce que les choses changent.
 
-## Credits
+## Crédits
 
-This wiki was created for DuckHunt\#0550, a Discord bot developed by Eyesofcreeper\#0001.
+Ce wiki a été créé pour DuckHunt\#0550, un robot Discord développé par Eyesofcreeper\#0001. 
 
-Although Eyesofcreeper made the bot and contributed to the wiki, many others helped make what it is today. If you want to help too, have a look here. Thanks!
+Bien que Eyesofcreeper ait créé le robot et contribué au wiki, beaucoup d'autres personnes ont aidé à en faire ce qu'il est aujourd'hui. Si vous voulez aider aussi, jetez un coup d'œil ici. Merci !
 
