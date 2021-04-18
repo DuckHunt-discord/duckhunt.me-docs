@@ -24,7 +24,7 @@ We abide by the standard discord rules. Please refer to [https://discordapp.com/
 12. The `ping me please` role, even if a joke, is not to be used willy-nilly. Please use full sentences and the ping or full sentences and then the ping in the message after, not just the ping or "hi `@ping me pls`".
 13. You are allowed to ping a member of the staff if they role-pinged you before \(exception made for `@I click everywhere ping me pls` role pings\). This allowance lasts for **24 hours** after the staff ping, and may only be used once per person. **Don't** abuse it.
 
-If you wish to discuss the rules, or the actions of a moderator, you may do so in public, **except** if the moderator ask you to stop. Such concerns can also be bought directly to Eyesofcreeper\#0001 DMs.
+If you wish to discuss the rules, or the actions of a moderator, you may do so in public, **except** if the moderator ask you to stop. Such concerns can also be brought directly to Eyesofcreeper\#0001 DMs.
 
 We are open about how we moderate the server. A full, uncensored moderation log \(that contains every action a moderator may do on the server\), is viewable by anybody on the \#mod-log channel or on the [GetBeaned web interface](https://getbeaned.me/guilds/195260081036591104).
 
