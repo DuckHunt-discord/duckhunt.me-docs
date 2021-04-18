@@ -1,53 +1,53 @@
 ---
-description: Even though you problably won't.
+description: Même si tu ne le deviendra probablement pas.
 ---
 
-# How to become a mod
+# Comment devenir un modérateur
 
-So, I hear you want to become a Moderator here on DuckHunt. If so, then follow this guide and maybe you'll become a mod.
+Alors, j'ai entendu dire que tu voulais devenir un modérateur ici sur DuckHunt. Si c'est le cas, alors suis ce guide et peut-être deviendras-tu un modérateur.
 
-## Taoshi's Guide To Become Moderator
+### Le guide de Taoshi pour devenir modérateur
 
-This guide is the story of how Taoshi\#0001 became moderator on the server. If you follow this guide, there is a chance that you might also become a moderator.
+Ce guide est l'histoire de comment Taoshi\#0001 est devenu modérateur sur le serveur. Si vous suivez ce guide, il y a une chance que vous deveniez vous aussi un modérateur.
 
-Before we start, I would like to mention that some of these steps can't be done by everyone and not all of the steps are necessary, but doing all of them will definitely boost your chances.
+ Avant de commencer, j'aimerais préciser que certaines de ces étapes ne peuvent pas être suivies par tout le monde et qu'elles ne sont pas toutes nécessaires, mais qu'en les suivant toutes, vous augmenterez certainement vos chances.
 
-### You just joined
+### Tu viens d'arriver
 
-So you first joined the server because you found DuckHunt somewhere and decided to check out the support server. This is your first day and you might not be talking in \#general just yet. I was mainly playing in \#game-all-time a few days before stepping into the other channels. A few days later, I decided to go into \#general to chat and \#support\_english to help people whenever they needed it.
+Tu as rejoint le serveur parce que tu as trouvé DuckHunt quelque part et tu as décidé d'aller voir le serveur de soutien. C'est ton premier jour et tu ne parles peut-être pas encore dans le canal \#general. Pendant quelques jours, j'ai surtout joué dans \#game-all-time avant de me lancer dans les autres canaux. Quelques jours plus tard, j'ai décidé d'aller dans \#general pour chatter et dans \#support\_english pour aider les gens quand ils en avaient besoin.
 
-### Translator
+### Traducteur
 
-After 1-2 weeks of chatting and supporting, I decided to look into translating the bot because I like the bot and noticed that no one had translated the bot into Danish. I decided to take the opportunity and was granted the translator role. I was done translating after around 2 weeks.
+Après une ou deux semaines de discussion et de soutien, j'ai décidé de chercher à traduire le robot parce que je l'aime bien et que j'ai remarqué que personne ne l'avait traduit en danois. J'ai décidé de saisir l'occasion et on m'a confié le rôle de traducteur. J'ai terminé la traduction au bout de 2 semaines environ.
 
-This can be done faster, but you don't have to rush it.
+Cela peut être fait plus rapidement, mais vous ne devez pas vous précipiter.
 
 ### Proficient
 
-Five days after I was done translating, I was granted the Proficient role because I had been supporting people so much that I knew almost everything there was to know about DuckHunt. To get this role you need to know a lot about DuckHunt. Proficient people are considered trusted here.
+Cinq jours après avoir terminé la traduction, on m'a accordé le rôle Proficient parce que j'avais tellement aidé les gens que je savais presque tout ce qu'il y avait à savoir sur DuckHunt. Pour obtenir ce rôle, vous devez en savoir beaucoup sur DuckHunt. Les personnes compétentes sont considérées comme des personnes de confiance ici.
 
-Reading around on this wiki and learning can definitely help you out!
+Lire sur ce wiki et apprendre peut certainement vous aider.!
 
-### Website Maintainer
+### Responsable du site web
 
-As they say: "When opportunity comes knocking, you gotta answer." That's pretty much what happened here. After almost two months of being Proficient, and being engaged in the community as usual, the owner asked if some people wanted to help translate the website. I decided to do it because it was just translating and no html knowledge required. I translated a few pages.
+Comme on dit : "Quand l'occasion se présente, il faut la saisir" C'est à peu près ce qui s'est passé ici. Après presque deux mois en étant Proficient, et en étant engagé dans la communauté comme d'habitude, le propriétaire a demandé si certaines personnes voulaient aider à traduire le site web. J'ai décidé de le faire parce que c'était juste de la traduction et qu'aucune connaissance en html n'était requise. J'ai traduit quelques pages.
 
-### Nominated to become mod
+### Nommé pour devenir mod
 
-Later the same day, a poll was started in \#mod-chat about me becoming a mod \(I only figured this out after I became a mod\). I did not know about this at the time, so I went on about my business. The poll only got 1 upvote and 0 downvotes. The result was positive nonetheless.
+Plus tard le même jour, un sondage a été lancé dans \#mod-chat sur le fait que je devienne mod \(je ne l'ai découvert qu'après être devenu mod\). Je n'étais pas au courant à ce moment-là et j'ai donc continué à vaquer à mes occupations. Le sondage n'a obtenu que 1 vote positif et 0 vote négatif. Le résultat était néanmoins positif.
 
-### Moderator
+### Moderateur
 
-I joined the server on 14/03/2018 and became a mod on 22/07/2018. The 4 and a half months of work finally paid off, and you can now enjoy being a moderator.
+J'ai rejoint le serveur le 14/03/2018 et je suis devenu mod le 22/07/2018. Les 4 mois et demi de travail ont finalement payé, et vous pouvez maintenant profiter de votre statut de modérateur.
 
-**Congratulations, you are now a Moderator!**
+#### Félicitations, vous êtes maintenant un modérateur !
 
-### TL;DR
+### EN BREF
 
-* Be active
-* Help out in the support channels
-* If possible, help out in other ways like [translating the bot](../players-guide/how-to-contribute-to-the-bot.md)
-* Don't break any [rules](how-to-join.md) & build up your trust on the server
-* Learn [everything there is to know about DuckHunt](../players-guide/players-quickstart.md)
-* Get yourself noticed by the higher-ups in a good way
+* Soyez actif
+* Aide dans les canaux de soutien
+* Si possible, aidez d'une autre manière, par exemple en [traduisant le bot](../players-guide/how-to-contribute-to-the-bot.md).
+* N'enfreignez aucune [règles](how-to-join.md) et renforcez votre confiance dans le serveur.
+* Apprenez [tout ce qu'il y a à savoir sur DuckHunt](../players-guide/players-quickstart.md)
+* Faites-vous remarquer par les supérieurs d'une manière positive.
 
