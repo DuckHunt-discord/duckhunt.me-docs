@@ -1,38 +1,38 @@
 # How to join \(and rules\)
 
-Join the DuckHunt support server at: [https://duckhunt.me/support](https://duckhunt.me/support).
+Rejoignez le serveur de support de DuckHunt à l'adresse suivante : [https://duckhunt.me/support](https://duckhunt.me/support).
 
 {% hint style="danger" %}
-**Discord guidelines are enforced on the server**
+Les directives de Discord sont appliquées sur le serveur
 
-We abide by the standard discord rules. Please refer to [https://discordapp.com/guidelines](https://discordapp.com/guidelines) for those.
+Nous respectons les règles standard de Discord. Veuillez vous référer à [https://discordapp.com/guidelines](https://discordapp.com/guidelines) pour celles-ci.
 {% endhint %}
 
-## **Additionally, the following rules apply:**
+## En outre, les règles suivantes s'appliquent :
 
-1. Any questionable content \(NSFW, or even suggestive\) is not allowed. Anything posted must be okay for 13 year-olds.
-2. Don't post an invite link, or any other advertisement except at the request of a moderator
-3. Don't spam or disturb the normal flow of conversation.
-4. Avoid pinging multiple people. If you ping @moderators, you MUST have a good reason to do so.
-5. Do not be rude to, or insult people.
-6. Nicknames must not contain offensive language or special characters to appear at the top of the list. Please try to make yourself easily mentionable if you request support.
-7. Do not pretend to be the DuckHunt bot in the game channels, either by renaming yourself like it, or by posting fake ducks. Leave that fun part to Eyes, and use mechanical ducks.
-8. **DO NOT** DM members of the server without their prior approval. That includes the staff, and it also prohibits asking for support in staff DMs if we didn't ask you to do so first.
-9. Do not use the support channels for general discussion. Ask your questions right away, and wait for your answer.
-10. Please try to reduce the number of images and memes you send in the general channels. Use \#glorieux-memes-de-france instead.
-11. When requesting support, please try to show your research, what you tried and what you want exactly.
-12. The `ping me please` role, even if a joke, is not to be used willy-nilly. Please use full sentences and the ping or full sentences and then the ping in the message after, not just the ping or "hi `@ping me pls`".
-13. You are allowed to ping a member of the staff if they role-pinged you before \(exception made for `@I click everywhere ping me pls` role pings\). This allowance lasts for **24 hours** after the staff ping, and may only be used once per person. **Don't** abuse it.
+1. Tout contenu douteux \(NSFW, ou même suggestif\) n'est pas autorisé. Tout ce qui est posté doit être acceptable pour des jeunes de 13 ans.
+2. Ne postez pas de lien d'invitation, ou toute autre publicité, sauf à la demande d'un modérateur.
+3. N'envoyez pas de spam et ne perturbez pas le cours normal de la conversation.
+4. Évitez de pingez plusieurs personnes. Si vous pingez les @modérateurs, vous DEVEZ avoir une bonne raison de le faire.
+5. Ne soyez pas grossier et n'insultez pas les gens.
+6. Les pseudonymes ne doivent pas contenir de langage offensant ou de caractères spéciaux pour apparaître en tête de liste. Veuillez essayer de vous rendre facilement mentionnable si vous demandez de l'aide.
+7. Ne vous faites pas passer pour le bot DuckHunt dans les canaux du jeu, que ce soit en vous renommant comme lui ou en postant de faux canards. Laissez cette partie amusante à Eyes, et utilisez des canards mécaniques.
+8. **NE PAS envoyer de MP** aux membres du serveur sans leur accord préalable. Cela inclut le staff, et cela interdit également de demander de l'aide dans les MP du staff si nous ne vous avons pas demandé de le faire d'abord.
+9. N'utilisez pas les canaux d'assistance pour des discussions générales. Posez vos questions tout de suite, et attendez la réponse.
+10. Veuillez essayer de réduire le nombre d'images et de memes que vous envoyez dans les canaux généraux. Utilisez plutôt \#glorieux-memes-de-france.
+11. Lorsque vous demandez de l'aide, essayez de montrer vos recherches, ce que vous avez essayé et ce que vous voulez exactement.
+12. Le rôle `ping me please`, même s'il s'agit d'une blague, ne doit pas être utilisé à tort et à travers. Veuillez utiliser des phrases complètes et le ping ou des phrases complètes et le ping dans le message suivant, et pas seulement le ping ou "hi `@ping me pls`".
+13. Vous êtes autorisé à envoyer un ping à un membre du staff si celui-ci vous a déjà fait un ping de rôle \(exception faite pour les pings de rôle `@I click everywhere ping me pls`\). Cette autorisation dure 24 heures après le ping du staff, et ne peut être utilisée qu'une seule fois par personne. N'en abusez pas.
 
-If you wish to discuss the rules, or the actions of a moderator, you may do so in public, **except** if the moderator ask you to stop. Such concerns can also be bought directly to Eyesofcreeper\#0001 DMs.
+Si vous souhaitez discuter des règles, ou des actions d'un modérateur, vous pouvez le faire en public, sauf si le modérateur vous demande d'arrêter. De telles préoccupations peuvent également être amenées directement aux DM de Eyesofcreeper\#0001.
 
-We are open about how we moderate the server. A full, uncensored moderation log \(that contains every action a moderator may do on the server\), is viewable by anybody on the \#mod-log channel or on the [GetBeaned web interface](https://getbeaned.me/guilds/195260081036591104).
+Nous sommes ouverts sur la façon dont nous modérons le serveur. Un journal de modération complet et non censuré \(qui contient toutes les actions qu'un modérateur peut faire sur le serveur\), est consultable par tout le monde sur le canal \#mod-log ou sur le site web de l'[Interface web GetBeaned](https://getbeaned.me/guilds/195260081036591104).
 
 {% hint style="info" %}
-If you were acted on by the "thresholds enforcer", the following paragraph does not apply to you. Please appeal directly to **Eyesofcreeper\#0001**.
+Si vous avez fait l'objet d'une action de la part de l'"exécuteur des seuils", le paragraphe suivant ne vous concerne pas. Veuillez faire appel directement à Eyesofcreeper\#0001.
 {% endhint %}
 
-If you feel you have been warned/kicked/muted/banned unfairly, or if you show remorse towards your actions, please discuss it with the moderator that made that action. GetBeaned should have sent you a DM when it happened, but just in case, use [this link](https://getbeaned.me/guilds/195260081036591104) to go to the web interface and search for your entry.
+Si vous estimez que vous avez été averti/kické/muté/banni injustement, ou si vous avez des remords à l'égard de vos actions, veuillez en discuter avec le modérateur qui a pris cette mesure. GetBeaned devrait vous avoir envoyé un DM lorsque cela s'est produit, mais juste au cas où, utilisez [ce lien](https://getbeaned.me/guilds/195260081036591104) pour aller sur l'interface web et rechercher votre cas.
 
 You might have to add the mod as a "friend" if you were banned. Alternatively, you can join the [GetBeaned support](https://discord.gg/gT5pdgP) server and DM the mod that way. Don't forget to **be respectful at all times**, even in DMs.
 
