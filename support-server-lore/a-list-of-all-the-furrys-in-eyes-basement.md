@@ -1,13 +1,16 @@
 ---
-description: nice party in there lol
+description: belle fête là-dedans lol
 ---
 
-# A list of all the Furrys in Eyes' Attic
+# Une liste de tous les Furrys dans le Grenier d'Eyes
 
-The following are confirmed furrys that are believed to be held against their will inside Eyes' attic:
+Les personnes suivantes sont des furry confirmés qui seraient retenus contre leur gré dans le grenier d'Eyes : 
 
-Olpouin, he likes FireFox  
- Taoshi, he likes Wumpus  
- Subtle, I think he likes nekos  
- Ahuman, he likes Cat Mario
+Olpouin, il aime FireFox 
+
+Taoshi, il aime Wumpus 
+
+Subtle, je pense qu'il aime les nekos 
+
+Ahuman, il aime Cat Mario
 
