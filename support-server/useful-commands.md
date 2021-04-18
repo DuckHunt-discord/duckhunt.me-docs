@@ -1,7 +1,8 @@
-# Useful commands
+# Commandes utiles
 
-**This is not a command list for the DuckHunt bot.**  
-This is a list of commands you might want to know when interacting on the DuckHunt **Support** Server.
+**Il ne s'agit pas d'une liste de commandes pour le bot DuckHunt.** 
+
+Il s'agit d'une liste de commandes que vous pourriez vouloir connaître lorsque vous interagissez avec le serveur de **support** de DuckHunt.
 
 For a list of DuckHunt commands, please see the [command list](https://duckhunt.me/commands).
 

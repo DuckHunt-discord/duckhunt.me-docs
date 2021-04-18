@@ -3,7 +3,7 @@
 * [Le bot DuckHunt](README.md)
 * [Quelles sont les nouveautés de Duckhunt V4 ?](whats-new-in-duckhunt-v4.md)
 
-## Players guide
+## Guide des joueurs <a id="players-guide"></a>
 
 * [Players quickstart](players-guide/players-quickstart.md)
 * [Events](players-guide/events.md)
@@ -15,25 +15,25 @@
 * [FAQ](players-guide/faq.md)
 * [How to contribute to the bot](players-guide/how-to-contribute-to-the-bot.md)
 
-## Bot administration
+## Administration du bot <a id="bot-administration"></a>
 
 * [Administrators quickstart](bot-administration/admin-quickstart.md)
 * [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
 
-## Support server
+## Serveur de support <a id="support-server"></a>
 
 * [Comment rejoindre \(et les règles\)](support-server/how-to-join.md)
-* [Useful commands](support-server/useful-commands.md)
+* [Commandes utiles](support-server/useful-commands.md)
 * [List of roles](support-server/list-of-roles.md)
 * [Comment devenir un modérateur](support-server/how-to-become-a-mod.md)
 
-## Support Server Lore
+## Description du serveur de support <a id="support-server-lore"></a>
 
 * [Why do we hunt ducks ?](support-server-lore/why-do-we-hunt-ducks.md)
 * [Personnages principaux \(Dans l'ordre de la hiérarchie des rôles\)](support-server-lore/main-characters-in-order-of-role-hierarchy.md)
 * [Une liste de tous les Furrys dans le Grenier d'Eyes](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
 
-## The DuckHunt API
+## L'API de DuckHunt <a id="the-duckhunt-api"></a>
 
 * [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
 
