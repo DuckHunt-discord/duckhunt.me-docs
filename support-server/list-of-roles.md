@@ -1,24 +1,24 @@
 # List of roles
 
-This is a list of most of the roles you can find on the DuckHunt Server
+Voici une liste de la plupart des rôles que vous pouvez trouver sur le serveur de DuckHunt.
 
 ![Join us, we are shooting at ducks](../.gitbook/assets/duckhunt_animated.gif)
 
 | Role | Info |
 | :--- | :--- |
-| Duckies | Role given automatically when you join the server. |
-| Have DuckHunt | You have to be the owner or bot admin in a server with DuckHunt, ask a mod for the role \(DON'T ping please\). |
-| Pizza | You need to work for discord pizza \(and you can't get it anymore\). |
-| Moderator | People who are trusted by Eyes and who enforce rules on the server. Please check [How to become a mod](how-to-become-a-mod.md). |
-| Eyes bots | Eyes' personally coded bots. |
-| Owner | Eyes is the only owner. |
-| Wiki Writezard | People with access to this wiki, to edit and correct it. |
-| Contributor | People who helped tremendously with the development of DuckHunt. |
-| English Support Volunteer | A person who knows a lot about the bot, and can help people in English. Can get pinged by people in \#support\_english if people need it. |
-| French Support Volunteer | A person who knows a lot about the bot, and can help people in French. Can get pinged by people in \#support\_french if people need it. |
-| Translator | Translator for the bot \(or the wiki.\) |
-| Any language | Translator for that specific language, like French, Dutch, Spanish, etc. |
-| Bug Hunters | People who have found a serious bug and posted it to \#bug\_report. |
+| Duckies | Rôle donné automatiquement lorsque vous rejoignez le serveur. |
+| Have DuckHunt | Vous devez être le propriétaire ou l'administrateur du bot dans un serveur avec DuckHunt, demandez le rôle à un mod \(NE PAS faire de ping s'il vous plaît\). |
+| Pizza | Vous devez travailler pour la discord pizza \(et vous ne pouvez plus l'obtenir\). |
+| Moderator | Les personnes qui ont la confiance d'Eyes et qui font respecter les règles sur le serveur. Veuillez consulter la rubrique [Comment devenir un modérateur](how-to-become-a-mod.md). |
+| Eyes bots | Les robots codés personnellement par Eyes. |
+| Owner | Eyes est le seul propriétaire. |
+| Wiki Writezard | Les personnes ayant accès à ce wiki, pour le modifier et le corriger. |
+| Contributor | Les personnes qui ont aidé énormément au développement de DuckHunt. |
+| English Support Volunteer | Une personne qui en sait beaucoup sur le bot, et qui peut aider les gens en anglais. Peut se faire pinger par les gens de \#support\_english si les gens en ont besoin. |
+| French Support Volunteer | Une personne qui en sait beaucoup sur le bot, et qui peut aider les gens en français. Peut se faire pinger par les gens de \#support\_french si les gens en ont besoin. |
+| Translator | Traducteur pour le bot \(ou le wiki.\) |
+| Any language | Traducteur pour cette langue spécifique, comme le français, le néerlandais, l'espagnol, etc. |
+| Bug Hunters | Les personnes qui ont trouvé un bug sérieux et l'ont posté sur \#bug\_report. |
 | Proficient | People who are skilled with the bot and are helpful in support channels. |
 | Weeaboo | People who are weebs. They watch anime. |
 | Donator | People who [donated](https://www.patreon.com/duckhunt) to the bot. |
