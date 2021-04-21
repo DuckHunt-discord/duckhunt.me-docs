@@ -1,4 +1,10 @@
-# List of roles
+---
+description: >-
+  Voici une liste de la plupart des rôles que vous pouvez trouver sur le serveur
+  de DuckHunt.
+---
+
+# Liste des rôles
 
 Voici une liste de la plupart des rôles que vous pouvez trouver sur le serveur de DuckHunt.
 

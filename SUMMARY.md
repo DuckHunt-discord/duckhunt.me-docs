@@ -24,7 +24,7 @@
 
 * [Comment rejoindre \(et les règles\)](support-server/how-to-join.md)
 * [Commandes utiles](support-server/useful-commands.md)
-* [List of roles](support-server/list-of-roles.md)
+* [Liste des rôles](support-server/list-of-roles.md)
 * [Comment devenir un modérateur](support-server/how-to-become-a-mod.md)
 
 ## Description du serveur de support <a id="support-server-lore"></a>
