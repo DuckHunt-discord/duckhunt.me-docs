@@ -6,7 +6,7 @@
 
 ## **De quoi s'agit-il ?**
 
-Voici la documentation de la version 4 du célèbre robot DuckHunt. Pour voir ce qu'il y a de nouveau, vous pouvez vous diriger vers le [changelog](whats-new-in-duckhunt-v4.md). 
+Voici la documentation de la version 4 du célèbre bot DuckHunt. Pour voir ce qu'il y a de nouveau, vous pouvez vous diriger vers le [changelog](whats-new-in-duckhunt-v4.md). 
 
 Si vous venez de découvrir DuckHunt, ce wiki est une source précieuse d'informations où vous pourrez en apprendre davantage sur le bot que vous vous apprêtez à utiliser. Vous pourrez y trouver
 
