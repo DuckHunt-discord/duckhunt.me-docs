@@ -5,7 +5,7 @@
 
 ## Guide des joueurs <a id="players-guide"></a>
 
-* [Players quickstart](players-guide/players-quickstart.md)
+* [Guide de démarrage rapide pour les joueurs](players-guide/players-quickstart.md)
 * [Events](players-guide/events.md)
 * [Levels and experience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievements-guide.md)
