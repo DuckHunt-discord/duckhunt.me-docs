@@ -26,7 +26,7 @@ Sauf indication contraire, nous supposons que votre serveur utilise les paramèt
 
 ## Crédits
 
-Ce wiki a été créé pour DuckHunt\#0550, un robot Discord développé par Eyesofcreeper\#0001. 
+Ce wiki a été créé pour DuckHunt\#0550, un bot Discord développé par Eyesofcreeper\#0001. 
 
 Bien que Eyesofcreeper ait créé le robot et contribué au wiki, beaucoup d'autres personnes ont aidé à en faire ce qu'il est aujourd'hui. Si vous voulez aider aussi, jetez un coup d'œil ici. Merci !
 

@@ -1,31 +1,31 @@
-# Why do we hunt ducks ?
+# Pourquoi chassons nous les canards ?
 
-#### A long, long time ago, in the remote country of DuckHunt, on the Discord continent... 
+#### Il y a très, très longtemps, dans le lointain pays de DuckHunt, sur le continent de Discord...
 
-_insert nice music here_
+_insérer une musique sympa ici_
 
-**The ducks have declared a war on humanity.** Some of them, who disagree with the Supreme Duck, flew from the Duck's country, also known as the "Pond", and are now welcomed in our special refuge : \#duck・of・the・day.
+**Les canards ont déclaré la guerre à l'humanité**. Certains d'entre eux, en désaccord avec le Canard Suprême, se sont envolés du pays du Canard, aussi connu sous le nom de "Pond", et sont maintenant accueillis dans notre refuge spécial : \#duck・of・the・day.
 
-Meanwhile, the other ducks kept on creeping on us, but fortunately our country is protected by heavy walls, and there are only two places where they can approach within shooting range;
+Pendant ce temps, les autres canards continuaient à s'approcher de nous, mais heureusement, notre pays est protégé par de lourds murs, et il n'y a que deux endroits où ils peuvent s'approcher à portée de tir ;
 
 *  \#🦆game・monthly・reset and
 *  \#🦆game・all・time.
 
-![One of the damn soldiers we have to face everyday.](../.gitbook/assets/soldier_duck_globloxmen.png)
+![Un des satan&#xE9;s soldats que nous devons affronter chaque jour.](../.gitbook/assets/soldier_duck_globloxmen.png)
 
-\#🦆game・monthly・reset was once the subject of a failed experiment, that we still can't stop: every month, the shooters seem to lose all their memories, and can't shoot anymore. \(your level resets\) 
+\#🦆game・monthly・reset a fait l'objet d'une expérience ratée, que nous ne pouvons toujours pas arrêter : chaque mois, les tireurs semblent perdre tous leurs souvenirs, et ne peuvent plus tirer. \(votre niveau se réinitialise\)
 
-\#🦆game・all・time is the other place where ducks appear. Keep an eye out for them!
+\#🦆game・all・time est l'autre endroit où les canards apparaissent. Gardez un œil sur eux !
 
-\#🦆tests is a simulated battleground for the armed forces. Here, every soldier can ask for more funds, allowing them to experiment on the ducks. Use the knowledge wisely!
+\#🦆tests est un champ de bataille simulé pour les forces armées. Ici, chaque soldat peut demander plus de fonds, ce qui lui permet de faire des expériences sur les canards. Utilisez vos connaissances à bon escient !
 
-Beware of their [officers](../players-guide/types-of-ducks.md) : the Super-Ducks are even more powerful than their regular soldiers, and can take a few shots before dying. And then there are the MOADs. Not only they are as resistant as Super-Ducks. But also, when they die, two vengeful soldiers take their place.
+Méfiez-vous de leurs [officiers](../players-guide/types-of-ducks.md) : les Super-Ducks sont encore plus puissants que leurs soldats ordinaires, et peuvent encaisser quelques coups avant de mourir. Et puis il y a les MOADs. Non seulement ils sont aussi résistants que les Super-Ducks. Mais aussi, lorsqu'ils meurent, deux soldats vengeurs prennent leur place.
 
-Thanks to extensive military funding, we now have access to Armor-piercing bullets and Explosive bullets, that will help you fight those monsters.
+Grâce à un financement militaire important, nous avons maintenant accès à des balles perforantes et explosives, qui vous aideront à combattre ces monstres.
 
-The enemy ducks may leave the battlefield early since they are only on patrol, they must stay for a fixed time, and then they desert due to our **overwhelming strength**.
+Les canards ennemis peuvent quitter le champ de bataille prématurément car ils ne sont qu'en patrouille, ils doivent rester pendant un temps déterminé, puis ils désertent en raison de notre force écrasante.
 
-Good luck, soldiers. Now that you know why you fight, be brave. The Noduck may have mercy on you.
+Bonne chance, soldats. Maintenant que vous savez pourquoi vous vous battez, soyez courageux. Le Noduck aura peut-être pitié de vous.
 
---- General Calgeka
+--- Général Calgeka
 

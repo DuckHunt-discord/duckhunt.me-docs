@@ -29,7 +29,7 @@
 
 ## Description du serveur de support <a id="support-server-lore"></a>
 
-* [Why do we hunt ducks ?](support-server-lore/why-do-we-hunt-ducks.md)
+* [Pourquoi chassons nous les canards ?](support-server-lore/why-do-we-hunt-ducks.md)
 * [Personnages principaux \(Dans l'ordre de la hiérarchie des rôles\)](support-server-lore/main-characters-in-order-of-role-hierarchy.md)
 * [Une liste de tous les Furrys dans le Grenier d'Eyes](support-server-lore/a-list-of-all-the-furrys-in-eyes-basement.md)
 
