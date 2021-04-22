@@ -4,21 +4,21 @@
 
 Il s'agit d'une liste de commandes que vous pourriez vouloir connaître lorsque vous interagissez avec le serveur de **support** de DuckHunt.
 
-For a list of DuckHunt commands, please see the [command list](https://duckhunt.me/commands).
+Pour une liste des commandes de DuckHunt, veuillez consulter la [liste des commandes](https://duckhunt.me/commands).
 
-The following is only an overview of the commands we find to be the most useful. For more information about them, feel free to run the `help`command for the respective bot.
+Ce qui suit n'est qu'un aperçu des commandes que nous trouvons les plus utiles. Pour plus d'informations à leur sujet, n'hésitez pas à lancer la commande `help` du bot concerné.
 
 {% hint style="success" %}
-Do **not** include brackets like &lt;&gt; or \[\] in the commands. A &lt;&gt; bracket mention a **required** argument, and \[\] brackets refer to **optional** arguments.
+N'incluez **pas** de parenthèses comme &lt;&gt; ou \[\] dans les commandes. Une parenthèse &lt;&gt; mentionne un argument **obligatoire**, et les parenthèses \[\] font référence à des arguments **facultatifs**.
 {% endhint %}
 
 ## R. Danny \(Support\)
 
-R. Danny is mainly used for tags to quickly send a message for an often asked question, a formula or many others.
+R. Danny est principalement utilisé pour les tags afin d'envoyer rapidement un message pour une question souvent posée, une formule ou bien d'autres encore.
 
-| Command | Explanation |
+| Commande | Explication |
 | :--- | :--- |
-| `?tag <tag name>` | Displays the `tag name`in the current channel. Useful tags include `wrong_channel`, `setup` and `manual` |
+| `?tag <tag name>` | Affiche le `nom du tag` dans le canal actuel. Les tags utiles incluent `wrong_channel`, `setup` et `manual`. |
 | `?tag list` | Lists every tag currently available. |
 | `?tag make` | Lets you create a tag. This is an interactive command. |
 
