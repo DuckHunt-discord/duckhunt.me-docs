@@ -1,4 +1,8 @@
-# Coat colors
+---
+description: Parce qu'on ne sait jamais quelle couleur mettre !
+---
+
+# Couleurs des manteaux
 
 Since [DuckHunt V4.1](../whats-new-in-duckhunt-v4.md), when buying a [coat in the shop](https://duckhunt.me/commands/shop/coat) you'll be given a randomly colored coat. Additionally, with [prestige level 2](levels-and-experience.md#prestige-levels) or more, you are even able to select a specific color yourself \(`dh!shop coat <color>`\).
 
