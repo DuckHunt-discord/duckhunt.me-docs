@@ -52,5 +52,7 @@ Here are a few links if you want to donate some $ to me to keep this project run
 * [https://github.com/sponsors/paris-ci](https://github.com/sponsors/paris-ci)
 * [https://paypal.me/duckduckhunt](https://paypal.me/duckduckhunt)
 
-If you donate towards the development of the bot, feel free to ask for a special VIP server item that'll allow you to mark you server as VIP, and bypass the limit of [ducks per day](https://duckhunt.me/commands/settings/ducks_per_day).
+If you donate towards the development of the bot, feel free to ask for a special VIP server item that'll allow you to mark you server as VIP, and bypass the limit of [ducks per day](https://duckhunt.me/commands/settings/ducks_per_day).  
+  
+You can also donate to the bot by purchasing items throught the [DuckHunt Shop](https://duckhunt.me/shop/product_types) to receive something in return of your donation !
 
