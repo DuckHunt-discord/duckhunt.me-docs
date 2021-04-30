@@ -1,32 +1,32 @@
 # Edit settings / Settings list
 
-## What are settings
+## Que sont les paramètres ?
 
-Settings are used to customize the hunting experience on your channel. \(✨ **New on V4:** settings are now per-channel.\)
+Les paramètres sont utilisés pour personnaliser l'expérience de chasse sur votre canal. \(✨ Nouveau sur la V4 : les paramètres sont désormais par canal\).
 
-## What are _all_ the settings ?
+### Quels sont _tout_ les paramètres ?
 
-You can see settings you can access, and the permissions required to change them, you can view the [settings subcommand list](https://duckhunt.me/commands/settings).
+Vous pouvez voir les paramètres auxquels vous pouvez accéder, et les autorisations requises pour les modifier, vous pouvez voir la [liste des sous-commandes des paramètres](https://duckhunt.me/commands/settings).
 
-This page is there to explain what exactly the settings do, and how to configure them. They are ordered here in an arbitrary order of "importance". The most important the setting is, the highest it'll be.
+Cette page est là pour expliquer ce que font exactement les paramètres, et comment les configurer. Ils sont classés ici dans un ordre arbitraire d'"importance". Plus le paramètre est important, plus il sera élevé.
 
-Note that some settings might now be shown here. Use the above link to view them all.
+Notez que certains paramètres peuvent maintenant être affichés ici. Utilisez le lien ci-dessus pour les afficher tous.
 
-## Useful commands
+## Commandes utiles
 
-You can use `dh!settings [your_setting_name]` to view the current setting value... Or you could also look at all the settings by doing `dh!settings` to get a link to your channel current settings. Don't forget to refresh the page after updating them ;\)
+Vous pouvez utiliser `dh!settings [your_setting_name]` pour voir la valeur du paramètre actuel... Ou vous pouvez aussi regarder tous les paramètres en faisant `dh!settings` pour obtenir un lien vers les paramètres actuels de votre canal. N'oubliez pas de rafraîchir la page après les avoir mis à jour ;\)
 
-## Most important settings
+## Paramètres les plus importants
 
-### The server language
+### La langue du serveur
 
-This is the language used on the server. Setting this will translate the bot messages to your server language.
+Il s'agit de la langue utilisée sur le serveur. En définissant cette option, les messages du robot seront traduits dans la langue de votre serveur.
 
-To see all the available languages, use the [`dh!translators`](https://duckhunt.me/commands/translators) command.
+Pour voir toutes les langues disponibles, utilisez la commande [`dh!translators`](https://duckhunt.me/commands/translators).
 
-Keep in mind that the bot is translated by humans like you. If you would like to see a language that isn't on that list, you can ask to [translate the bot](../players-guide/how-to-contribute-to-the-bot.md). In case a language is unfinished, some sentences might be sent in english instead.
+N'oubliez pas que le bot est traduit par des humains comme vous. Si vous souhaitez voir une langue qui ne figure pas dans cette liste, vous pouvez demander à [traduire le bot](../players-guide/how-to-contribute-to-the-bot.md). Si une langue n'est pas finie, certaines phrases peuvent être envoyées en anglais à la place.
 
-Sometimes, you might see grammar mistakes or typos. In that case, please directly contact the translator to fix it, or give us a heads up on the [support server](https://discordapp.com/invite/2BksEkV).
+Parfois, vous pouvez constater des erreurs de grammaire ou des fautes de frappe. Dans ce cas, veuillez contacter directement le traducteur pour qu'il les corrige, ou bien prévenez-nous sur le[ serveur d'assistance.](https://discordapp.com/invite/2BksEkV)
 
 ### Ducks per day
 
@@ -115,11 +115,11 @@ DuckHunt uses two types of prefixes : global prefixes \(`dh!`, `dh`, and @mentio
 
 ### Annoyances
 
-Some settings may make the bot mention players in some cases. Setting [`mentions_when_killed`](https://duckhunt.me/commands/settings/mentions_when_killed) to `False` will prevent DuckHunt from mentioning hunters if they get killed.
+Certains paramètres peuvent faire en sorte que le bot mentionne les joueurs dans certains cas. Le réglage de [`mentions_when_killed`](https://duckhunt.me/commands/settings/mentions_when_killed) sur `False` empêchera DuckHunt de mentionner les chasseurs s'ils sont tués.
 
-Additionally, players can disable mention when the bot replies to them by using the following command : [`dh!settings ping False`](https://duckhunt.me/commands/settings/ping). Note that this setting applies to an **user** account across all the servers where DuckHunt is. It cannot be configured per-channel.
+De plus, les joueurs peuvent désactiver la mention lorsque le bot leur répond en utilisant la commande suivante : [`dh!settings ping False`](https://duckhunt.me/commands/settings/ping). Notez que ce paramètre s'applique à un compte utilisateur sur tous les serveurs où se trouve DuckHunt. Il ne peut pas être configuré par canal.
 
-Another setting is [`my_language`](https://duckhunt.me/commands/settings/my_language), that allow a **user** to set the language the bot should use when communicating with him in DMs.
+Un autre paramètre est `my_language`, qui permet à un utilisateur de définir la langue que le robot doit utiliser lorsqu'il communique avec lui dans les DM.
 
 If emojis make you lag, you can disable some of them using [`dh!settings use_emojis False`](https://duckhunt.me/commands/settings/use_emojis)
 
