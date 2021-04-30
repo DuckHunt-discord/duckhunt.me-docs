@@ -1,18 +1,18 @@
 # FAQ
 
-## How do I play?
+## Comment puis-je jouer ?
 
-The best way would be to read [our players guide](players-quickstart.md).
+Le meilleur moyen est de lire notre [guide du joueur](players-quickstart.md).
 
-## How do I install the bot?
+## Comment installer le bot ?
 
-See the [QuickStart for administrators](../bot-administration/admin-quickstart.md). Don't forget to [enable](https://duckhunt.me/commands/settings/enabled) the channel !
+Voir le [QuickStart pour les administrateurs](../bot-administration/admin-quickstart.md). N'oubliez pas d'activer le [canal](https://duckhunt.me/commands/settings/enabled) !
 
-## The bot does not work ?
+## Le bot ne fonctionne pas ?
 
-Alternative titles: There are almost no commands on my channel?, The bang/reload command doesn't work, The bot stays silent.
+Titres alternatifs : Il n'y a presque pas de commandes sur mon canal ?, La commande bang/reload ne fonctionne pas, Le bot reste silencieux.
 
-You didn't [enable](https://duckhunt.me/commands/settings/enabled) the channel, did you ? Maybe you should read the [QuickStart guide for administrators](../bot-administration/admin-quickstart.md).
+Vous n'avez pas [activé](https://duckhunt.me/commands/settings/enabled) le canal, n'est-ce pas ? Vous devriez peut-être lire le guide de [démarrage rapide pour les administrateurs](../bot-administration/admin-quickstart.md).
 
 ## Can I see the source code?
 
