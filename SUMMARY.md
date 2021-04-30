@@ -6,7 +6,7 @@
 ## Guide des joueurs <a id="players-guide"></a>
 
 * [Guide de démarrage rapide pour les joueurs](players-guide/players-quickstart.md)
-* [Events](players-guide/events.md)
+* [Événements](players-guide/events.md)
 * [Levels and experience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievements-guide.md)
 * [Types of ducks](players-guide/types-of-ducks.md)

@@ -1,67 +1,66 @@
-# Events
+# Événements
 
 Les événements se produisent à l'échelle mondiale, au même moment et sur l'ensemble de Discord. Ils modifieront le gameplay et rendront la chasse aux canards plus amusante. Toutes les heures, il y a 10 % de chances qu'un événement soit appliqué \(pendant une heure\). Si un événement doit être tiré au sort, il est choisi dans la liste des événements avec une probabilité égale. Cela signifie qu'il devrait y avoir environ 2 événements par jour.
 
 {% hint style="success" %}
-To display the current event, you can use the `dh!event` command.
+Pour montrer les événements en cours, utilisez la commande `dh!event`
 {% endhint %}
 
-## Everything is Calm
+## Tout est calme
 
-> Nothing is happening right now.
+> Rien ne se passe en ce moment.
 
-This means that the game is running normally.
+Cela signifie que le jeu se déroule normalement.
 
-## Ducks are Migrating
+## Les canards migrent
 
-> Prepare to see more ducks in the next hour.
+> Préparez-vous à voir d'autres canards dans l'heure qui vient.
 
-There is a 10% chance that 2 ducks will spawn instead of one.
+Il y a 10 % de chances que 2 canards apparaissent au lieu d'un seul.
 
-## Steroids in the Lake
+## Des stéroïdes dans le lac
 
-> A medical waste company dumped steroids into the lake.  
-> Ducks have mutated, and you'll see a lot more Super Ducks. But, be careful, and don't drink that water.
+> Une entreprise de déchets médicaux a déversé des stéroïdes dans le lac. Les canards ont muté, et vous verrez beaucoup plus de Super Canards. Mais, faites attention, et ne buvez pas cette eau.
 
-The chance that a super duck will appear is doubled.
+La chance qu'un super canard apparaisse est doublée.
 
-## Safety Class Canceled
+## Cours de sécurité annulé
 
-> The safety class was canceled. Beware of shooting other hunters!
+> Le cours de sécurité a été annulé. Attention à ne pas tirer sur d'autres chasseurs !
 
-You are twice as likely to kill another hunter. This is one of the worst events, so don't forget to [buy a sight](https://duckhunt.me/commands/shop/sight) to reduce misses, and/or a [licence to kill](https://duckhunt.me/commands/shop/licence) to reduce penalties.
+Vous avez deux fois plus de chances de tuer un autre chasseur. C'est l'un des pires événements, alors n'oubliez pas d'acheter [un viseur](https://duckhunt.me/commands/shop/sight) pour réduire les ratés, et/ou un [permis de tuer](https://duckhunt.me/commands/shop/licence) pour réduire les pénalités.
 
-## Connection Problems
+## Problèmes de connexion
 
-> Ducks can't find your computer due to connection problems, and there will be fewer of them until it's repaired.
+> Les canards ne peuvent pas trouver votre ordinateur en raison de problèmes de connexion, et ils seront moins nombreux jusqu'à ce qu'il soit réparé.
 
-There is a 10% chance a duck that should have spawned gets canceled. Ducks that don't spawn still count towards the [ducks per day](https://duckhunt.me/commands/settings/ducks_per_day) [setting](../bot-administration/edit-settings-settings-list.md)
+Il y a 10 % de chances qu'un canard qui aurait dû apparaître soit annulé. Les canards qui n'apparaissent pas comptent quand même dans le calcul des canards par jour.
 
-## A New Florist in Town
+## Un nouveau fleuriste en ville
 
-> A new florist opened in town, and you can now find better 4-leaf-clovers. Go check them out!
+> Un nouveau fleuriste a ouvert en ville, et vous pouvez maintenant trouver de meilleurs trèfles à 4 feuilles. Va les voir !
 
-One if not the best event. This doubles the upper bound of clover exp. Normally, when you buy a clover, it'll give you from 1 to 10 exp points more for every duck you kill. With this event, the clover experience will be rolled between 1 and 20!
+Un, sinon le meilleur événement. Cela double la limite supérieure de l'exp du trèfle. Normalement, lorsque vous achetez un trèfle, il vous donne de 1 à 10 points d'expérience supplémentaires pour chaque canard que vous tuez. Avec cet événement, l'expérience du trèfle sera comprise entre 1 et 20 !
 
-## Mega-Ducks
+## Mega-Canards
 
-> Someone inflated a super duck, and now they're EVEN BIGGER!!
+> Quelqu'un a gonflé un super canard, et maintenant ils sont encore plus grands !
 
-Super Ducks get 4 more lives.
+Les Super Canards ont 4 vies supplémentaires.
 
-## Windy Weather
+## Temps venteux
 
-> Bullets are deflected by strong wind
+> Les balles sont déviées par un vent fort
 
-Hunters’ accuracy is reduced to 3/4 their current accuracy, with a minimum of 60%. If you can, use a [sight](https://duckhunt.me/commands/shop/sight).
+La précision des chasseurs est réduite aux 3/4 de leur précision actuelle, avec un minimum de 60%. Si vous le pouvez, utilisez un [viseur](https://duckhunt.me/commands/shop/sight).
 
-## UN Treaty
+## Traité de l'ONU
 
-> AP and Explosive ammo are disabled. Super ducks are worth more exp, since they are getting rare.
+> Les munitions AP et explosives sont désactivées. Les super canards valent plus d'exp, car ils deviennent rares.
 
-Also of note, armored ducks won't resist during this event.
+A noter également que les canards en armure ne résisteront pas pendant cet événement.
 
-## \(Re\)starting
+## \(Re\)démarrage
 
-The bot is currently downloading data from discord and will be back shortly. You cannot hunt during this time. If the bot status seems stuck, check the [status page](https://duckhunt.me/status)
+Le bot est en train de télécharger des données depuis discord et sera de retour sous peu. Vous ne pouvez pas chasser pendant ce temps. Si le statut du bot semble bloqué, consultez la page de [statut](https://duckhunt.me/status).
 
