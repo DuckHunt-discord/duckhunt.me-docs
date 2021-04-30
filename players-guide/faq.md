@@ -14,40 +14,40 @@ Titres alternatifs : Il n'y a presque pas de commandes sur mon canal ?, La comma
 
 Vous n'avez pas [activé](https://duckhunt.me/commands/settings/enabled) le canal, n'est-ce pas ? Vous devriez peut-être lire le guide de [démarrage rapide pour les administrateurs](../bot-administration/admin-quickstart.md).
 
-## Can I see the source code?
+## Puis-je voir le code source ?
 
-Sure you can! Head to [GitHub](https://github.com/DuckHunt-discord) for it!
+Bien sûr que vous pouvez ! Rendez-vous sur [GitHub](https://github.com/DuckHunt-discord) pour le faire !
 
-The project is separated in a few repositories :
+Le projet est séparé en plusieurs répositoires :
 
-* The [documentation](https://github.com/DuckHunt-discord/duckhunt.me-docs) you are currently reading \(edits links for specific pages are also available on the sidebar\). Written in Markdown, very easy to edit for beginners and experts alike.
-* The [bot](https://github.com/DuckHunt-discord/DHV4) itself, with all the [commands](https://duckhunt.me/commands), and the [API](../the-duckhunt-api/channels-scores-and-stats.md). Written in Python, using the discord.py library.
-* The [website](https://github.com/DuckHunt-discord/DHV4_Web), used to format and display this documentation, but also to render statistics pages. Written using Django, HTML&CSS, Jinja2, and a touch of JS.
-* The [docker config](https://github.com/DuckHunt-discord/DuckHunt_Docker), tying all of this together, and allowing for an easy deployment of the bot.
+* La [documentation](https://github.com/DuckHunt-discord/duckhunt.me-docs) que vous êtes en train de lire \(des liens d'édition pour des pages spécifiques sont également disponibles dans la barre latérale\). Écrit en Markdown, très facile à éditer pour les débutants comme pour les experts.
+* Le [bot](https://github.com/DuckHunt-discord/DHV4) lui-même, avec toutes les [commandes](https://duckhunt.me/commands), et l['API](../the-duckhunt-api/channels-scores-and-stats.md). Écrit en Python, en utilisant la bibliothèque discord.py.
+* Le [site web](https://github.com/DuckHunt-discord/DHV4_Web), utilisé pour formater et afficher cette documentation, mais aussi pour rendre les pages de statistiques. Écrit avec Django, HTML&CSS, Jinja2, et une touche de JS.
+* La [configuration docker](https://github.com/DuckHunt-discord/DuckHunt_Docker), qui lie tout cela ensemble et permet un déploiement facile du robot.
 
-## I want to self-host DuckHunt/I want my own copy of DuckHunt. How do I do it?
+## Je veux héberger moi-même DuckHunt/je veux ma propre copie de DuckHunt. Comment puis-je le faire ?
 
-This is clearly not recommended. The official bot is the best choice in 99.9% of the cases. Note that no support will be given for self-hosted versions, and you have to update the bot in a timely fashion. However, if you still want to try it, the best way to go ahead would be to use [the docker configuration files](https://github.com/DuckHunt-discord/DuckHunt_Docker).
+Ce n'est clairement pas recommandé. Le bot officiel est le meilleur choix dans 99,9 % des cas. Notez qu'aucune assistance ne sera fournie pour les versions auto-hébergées et que vous devrez mettre à jour le robot en temps voulu. Toutefois, si vous voulez quand même l'essayer, la meilleure façon de procéder est d'utiliser les fichiers de [configuration de Docker](https://github.com/DuckHunt-discord/DuckHunt_Docker).
 
-Don't forget to claim the Selfhoster [role](../support-server/list-of-roles.md) on the [support server](https://discordapp.com/invite/2BksEkV) to be pinged for important updates.
+N'oubliez pas de prendre le rôle de [Selfhoster](../support-server/list-of-roles.md) sur le [serveur de support](https://discordapp.com/invite/2BksEkV) pour être informé des mises à jour importantes.
 
-## I found a bug! Where should I go?
+## J'ai trouvé un bug ! Où dois-je aller ?
 
-Congratulations! You can go to [our support server](https://discordapp.com/invite/2BksEkV) to report it, or open an [issue on GitHub](https://github.com/DuckHunt-discord/DHV4/issues).
+Félicitations ! Vous pouvez vous rendre sur notre [serveur de support](https://discordapp.com/invite/2BksEkV) pour le signaler, ou ouvrir un [problème sur GitHub](https://github.com/DuckHunt-discord/DHV4/issues).
 
-## I have a feature request/suggestion!
+## J'ai une demande/suggestion de fonctionnalité !
 
-That's not really a question, but you can go to [GitHub](https://github.com/DuckHunt-discord/DHV4/issues) to suggest things! You can also use the \#🙋suggestions channel on the [support server](https://duckhunt.me/support).
+Ce n'est pas vraiment une question, mais vous pouvez aller sur [GitHub](https://github.com/DuckHunt-discord/DHV4/issues) pour suggérer des choses ! Vous pouvez également utiliser le canal \#🙋suggestions sur le [serveur de support](https://duckhunt.me/support).
 
-## I love you!
+## Je t'aime !!!
 
-Me too ! ❤️
+Moi aussi ! ❤️
 
-## Can I donate to support the development of the bot ?
+## Puis-je faire un don pour soutenir le développement du robot ?
 
-See [this page](how-to-contribute-to-the-bot.md)! Thanks 😁.
+Voir [cette page](how-to-contribute-to-the-bot.md) ! Merci 😁.
 
-## Is there a way to simulate different settings ?
+## Existe-t-il un moyen de simuler différents paramètres ?
 
-Yes there is ! Steefgozercool\#6710 made an Excel spreadsheet where you can simulate any combination of settings and plays to see what happens to scores. Click [here](https://cdn.discordapp.com/attachments/262720111591292928/794993119304613958/Duckhunt_experience_calculator_DHV4_beta_NEW.xlsx) to download it.
+Oui, il y en a un ! Steefgozercool\#6710 a créé une feuille de calcul Excel où vous pouvez simuler n'importe quelle combinaison de paramètres et de jeux pour voir ce qui arrive aux scores. Cliquez [ici](https://cdn.discordapp.com/attachments/262720111591292928/794993119304613958/Duckhunt_experience_calculator_DHV4_beta_NEW.xlsx) pour la télécharger.
 
