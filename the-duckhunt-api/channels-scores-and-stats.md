@@ -1,13 +1,13 @@
 # Channels scores and stats
 
-If someone wants to do a dashboard or something to control DuckHunt, there are a few API routes already. They all return JSON or HTTP404/403/500.
+Si quelqu'un veut faire un tableau de bord ou quelque chose pour contrôler DuckHunt, il y a déjà quelques routes API. Elles renvoient toutes JSON ou HTTP404/403/500.
 
 ## **Routes**
 
-* `/api/channels` \[Global Authentication required\] Returns some information about all channels enabled on the bot.
-* `/api/channels/{channel_id}` \[Authentication required\] Returns information about the channel, like the ducks currently spawned.
-* `/api/channels/{channel_id}/settings` \[Authentication required\] Returns channel settings
-* `/api/channels/{channel_id}/top` \[No authentication required\] Returns the top scores \(all players on the channel and some info about players\)
+* `/api/channels` \[Authentification globale requise\] Renvoie des informations sur tous les canaux activés sur le bot.
+* `/api/channels/{channel_id}` \[Authentification requise\] Renvoie des informations sur le canal, comme les canards actuellement apparus.
+* `/api/channels/{channel_id}/settings` \[Authentification requise\] Renvoie les paramètres du canal
+* `/api/channels/{channel_id}/top` \[Pas d'authentification requise\) Renvoie les meilleurs scores \(tous les joueurs sur le canal et quelques informations sur les joueurs\).
 * `/api/channels/{channel_id}/player/{player_id}` \[No authentication required\] Returns _all_ the data for a specific user
 * `/api/help/commands` \[No authentication required\] Returns all the commands registered with the bot.
 * `/api/status` \[No authentication required\] Returns the status of every shard the bot currently has connected to the gateway.
