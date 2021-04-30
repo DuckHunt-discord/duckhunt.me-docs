@@ -8,47 +8,47 @@ Since [DuckHunt V4.1](../whats-new-in-duckhunt-v4.md), when buying a [coat in th
 
 Every color will give you a small, different power up. 
 
-### White coat
+### Manteau blanc
 
-> A useful coat when it rains
+> Un manteau utile quand il pleut
 
-### Orange coat
+### Manteau orange
 
-> Better visibility: Increase your chance to frighten ducks, and reduce your chance to get shot by another hunter.
+> Meilleure visibilité : Augmente vos chances d'effrayer les canards, et réduis vos chances de vous faire tirer dessus par un autre chasseur.
 
-### Camo coat 
+### Manteau camouflage 
 
-> Lower visibility: Less chance to frighten ducks.
+> Visibilité réduite : Moins de chances d'effrayer les canards.
 
-### Blue coat
+### Manteau bleu
 
-> Lucky find: Increase your chance to find items in bushes.
+> Main chanceuse : Augmentez vos chances de trouver des objets dans les buissons.
 
-### Red coat
+### Manteau rouge
 
-> Hungry for blood: Increase your murder skills, reduce murder penalties.
+> Assoiffé de sang : Augmentez vos compétences de meurtre, réduisez les pénalités de meurtre.
 
-### Yellow coat
+### Manteau jaune
 
-> Sun powers: Mirrors are less effective against you.
+> Pouvoirs du soleil : Les miroirs sont moins efficaces contre vous.
 
-### Dark green coat
+### Manteau vert foncé
 
-> Farming skills: Clovers give you one more experience point.
+> Agriculteur : Les trèfles vous donnent un point d'expérience supplémentaire.
 
-### Black coat
+### Manteau noir
 
-> Secret service: Sabotages are cheaper.
+> Services secrets : Les sabotages sont moins chers.
 
-### Light blue coat
+### Manteau bleu ciel
 
-> Sea powers: You are immune to water buckets.
+> Pouvoirs de la mer : Vous êtes immunisé contre les seaux d'eau.
 
-\(As do all the other coats, so this one is indeed useless\)
+\(Comme tous les autres manteaux, celui-ci est donc inutile\).
 
-### Pink coat
+## Manteau rose
 
-> Power of love: You can't kill players with the same coat color.
+> Le pouvoir de l'amour : On ne peut pas tuer des joueurs avec la même couleur de manteau.
 
 
 
