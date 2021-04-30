@@ -16,97 +16,97 @@ Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. A
 
 **Comment l'obtenir :** Vous pouvez tuer un chasseur de plein gré en tapant [`dh!bang <mention>`](https://duckhunt.me/commands/bang) .
 
-### Big spender
+### Gros dépensier
 
-> Spend more than 2000 experience.
+> Dépensez plus de 2000 d'expérience.
 
-**Comment l'obtenir :** Spend experience in the [shop](https://duckhunt.me/commands/shop). [Homing bullets](https://duckhunt.me/commands/shop/homing) is the most expensive item you can find in there, but also very useless.
+**Comment l'obtenir :** Dépensez de l'expérience dans la [boutique](https://duckhunt.me/commands/shop). [Les balles à tête chercheuse](https://duckhunt.me/commands/shop/homing) sont l'objet le plus cher que vous pouvez y trouver, mais aussi très inutile.
 
-### A hunter joined the chat
+### Un chasseur a rejoint le chat
 
-> Play for more than a week.
+> Jouez pendant plus d'une semaine
 
-**Comment l'obtenir :** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 7 different days.
+**Comment l'obtenir :** Tapez une commande de chasse \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) pendant 7 jours différents.
 
-### We are starting to know each other
+### On commence à se connaitre
 
-> Play for more than a month.
+> Jouez pendant plus d'un mois
 
-**Comment l'obtenir :** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 30 different days.
+**Comment l'obtenir :** Tapez une commande de chasse \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) pendant 30 jours différents.
 
-### Wanna be friends ?
+### Tu veux être amis ?
 
-> Play for more than a year.
+> Jouez pendant plus d'un an
 
-**Comment l'obtenir :** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 365 different days.
+**Comment l'obtenir :** Tapez une commande de chasse \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) pendant 365 jours différents.
 
-### I don't want your damn bullets!
+### Je ne veux pas de tes damnées balles
 
-> Leave a bullet you found in the bushes.
+> Laissez une balle que vous avez trouvée dans un buisson
 
-**Comment l'obtenir :** This one is very hard to get, and you'll probably need [prestige level ≥ 8](levels-and-experience.md) . You need to be at the end of level 6, whit a full clip, kill a duck that makes you level up, and have enough luck to find a bullet in the bushes.
+**Comment l'obtenir :** Celui-ci est très difficile à obtenir, et vous aurez probablement besoin d'un niveau de [prestige ≥ 8](levels-and-experience.md) . Vous devez être à la fin du niveau 6, avec un chargeur plein, tuer un canard qui vous fait monter de niveau, et avoir assez de chance pour trouver une balle dans les buissons.
 
-### Mommy is crying
+### Maman pleure
 
-> Kill a few baby ducks.
+> Tuez quelques bébé canards
 
-**Comment l'obtenir :** Kill at least 5 baby ducks.
+**Comment l'obtenir :** Tuez au moins 5 bébé canards
 
 ### MATHS 101
 
-> Solve equations given by the Pr. Duck.
+> Résolvez des équations données par le Pr. Canard
 
-**Comment l'obtenir :** Kill five Pr. Ducks.
+**Comment l'obtenir :** Tuez 5 bébé canards
 
-### BRAAAAAINS!
+### CERVAUUUUUUX !
 
-> Eat some brains and come back to life.
+> Mangez quelques cerveaux pour revenir à la vie
 
-**Comment l'obtenir :** Get someone to kill you \(accidentally or not\), and [revive](https://duckhunt.me/commands/revive) yourself
+**Comment l'obtenir :** Faire en sorte que quelqu'un vous tue \(accidentellement ou non\), et [ressusciter](https://duckhunt.me/commands/revive) vous.
 
-### Sentry gun
+## Fusil de sniper
 
-> Use more than 1000 bullets.
+> Utilisez plus de 1000 balles
 
-**How to obtain:** You can either play for a while, or just spam the [bang](https://duckhunt.me/commands/bang) command, since wasted bullets count.
+**Comment l'obtenir :** Vous pouvez soit jouer pendant un certain temps, soit simplement spammer la commande [bang](https://duckhunt.me/commands/bang), puisque les balles gaspillées comptent.
 
-### Homing kills \(you\)
+## Homing \(vous\) tue
 
-> Use the homing projectiles.
+> Ustilisez les projectiles Homing
 
-**How to obtain:** Get 150 exp and buy [homing projectiles](https://duckhunt.me/commands/shop/homing_bullets), then shoot at a duck.
+**How to obtain:** Obtenez 150 exp et achetez des [projectiles à tête chercheus](https://duckhunt.me/commands/shop/homing_bullets)e, puis tirez sur un canard.
 
 ### You monster
 
-> Kill a MOAD that spawns a baby duck.
+> Tuez une MOAD qui fait apparaitre un bébé canard
 
-**How to obtain:** Kill many MOADs, one day you'll be lucky enough to get a baby duck to spawn.
+**Comment l'obtenir :** Tuez beaucoup de MOAD, un jour vous aurez la chance d'obtenir un bébé canard qui apparaisse.
 
-### Gun insurer
+### Assurer de flingue
 
-> Give at least 30 exp to an hunter that lost his gun.
+> Donnez au moins 30 exp à un chasseur qui a perdu son arme.
 
-**How to obtain:** Use the [send\_exp](https://duckhunt.me/commands/send_exp) command to send some of your experience to another hunter that lost his gun. The amount is counted before taxes, so `dh!send_exp <@user> 30` should work just fine.
+**Comment l'obtenir :** Utilisez la commande [send\_exp](https://duckhunt.me/commands/send_exp) pour envoyer une partie de votre expérience à un autre chasseur qui a perdu son arme. Le montant est compté avant taxes, donc `dh!send_exp <@user> 30` devrait fonctionner parfaitement.
 
-### Short memory
+### Mémoire courte
 
-> Shoot at your own mechanical duck.
+> Tirez sur votre propre canard mécanique.
 
-**How to obtain:** Buy a [mechanical duck](https://duckhunt.me/commands/shop/mechanical), and kill it.
+**Comment l'obtenir :** Acheter [un canard mécanique](https://duckhunt.me/commands/shop/mechanical), et le tuer.
 
-### An ounce of prevention is worth a pound of cure
+### Mieux vaut prévenir que guérir
 
-> Sabotage the gun of someone that planned to shoot at you.
+> Saboter l'arme de quelqu'un qui a prévu de vous tirer dessus.
 
-**How to obtain:** Get someone to murder you after you sabotaged his gun, but before they reload.
+**Comment l'obtenir :** Faire en sorte que quelqu'un vous tue après avoir saboté son arme, mais avant qu'il ne recharge.
 
-## Trophies
+## Trophées
 
-This is a list of all the trophies you can see.
+Voici une liste de tous les trophées que vous pouvez voir.
 
-### V3 Player
+### Joueur V3
 
-> That guy even played on the previous version. What a champ!
+> Ce type a même joué sur la version précédente. Quel champion !
 
-You had to play on the previous version of the bot.
+Vous deviez jouer sur la version précédente du bot.
 
