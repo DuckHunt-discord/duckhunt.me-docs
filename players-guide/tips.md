@@ -58,25 +58,25 @@ Le silencieux empêchera les canards sur lesquels vous tirez de prendre peur, ce
 
 La graisse fera en sorte que votre arme s'enraye moins souvent, ce qui peut être une bonne chose si vous êtes en compétition de vitesse avec les autres sur votre canal.
 
-### Use the hug command
+### Utilisez la commande hug
 
-You could get an infrared detector to help save bullets and 2 exp, but I just use [`dh!hug`](https://duckhunt.me/commands/hug) to see if there's a duck when I'm not sure.
+Vous pouvez vous procurer un détecteur infrarouge pour économiser des balles et 2 exp, mais j'utilise juste [`dh!hug`](https://duckhunt.me/commands/hug) pour voir s'il y a un canard quand je ne suis pas sûr.
 
-## Late game
+## Fin de partie
 
-### Buy bullets on later levels
+### Acheter des balles dans les niveaux de fin
 
-Eventually you'll get a fancy sniper rifle with only 1 bullet per magazine. At this point in the game buying bullets is better than buying mags.
+Vous finirez par obtenir un fusil de sniper sophistiqué avec seulement une balle par chargeur. À ce stade du jeu, il vaut mieux acheter des balles plutôt que des chargeurs.
 
-### Some items stay necessary
+### Certains objets restent nécessaires
 
-The 4-leaf clover is almost necessary to counteract the steep price of bullets. The infrared detector is a good investment too, as it'll help you not waste the precious 2 experience from shooting nothing and the 7 experience used to [buy a new bullet](https://duckhunt.me/commands/shop/bullet).
+Le trèfle à 4 feuilles est presque nécessaire pour contrebalancer le prix élevé des balles. Le détecteur infrarouge est également un bon investissement, car il vous permettra de ne pas gaspiller les précieuses 2 expériences de tirer dans le vide et les 7 expériences utilisées pour acheter une [nouvelle balle](https://duckhunt.me/commands/shop/bullet).
 
-### Alone on a channel ? Use decoys !
+### Seul sur un canal ? Utilisez des leurres !
 
-Decoys are great to make [more ducks come](https://duckhunt.me/commands/shop/decoy). If you are alone, consider spending some experience to get babies, super ducks and more to join you.
+Les leurres sont parfaits pour faire venir [plus de canards](https://duckhunt.me/commands/shop/decoy). Si vous êtes seul, pensez à dépenser un peu d'expérience pour que des bébés, des super canards et autres se joignent à vous.
 
-If you duck hasn't appeared in the 10 minutes following your decoy usage, try the [`dh!hug`](https://duckhunt.me/commands/hug) command to check for [ghosts](types-of-ducks.md).
+Si votre canard n'est pas apparu dans les 10 minutes suivant l'utilisation de votre leurre, essayez la commande [`dh!hug`](https://duckhunt.me/commands/hug) pour vérifier la présence de [fantômes](https://duckhunt.me/docs/players-guide/types-of-ducks).
 
 ### Don't buy some early game items
 
