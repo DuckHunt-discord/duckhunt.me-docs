@@ -9,7 +9,7 @@
 * [Événements](players-guide/events.md)
 * [Niveaux et expérience](players-guide/levels-and-experience.md)
 * [Achievements guide](players-guide/achievements-guide.md)
-* [Types of ducks](players-guide/types-of-ducks.md)
+* [Types de canards](players-guide/types-of-ducks.md)
 * [Couleurs des manteaux](players-guide/coat-colors.md)
 * [Tips](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)

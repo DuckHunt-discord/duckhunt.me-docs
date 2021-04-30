@@ -1,102 +1,102 @@
-# Types of ducks
+# Types de canards
 
-Many ducks can spawn on your channel, and it's your responsibility to recognize them and act appropriately.
+De nombreux canards peuvent apparaître sur votre canal, et il est de votre responsabilité de les reconnaître et d'agir de manière appropriée.
 
-## Normal ducks
+## Canards normaux
 
 ![The normal duck](../.gitbook/assets/normal_duck_calgeka.png)
 
-This duck is the "basic" duck, the one that you'll encounter the most. Killing him is easy : just type `dh!bang`, and it should die immediately \(if you can shoot, and if you don't miss your shot\).
+Ce canard est le canard "de base", celui que vous rencontrerez le plus souvent. Le tuer est facile : tapez simplement `dh!bang`, et il devrait mourir immédiatement \(si vous pouvez tirer, et si vous ne ratez pas votre tir\).
 
-### Golden
+### Canard doré
 
-![If I had one dollar for every time someone complained about how rich Jeff Bezos is... I still wouldn&#x2019;t be as rich as Jeff Bezos.](../.gitbook/assets/golden_duck_calgeka.png)
+![Si j&apos;avais un dollar chaque fois que quelqu&apos;un se plaint de la richesse de Jeff Bezos... Je ne serais toujours pas aussi riche que Jeff Bezos.](../.gitbook/assets/golden_duck_calgeka.png)
 
-This duck is worth 1.5x more experience \(15 exp\). Make sure you shoot at it first.
+Ce canard vaut 1,5 fois plus d'expérience \(15 exp\). Assurez-vous de lui tirer dessus en premier.
 
-### Plastic
+### Canard en plastique
 
-![The duck above me is jealous](../.gitbook/assets/plastic_duck_calgeka.png)
+![Le canard au-dessus de moi est jaloux](../.gitbook/assets/plastic_duck_calgeka.png)
 
 This duck will only give you half the experience of a normal duck \(5 exp\). On higher levels, it may not be worth it to shoot this duck.
 
 ### Kamikaze
 
-![This is not an italian flag](../.gitbook/assets/kamikaze_duck_calgeka.png)
+![Ce n&apos;est pas un drapeau italien ](../.gitbook/assets/kamikaze_duck_calgeka.png)
 
-This duck is just like a normal duck, but if you leave it alone for too long, instead of just wander away, it'll KILL all the ducks alive on the channel. Don't wait until it despawns !
+Ce canard est comme un canard normal, mais si vous le laissez seul trop longtemps, au lieu de s'éloigner, il va TUER tous les canards vivants sur le canal. N'attendez pas qu'il se dissparaisse !
 
-### Ghost
+### Canard fantôme
 
-![Can you see it ? It&apos;s the ghost duck !](../.gitbook/assets/ghost_duck2_calgeka.png)
+![Tu peux le voir ? C&apos;est le canard fant&#xF4;me !](../.gitbook/assets/ghost_duck2_calgeka.png)
 
-This duck does _not_ send a spawn message. You must be vigilant if you kill one : the duck you intended to kill isn't dead yet.
+Ce canard n'envoie _pas_ de message d'apparition. Vous devez être vigilant si vous en tuez un : le canard que vous vouliez tuer n'est pas encore mort.
 
-The best way to find them is by hugging the air, since this won't waste bullets.
+La meilleure façon de les trouver est de caliner l'air, car cela ne gaspille pas les balles.
 
 ### Prof \(Pr. Duck.\)
 
-![Big brain time, with the Pr. Duck.](../.gitbook/assets/prof_duck_calgeka.png)
+![Big brain time, avec le Pr. Canard.](../.gitbook/assets/prof_duck_calgeka.png)
 
-The professor requires you to do some math to kill it. Answer the question in the spawn message. To kill it, use the `dh!pan <number>` command. For example, if you see a prof spawning with
+Le professeur vous demande de faire des calculs pour le tuer. Réponds à la question dans le message d'apparition. Pour le tuer, utilisez la commande `dh!pan <nombre>` . Par exemple, si vous voyez un professeur apparaitre avec
 
-> Huh, quick question, what's 16 + 91 ?
+> Euh petite question, que font 16 + 91 ?
 
-You must use `dh!pan 107` to kill it. Wrong answers **WILL** waste your bullet.
+Vous devez utiliser `dh!pan 107` pour le tuer. Les mauvaises réponses vous **FERONT** perdre vos balle.
 
 ### Baby
 
-![Piou ? He&apos;s so cute !](../.gitbook/assets/baby_duck_calgeka.png)
+![Piou ? Il est si mignon !](../.gitbook/assets/baby_duck_calgeka.png)
 
-Do **not** shoot at this duck, doing so would cost you a normal duck worth of experience \(10 exp\), and your bullet\(s\)!
+Ne tirez **pas** sur ce canard, cela vous coûterait un canard normal d'expérience \(10 exp\), et votre/vos balle\(s\) !
 
-Instead, you must [`dh!hug`](https://duckhunt.me/commands/hug) the duck to make it leave. Hugging ducks don't waste bullets.
+Au lieu de cela, vous devez `dh!hug` le canard pour le faire partir. Câliner les canards ne gaspillent pas vos balles.
 
-### Mechanical
+### Mechanique
 
-![BZAAAAK, I&apos;m the mechanical duck!](../.gitbook/assets/mechanical_duck_calgeka.png)
+![BZAAAAK, je suis le canard m&#xE9;canique !](../.gitbook/assets/mechanical_duck_calgeka.png)
 
-Technically, a mechanical duck is not a duck, and shouldn't be shot at. They can sometimes spawn from the wild, but they are most often [bought by other hunters in the shop](https://duckhunt.me/commands/shop/mechanical).
+Techniquement, un canard mécanique n'est pas un canard, et on ne devrait pas lui tirer dessus. Ils peuvent parfois naître dans la nature, mais ils sont le plus souvent [achetés par d'autres chasseurs dans la boutique](https://duckhunt.me/commands/shop/mechanical).
 
 {% hint style="info" %}
-If another duck spawns after a mechanical duck, the mechanical will leave silently. You do not have to wait for it to leave.
+Si un autre canard apparaît après un canard mécanique, ce dernier partira en silence. Vous n'avez pas besoin d'attendre qu'il parte.
 {% endhint %}
 
-### Night duck
+### Canard de la nuit
 
 ![&#x1F4A4;](../.gitbook/assets/night_duck_calgeka.png)
 
-Only appears during the [night](https://duckhunt.me/commands/settings/night_time). Ducks that sleep are free meat : you can't miss them, but some ducks are still awake... Good night ! 
+Il n'apparaît que pendant la [nuit](https://duckhunt.me/commands/settings/night_time). Les canards qui dorment sont de l'expérience gratuite : vous ne pouvez pas les manquer, mais certains canards sont encore éveillés... Bonne nuit !
 
-## Super ducks
+## Super canards
 
-![I am strong](../.gitbook/assets/super_duck_calgeka.png)
+![Je suis fort](../.gitbook/assets/super_duck_calgeka.png)
 
-Super ducks are ducks with multiple lives. Killing them may require multiple shots, or at least [Armor Piercing](https://duckhunt.me/commands/shop/ap) or [explosive](https://duckhunt.me/commands/shop/explosive) ammo.
+Les super canards sont des canards à vies multiples. Les tuer peut nécessiter plusieurs tirs, ou au moins des [munitions perforantes](https://duckhunt.me/commands/shop/ap) ou [explosives](https://duckhunt.me/commands/shop/explosive).
 
-However, with such a big number of lives, killing them will [get you more experience](https://duckhunt.me/docs/bot-administration/edit-settings-settings-list#experience-related-settings) than usual.
+Cependant, avec un si grand nombre de vies, les tuer vous permettra [d'obtenir plus d'expérience](../bot-administration/edit-settings-settings-list.md#experience-related-settings) que d'habitude.
 
-### Armored
+### Canards en armure
 
 ![Bullets can&apos;t penetrate my armor... Or can they ?](../.gitbook/assets/armored_duck_calgeka.png)
 
-This duck will resist 1 dmg on almost \(90%\) every shot. To kill him, you should have at least some [AP](https://duckhunt.me/commands/shop/ap) ammo equipped.
+Ce canard résiste à 1 dmg à presque \(90%\) chaque tir. Pour le tuer, vous devez avoir au moins quelques munitions [AP](https://duckhunt.me/commands/shop/ap) équipées.
 
-During the [UN Treaty event](https://duckhunt.me/docs/players-guide/events#un-treaty), the armored duck does not resist shots as that would be unfair to hunters. It'll then act as a normal Super Duck, but still count towards your Armored kills !
+Pendant l'événement [Traité de l'ONU](events.md#traite-de-lonu), le canard blindé ne résiste pas aux tirs car cela serait injuste pour les chasseurs. Il se comportera alors comme un Super Canard normal, mais comptera toujours pour vos kills de canards en armure !
 
-You can see on your personal Hunter Page \(`dh!me`\) the amont of shots an armored duck resisted.
+Vous pouvez voir sur votre page personnelle de chasseur \(`dh!me`\) le nombre de tirs auxquels un canard blindé a résisté.
 
-### MOAD \(Mother Of All Ducks\)
+## MOAD \(Mother Of All Ducks - Mère de tous les canards\)
 
-![You&apos;ll never kill my children](../.gitbook/assets/mother_of_all_ducks_calgeka.png)
+![Tu ne tueras jamais mes enfants](../.gitbook/assets/mother_of_all_ducks_calgeka.png)
 
-Mothers are normal Super ducks that will spawn two new, random ducks once killed. The spawned ducks doesn't count towards the [ducks\_per\_day setting](https://duckhunt.me/commands/settings/ducks_per_day), and may be of any type.
+Les mères sont des super canards normaux qui, une fois tués, donnent naissance à deux nouveaux canards aléatoires. Les canards générés ne comptent pas dans le [paramètre ducks\_per_\__day](https://duckhunt.me/commands/settings/ducks_per_day) et peuvent être de n'importe quel type.
 
-If a baby spawns after you've killed a MOAD, check your [achievements](achievements-guide.md) ! You'll have unlocked `You monster`.
+Si un bébé apparaît après que tu aies tué un MOAD, vérifie tes avancements ! Tu auras débloqué `Monstre`.
 
-## Boss duck
+## Boss Canard 
 
-![Array\(16\).join\(&quot;duck&quot; -1\) + &quot; Batman!&quot;](../.gitbook/assets/boss_calgeka.png)
+![Array\(16\).join\(&quot;duck&quot; -1\) + &quot; Batman !&quot;](../.gitbook/assets/boss_calgeka.png)
 
-The boss is a unique duck that will only spawn on the Official DuckHunt Support server. When killed, instead of experience, you'll get a lootbox \(box of foie gras\) delivered to your inventory. [Use](https://duckhunt.me/commands/inventory/use) it on \([almost](https://duckhunt.me/commands/settings/allow_global_items)\) any channel.
+Le boss est un canard unique qui n'apparaîtra que sur le serveur de soutien officiel de DuckHunt. Lorsqu'il est tué, au lieu de recevoir de l'expérience, vous recevrez une lootbox \(boîte de foie gras\) dans votre inventaire. [Utilisez-le](https://duckhunt.me/commands/inventory/use) sur \([presque](https://duckhunt.me/commands/settings/allow_global_items)\) tous les canals.
 
