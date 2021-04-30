@@ -18,6 +18,9 @@ Think of it like having an AK47 in the beginning at level 1.... you have a full 
 
 | Level number | Minimum experience | Name | Accuracy | Reliability | Bullets | Magazines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| -3 |  | Negative cheater ? |  |  |  |  |
+| -2 |  | Duck hugger ? |  |  |  |  |
+| -1 |  | What are you doing ? |  |  |  |  |
 | 0 | N/A | Public danger | 95 | 85 | 6 | 1 |
 | 1 | -4 | Tourist | 90 | 85 | 6 | 2 |
 | 2 | 20 | Noob | 70 | 86 | 6 | 2 |
