@@ -119,7 +119,7 @@ Certains paramètres peuvent faire en sorte que le bot mentionne les joueurs dan
 
 De plus, les joueurs peuvent désactiver la mention lorsque le bot leur répond en utilisant la commande suivante : [`dh!settings ping False`](https://duckhunt.me/commands/settings/ping). Notez que ce paramètre s'applique à un compte utilisateur sur tous les serveurs où se trouve DuckHunt. Il ne peut pas être configuré par canal.
 
-Un autre paramètre est `my_language`, qui permet à un utilisateur de définir la langue que le robot doit utiliser lorsqu'il communique avec lui dans les DM.
+Un autre paramètre est [`my_language`](https://duckhunt.me/commands/settings/my_language), qui permet à un utilisateur de définir la langue que le robot doit utiliser lorsqu'il communique avec lui dans les DM.
 
-If emojis make you lag, you can disable some of them using [`dh!settings use_emojis False`](https://duckhunt.me/commands/settings/use_emojis)
+Si les emojis vous font lag, vous pouvez en désactiver certains à l'aide de la commande suivante [`dh!settings use_emojis False`](https://duckhunt.me/commands/settings/use_emojis)
 
