@@ -76,7 +76,7 @@ The 4-leaf clover is almost necessary to counteract the steep price of bullets. 
 
 Decoys are great to make [more ducks come](https://duckhunt.me/commands/shop/decoy). If you are alone, consider spending some experience to get babies, super ducks and more to join you.
 
-If you duck hasn't appeared in the 10 minutes following your decoy usage, try the [`dh!hug`](https://duckhunt.me/commands/hug) command to check for [ghosts](types-of-ducks.md).
+If your duck hasn't appeared in the 10 minutes following your decoy usage, try the [`dh!hug`](https://duckhunt.me/commands/hug) command to check for [ghosts](types-of-ducks.md).
 
 ### Don't buy some early game items
 
