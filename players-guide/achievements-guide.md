@@ -1,68 +1,68 @@
-# Achievements guide
+# Guide des avancements \(Achievements\)
 
-Achievements are a way for you to prove how great of a hunter you are to the world \(or at least, your channel\).
+Les Avancements sont un moyen pour vous de prouver au monde entier \(ou du moins, à votre canal\) à quel point vous êtes un grand chasseur.
 
-They shouldn't be confused with trophies, that are global \(=on all channels\) achievements given by the bot staff.
+Ils ne doivent pas être confondus avec les trophées, qui sont des réalisations globales \(= sur tous les canaux\) attribuées par le personnel du bot.
 
-You can't obtain trophies in game, but you can get all the achievements from the comfort of your channel.
+Vous ne pouvez pas obtenir de trophées dans le jeu, mais vous pouvez obtenir toutes les réalisations depuis le confort de votre canal.
 
-## Achievements
+## Avancements
 
-This guide will help you unlock all the achievements on your channel. Beware, the following might contain spoilers.
+Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. Attention, ce qui suit peut contenir des spoilers.
 
-### Murderer
+### Meurtrier
 
-> Kill another hunter.
+> Tuez un autre chasseur.
 
-**How to obtain:** You can kill a hunter willingly by typing [`dh!bang <mention>`](https://duckhunt.me/commands/bang)
+**Comment l'obtenir :** Vous pouvez tuer un chasseur de plein gré en tapant [`dh!bang <mention>`](https://duckhunt.me/commands/bang) .
 
 ### Big spender
 
 > Spend more than 2000 experience.
 
-**How to obtain:** Spend experience in the [shop](https://duckhunt.me/commands/shop). [Homing bullets](https://duckhunt.me/commands/shop/homing) is the most expensive item you can find in there, but also very useless.
+**Comment l'obtenir :** Spend experience in the [shop](https://duckhunt.me/commands/shop). [Homing bullets](https://duckhunt.me/commands/shop/homing) is the most expensive item you can find in there, but also very useless.
 
 ### A hunter joined the chat
 
 > Play for more than a week.
 
-**How to obtain:** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 7 different days.
+**Comment l'obtenir :** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 7 different days.
 
 ### We are starting to know each other
 
 > Play for more than a month.
 
-**How to obtain:** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 30 different days.
+**Comment l'obtenir :** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 30 different days.
 
 ### Wanna be friends ?
 
 > Play for more than a year.
 
-**How to obtain:** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 365 different days.
+**Comment l'obtenir :** Type a hunting command \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) on 365 different days.
 
 ### I don't want your damn bullets!
 
 > Leave a bullet you found in the bushes.
 
-**How to obtain:** This one is very hard to get, and you'll probably need [prestige level ≥ 8](levels-and-experience.md) . You need to be at the end of level 6, whit a full clip, kill a duck that makes you level up, and have enough luck to find a bullet in the bushes.
+**Comment l'obtenir :** This one is very hard to get, and you'll probably need [prestige level ≥ 8](levels-and-experience.md) . You need to be at the end of level 6, whit a full clip, kill a duck that makes you level up, and have enough luck to find a bullet in the bushes.
 
 ### Mommy is crying
 
 > Kill a few baby ducks.
 
-**How to obtain:** Kill at least 5 baby ducks.
+**Comment l'obtenir :** Kill at least 5 baby ducks.
 
 ### MATHS 101
 
 > Solve equations given by the Pr. Duck.
 
-**How to obtain:** Kill five Pr. Ducks.
+**Comment l'obtenir :** Kill five Pr. Ducks.
 
 ### BRAAAAAINS!
 
 > Eat some brains and come back to life.
 
-**How to obtain:** Get someone to kill you \(accidentally or not\), and [revive](https://duckhunt.me/commands/revive) yourself
+**Comment l'obtenir :** Get someone to kill you \(accidentally or not\), and [revive](https://duckhunt.me/commands/revive) yourself
 
 ### Sentry gun
 
