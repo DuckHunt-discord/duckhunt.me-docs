@@ -15,16 +15,16 @@ Si quelqu'un veut faire un tableau de bord ou quelque chose pour contrôler Duck
 
 ## Authentification
 
-If you have one, pass the API key on the `Authorization` HTTP header.
+Si vous en avez une, passez la clé API dans l'en-tête HTTP `Authorization`.
 
-Two types of keys exist :
+Il existe deux types de clés :
 
-* Channel specific keys, available with `dh!settings api_key`. They only work for a specific channel data.
-* Global keys, that allow UNLIMITED access to every channel data. They are available on request with me.
+* Clés spécifiques à un canal, disponibles avec `dh!settings api_key`. Elles ne fonctionnent que pour un canal de données spécifique.
+* Des clés globales, qui permettent un accès ILLIMITÉ à toutes les données du canal. Elles sont disponibles sur demande auprès de moi.
 
-API keys \(local or global\) are uuid4, and look like this : `d84af260-c806-4066-8387-1d5144b7fa72`
+Les clés API \(locales ou globales\) sont uuid4, et ressemblent à ceci : `d84af260-c806-4066-8387-1d5144b7fa72`
 
-## Examples
+## Exemples
 
 ### `/api/channels/`
 
@@ -42,11 +42,11 @@ API keys \(local or global\) are uuid4, and look like this : `d84af260-c806-4066
 ]
 ```
 
-Of course, you get a list entry for every channel the bot sees.
+Bien sûr, vous obtenez une entrée de liste pour chaque canal que le robot voit.
 
 ### `/api/channels/{channel_id}`
 
-Without authentication:
+Sans authentification :
 
 ```javascript
 {
@@ -56,7 +56,7 @@ Without authentication:
 }
 ```
 
-When authenticated:
+Une fois authentifié :
 
 ```javascript
 {
@@ -139,7 +139,7 @@ When authenticated:
 
 ### `/api/channels/{channel_id}/settings`
 
-TODO
+Á FAIRE
 
 ### `/api/channels/{channel_id}/top`
 
@@ -428,5 +428,5 @@ TODO
 }
 ```
 
-Uptime here is the time the bot started, as a unix timestamp.
+L'heure de démarrage est l'heure à laquelle le bot a démarré, sous la forme d'un timestamp unix.
 
