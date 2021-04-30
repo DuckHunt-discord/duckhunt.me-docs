@@ -1,4 +1,4 @@
-# Guide de démarrage rapide des administrateurs
+# Guide de démarrage rapide pour les administrateurs
 
 Tout d'abord, je tiens à remercier [HostMyServers](https://www.hostmyservers.fr/) de m'avoir fourni un serveur pour héberger DuckHunt. C'est rapide, fiable et bien supporté !
 
