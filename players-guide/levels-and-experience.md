@@ -1,74 +1,77 @@
-# Levels and experience
+# Niveaux et expérience
 
-There is two distinct 'level' systems on DuckHunt. The first one is based on your current experience \(levels\), and the other one is the prestige system.
+Il existe deux systèmes de "niveaux" distincts sur DuckHunt. Le premier est basé sur votre expérience actuelle \(niveaux\), et l'autre est le système de prestige.
 
-Your current level change based on how much experience you currently have : buying something in the shop might make you level down, while killing ducks will make you level up.
+Votre niveau actuel change en fonction de votre expérience : acheter quelque chose dans la boutique peut vous faire baisser de niveau, alors que tuer des canards vous fera monter de niveau.
 
-However, the prestige system is only activated when [you decide](https://duckhunt.me/commands/prestige), and you can't lose a prestige level. Activating prestige will restart the game for you, in exchange for a bonus that will help you progress faster in your next run.
+Cependant, le système de prestige n'est activé que lorsque [vous le décidez](https://duckhunt.me/commands/prestige), et vous ne pouvez pas perdre un niveau de prestige. En activant le prestige, vous recommencez le jeu, en échange d'un bonus qui vous aidera à progresser plus rapidement lors de votre prochain passage.
 
-## Why do I have less bullets than before ?
+## Pourquoi ai-je moins de balles qu'avant ?
 
-You have more magazines but fewer bullets right now because you have leveled up. Leveling up exchanges these differences for a big boost in accuracy, and reliability \(the stat that determines how often your gun jams\).
+Vous avez plus de chargeurs mais moins de balles parce que vous avez monté de niveau. Le passage à un niveau supérieur permet d'échanger ces différences contre une augmentation importante de la précision et de la fiabilité \(la statistique qui détermine la fréquence à laquelle votre arme s'enraye\).
 
-Think of it like having an AK47 in the beginning at level 1.... you have a full clip that can hold 6 shots, and your belt can hold only a couple of them. However, it's not made for long range, so it is inaccurate as hell, and it's old as the hills, so it jams like crazy.
+Pensez-y comme si vous aviez un AK47 au début, au niveau 1.... vous avez un chargeur plein qui peut contenir 6 coups, et votre ceinture ne peut en contenir que quelques-uns. Cependant, il n'est pas fait pour la longue portée, donc il est imprécis comme dieu sait quoi, et il est vieux comme le monde, donc il s'enraye comme un fou.
 
-...but in the end, you get a new badass sniper rifle. Only holds one bullet at a time, but its military grade, can shoot a fly off a bull's horn from a mile away, and it's reliable enough that it will almost never jam, even if you submerge it in mud for a week.
+...mais à la fin, vous obtenez un nouveau fusil de sniper qui déchire. Il ne peut contenir qu'une seule balle à la fois, mais il est de qualité militaire, peut tuer une mouche sur une corne de taureau à un kilomètre de distance, et il est assez fiable pour ne presque jamais s'enrayer, même si vous le plongez dans la boue pendant une semaine.
 
 ## Game levels
 
 | Level number | Minimum experience | Name | Accuracy | Reliability | Bullets | Magazines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 | N/A | Public danger | 95 | 85 | 6 | 1 |
-| 1 | -4 | Tourist | 90 | 85 | 6 | 2 |
+| -3 |  | Tricheur inversé ? |  |  |  |  |
+| -2 |  | Calineur de canards ? |  |  |  |  |
+| -1 |  | Mais tu fais quoi ? |  |  |  |  |
+| 0 | N/A | Danger public | 95 | 85 | 6 | 1 |
+| 1 | -4 | Touriste | 90 | 85 | 6 | 2 |
 | 2 | 20 | Noob | 70 | 86 | 6 | 2 |
-| 3 | 50 | Trainee | 54 | 87 | 6 | 2 |
-| 4 | 90 | Duck misser | 58 | 88 | 8 | 2 |
-| 5 | 140 | Member of the Committee Against Ducks | 59 | 89 | 8 | 2 |
-| 6 | 200 | Duck hater | 60 | 90 | 8 | 2 |
-| 7 | 270 | Duck pest | 65 | 93 | 4 | 3 |
-| 8 | 350 | Duck hassler | 67 | 93 | 4 | 3 |
-| 9 | 440 | Duck plucker | 69 | 93 | 4 | 3 |
-| 10 | 540 | Hunter | 71 | 94 | 4 | 3 |
-| 11 | 650 | Duck inside out turner | 73 | 94 | 4 | 3 |
-| 12 | 770 | Duck clobberer | 73 | 94 | 4 | 3 |
-| 13 | 900 | Duck chewer | 74 | 95 | 4 | 3 |
-| 14 | 1040 | Duck eater | 74 | 95 | 4 | 3 |
-| 15 | 1190 | Duck flattener | 75 | 95 | 4 | 3 |
-| 16 | 1350 | Duck disassembler | 80 | 97 | 2 | 4 |
-| 17 | 1520 | Duck demolisher | 81 | 97 | 2 | 4 |
-| 18 | 1700 | Duck killer | 81 | 97 | 2 | 4 |
-| 19 | 1890 | Duck skinner | 82 | 97 | 2 | 4 |
-| 20 | 2090 | Duck predator | 82 | 97 | 2 | 4 |
-| 21 | 2300 | Duck chopper | 83 | 98 | 2 | 4 |
-| 22 | 2520 | Duck decorticator | 83 | 98 | 2 | 4 |
-| 23 | 2750 | Duck fragger | 84 | 98 | 2 | 4 |
-| 24 | 2990 | Duck shatterer | 84 | 98 | 2 | 4 |
-| 25 | 3240 | Duck smasher | 85 | 98 | 2 | 4 |
-| 26 | 3500 | Duck breaker | 90 | 99 | 1 | 5 |
-| 27 | 3770 | Duck wrecker | 91 | 99 | 1 | 5 |
-| 28 | 4050 | Duck impaler | 91 | 99 | 1 | 5 |
-| 29 | 4340 | Duck eviscerator | 92 | 99 | 1 | 5 |
-| 30 | 4640 | Duck terror | 92 | 99 | 1 | 5 |
-| 31 | 4950 | Duck exploder | 93 | 99 | 1 | 5 |
-| 32 | 5270 | Duck destructor | 93 | 99 | 1 | 5 |
-| 33 | 5600 | Duck blaster | 94 | 99 | 1 | 5 |
-| 34 | 5940 | Duck pulverizer | 94 | 99 | 1 | 5 |
-| 35 | 6290 | Duck disintegrator | 95 | 99 | 1 | 5 |
-| 36 | 6650 | Duck atomizer | 95 | 99 | 1 | 5 |
-| 37 | 7020 | Duck annihilator | 96 | 99 | 1 | 5 |
+| 3 | 50 | Stagiaire | 54 | 87 | 6 | 2 |
+| 4 | 90 | Rateur de canard | 58 | 88 | 8 | 2 |
+| 5 | 140 | Membre du Comité Contre les Canards | 59 | 89 | 8 | 2 |
+| 6 | 200 | Détesteur de canards | 60 | 90 | 8 | 2 |
+| 7 | 270 | Emmerdeur de canards | 65 | 93 | 4 | 3 |
+| 8 | 350 | Harceleur de canards | 67 | 93 | 4 | 3 |
+| 9 | 440 | Déplumeur de canards | 69 | 93 | 4 | 3 |
+| 10 | 540 | Chasseur | 71 | 94 | 4 | 3 |
+| 11 | 650 | Retourneur de canards | 73 | 94 | 4 | 3 |
+| 12 | 770 | Assomeur de canards | 73 | 94 | 4 | 3 |
+| 13 | 900 | Machouilleur de canards | 74 | 95 | 4 | 3 |
+| 14 | 1040 | Mangeur de canards | 74 | 95 | 4 | 3 |
+| 15 | 1190 | Applatisseur de canards | 75 | 95 | 4 | 3 |
+| 16 | 1350 | Démonteur de canards | 80 | 97 | 2 | 4 |
+| 17 | 1520 | Démolisseur de canards | 81 | 97 | 2 | 4 |
+| 18 | 1700 | Tueur de canards | 81 | 97 | 2 | 4 |
+| 19 | 1890 | Écorcheur de canards | 82 | 97 | 2 | 4 |
+| 20 | 2090 | Prédateur | 82 | 97 | 2 | 4 |
+| 21 | 2300 | Découpeur de canards | 83 | 98 | 2 | 4 |
+| 22 | 2520 | Décortiqueur de canards | 83 | 98 | 2 | 4 |
+| 23 | 2750 | Exploseur de canards | 84 | 98 | 2 | 4 |
+| 24 | 2990 | Éclateur de canards | 84 | 98 | 2 | 4 |
+| 25 | 3240 | Défonceur de canards | 85 | 98 | 2 | 4 |
+| 26 | 3500 | Bousilleur de canards | 90 | 99 | 1 | 5 |
+| 27 | 3770 | Poutreur de canards | 91 | 99 | 1 | 5 |
+| 28 | 4050 | Empaleur de canards | 91 | 99 | 1 | 5 |
+| 29 | 4340 | Éventreur de canards | 92 | 99 | 1 | 5 |
+| 30 | 4640 | Terreur des canards | 92 | 99 | 1 | 5 |
+| 31 | 4950 | Exploseur de canards | 93 | 99 | 1 | 5 |
+| 32 | 5270 | Destructeur de canards | 93 | 99 | 1 | 5 |
+| 33 | 5600 | Démolécularisateur de canards | 94 | 99 | 1 | 5 |
+| 34 | 5940 | Pulvérisateur de canards | 94 | 99 | 1 | 5 |
+| 35 | 6290 | Désintégrateur de canards | 95 | 99 | 1 | 5 |
+| 36 | 6650 | Atomiseur de canards | 95 | 99 | 1 | 5 |
+| 37 | 7020 | Annihiliateurs de canards | 96 | 99 | 1 | 5 |
 | 38 | 7400 | Serial duck killer | 96 | 99 | 1 | 5 |
-| 39 | 7790 | Duck genocider | 97 | 99 | 1 | 5 |
-| 40 | 8200 | Old noob | 97 | 99 | 1 | 5 |
-| 41 | 9999 | Duck toaster | 98 | 99 | 1 | 6 |
-| 42 | 11111 | Unemployed due to extinction of the duck species | 99 | 99 | 1 | 7 |
+| 39 | 7790 | Génocideur de canards | 97 | 99 | 1 | 5 |
+| 40 | 8200 | Vieux noob | 97 | 99 | 1 | 5 |
+| 41 | 9999 | Toasteur de canards | 98 | 99 | 1 | 6 |
+| 42 | 11111 | Chômeur en raison de l'extinction de l'espèce des canards | 99 | 99 | 1 | 7 |
 
-## Prestige levels
+## Niveaux de prestige
 
-To level up with prestige, you'll need to have at least 11111 experience points, and type [`dh!prestige confirm`](https://duckhunt.me/commands/prestige/confirm). There is no going back.
+Pour monter en niveau avec le prestige, vous devez avoir au moins 11111 points d'expérience, et taper [`dh!prestige confirm`](https://duckhunt.me/commands/prestige/confirm). Il n'y a pas de retour en arrière possible.
 
-When prestiging, you'll keep some of your achievements, and 10% of your experience above 11111. **The rest of your data will be deleted**.
+Lors d'un prestige, vous conserverez certains de vos succès et 10 % de votre expérience au-delà de 11111. **Le reste de vos données sera supprimé.**
 
-Of course, prestige levels **stack**. It means that, if you are level 3, you'll get advantages from level 1, 2 and 3 at the same time.
+Bien sûr, les niveaux de prestige **s'empilent**. Cela signifie que, si vous êtes au niveau 3, vous obtiendrez des avantages des niveaux 1, 2 et 3 en même temps.
 
 ### Niveau 0
 
