@@ -1,4 +1,4 @@
-# Channels scores and stats
+# Scores des canals et statistiques
 
 Si quelqu'un veut faire un tableau de bord ou quelque chose pour contrôler DuckHunt, il y a déjà quelques routes API. Elles renvoient toutes JSON ou HTTP404/403/500.
 

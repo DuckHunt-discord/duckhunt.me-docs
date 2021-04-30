@@ -8,7 +8,7 @@
 * [Guide de démarrage rapide pour les joueurs](players-guide/players-quickstart.md)
 * [Événements](players-guide/events.md)
 * [Niveaux et expérience](players-guide/levels-and-experience.md)
-* [Guide des avancements \(Achievements\)](players-guide/achievements-guide.md)
+* [Guide des avancements/succès \(Achievements\)](players-guide/achievements-guide.md)
 * [Types de canards](players-guide/types-of-ducks.md)
 * [Couleurs des manteaux](players-guide/coat-colors.md)
 * [Tips](players-guide/tips.md)
@@ -35,5 +35,5 @@
 
 ## L'API de DuckHunt <a id="the-duckhunt-api"></a>
 
-* [Channels scores and stats](the-duckhunt-api/channels-scores-and-stats.md)
+* [Scores des canals et statistiques](the-duckhunt-api/channels-scores-and-stats.md)
 

@@ -1,12 +1,12 @@
-# Guide des avancements \(Achievements\)
+# Guide des avancements/succès \(Achievements\)
 
-Les Avancements sont un moyen pour vous de prouver au monde entier \(ou du moins, à votre canal\) à quel point vous êtes un grand chasseur.
+Les succès sont un moyen pour vous de prouver au monde entier \(ou du moins, à votre canal\) à quel point vous êtes un grand chasseur.
 
 Ils ne doivent pas être confondus avec les trophées, qui sont des réalisations globales \(= sur tous les canaux\) attribuées par le personnel du bot.
 
 Vous ne pouvez pas obtenir de trophées dans le jeu, mais vous pouvez obtenir toutes les réalisations depuis le confort de votre canal.
 
-## Avancements
+## Succès/Avancements
 
 Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. Attention, ce qui suit peut contenir des spoilers.
 

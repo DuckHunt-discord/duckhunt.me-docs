@@ -1,38 +1,38 @@
 # Tips
 
-On there, you'll find tips on how to best use and hunt ducks, based on interviews of the best DuckHunters, and of discussions with the maker : Eyesofcreeper\#0001.
+Vous y trouverez des conseils sur la meilleure façon d'utiliser et de chasser les canards, basés sur des interviews des meilleurs DuckHunters, et des discussions avec le créateur : Eyesofcreeper\#0001.
 
-## Overall
+## En général
 
-These are all the tips that will apply during the whole game, whatever your level is.
+Ce sont tous les conseils qui s'appliqueront pendant toute la partie, quel que soit votre niveau.
 
-### Manage your experience
+## Gérez votre expérience
 
-Managing experience is a must on DuckHunt : it is used as a currency, but also to level up and get better statistics.
+La gestion de l'expérience est un must sur DuckHunt : elle sert de monnaie, mais aussi à monter en niveau et à obtenir de meilleures statistiques.
 
-There are many good shop items, but don't buy them all yet. Instead, keep an eye on your experience and try not to level down when buying something.
+Il y a beaucoup de bons articles de boutique, mais ne les achetez pas encore tous. Au lieu de cela, gardez un œil sur votre expérience et essayez de ne pas baisser de niveau lorsque vous achetez quelque chose.
 
-**New on V4**: Beginners luck. The first few levels are in fact giving you an accuracy boost. You may want to stay there for a bit longer while getting [some good items](https://duckhunt.me/commands/shop).
+**Nouveau sur V4 :** La chance des débutants. Les premiers niveaux vous donnent en fait un gain de précision. Vous pouvez y rester un peu plus longtemps et obtenir de [bons objets](https://duckhunt.me/commands/shop).
 
-### Watch for freetime
+### Veillez au freetime
 
-When the freetime timer expires, you get your gun back \(if it was confiscated when you shot someone\) and your magazines are refilled **for free**. Use [`dh!freetime`](https://duckhunt.me/commands/freetime) to see when freetime happens.
+Lorsque le freetime expire, vous récupérez votre arme \(si elle a été confisquée lorsque vous avez tiré sur quelqu'un\) et vos chargeurs sont rechargés gratuitement. Utilisez [dh!freetime](https://duckhunt.me/commands/freetime) pour savoir quand le freetime a lieu. 
 
-When freetime is coming soon, don't buy chargers if you haven't reached full-emptiness. Don't forget to reload before freetime : bullets are never replenished.
+Lorsque le freetime est imminent, n'achetez pas de chargeurs si vous n'avez pas atteint la pleine capacité. N'oubliez pas de recharger avant le freetime : les balles ne sont jamais réapprovisionnées.
 
-### Keep a slot open for new magazines
+### Gardez un emplacement ouvert pour les nouveaux magazines
 
-Sometimes, you will find mags in the bushes after killing a duck. But if your backpack is full, you won't be able to take the free magazine you just found, and it'll essentially be deleted, wasting the equivalent of 13 experience.
+Parfois, vous trouverez des chargeurs dans les buissons après avoir tué un canard. Mais si votre sac à dos est plein, vous ne pourrez pas prendre le magazine gratuit que vous venez de trouver, et il sera essentiellement supprimé, ce qui vous fera perdre l'équivalent de 13 points d'expérience.
 
-### Remember spawn order
+### Rappelez-vous l'ordre d'apparition
 
-Ducks either get shot, or they leave, in the same order in which they spawn.
+Soit les canards se font tirer dessus, soit ils partent, dans le même ordre que celui dans lequel ils sont apparus.
 
-**New on V4**: Ghost Ducks. Ghost ducks don't send a spawn message when spawning. If you kill one \(by chance\), remember the duck you probably wanted to kill isn't dead yet!
+**Nouveau sur V4 :** Canards fantômes. Les canards fantômes n'envoient pas de message lorsqu'ils apparaissent. Si vous en tuez un \(par hasard\), rappelez-vous que le canard que vous vouliez probablement tuer n'est pas encore mort !
 
-### Don't rush the achievements
+### Ne précipitez pas les succès
 
-The achievements are mostly kept between [prestige](levels-and-experience.md) runs and won't give you anything more than a badge on your personal webpage.
+Les succès sont principalement conservés entre les courses de [prestige](levels-and-experience.md) et ne vous donneront rien de plus qu'un badge sur votre page web personnelle.
 
 ### Buy the four-leaf clover
 
