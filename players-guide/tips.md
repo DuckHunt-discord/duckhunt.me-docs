@@ -30,33 +30,33 @@ Soit les canards se font tirer dessus, soit ils partent, dans le même ordre que
 
 **Nouveau sur V4 :** Canards fantômes. Les canards fantômes n'envoient pas de message lorsqu'ils apparaissent. Si vous en tuez un \(par hasard\), rappelez-vous que le canard que vous vouliez probablement tuer n'est pas encore mort !
 
-### Ne précipitez pas les succès
+### Ne rushez pas les succès
 
 Les succès sont principalement conservés entre les courses de [prestige](levels-and-experience.md) et ne vous donneront rien de plus qu'un badge sur votre page web personnelle.
 
-### Buy the four-leaf clover
+### Achetez le trèfle à quatre feuilles
 
-Buy a [4-leaf clover](https://duckhunt.me/commands/shop/clover) as soon as you can, if you will hunt duck in the next day. The clover will give you a bonus ranging from one to ten experience points **for every duck you kill**. It's usually worth it if you kill more than two ducks in the next day.
+Achetez [un trèfle à 4 feuilles](https://duckhunt.me/commands/shop/clover) dès que vous le pouvez, si vous devez chasser le canard le lendemain. Le trèfle vous donnera un bonus allant de un à dix points d'expérience pour chaque canard que vous tuerez. Cela vaut généralement la peine si vous tuez plus de deux canards le jour suivant.
 
-### Kill the bosses
+### Tuez les boss
 
-In the support server, there will usually be one boss that spawns every day. If you react with the 🔫 emoji to shoot it, you'll receive a "box of foie gras" in your inventory.
+Sur le serveur de support, il y a généralement un boss qui apparaît tous les jours. Si vous réagissez avec l'emoji 🔫 pour le tuer, vous recevrez une "boîte de foie gras" dans votre inventaire.
 
-You can then open the box to get some items on ANY CHANNEL using the bot.
+Vous pouvez ensuite ouvrir la boîte pour obtenir des articles sur N'IMPORTE QUEL CANAL en utilisant le bot.
 
-## Early game
+## Début de partie
 
-### Buy magazines, not bullets
+### Achetez des chargeurs, pas des balles
 
-In the beginning, and in fact until the later [levels](levels-and-experience.md) where you only have 1 bullet per magazine, it's cheaper to buy magazines and reload than to buy bullets.
+Au début, et en fait jusqu'aux derniers [niveaux](levels-and-experience.md) où vous n'avez qu'une balle par chargeur, il est moins cher d'acheter des chargeurs et de recharger que d'acheter des balles.
 
-### Buy a silencer, and some grease
+### Acheter un silencieux, et de la graisse
 
-Two items that are very worth it on your first levels are the [silencer](https://duckhunt.me/commands/shop/silencer) and the [grease](https://duckhunt.me/commands/shop/grease).
+Deux articles qui en valent vraiment la peine lors de vos premiers niveaux sont le [silencieux](https://duckhunt.me/commands/shop/silencer) et la [graisse](https://duckhunt.me/commands/shop/grease).
 
-The silencer will stop ducks you shoot at from getting frightened, ruining the damage you've done and all the bullets you've spent, and the sight will help you miss less.
+Le silencieux empêchera les canards sur lesquels vous tirez de prendre peur, ce qui ruinerait les dégâts que vous avez causés et toutes les balles que vous avez dépensées, et le viseur vous aidera à moins rater.
 
-Grease will make your weapon jam less often, which can be a good thing if you are competing for speed with others on your channel.
+La graisse fera en sorte que votre arme s'enraye moins souvent, ce qui peut être une bonne chose si vous êtes en compétition de vitesse avec les autres sur votre canal.
 
 ### Use the hug command
 
