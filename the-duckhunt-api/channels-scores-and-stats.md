@@ -8,12 +8,12 @@ Si quelqu'un veut faire un tableau de bord ou quelque chose pour contrôler Duck
 * `/api/channels/{channel_id}` \[Authentification requise\] Renvoie des informations sur le canal, comme les canards actuellement apparus.
 * `/api/channels/{channel_id}/settings` \[Authentification requise\] Renvoie les paramètres du canal
 * `/api/channels/{channel_id}/top` \[Pas d'authentification requise\) Renvoie les meilleurs scores \(tous les joueurs sur le canal et quelques informations sur les joueurs\).
-* `/api/channels/{channel_id}/player/{player_id}` \[No authentication required\] Returns _all_ the data for a specific user
-* `/api/help/commands` \[No authentication required\] Returns all the commands registered with the bot.
-* `/api/status` \[No authentication required\] Returns the status of every shard the bot currently has connected to the gateway.
-* `/api/stats` \[No authentication required\] Get some global statistics about the bot.
+* `/api/channels/{channel_id}/player/{player_id}` \[Aucune authentification requise\] Renvoie toutes les données d'un utilisateur spécifique.
+* `/api/help/commands` \[Aucune authentification requise\] Renvoie toutes les commandes enregistrées avec le bot.
+* `/api/status` \[Aucune authentification requise\] Renvoie l'état de chaque shard que le bot a actuellement connecté à la passerelle.
+* `/api/stats` \[Aucune authentification requise\] Obtenir quelques statistiques globales sur le bot.
 
-## **Authentication**
+## Authentification
 
 If you have one, pass the API key on the `Authorization` HTTP header.
 
