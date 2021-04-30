@@ -70,45 +70,45 @@ When prestiging, you'll keep some of your achievements, and 10% of your experien
 
 Of course, prestige levels **stack**. It means that, if you are level 3, you'll get advantages from level 1, 2 and 3 at the same time.
 
-### Level 0
+### Niveau 0
 
-This is the default level when you first start the game. You get the right to p\(l\)ay DuckHunt.
+C'est le niveau par défaut lorsque vous commencez le jeu. Vous obtenez le droit de jouer DuckHunt.
 
-### Level 1
+### Niveau 1
 
-The first time you prestige, you'll get **Unbreakable sunglasses**. You won't need to buy sunglasses anymore.
+Lors de votre premier prestige, vous obtiendrez des **lunettes de soleil incassables**. Vous n'aurez plus besoin d'acheter des lunettes de soleil.
 
-### Level 2
+### Niveau 2
 
-You'll be able to choose the color of your [coat](https://duckhunt.me/commands/shop/coat).
+Vous pourrez choisir la couleur de votre [manteau](https://duckhunt.me/commands/shop/coat).
 
-### Level 3
+### Niveau 3
 
-Get access to the [`dh!prestige daily`](https://duckhunt.me/commands/prestige/daily) command. This will give you free experience every day you play.
+Accédez à la commande quotidienne [`dh!prestige`](https://duckhunt.me/commands/prestige/daily). Cela vous donnera de l'expérience gratuite tous les jours où vous jouerez.
 
-The experience awarded by the command is random, but will get higher the higher your prestige level goes.
+L'expérience attribuée par le commandement est aléatoire, mais elle augmente au fur et à mesure que votre niveau de prestige s'élève.
 
-### Level 4
+### Niveau 4
 
-You'll get access to Icelandic[ water](https://duckhunt.me/commands/shop/bucket), that will wet your target for longer.
+Vous aurez accès à l'[eau islandaise](https://duckhunt.me/commands/shop/bucket), qui mouillera votre cible plus longtemps.
 
-### Level 5
+### Niveau 5
 
-You'll get an **untearable coat**. Just like on level 1, you won't need to buy coats anymore.
+Vous obtiendrez un **manteau indéchirable**. Comme au niveau 1, vous n'aurez plus besoin d'acheter de manteaux.
 
-### Level 6
+### Niveau 6
 
-Your silencers are now **military grade**. They last twice as long, for the same price.
+Vos silencieux sont maintenant de **qualité militaire**. Ils durent deux fois plus longtemps, pour le même prix.
 
-### Level 7
+### Niveau 7
 
-You get to be part of the super secret DuckHunt Secret Service. By joining, you'll get a complimentary, permanent, license[ to kill](https://duckhunt.me/commands/shop/licence)
+Vous ferez partie des services secrets super secrets de DuckHunt. En nous rejoignant, vous obtiendrez un [permis de tuer](https://duckhunt.me/commands/shop/licence) gratuit et permanent.
 
-### Level 8
+### Niveau 8
 
-Your ammo packs get bigger, allowing you to load twice as many bullets in your gun.
+Vos packs de munitions deviennent plus grands, vous permettant de charger deux fois plus de balles dans votre arme.
 
-### Level 9 and above
+### Niveau 9 et plus
 
-Higher levels increase the amount of experience you can get from the [`dh!prestige daily`](https://duckhunt.me/commands/prestige/daily) command. If you have a great idea for a new prestige power up, please tell us on [the support server](https://discordapp.com/invite/2BksEkV)
+Les niveaux plus élevés augmentent la quantité d'expérience que vous pouvez obtenir grâce à la commande quotidienne [`dh!prestige`](https://duckhunt.me/commands/prestige/daily). Si vous avez une idée géniale pour un nouveau pouvoir de prestige, dites-le nous sur le [serveur d'assistance](https://discordapp.com/invite/2BksEkV).
 
