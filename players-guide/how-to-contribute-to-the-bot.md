@@ -10,7 +10,7 @@ Les traductions sont déjà disponibles dans de [nombreuses langues](https://duc
 
 N'oubliez pas de me dire dans quelle langue vous voulez traduire le bot. Nous utilisons [LingoHub](https://translate.lingohub.com/duckhunt/dashboard/dhv4/) pour traduire le bot, j'aurai donc également besoin de votre adresse e-mail pour vous envoyer une invitation. 
 
-Les traducteurs sont crédités dans la commande [`dh!translators`](https://duckhunt.me/commands/translators), et obtiennent un [trophée](https://duckhunt.me/docs/players-guide/achievements-guide) exclusif.
+Les traducteurs sont crédités dans la commande [`dh!translators`](https://duckhunt.me/commands/translators), et obtiennent un [trophée](achievements-guide.md) exclusif.
 
 ## Signaler les bugs
 
@@ -26,9 +26,9 @@ Si vous soumettez une demande de retrait, n'oubliez pas d'inclure votre identifi
 
 ## Aider sur le serveur de support
 
-Vous pouvez rejoindre notre serveur de support en utilisant [ce lien](https://duckhunt.me/support). Venez nous aider à répondre aux questions des débutants et des confirmés. Si vous voulez d'abord vous familiariser avec les règles et les commandes, [lisez ici](https://duckhunt.me/docs/support-server/how-to-join).
+Vous pouvez rejoindre notre serveur de support en utilisant [ce lien](https://duckhunt.me/support). Venez nous aider à répondre aux questions des débutants et des confirmés. Si vous voulez d'abord vous familiariser avec les règles et les commandes, [lise](../support-server/how-to-join.md)[z ici](../support-server/how-to-join.md).
 
-Vous pouvez vous attribuer le [rôle de volontaire de soutien](https://duckhunt.me/docs/support-server/list-of-roles) si vous voulez être contacté par ping pour répondre aux questions.
+Vous pouvez vous attribuer le [rôle de vo](../support-server/list-of-roles.md)[lontaire de soutien](../support-server/list-of-roles.md) si vous voulez être contacté par ping pour répondre aux questions.
 
 ## Editer le code
 
@@ -37,7 +37,7 @@ Le robot DuckHunt est entièrement open source \(y compris la documentation, ce 
 Ce sont tous les projets auxquels vous pouvez contribuer :
 
 * La [documentation](https://github.com/DuckHunt-discord/duckhunt.me-docs) que vous êtes en train de lire \(des liens d'édition pour des pages spécifiques sont également disponibles dans la barre latérale\). Écrit en markdown, très facile à éditer pour les débutants comme pour les experts.
-* Le [bot ](https://github.com/DuckHunt-discord/DHV4)lui-même, avec toutes les [commandes,](https://duckhunt.me/commands) et l'[API](https://duckhunt.me/docs/the-duckhunt-api/channels-scores-and-stats). Écrit en Python, en utilisant la bibliothèque discord.py.
+* Le [bot ](https://github.com/DuckHunt-discord/DHV4)lui-même, avec toutes les [commandes,](https://duckhunt.me/commands) et l'[API](../the-duckhunt-api/channels-scores-and-stats.md). Écrit en Python, en utilisant la bibliothèque discord.py.
 * Le [site web](https://github.com/DuckHunt-discord/DHV4_Web), utilisé pour formater et afficher cette documentation, mais aussi pour rendre les pages de statistiques. Écrit avec Django, HTML&CSS, Jinja2, et une touche de JS.
 * La [configuration docker](https://github.com/DuckHunt-discord/DuckHunt_Docker), qui lie tout cela ensemble et permet un déploiement facile du robot.
 
