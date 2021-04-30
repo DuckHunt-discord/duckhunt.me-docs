@@ -11,7 +11,7 @@
 * [Guide des avancements/succès \(Achievements\)](players-guide/achievements-guide.md)
 * [Types de canards](players-guide/types-of-ducks.md)
 * [Couleurs des manteaux](players-guide/coat-colors.md)
-* [Tips](players-guide/tips.md)
+* [Conseils](players-guide/tips.md)
 * [FAQ](players-guide/faq.md)
 * [Comment contribuer au bot](players-guide/how-to-contribute-to-the-bot.md)
 
