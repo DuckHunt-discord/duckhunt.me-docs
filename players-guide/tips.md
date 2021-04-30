@@ -78,9 +78,9 @@ Les leurres sont parfaits pour faire venir [plus de canards](https://duckhunt.me
 
 Si votre canard n'est pas apparu dans les 10 minutes suivant l'utilisation de votre leurre, essayez la commande [`dh!hug`](https://duckhunt.me/commands/hug) pour vérifier la présence de [fantômes](https://duckhunt.me/docs/players-guide/types-of-ducks).
 
-### Don't buy some early game items
+### N'achetez pas certains objets de début de partie
 
-Avoid buying some items, most are not worth it at this point. [Grease](https://duckhunt.me/commands/shop/grease), [silencers](https://duckhunt.me/commands/shop/silencer), ... Your weapon is almost perfect already, so buying them would only upgrade your stats by a slight margin, if any.
+Évitez d'acheter certains articles, la plupart n'en valent pas la peine à ce stade. [Graisse](https://duckhunt.me/commands/shop/grease), [silencieux](https://duckhunt.me/commands/shop/silencer), ... Votre arme est déjà presque parfaite, donc les acheter n'améliorera vos statistiques que de peu, voire pas du tout.
 
-Most of the anti-sabotage items, such as the weapon cleaning, are useless and should not be bought.
+La plupart des articles anti-sabotage, comme le nettoyage des armes, sont inutiles et ne devraient pas être achetés.
 
