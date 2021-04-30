@@ -17,7 +17,7 @@
 
 ## Administration du bot <a id="bot-administration"></a>
 
-* [Administrators quickstart](bot-administration/admin-quickstart.md)
+* [Guide de démarrage rapide des administrateurs](bot-administration/admin-quickstart.md)
 * [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
 
 ## Serveur de support <a id="support-server"></a>
