@@ -28,92 +28,92 @@ N'oubliez pas que le bot est traduit par des humains comme vous. Si vous souhait
 
 Parfois, vous pouvez constater des erreurs de grammaire ou des fautes de frappe. Dans ce cas, veuillez contacter directement le traducteur pour qu'il les corrige, ou bien prévenez-nous sur le[ serveur d'assistance.](https://discordapp.com/invite/2BksEkV)
 
-### Ducks per day
+### Canards par jour
 
-The [`ducks_per_day`](https://duckhunt.me/commands/settings/ducks_per_day) setting controls the amount of ducks that will spawn during a 24-hour period. It is _not_ an exact number since some ducks aren't depleting that counter :
+Le paramètre [`ducks_per_day`](https://duckhunt.me/commands/settings/ducks_per_day) contrôle le nombre de canards qui vont apparaître pendant une période de 24 heures. Ce n'est pas un nombre exact puisque certains canards n'épuisent pas ce compteur :
 
-* Mechanical ducks bought from the shop
-* Decoys that might bring ducks
-* MOADs children
+* Canards mécaniques achetés au magasin
+* Les leurres qui peuvent amener des canards
+* Les enfants des [MOADs](../players-guide/types-of-ducks.md#moad-mother-of-all-ducks-mere-de-tous-les-canards)
 
-To prevent spam, the amount you can set here is limited. To increase the limit, you can [make your server VIP](../players-guide/how-to-contribute-to-the-bot.md), get more players to join your server and play with DuckHunt, or ask in the support server with a good reason.
+Pour éviter le spam, le montant que vous pouvez définir ici est limité. Pour augmenter la limite, vous pouvez [rendre votre serveur VIP](../players-guide/how-to-contribute-to-the-bot.md#donner), faire en sorte que plus de joueurs rejoignent votre serveur et jouent avec DuckHunt, ou demander au serveur de support avec une bonne raison.
 
-To set the number of ducks per day, the command would be `d!settings ducks_per_day [amount]`, for example, typing `d!settings ducks_per_day 150` would give you 150 ducks per day, or approximately 6 every hour.
+Pour définir le nombre de canards par jour, la commande sera `dh!settings ducks_per_day [montant]`, par exemple, en tapant `dh!settings ducks_per_day 150`, vous obtiendrez 150 canards par jour, soit environ 6 par heure.
 
-The related setting, [`ducks_time_to_live`](https://duckhunt.me/commands/settings/ducks_time_to_live) sets the time a duck will stay before leaving the pond.
+Le paramètre associé, [`ducks_time_to_live`](https://duckhunt.me/commands/settings/ducks_time_to_live), définit le temps que les canards resteront avant de quitter l'étang.
 
-### Experience-related settings
+### Paramètres liés à l'expérience
 
-Every time a hunter kills a duck, they earn some experience. Experience is the game currency, and as such, you can make the game harder or easier by changing the following values.
+Chaque fois qu'un chasseur tue un canard, il gagne de l'expérience. L'expérience est la monnaie du jeu, et en tant que telle, vous pouvez rendre le jeu plus difficile ou plus facile en modifiant les valeurs suivantes.
 
-There are four main settings to control that amount.
+Il existe quatre paramètres principaux pour contrôler cette quantité.
 
-* [`base_duck_exp`](https://duckhunt.me/commands/settings/base_duck_exp) the amount a normal duck gives when killed
-* [`per_life_exp`](https://duckhunt.me/commands/settings/per_life_exp) the amount added to the total for every life a duck has
-* [`clover_min_experience`](https://duckhunt.me/commands/settings/clover_min_experience) the minimum amount a clover will give for every duck killed during the 24 hours following the purchase
-* [`clover_max_experience`](https://duckhunt.me/commands/settings/clover_max_experience) the maximum value for a clover.
+* [`base_duck_exp`](https://duckhunt.me/commands/settings/base_duck_exp) le montant que donne un canard normal lorsqu'il est tué
+* [`per_life_exp`](https://duckhunt.me/commands/settings/per_life_exp) le montant ajouté au total pour chaque vie d'un canard
+* [`clover_min_experience`](https://duckhunt.me/commands/settings/clover_min_experience) le montant minimum qu'un trèfle donnera pour chaque canard tué dans les 24 heures suivant l'achat
+* [`clover_max_experience`](https://duckhunt.me/commands/settings/clover_max_experience) la valeur maximale pour un trèfle.
 
-The total experience a hunter earns after killing a duck can be summarized by this formula :
+L'expérience totale qu'un chasseur acquiert après avoir tué un canard peut être résumée par cette formule :
 
 `total = base_duck_exp + per_life_exp * (duck_lives-1) + clover_value`
 
-Keep in mind that shop prices are fixed, and that changing the clover values will **not** affect existing clovers. To make the game easier, we recommend using the following commands :
+Gardez à l'esprit que les prix des boutiques sont fixes et que la modification des valeurs des trèfles n'affectera pas les trèfles existants. Pour faciliter le jeu, nous vous recommandons d'utiliser les commandes suivantes :
 
 * `dh!settings base_duck_exp 15`
 * `dh!settings per_life_exp 13`
 * `dh!settings clover_min_experience 5`
 * `dh!settings clover_max_experience 13`
 
-Adjust these values as needed.
+Ajustez ces valeurs si nécessaire.
 
-### Super ducks lives
+### La vie des super canards
 
-When a super duck spawn, it gets a certain amount of health. Two settings control how many lives a super duck can get.
+Lorsqu'un super canard apparaît, il reçoit un certain nombre de points de vie. Deux paramètres contrôlent le nombre de vies qu'un super canard peut obtenir.
 
-* [`super_ducks_min_life`](https://duckhunt.me/commands/settings/super_ducks_min_life) the minimum hp a super duck can have
-* [`super_ducks_max_life`](https://duckhunt.me/commands/settings/super_ducks_max_life) the maximum hp a super duck can have
+* [`super_ducks_min_life`](https://duckhunt.me/commands/settings/super_ducks_min_life) la vie minimale qu'un super canard peut avoir
+* [`super_ducks_max_life`](https://duckhunt.me/commands/settings/super_ducks_max_life) la vie maximale qu'un super canard peut avoir
 
-Players can use some AP ammo, or some Explosive ammo to respectively double or triple the damage they do to ducks.
+Les joueurs peuvent utiliser des munitions AP ou des munitions explosives pour respectivement doubler ou tripler les dégâts qu'ils infligent aux canards.
 
-You can also decide to show the health left/total health of ducks using the [`show_duck_lives`](https://duckhunt.me/commands/settings/show_duck_lives) setting.
+Vous pouvez également décider d'afficher la santé restante/la santé totale des canards en utilisant le paramètre [`show_duck_lives`](https://duckhunt.me/commands/settings/show_duck_lives)`.`
 
-We recommend the following values :
+Nous recommandons les valeurs suivantes :
 
-* `dh!settings super_ducks_min_life 3` \(Don't set it lower than 2\)
-* `dh!settings super_ducks_max_life 9` \(Set it to 7 if your gameplay is not competitive\)
-* `dh!settings show_duck_lives False` \(Setting it to `True` would allow people to wait until the last possible moment before shooting\)
+* `dh!settings super_ducks_min_life 3` \(Ne le réglez pas plus bas que 2\)
+* `dh!settings super_ducks_max_life 9` \(Réglez-le sur 7 si votre jeu n'est pas compétitif\).
+* `dh!settings show_duck_lives False` \(En le réglant sur True, les gens pourront attendre le dernier moment avant de tirer.\)
 
-### Night
+### Nuit
 
-DuckHunt V4 allow you to set times when the nights start and ends on the channel. At night, different ducks appear, and they spawn less frequently. Note that times are given in `UTC`.
+DuckHunt V4 vous permet de définir les heures auxquelles les nuits commencent et se terminent sur la chaîne. La nuit, des canards différents apparaissent, et ils apparaissent moins fréquemment. Notez que les heures sont données en `UTC`.
 
-Set the times the night start and ends with the [`night_time`](https://duckhunt.me/commands/settings/night_time) command.
+Définissez les heures de début et de fin de la nuit avec la commande [`night_time`](https://duckhunt.me/commands/settings/night_time).
 
-For example, if you want night to start at 21:30 UTC, and end at 6:20 UTC, you can use the following command :
+Par exemple, si vous voulez que la nuit commence à 21:30 UTC et se termine à 6:20 UTC, vous pouvez utiliser la commande suivante :
 
 `dh!settings night_time 21h30 6h20`
 
-### Weights
+### Pondérations
 
-Duck weights control the chance of a specific duck type to spawn. The higher the weight is, the higher the chance for a duck to be of that type.
+Les pondérations des canards contrôlent la probabilité qu'un type de canard spécifique apparaisse. Plus le poids est élevé, plus la probabilité qu'un canard soit de ce type est élevée.
 
 ### Webhooks
 
-Webhooks are what make DuckHunt V4 special. They give special names and profile pictures to the bot, and look like this :
+Les Webhooks sont ce qui rend DuckHunt V4 spécial. Ils donnent des noms spéciaux et des photos de profil au bot, et ressemblent à ceci :
 
-![What do webhooks look like ?](../.gitbook/assets/webhooks.png)
+![&#xC0; quoi ressemblent les webhooks ?](../.gitbook/assets/webhooks.png)
 
-As you can see, the two ducks have different avatars and names. This is done using webhooks. To enable webhooks on your channel, make sure DuckHunt has the permission to create webhooks, and set [`use_webhooks`](https://duckhunt.me/commands/settings/use_webhooks) to true, like so `dh!settings use_webhooks True`
+Comme vous pouvez le voir, les deux canards ont des avatars et des noms différents. Ceci est fait en utilisant des webhooks. Pour activer les webhooks sur votre canal, assurez-vous que DuckHunt a la permission de créer des webhooks, et mettez [`use_webhooks`](https://duckhunt.me/commands/settings/use_webhooks) à true, comme ceci `dh!settings use_webhooks True`
 
-You can also add some webhooks with [`dh!settings add_webhook`](https://duckhunt.me/commands/settings/add_webhook) to prevent some lag due to discord ratelimits.
+Vous pouvez également ajouter quelques webhooks avec [`dh!settings add_webhook`](https://duckhunt.me/commands/settings/add_webhook) pour éviter un certain lag dû aux ratelimits de discord.
 
-Note that it's useless to have more than 2 webhooks in use by DuckHunt for now, given current rate limits. Also note the discord limit of 10 webhooks per channel.
+Notez qu'il est inutile d'avoir plus de 2 webhooks utilisés par DuckHunt pour le moment, étant donné les limites de débit actuelles. Notez également la limite discord de 10 webhooks par canal.
 
-### Prefix
+### Préfixes
 
-DuckHunt uses two types of prefixes : global prefixes \(`dh!`, `dh`, and @mention\), that you cannot change or edit, and a server prefix, used in your server. By default, the prefix used is `!`. If you find some other conflicts with DuckHunt, and you can't fix it using permissions, you can change your local prefix here. For example, if you wanted to use `$` instead, you could do [`dh!settings prefix $`](https://duckhunt.me/commands/settings/prefix).
+DuckHunt utilise deux types de préfixes : les préfixes globaux \(`dh!`, `dh`, et @mention\), que vous ne pouvez pas changer ou modifier, et un préfixe de serveur, utilisé dans votre serveur. Par défaut, le préfixe utilisé est `!` Si vous trouvez d'autres conflits \(d'autres bots utilisant le même préfixe\) avec DuckHunt, et que vous ne pouvez pas les résoudre en utilisant les permissions, vous pouvez changer votre préfixe local. Par exemple, si vous voulez utiliser $ à la place, vous pouvez faire [`dh!settings prefix $`](https://duckhunt.me/commands/settings/prefix).
 
-### Annoyances
+### Embêtements
 
 Certains paramètres peuvent faire en sorte que le bot mentionne les joueurs dans certains cas. Le réglage de [`mentions_when_killed`](https://duckhunt.me/commands/settings/mentions_when_killed) sur `False` empêchera DuckHunt de mentionner les chasseurs s'ils sont tués.
 
