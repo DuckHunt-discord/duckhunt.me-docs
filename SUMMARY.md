@@ -18,8 +18,8 @@
 ## Administration du bot <a id="bot-administration"></a>
 
 * [Guide de démarrage rapide pour les administrateurs](bot-administration/admin-quickstart.md)
-* [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
-* [Auto \(prestige\) roles](bot-administration/auto-prestige-roles.md)
+* [Édition des réglages / Liste des préférences](bot-administration/edit-settings-settings-list.md)
+* [Rôles \(prestige\) automatiques](bot-administration/auto-prestige-roles.md)
 
 ## Serveur de support <a id="support-server"></a>
 

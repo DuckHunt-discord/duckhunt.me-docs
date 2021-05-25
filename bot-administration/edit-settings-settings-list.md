@@ -1,4 +1,4 @@
-# Edit settings / Settings list
+# Édition des réglages / Liste des préférences
 
 ## Que sont les paramètres ?
 

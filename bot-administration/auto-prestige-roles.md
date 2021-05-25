@@ -1,4 +1,8 @@
-# Auto \(prestige\) roles
+# Rôles \(prestige\) automatiques
+
+{% hint style="danger" %}
+Cette page n'est pas encore traduite en Français. Si vous voulez aider, faites vous connaitre sur le serveur de support ! Merci !
+{% endhint %}
 
 This guide will teach you how to use the [auto\_roles](https://duckhunt.me/commands/settings/auto_roles) and the [auto\_prestige\_roles](https://duckhunt.me/commands/settings/auto_prestige_roles) commands.
 
@@ -46,11 +50,5 @@ Here, on your first prestige level, you'll be given the pink `✨Prestige 1` rol
 
 You'll need to add all of your roles. At the end, on the DuckHunt server, we can see the following:
 
- 
-
 ![Roles added in the server, automatically given by the bot.](../.gitbook/assets/added_roles.png)
-
-
-
-
 
