@@ -3,7 +3,7 @@
 * [Le bot DuckHunt](README.md)
 * [Quelles sont les nouveautés de Duckhunt V4 ?](whats-new-in-duckhunt-v4.md)
 
-## Guide des joueurs
+## Guide des joueurs <a id="players-guide"></a>
 
 * [Guide de démarrage rapide pour les joueurs](players-guide/players-quickstart.md)
 * [Événements](players-guide/events.md)
