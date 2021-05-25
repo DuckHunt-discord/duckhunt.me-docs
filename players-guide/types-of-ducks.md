@@ -86,7 +86,7 @@ Pendant l'événement [Traité de l'ONU](events.md#traite-de-lonu), le canard bl
 
 Vous pouvez voir sur votre page personnelle de chasseur \(`dh!me`\) le nombre de tirs auxquels un canard blindé a résisté.
 
-## MOAD \(Mother Of All Ducks - Mère de tous les canards\)
+### MOAD \(Mother Of All Ducks - Mère de tous les canards\)
 
 ![Tu ne tueras jamais mes enfants](../.gitbook/assets/mother_of_all_ducks_calgeka.png)
 
