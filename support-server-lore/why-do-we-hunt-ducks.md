@@ -2,13 +2,13 @@
 
 #### Il y a très, très longtemps, dans le lointain pays de DuckHunt, sur le continent de Discord...
 
-_insérer une musique sympa ici_
+Insérer _une musique sympa ici_
 
 **Les canards ont déclaré la guerre à l'humanité**. Certains d'entre eux, en désaccord avec le Canard Suprême, se sont envolés du pays du Canard, aussi connu sous le nom de "Pond", et sont maintenant accueillis dans notre refuge spécial : \#duck・of・the・day.
 
 Pendant ce temps, les autres canards continuaient à s'approcher de nous, mais heureusement, notre pays est protégé par de lourds murs, et il n'y a que deux endroits où ils peuvent s'approcher à portée de tir ;
 
-*  \#🦆game・monthly・reset and
+*  \#🦆game・monthly・reset et
 *  \#🦆game・all・time.
 
 ![Un des satan&#xE9;s soldats que nous devons affronter chaque jour.](../.gitbook/assets/soldier_duck_globloxmen.png)
