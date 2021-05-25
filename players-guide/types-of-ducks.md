@@ -24,7 +24,7 @@ Ce canard ne vous donne que la moitié de l'expérience d'un canard normal \(5 e
 
 ![Ce n&apos;est pas un drapeau italien ](../.gitbook/assets/kamikaze_duck_calgeka.png)
 
-Ce canard est comme un canard normal, mais si vous le laissez seul trop longtemps, au lieu de s'éloigner, il va TUER tous les canards vivants sur le canal. N'attendez pas qu'il se dissparaisse !
+Ce canard est comme un canard normal, mais si vous le laissez seul trop longtemps, au lieu de s'éloigner, il va TUER tous les canards vivants sur le canal. N'attendez pas qu'il se disparaisse !
 
 ### Canard fantôme
 
