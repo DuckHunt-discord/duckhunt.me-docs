@@ -22,7 +22,7 @@ Hey, thanks for wanting to improve the docs!
 
 There is a [GitHub repository](https://github.com/DuckHunt-discord/duckhunt.me-docs), but if you aren't at ease with git, you can request access to [GitBook](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/) on the support server to be able to edit the wiki on a word-like interface.
 
-If you do submit a pull request, don't forget to include your discord id so that we can credit you appropriately.
+If you do submit a pull request, don't forget to include your discord ID so that we can credit you appropriately.
 
 ## Help on the support server
 
