@@ -18,7 +18,7 @@ Ce canard vaut 1,5 fois plus d'expérience \(15 exp\). Assurez-vous de lui tirer
 
 ![Le canard au-dessus de moi est jaloux](../.gitbook/assets/plastic_duck_calgeka.png)
 
-This duck will only give you half the experience of a normal duck \(5 exp\). On higher levels, it may not be worth it to shoot this duck.
+Ce canard ne vous donne que la moitié de l'expérience d'un canard normal \(5 exp\). À des niveaux plus élevés, ça ne vaudra peut-être pas le coup de tuer ce type de canards.
 
 ### Kamikaze
 
