@@ -32,7 +32,7 @@ Ce canard est comme un canard normal, mais si vous le laissez seul trop longtemp
 
 Ce canard n'envoie _pas_ de message d'apparition. Vous devez être vigilant si vous en tuez un : le canard que vous vouliez tuer n'est pas encore mort.
 
-La meilleure façon de les trouver est de caliner l'air, car cela ne gaspille pas les balles.
+La meilleure façon de les trouver est de câliner l'air, car cela ne gaspille pas les balles.
 
 ### Prof \(Pr. Duck.\)
 
@@ -92,11 +92,11 @@ Vous pouvez voir sur votre page personnelle de chasseur \(`dh!me`\) le nombre de
 
 Les mères sont des super canards normaux qui, une fois tués, donnent naissance à deux nouveaux canards aléatoires. Les canards générés ne comptent pas dans le [paramètre ducks\_per_\__day](https://duckhunt.me/commands/settings/ducks_per_day) et peuvent être de n'importe quel type.
 
-Si un bébé apparaît après que tu aies tué un MOAD, vérifie tes avancements ! Tu auras débloqué `Monstre`.
+Si un bébé apparaît après que tu as tué un MOAD, vérifie tes achèvements ! Tu auras débloqué `You Monster`.
 
 ## Boss Canard 
 
 ![Array\(16\).join\(&quot;duck&quot; -1\) + &quot; Batman !&quot;](../.gitbook/assets/boss_calgeka.png)
 
-Le boss est un canard unique qui n'apparaîtra que sur le serveur de soutien officiel de DuckHunt. Lorsqu'il est tué, au lieu de recevoir de l'expérience, vous recevrez une lootbox \(boîte de foie gras\) dans votre inventaire. [Utilisez-le](https://duckhunt.me/commands/inventory/use) sur \([presque](https://duckhunt.me/commands/settings/allow_global_items)\) tous les canals.
+Le boss est un canard unique qui n'apparaîtra que sur le serveur de soutien officiel de DuckHunt. Lorsqu'il est tué, au lieu de recevoir de l'expérience, vous recevrez une lootbox \(boîte de foie gras\) dans votre inventaire. [Utilisez-le](https://duckhunt.me/commands/inventory/use) sur \([presque](https://duckhunt.me/commands/settings/allow_global_items)\) tous les canaux.
 

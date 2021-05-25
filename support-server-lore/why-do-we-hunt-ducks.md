@@ -19,11 +19,11 @@ Pendant ce temps, les autres canards continuaient à s'approcher de nous, mais h
 
 \#🦆tests est un champ de bataille simulé pour les forces armées. Ici, chaque soldat peut demander plus de fonds, ce qui lui permet de faire des expériences sur les canards. Utilisez vos connaissances à bon escient !
 
-Méfiez-vous de leurs [officiers](../players-guide/types-of-ducks.md) : les Super-Ducks sont encore plus puissants que leurs soldats ordinaires, et peuvent encaisser quelques coups avant de mourir. Et puis il y a les MOADs. Non seulement ils sont aussi résistants que les Super-Ducks. Mais aussi, lorsqu'ils meurent, deux soldats vengeurs prennent leur place.
+Méfiez-vous de leurs [officiers](../players-guide/types-of-ducks.md) : les Super Canards sont encore plus puissants que leurs soldats ordinaires et peuvent encaisser quelques coups avant de mourir. Et puis il y a les MOADs. Non seulement ils sont aussi résistants que les Super Canards. Mais aussi, lorsqu'ils meurent, deux soldats vengeurs prennent leur place.
 
 Grâce à un financement militaire important, nous avons maintenant accès à des balles perforantes et explosives, qui vous aideront à combattre ces monstres.
 
-Les canards ennemis peuvent quitter le champ de bataille prématurément car ils ne sont qu'en patrouille, ils doivent rester pendant un temps déterminé, puis ils désertent en raison de notre force écrasante.
+Les canards ennemis peuvent quitter le champ de bataille prématurément, car ils ne sont qu'en patrouille, ils doivent rester pendant un temps déterminé, puis ils désertent en raison de notre force écrasante.
 
 Bonne chance, soldats. Maintenant que vous savez pourquoi vous vous battez, soyez courageux. Le Noduck aura peut-être pitié de vous.
 
