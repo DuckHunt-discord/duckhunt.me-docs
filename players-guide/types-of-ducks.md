@@ -52,7 +52,7 @@ Ne tirez **pas** sur ce canard, cela vous coûterait un canard normal d'expérie
 
 Au lieu de cela, vous devez `dh!hug` le canard pour le faire partir. Câliner les canards ne gaspillent pas vos balles.
 
-### Mechanique
+### Mécanique
 
 ![BZAAAAK, je suis le canard m&#xE9;canique !](../.gitbook/assets/mechanical_duck_calgeka.png)
 
