@@ -19,6 +19,7 @@
 
 * [Guide de démarrage rapide pour les administrateurs](bot-administration/admin-quickstart.md)
 * [Edit settings / Settings list](bot-administration/edit-settings-settings-list.md)
+* [Auto \(prestige\) roles](bot-administration/auto-prestige-roles.md)
 
 ## Serveur de support <a id="support-server"></a>
 
