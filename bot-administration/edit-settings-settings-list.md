@@ -38,7 +38,7 @@ The [`ducks_per_day`](https://duckhunt.me/commands/settings/ducks_per_day) setti
 
 To prevent spam, the amount you can set here is limited. To increase the limit, you can [make your server VIP](../players-guide/how-to-contribute-to-the-bot.md), get more players to join your server and play with DuckHunt, or ask in the support server with a good reason.
 
-To set the number of ducks per day, the command would be `d!settings ducks_per_day [amount]`, for example, typing `d!settings ducks_per_day 150` would give you 150 ducks per day, or approximately 6 every hour.
+To set the number of ducks per day, the command would be `dh!settings ducks_per_day [amount]`, for example, typing `dh!settings ducks_per_day 150` would give you 150 ducks per day, or approximately 6 every hour.
 
 The related setting, [`ducks_time_to_live`](https://duckhunt.me/commands/settings/ducks_time_to_live) sets the time a duck will stay before leaving the pond.
 
