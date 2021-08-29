@@ -20,13 +20,13 @@ Si vous venez de découvrir DuckHunt, ce wiki est une source précieuse d'inform
 
 ## Comment lire ce wiki ?
 
-Ce wiki héberge des informations générales sur le jeu, il n'est pas adapté à votre cannal spécifique ! Pour cette raison, le préfixe \( `dh!` \) utilisé sur ces pages est un **préfixe général**, fonctionnant sur tous les serveurs. Cela dit, vous pouvez généralement utiliser un préfixe plus court, par défaut `!` Pour savoir quel est le préfixe utilisé sur votre serveur, vous pouvez consulter la page des paramètres des canaux. 
+Ce wiki héberge des informations générales sur le jeu, il n'est pas adapté à votre salon spécifique ! Pour cette raison, le préfixe \( `dh!` \) utilisé sur ces pages est un **préfixe général**, fonctionnant sur tous les serveurs. Cela dit, vous pouvez généralement utiliser un préfixe plus court, par défaut `!` Pour savoir quel est le préfixe utilisé sur votre serveur, vous pouvez consulter la page des paramètres des salons. 
 
-Sauf indication contraire, nous supposons que votre serveur utilise les paramètres par défaut. Si vous utilisez des paramètres fortement personnalisés, attendez-vous à ce que les choses changent.
+Sauf indication contraire, nous supposons que votre serveur utilise les paramètres par défaut. Si vous utilisez des paramètres fortement personnalisés, attendez-vous à quelques différences.
 
 ## Crédits
 
 Ce wiki a été créé pour DuckHunt\#0550, un bot Discord développé par Eyesofcreeper\#0001. 
 
-Bien que Eyesofcreeper ait créé le robot et contribué au wiki, beaucoup d'autres personnes ont aidé à en faire ce qu'il est aujourd'hui. Si vous voulez aider aussi, jetez un coup d'œil ici. Merci !
+Bien que Eyesofcreeper ait créé le bot et contribué au wiki, beaucoup d'autres personnes ont aidé à en faire ce qu'il est aujourd'hui. Si vous voulez aider aussi, jetez un coup d'œil [ici](players-guide/how-to-contribute-to-the-bot.md). Merci !
 
