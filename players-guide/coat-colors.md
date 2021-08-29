@@ -4,9 +4,9 @@ description: Parce qu'on ne sait jamais quelle couleur mettre !
 
 # Couleurs des manteaux
 
-Since [DuckHunt V4.1](../whats-new-in-duckhunt-v4.md), when buying a [coat in the shop](https://duckhunt.me/commands/shop/coat) you'll be given a randomly colored coat. Additionally, with [prestige level 2](levels-and-experience.md#prestige-levels) or more, you are even able to select a specific color yourself \(`dh!shop coat <color>`\).
+Depuis [DuckHunt V4.1](../whats-new-in-duckhunt-v4.md), quand vous achetez un [manteau dans la boutique](https://duckhunt.me/commands/shop/coat), il vous sera donné un manteau de couleur aléatoire. De plus,  avec un [prestige niveau 2](levels-and-experience.md#prestige-levels) ou plus, vous êtes même capable de choisir la couleur vous-même \(`dh!shop coat <color>`\).
 
-Every color will give you a small, different power up. 
+Chaque couleur vous donnera un petit bonus unique. 
 
 ### Manteau blanc
 
@@ -14,7 +14,7 @@ Every color will give you a small, different power up.
 
 ### Manteau orange
 
-> Meilleure visibilité : Augmente vos chances d'effrayer les canards, et réduis vos chances de vous faire tirer dessus par un autre chasseur.
+> Meilleure visibilité : Augmente vos chances d'effrayer les canards, et réduit vos chances de vous faire tirer dessus par un autre chasseur.
 
 ### Manteau camouflage 
 

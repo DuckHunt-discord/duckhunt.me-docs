@@ -31,83 +31,85 @@ Un autre type de canard est le Boss Canard. Il apparait dans le salon \#genetica
 Pour que le nouveau design fonctionne, DuckHunt a besoin de la permission `manage_webhooks` dans son salon. Si vous voyez encore des canards à l'ancien design, demande à un admin de changer la permission, puis d'utiliser la commande  `dh!settings use_webhooks True` dans le salon.
 {% endhint %}
 
-Les canards ont un meilleur design avec le pouvor des webhooks : chaque canard a maintenant un avatar customisé \(fait par Calgeka - /kalʒɛka/\#5963\)
+Les Canards sont plus beaux grâce au pouvoir des webhooks: chaque canard a maintenant un avatar personnalisé \(fait par Calgeka - /kalʒɛka/\#5963\).
 
 ![Regarde les diff&#xE9;rentd avatars, noms et messages.De haut en bas : Normal, MOAD, Super, Armure.](.gitbook/assets/webhooks-example.png)
 
 ## Un site web tout neuf
 
-Le site web de DuckHunt a aussi été amélioré. Plus de statistiques sont enregistrées et sont accessibles aux joueurs sur leur page perso, incluant leurs meilleurs temps par type de canard, et bien d'autres.
+Le site DuckHunt a pris un coup de frais. Plus de statistiques sont récupérées et affichées aux joueurs sur leur page personnelle, comme leur meilleur temps par type de canard et bien plus encore.
 
 ![Avec aussi un th&#xE8;me sombre !](.gitbook/assets/new-graphs.png)
 
 Vous y trouverez aussi la [liste des commandes](https://duckhunt.me/commands), une [documentation](https://duckhunt.me/fr/docs/) complète pour la V4, les informations [en direct](https://duckhunt.me) sur l'evènement en cours et le nombre de canards dans tout Discord, ainsi qu'une page de [statut](https://duckhunt.me/status) pour vérifier si le bot va bien !
 
-## New shop items
+## De nouveau objets dans la boutique
 
-Global usage of the shop items have been simplified, and some new items like the [autoreloader](https://duckhunt.me/commands/shop/reloader) have been added.
+L'utilisation générale des objets de la boutique on été simplifiés, et certains nouveaux objets, comme le [chargeur auto](https://duckhunt.me/commands/shop/reloader) on été ajoutés.
 
-## A prestige system
+## Un système de prestige
 
-A new prestige system will keep the game fun and different, allowing you to get access to exclusive bonuses.
+A nouveau système de prestige va aider le jeu à être amusant et différent, permettant d'obtenir des bonus uniques et exclusifs.
 
-Prestige is a way for you to restart the DuckHunt adventure, resetting your account \(experience, statistics, ...\) In exchange for the reset, you'll get new items to help you progress faster.
+Le Prestige est un moyen pour vous de recommencer l'aventure DuckHunt, en faisant table rase sur votre avancement \(expérience, statistiques...\) En échange de votre remise à zéro, vous obtiendrez des objets exclusifs pour vous aider à avancer plus vite.
 
-Learn more [here](players-guide/levels-and-experience.md#prestige-levels).
+De plus amples détails [ici](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/~/drafts/-Mi5jK2ERQnbHzgQLJrV/v/french/players-guide/levels-and-experience#niveaux-de-prestige).
 
-## Inline help, statistics, and topscores
+## De l'aide, des statistiques et bien plus
 
-If you don't like to open a website to see your statistics and the commands list, DuckHunt V4 has got you covered : the [`dh!help`](https://duckhunt.me/commands/) command sends you the list of commands, directly in discord !
+Si vous n'aimez pas d'ouvrir le site pour voir vos statistiques et la liste des commandes, DuckHunt V4 a prévu une chose pour vous : La commande [`dh!help`](https://duckhunt.me/commands/)vous envoie une liste de commandes, directement sur discord.
 
-![You can see your current level too !](.gitbook/assets/inline-information-about-a-hunter.png)
+![Vous pouvez m&#xEA;me voir votre niveau !](.gitbook/assets/inline-information-about-a-hunter.png)
 
-## A channel to follow to see new events and freetime in the chat
+## Un salon à suivre pour voir les nouveaux événements et le freetime dans le chat
 
 {% hint style="info" %}
-This needs some setup : your server admin must follow the channel in your duckhunt channel to transfer messages. This cannot be automated by the bot.
+Cela demande un peu d'installation : Votre admin de serveur doit suivre le salon sur le discord DuckHunt pour tranférer les messages. Cela ne peut pas être automatisé par le bot.
 {% endhint %}
 
-Don't miss new events when following the new \#🦆duckhunt-informations channel.
+Ne ratez pas les nouveaux événements en suivant le nouveaux salon \#🦆duckhunt-informations.
 
-![These are autopublished directly to your channel](.gitbook/assets/messages-sent-in-the-informations-channel.png)
+![Ces messages sont auto-publi&#xE9;s directement dans votre salon](.gitbook/assets/messages-sent-in-the-informations-channel.png)
 
-## More ducks
+## Plus de canards
 
-By using webhooks, we are able to reduce the pressure on DuckHunt, and as such, you can now set the `duck_per_day` higher than previously. Overall, you should be able to get twice as more ducks in a day compared to V3.
+En utilisant les webhooks, nous pouvons réduire la pression sur DuckHunt, ainsi, vous pouvez maintenant régler le paramètre`duck_per_day` plus haut qu'avant. En somme, vous devriez pouvoir avoir deux fois plus de canards par jour, en comparaison avec la V3.
 
-## Stable bot
+## Un bot plus sable
 
-This update should also make the bot more stable, with less reliance on caches, more detailed error messages, and less downtime.
+Cette mise à jour devrait aussi rendre le bot plus stable, avec moins de dépendance sur les chaches, des messages d'erreurs plus détaillés et moins de coupures en général. 
 
-By using intents, the bot will be faster to answer commands than the previous version, and should get overwhelmed less often.
+Avec l'usage des intents, le bot sera plus rapide pour répondre aux commandes que sa précédente version and devrait se retrouver débordé moins souvent.
 
-## New commands
+## De nouvelles commandes
 
-Some new commands like [me](https://duckhunt.me/commands/me), [shooting\_stats](https://duckhunt.me/commands/shooting_stats), [best\_times](https://duckhunt.me/commands/best_times), [kills\_stats](https://duckhunt.me/commands/kills_stats), and a lot more have been added to the bot. Will you be able to find them [all](https://duckhunt.me/commands) ?
+De nouvelles commandes comme [me](https://duckhunt.me/commands/me), [shooting\_stats](https://duckhunt.me/commands/shooting_stats), [best\_times](https://duckhunt.me/commands/best_times), [kills\_stats](https://duckhunt.me/commands/kills_stats), et bien plus ont été ajoutées aux bot. Serez-vous à même de toutes les [trouver](https://duckhunt.me/commands) ?
 
-## A complete API for developers
+## Une API complète pour les développeurs 
 
-If you want to integrate your own bot with DuckHunt, it's easier than ever. You can go ahead and read the [DuckHunt API page](the-duckhunt-api/channels-scores-and-stats.md).
+Si vous voulez intégrer votre propre bot avec DuckHunt, cela n'a jamais été aussi facile. Vous pouvez vous lancer dedans et lire la [page de l'API DuckHunt](https://app.gitbook.com/@duckhunt/s/duck-hunt-discord/~/drafts/-Mi5jK2ERQnbHzgQLJrV/v/french/the-duckhunt-api/channels-scores-and-stats).
 
-## Settings overhaul
+## Plus de paramétrages
 
-{% hint style="success" %}
-On V4, settings are **no longer defined per server**. Most of them can now be edited on a per-channel basis ! Good news if there are two or more Duckhunt channels in your server.
+{% hint style="info" %}
+Sur la V4, les paramètres ne sont plus **définis par serveurs**. La plupart d'entre eux sont personnalisables par salons ! Bonne nouvelle si vous avez deux salons Duckhunt ou plus dans votre serveur.
 {% endhint %}
 
-Many settings have been changed to facilitate a channel setup. Included are [settings presets](https://duckhunt.me/commands/settings/templates) used to configure a server very quickly.
 
-Don't worry, your settings from V3 have been migrated, just like the scores of players on your channels.
 
-### Players settings
+De nombreux paramètres ont été changé pour faciliter la mise en place d'un salon. Ceci inclut des [paramétrage préfaits](https://duckhunt.me/commands/settings/templates) utilisés pour configurer un serveur très rapidement.
 
-Players can also set some preferences globally, like their preferred [language](https://duckhunt.me/commands/settings/my_language) or if they wish to be [pinged](https://duckhunt.me/commands/settings/ping) \(or not\) by messages sent to them by the bot.
+Pas d'inquiétude, vos paramètres de la V3 on été conservés, tout comme les scores des joueurs sur vos salons.
 
-## Improved translations
+### Paramètres des Joueurs
 
-Translations have been improved, with native time formats and more. You can also see the available languages directly from Discord
+Les joueurs peuvent aussi régler quelques préférences globales, comme leur [langage](https://duckhunt.me/commands/settings/my_language) préféré or s'ils veulent être [ping](https://duckhunt.me/commands/settings/ping) \(ou non\) par les messages envoyés par le bot.
 
-![The translators command list all the languages you can get on the bot](.gitbook/assets/translators.png)
+## De meilleurs traductions
 
-Of course, you can still [contribute to translations](players-guide/how-to-contribute-to-the-bot.md#translating-the-bot) if you desire.
+Les traductions ont été améliorées, withe des format de temps natif et plus. Vous pouvez aussi voir les langues disponible directement depuis Discord.
+
+![La commande dh!translators liste toutes les langues que vous pouvez avoir sur le bot](.gitbook/assets/translators.png)
+
+Bien sûr, vous pouvez toujours  [aider à la traduction ](players-guide/how-to-contribute-to-the-bot.md#translating-the-bot)si vous le désirez
 

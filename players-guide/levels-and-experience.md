@@ -8,15 +8,15 @@ Cependant, le système de prestige n'est activé que lorsque [vous le décidez](
 
 ## Pourquoi ai-je moins de balles qu'avant ?
 
-Vous avez plus de chargeurs mais moins de balles parce que vous avez monté de niveau. Le passage à un niveau supérieur permet d'échanger ces différences contre une augmentation importante de la précision et de la fiabilité \(la statistique qui détermine la fréquence à laquelle votre arme s'enraye\).
+Vous avez plus de chargeurs mais moins de balles parce que vous êtes monté de niveau. Le passage à un niveau supérieur permet d'échanger ces différences contre une augmentation importante de la précision et de la fiabilité \(la statistique qui détermine la fréquence à laquelle votre arme s'enraye\).
 
-Pensez-y comme si vous aviez un AK47 au début, au niveau 1.... vous avez un chargeur plein qui peut contenir 6 coups, et votre ceinture ne peut en contenir que quelques-uns. Cependant, il n'est pas fait pour la longue portée, donc il est imprécis comme dieu sait quoi, et il est vieux comme le monde, donc il s'enraye comme un fou.
+Pensez-y comme si vous aviez un AK47 au début, au niveau 1... vous avez un chargeur plein qui peut contenir 6 coups, et votre ceinture ne peut en contenir que quelques-uns. Cependant, il n'est pas fait pour la longue portée, donc il est imprécis comme dieu sait quoi, et il est vieux comme le monde, donc il s'enraye comme un fou.
 
 ...mais à la fin, vous obtenez un nouveau fusil de sniper qui déchire. Il ne peut contenir qu'une seule balle à la fois, mais il est de qualité militaire, peut tuer une mouche sur une corne de taureau à un kilomètre de distance, et il est assez fiable pour ne presque jamais s'enrayer, même si vous le plongez dans la boue pendant une semaine.
 
-## Game levels
+## Les Niveaux
 
-| Level number | Minimum experience | Name | Accuracy | Reliability | Bullets | Magazines |
+| Numéro du niveau | Expérience minimum | Nom | Précision | Fiabilité | Nb Balles | Nb Chargeurs |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | -3 |  | Tricheur inversé ? |  |  |  |  |
 | -2 |  | Calineur de canards ? |  |  |  |  |
@@ -79,7 +79,7 @@ C'est le niveau par défaut lorsque vous commencez le jeu. Vous obtenez le droit
 
 ### Niveau 1
 
-Lors de votre premier prestige, vous obtiendrez des **lunettes de soleil incassables**. Vous n'aurez plus besoin d'acheter des lunettes de soleil.
+Lors de votre premier prestige, vous obtiendrez des **lunettes de soleil incassables**. Vous n'aurez plus besoin d'acheter des [lunettes de soleil](https://duckhunt.me/commands/shop/sunglasses).
 
 ### Niveau 2
 
@@ -89,11 +89,11 @@ Vous pourrez choisir la couleur de votre [manteau](https://duckhunt.me/commands/
 
 Accédez à la commande quotidienne [`dh!prestige`](https://duckhunt.me/commands/prestige/daily). Cela vous donnera de l'expérience gratuite tous les jours où vous jouerez.
 
-L'expérience attribuée par le commandement est aléatoire, mais elle augmente au fur et à mesure que votre niveau de prestige s'élève.
+L'expérience attribuée par la commande est aléatoire, mais elle augmente au fur et à mesure que votre niveau de prestige augmente.
 
 ### Niveau 4
 
-Vous aurez accès à l'[eau islandaise](https://duckhunt.me/commands/shop/bucket), qui mouillera votre cible plus longtemps.
+Vous aurez accès à l'[eau Islandaise](https://duckhunt.me/commands/shop/bucket), qui mouillera votre cible plus longtemps.
 
 ### Niveau 5
 

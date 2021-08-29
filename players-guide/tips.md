@@ -1,6 +1,6 @@
 # Conseils
 
-Vous y trouverez des conseils sur la meilleure façon d'utiliser et de chasser les canards, basés sur des interviews des meilleurs DuckHunters, et des discussions avec le créateur : Eyesofcreeper\#0001.
+Ici, vous trouverez des conseils sur la meilleure façon d'utiliser et de chasser les canards, basés sur des interviews des meilleurs DuckHunters, et des discussions avec le créateur : Eyesofcreeper\#0001.
 
 ## En général
 

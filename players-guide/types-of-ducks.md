@@ -42,7 +42,7 @@ Le professeur vous demande de faire des calculs pour le tuer. Réponds à la que
 
 > Euh petite question, que font 16 + 91 ?
 
-Vous devez utiliser `dh!pan 107` pour le tuer. Les mauvaises réponses vous **FERONT** perdre vos balle.
+Vous devez utiliser `dh!pan 107` pour le tuer. Les mauvaises réponses vous **FERONT** perdre vos balles.
 
 ### Baby
 
@@ -78,9 +78,9 @@ Cependant, avec un si grand nombre de vies, les tuer vous permettra [d'obtenir p
 
 ### Canards en armure
 
-![Bullets can&apos;t penetrate my armor... Or can they ?](../.gitbook/assets/armored_duck_calgeka.png)
+![Les balles ne peuvent pas p&#xE9;n&#xE9;trer mon armure... Ou le peuvent-elles ?](../.gitbook/assets/armored_duck_calgeka.png)
 
-Ce canard résiste à 1 dmg à presque \(90%\) chaque tir. Pour le tuer, vous devez avoir au moins quelques munitions [AP](https://duckhunt.me/commands/shop/ap) équipées.
+Ce canard résiste à 1 dégât à presque \(90%\) chaque tir. Pour le tuer, vous devez avoir au moins quelques munitions [AP](https://duckhunt.me/commands/shop/ap) équipées.
 
 Pendant l'événement [Traité de l'ONU](events.md#traite-de-lonu), le canard blindé ne résiste pas aux tirs car cela serait injuste pour les chasseurs. Il se comportera alors comme un Super Canard normal, mais comptera toujours pour vos kills de canards en armure !
 
@@ -90,9 +90,9 @@ Vous pouvez voir sur votre page personnelle de chasseur \(`dh!me`\) le nombre de
 
 ![Tu ne tueras jamais mes enfants](../.gitbook/assets/mother_of_all_ducks_calgeka.png)
 
-Les mères sont des super canards normaux qui, une fois tués, donnent naissance à deux nouveaux canards aléatoires. Les canards générés ne comptent pas dans le [paramètre ducks\_per_\__day](https://duckhunt.me/commands/settings/ducks_per_day) et peuvent être de n'importe quel type.
+Les mères sont des Super canards normaux qui, une fois tués, donnent naissance à deux nouveaux canards aléatoires. Les canards générés ne comptent pas dans le [paramètre ducks\_per_\__day](https://duckhunt.me/commands/settings/ducks_per_day) et peuvent être de n'importe quel type.
 
-Si un bébé apparaît après que tu as tué un MOAD, vérifie tes achèvements ! Tu auras débloqué `You Monster`.
+Si un bébé apparaît après que tu as tué une MOAD, vérifie tes achèvements ! Tu auras débloqué `You Monster`.
 
 ## Boss Canard 
 

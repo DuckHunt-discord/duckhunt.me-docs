@@ -40,7 +40,7 @@ Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. A
 
 **Comment l'obtenir :** Tapez une commande de chasse \([bang](https://duckhunt.me/commands/bang), [reload](https://duckhunt.me/commands/reload)\) pendant 365 jours différents.
 
-### Je ne veux pas de tes damnées balles
+### Je ne veux pas de tes satanés balles
 
 > Laissez une balle que vous avez trouvée dans un buisson
 
@@ -54,17 +54,17 @@ Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. A
 
 ### MATHS 101
 
-> Résolvez des équations données par le Pr. Canard
+> Résolvez des équations données par le Prof \(Pr. Duck.\)
 
-**Comment l'obtenir :** Tuez 5 bébé canards
+**Comment l'obtenir :** Tuez 5 Prof \(Pr. Duck.\)
 
 ### CERVAUUUUUUX !
 
 > Mangez quelques cerveaux pour revenir à la vie
 
-**Comment l'obtenir :** Faire en sorte que quelqu'un vous tue \(accidentellement ou non\), et [ressusciter](https://duckhunt.me/commands/revive) vous.
+**Comment l'obtenir :** Faites en sorte que quelqu'un vous tue \(accidentellement ou non\), et [ressuscitez](https://duckhunt.me/commands/revive) vous.
 
-## Fusil de sniper
+## Tourelle
 
 > Utilisez plus de 1000 balles
 
@@ -74,15 +74,15 @@ Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. A
 
 > Ustilisez les projectiles Homing
 
-**How to obtain:** Obtenez 150 exp et achetez des [projectiles à tête chercheus](https://duckhunt.me/commands/shop/homing_bullets)e, puis tirez sur un canard.
+**Comment l'obtenir :** Obtenez 150 exp et achetez des [projectiles à tête chercheuse](https://duckhunt.me/commands/shop/homing_bullets), puis tirez sur un canard.
 
 ### You monster
 
 > Tuez une MOAD qui fait apparaitre un bébé canard
 
-**Comment l'obtenir :** Tuez beaucoup de MOAD, un jour vous aurez la chance d'obtenir un bébé canard qui apparaisse.
+**Comment l'obtenir :** Tuez beaucoup de MOAD, un jour vous aurez la chance de voir un bébé canard apparaître dans son ombre.
 
-### Assurer de flingue
+### Assureur de flingue
 
 > Donnez au moins 30 exp à un chasseur qui a perdu son arme.
 
@@ -92,7 +92,7 @@ Ce guide vous aidera à débloquer toutes les réalisations sur votre chaîne. A
 
 > Tirez sur votre propre canard mécanique.
 
-**Comment l'obtenir :** Acheter [un canard mécanique](https://duckhunt.me/commands/shop/mechanical), et le tuer.
+**Comment l'obtenir :** Acheter un[ canard mécanique](https://duckhunt.me/commands/shop/mechanical), et tuez-le.
 
 ### Mieux vaut prévenir que guérir
 
