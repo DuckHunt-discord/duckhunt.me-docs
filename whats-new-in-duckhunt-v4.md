@@ -6,42 +6,42 @@ DuckHunt V4 est une réécriture complète du bot DuckHunt. En tant que tel, vou
 
 Sur V3, il n'y avait que quelques types de canards :
 
-* La [MOAD](players-guide/types-of-ducks.md#moad-mother-of-all-ducks)
+* La [MOAD](players-guide/types-of-ducks.md#moad-mother-of-all-ducks) \(Mother of All Ducks, ou Mère de tous les Canards en français\)
 * Le [Super Canard](players-guide/types-of-ducks.md#super-ducks)
-* Le [Canard méchanique](players-guide/types-of-ducks.md#mechanical)
+* Le [Canard mécanique](players-guide/types-of-ducks.md#mechanical)
 * Le [Canard normal](players-guide/types-of-ducks.md#normal-ducks)
 * Le [Bébé canard](players-guide/types-of-ducks.md#baby)
 
 Sur la V4, ces canards ont été conservés, et de nouveaux sont apparus :
 
-* The [Armored Duck](players-guide/types-of-ducks.md#armored) \(resists shots\)
-* The [Pr. Duck](players-guide/types-of-ducks.md#prof-pr-duck) \(needs maths\)
-* The [Golden Duck](players-guide/types-of-ducks.md#golden) and the [Plastic Duck](players-guide/types-of-ducks.md#plastic) \(worth more and less experience\)
-* The [Kamikaze Duck](players-guide/types-of-ducks.md#kamikaze) \(kill other ducks\)
-* The [Ghost Duck](players-guide/types-of-ducks.md#ghost) \(don't send a spawn message\)
-* Nightly Ducks, like the Night Duck and the Sleeping Duck
+* Le [Canard en Armure](players-guide/types-of-ducks.md#canards-en-armure) \(résiste à la plupart des tirs\)
+* Le [Prof Canard](players-guide/types-of-ducks.md#prof-pr-duck) \(demande des calculs\)
+* Le [Canard Doré](players-guide/types-of-ducks.md#canard-dore) et le [Canard en Plastique](players-guide/types-of-ducks.md#canard-en-plastique) \(qui valent respectivement plus et moins d'exp\)
+* Le [Canard Kamikaze](players-guide/types-of-ducks.md#kamikaze) \(tue les autres canards\)
+* Le [Canard Fantôme](players-guide/types-of-ducks.md#canard-fantome) \(n'envoie pas de messages quand il arrive\)
+* Les canards de nuit : le [Canard de Nuit](players-guide/types-of-ducks.md#canard-de-la-nuit) et le [Canard Endormi](players-guide/types-of-ducks.md#canard-de-la-nuit).
 
-### The Duck Boss
+### Le Boss Canard
 
-Another type of duck is the Duck Boss. The Duck Boss appears on the \#genetically-modified-ducks channel on the DuckHunt Server only, but when killed gives everyone who contributed to the kill a "box of foie gras" they can use on any channel in the game.
+Un autre type de canard est le Boss Canard. Il apparait dans le salon \#genetically-modified-ducks sur le serveur officiel de DuckHunt uniquement, et donne à tous ceux qui contribuent à le tuer une "Boîte de Foie Gras" qu'ils peuvent utiliser dans n'importe quel salon du jeu.
 
 ## Design
 
 {% hint style="info" %}
-For the new design to work, DuckHunt will need the `manage_webhooks` permission on his channel. If you still see older-looking ducks, ask an admin to add the correct permission, and then to run the `dh!settings use_webhooks True` command.
+Pour que le nouveau design fonctionne, DuckHunt a besoin de la permission `manage_webhooks` dans son salon. Si vous voyez encore des canards à l'ancien design, demande à un admin de changer la permission, puis d'utiliser la commande  `dh!settings use_webhooks True` dans le salon.
 {% endhint %}
 
-Ducks are better designed with the power of webhooks: every duck now gets a custom avatar \(made by Calgeka - /kalʒɛka/\#5963\)
+Les canards ont un meilleur design avec le pouvor des webhooks : chaque canard a maintenant un avatar customisé \(fait par Calgeka - /kalʒɛka/\#5963\)
 
-![Look at all the different avatars, names, and messages. From top to bottom : Normal, MOAD, Super, Armored](.gitbook/assets/webhooks-example.png)
+![Regarde les diff&#xE9;rentd avatars, noms et messages.De haut en bas : Normal, MOAD, Super, Armure.](.gitbook/assets/webhooks-example.png)
 
-## A brand-new website
+## Un site web tout neuf
 
-DuckHunt website just got better. More stats are collected and shown to players on their personal webpages, including best times per type of ducks killed, and a lot more.
+Le site web de DuckHunt a aussi été amélioré. Plus de statistiques sont enregistrées et sont accessibles aux joueurs sur leur page perso, incluant leurs meilleurs temps par type de canard, et bien d'autres.
 
-![Also featuring a dark theme](.gitbook/assets/new-graphs.png)
+![Avec aussi un th&#xE8;me sombre !](.gitbook/assets/new-graphs.png)
 
-You'll also find the [list of commands](https://duckhunt.me/commands), good [documentation](https://duckhunt.me/docs/) made for V4, [live data](https://duckhunt.me) like the current event and the number of ducks overall, and also a [status page](https://duckhunt.me/status) used to check if the bot is healthy.
+Vous y trouverez aussi la [liste des commandes](https://duckhunt.me/commands), une [documentation](https://duckhunt.me/fr/docs/) complète pour la V4, les informations [en direct](https://duckhunt.me) sur l'evènement en cours et le nombre de canards dans tout Discord, ainsi qu'une page de [statut](https://duckhunt.me/status) pour vérifier si le bot va bien !
 
 ## New shop items
 
