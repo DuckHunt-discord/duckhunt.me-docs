@@ -1,6 +1,6 @@
 # Événements
 
-Les événements se produisent à l'échelle mondiale, au même moment et sur l'ensemble de Discord. Ils modifieront le gameplay et rendront la chasse aux canards plus amusante. Toutes les heures, il y a 10 % de chances qu'un événement soit appliqué \(pendant une heure\). Si un événement doit être tiré au sort, il est choisi dans la liste des événements avec une probabilité égale. Cela signifie qu'il devrait y avoir environ 2 événements par jour.
+Les événements se produisent à l'échelle mondiale, au même moment et sur l'ensemble de Discord. Ils modifieront le gameplay et rendront la chasse aux canards plus amusante. Toutes les heures, il y a 10 % de chances qu'un événement soit appliqué \(pendant une heure\). Si un événement doit être tiré au sort, il est choisi dans la liste des événements avec une probabilité égale. Cela signifie qu'il devrait y avoir en moyenne 2 événements par jour.
 
 {% hint style="success" %}
 Pour montrer les événements en cours, utilisez la commande `dh!event`
