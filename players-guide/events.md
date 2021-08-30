@@ -50,7 +50,7 @@ Les Super Canards ont 4 vies supplémentaires.
 
 ## Temps venteux
 
-> Les balles sont déviées par un vent fort
+> Les balles sont déviées par un vent fort.
 
 La précision des chasseurs est réduite aux 3/4 de leur précision actuelle, avec un minimum de 60%. Si vous le pouvez, utilisez un [viseur](https://duckhunt.me/commands/shop/sight).
 
