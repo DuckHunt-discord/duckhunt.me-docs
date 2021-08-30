@@ -73,13 +73,13 @@ Ne ratez pas les nouveaux événements en suivant le nouveaux salon \#🦆duckhu
 
 ## Plus de canards
 
-En utilisant les webhooks, nous pouvons réduire la pression sur DuckHunt, ainsi, vous pouvez maintenant régler le paramètre`duck_per_day` plus haut qu'avant. En somme, vous devriez pouvoir avoir deux fois plus de canards par jour, en comparaison avec la V3.
+En utilisant les webhooks, nous pouvons réduire la pression sur DuckHunt, ainsi, vous pouvez maintenant régler le paramètre`duck_per_day` plus haut qu'avant. En somme, vous devriez pouvoir avoir deux fois plus de canards par jour, comparé à la V3.
 
 ## Un bot plus sable
 
-Cette mise à jour devrait aussi rendre le bot plus stable, avec moins de dépendance sur les chaches, des messages d'erreurs plus détaillés et moins de coupures en général. 
+Cette mise à jour devrait aussi rendre le bot plus stable, avec moins de dépendance sur les caches, des messages d'erreurs plus détaillés et moins de coupures en général. 
 
-Avec l'usage des intents, le bot sera plus rapide pour répondre aux commandes que sa précédente version and devrait se retrouver débordé moins souvent.
+Avec l'usage des intents, le bot sera plus rapide pour répondre aux commandes que sa précédente version et devrait se retrouver débordé moins souvent.
 
 ## De nouvelles commandes
 
@@ -97,7 +97,7 @@ Sur la V4, les paramètres ne sont plus **définis par serveurs**. La plupart d'
 
 
 
-De nombreux paramètres ont été changé pour faciliter la mise en place d'un salon. Ceci inclut des [paramétrage préfaits](https://duckhunt.me/commands/settings/templates) utilisés pour configurer un serveur très rapidement.
+De nombreux paramètres ont été changé pour faciliter la mise en place d'un salon. Ceci inclut des [paramétrages prédéfinis ](https://duckhunt.me/commands/settings/templates) utilisés pour configurer un serveur très rapidement.
 
 Pas d'inquiétude, vos paramètres de la V3 on été conservés, tout comme les scores des joueurs sur vos salons.
 
@@ -107,9 +107,9 @@ Les joueurs peuvent aussi régler quelques préférences globales, comme leur [l
 
 ## De meilleurs traductions
 
-Les traductions ont été améliorées, withe des format de temps natif et plus. Vous pouvez aussi voir les langues disponible directement depuis Discord.
+Les traductions ont été améliorées, avec des format de temps natifs et plus. Vous pouvez aussi voir les langues disponibles directement depuis Discord.
 
-![La commande dh!translators liste toutes les langues que vous pouvez avoir sur le bot](.gitbook/assets/translators.png)
+![La commande dh!translators liste toutes les langues que vous pouvez avoir sur le bot.](.gitbook/assets/translators.png)
 
-Bien sûr, vous pouvez toujours  [aider à la traduction ](players-guide/how-to-contribute-to-the-bot.md#translating-the-bot)si vous le désirez
+Bien sûr, vous pouvez toujours  [aider à la traduction ](players-guide/how-to-contribute-to-the-bot.md#translating-the-bot)si vous le désirez ! Pour cela, rejoignez le [serveur officiel](https://duckhunt.me/support) et demandez à traduire à Eyesofcreeper\#0001
 
