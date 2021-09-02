@@ -10,7 +10,7 @@ Cependant, le système de prestige n'est activé que lorsque [vous le décidez](
 
 Vous avez plus de chargeurs mais moins de balles parce que vous êtes monté de niveau. Le passage à un niveau supérieur permet d'échanger ces différences contre une augmentation importante de la précision et de la fiabilité \(la statistique qui détermine la fréquence à laquelle votre arme s'enraye\).
 
-Pensez-y comme si vous aviez un AK47 au début, au niveau 1... vous avez un chargeur plein qui peut contenir 6 coups, et votre ceinture ne peut en contenir que quelques-uns. Cependant, il n'est pas fait pour la longue portée, donc il est imprécis comme dieu sait quoi, et il est vieux comme le monde, donc il s'enraye comme un fou.
+Pensez-y comme si vous aviez un AK47 au début, au niveau 1... vous avez un chargeur plein qui peut contenir 6 coups, et votre ceinture ne peut en contenir que quelques-uns. Cependant, il n'est pas fait pour la longue portée, donc il est très imprécis, et il est vieux comme le monde, donc il s'enraye comme un fou...
 
 ...mais à la fin, vous obtenez un nouveau fusil de sniper qui déchire. Il ne peut contenir qu'une seule balle à la fois, mais il est de qualité militaire, peut tuer une mouche sur une corne de taureau à un kilomètre de distance, et il est assez fiable pour ne presque jamais s'enrayer, même si vous le plongez dans la boue pendant une semaine.
 
