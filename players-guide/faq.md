@@ -14,6 +14,8 @@ Alternative titles: There are almost no commands on my channel?, The bang/reload
 
 You didn't [enable](https://duckhunt.me/commands/settings/enabled) the channel, did you ? Maybe you should read the [QuickStart guide for administrators](../bot-administration/admin-quickstart.md).
 
+You can also open a thread on the support channel of [our support server](https://discordapp.com/invite/2BksEkV).
+
 ## Can I see the source code?
 
 Sure you can! Head to [GitHub](https://github.com/DuckHunt-discord) for it!
