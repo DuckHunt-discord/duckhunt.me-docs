@@ -44,6 +44,12 @@ The professor requires you to do some math to kill it. Answer the question in th
 
 You must use `dh!pan 107` to kill it. Wrong answers **WILL** waste your bullet.
 
+
+### Cartographer Duck
+
+IMAGE TBD
+
+
 ### Baby
 
 ![Piou ? He&apos;s so cute !](../.gitbook/assets/baby_duck_calgeka.png)
