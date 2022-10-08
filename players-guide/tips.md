@@ -40,7 +40,7 @@ Achetez [un trèfle à 4 feuilles](https://duckhunt.me/commands/shop/clover) dè
 
 ### Tuez les boss
 
-Sur le serveur de support, il y a généralement un boss qui apparaît tous les jours. Si vous réagissez avec l'emoji 🔫 pour le tuer, vous recevrez une "boîte de foie gras" dans votre inventaire.
+Sur le serveur de support, il y a généralement un boss qui apparaît tous les jours. Si vous réagissez avec l'emoji 🔫 pour le tuer, vous recevrez une "boîte de foie gras" dans votre inventaire. Soyez rapide : Seulement les 40 premières personnes à réagir avec cet emoji recevront une boite de foie gras.
 
 Vous pouvez ensuite ouvrir la boîte pour obtenir des articles sur N'IMPORTE QUEL CANAL en utilisant le bot.
 
@@ -61,6 +61,10 @@ La graisse fera en sorte que votre arme s'enraye moins souvent, ce qui peut êtr
 ### Utilisez la commande hug
 
 Vous pouvez vous procurer un détecteur infrarouge pour économiser des balles et 2 exp, mais j'utilise juste [`dh!hug`](https://duckhunt.me/commands/hug) pour voir s'il y a un canard quand je ne suis pas sûr.
+
+### Foie Gras
+
+Ouvrez les boites de foie gras que vous obtenez : vous pouriez y trouver des balles, des chargeurs ou de l'expérience.
 
 ## Fin de partie
 
