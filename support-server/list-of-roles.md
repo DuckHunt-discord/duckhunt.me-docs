@@ -32,7 +32,11 @@ Voici une liste de la plupart des rôles que vous pouvez trouver sur le serveur 
 | Notify | Vous pingera lorsque des mises à jour importantes seront effectuées sur le bot. |
 | Self-hosting | Les personnes qui hébergent le bot par elles-mêmes. |
 | CanPostInServerlist | Les personnes qui sont autorisées à faire de la publicité pour leur serveur dans le canal de la liste des serveurs. Ils ont une autorisation spéciale d'Eyes. |
-| Quizz Event Player 2020 | Personnes ayant participé à l'événement Quizz en 2020. |
+| Cartographer Event Player 2022 | Personnes ayant participé à l'événement du canard cartographe en 2022. |
+| Cartographer Event Winner 2022 | Les personnes ayant gagné l'événement du canard cartographe en 2022. |
+| Landmines Event Player 2021 | Personnes ayant participé à l'événement Landmines en 2020. |
+| Landmines Event Winner 2021 | Les personnes ayant gagné l'événement Landmines en 2021. |
+| Quizz Event Player 2020 | Personnes ayant participé à l'événement Quizz en 2021. |
 | Quizz Event Winner 2020 | Les personnes ayant obtenu plus de 50 points à l'épreuve du Quizz en 2020. |
 | Coroned Event Player 2020 | Personnes ayant participé à l'événement Coroned en 2020. |
 | Coroned Event Winner 2020 | Les personnes qui ont remporté l'événement Coroned en 2020. |
