@@ -49,6 +49,8 @@ You must use `dh!pan 107` to kill it. Wrong answers **WILL** waste your bullet.
 
 IMAGE TBD
 
+The cartographer duck requires you to find it on a spolier-made map. Once you've clicked enough and found the 🦆 (duck) emoji, provide the coordinates to the `dh!pan` command.
+
 
 ### Baby
 
