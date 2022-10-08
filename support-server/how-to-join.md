@@ -24,7 +24,7 @@ Nous respectons les règles standard de Discord. Veuillez vous référer à [htt
 12. Le rôle `ping me please`, même s'il s'agit d'une blague, ne doit pas être utilisé à tort et à travers. Veuillez utiliser des phrases complètes et le ping ou des phrases complètes et le ping dans le message suivant, et pas seulement le ping ou "hi `@ping me pls`".
 13. Vous êtes autorisé à envoyer un ping à un membre du staff si celui-ci vous a déjà fait un ping de rôle \(exception faite pour les pings de rôle `@I click everywhere ping me pls`\). Cette autorisation dure 24 heures après le ping du staff, et ne peut être utilisée qu'une seule fois par personne. N'en abusez pas.
 
-Si vous souhaitez discuter des règles, ou des actions d'un modérateur, vous pouvez le faire en public, sauf si le modérateur vous demande d'arrêter. De telles préoccupations peuvent également être amenées directement aux DM de Eyesofcreeper\#0001.
+Si vous souhaitez discuter des règles, ou des actions d'un modérateur, vous pouvez le faire en public, sauf si le modérateur vous demande d'arrêter. Vous pouvez aussi envoyer un DM à Eyesofcreeper\#0001 (Propriétaire du serveur).
 
 Nous sommes ouverts sur la façon dont nous modérons le serveur. Un journal de modération complet et non censuré \(qui contient toutes les actions qu'un modérateur peut faire sur le serveur\), est consultable par tout le monde sur le canal \#mod-log ou sur le site web de l'[Interface web GetBeaned](https://getbeaned.me/guilds/195260081036591104).
 
